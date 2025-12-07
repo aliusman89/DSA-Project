@@ -1,0 +1,1956 @@
+{
+    "paper_id": "00a4ee11b4159cbecab85bad69e650e3cc4a05c2",
+    "metadata": {
+        "title": "Comparison of VividTrac, King Vision and Macintosh laryngoscopes in normal and difficult airways during simulated cardiopulmonary resuscitation among novices",
+        "authors": [
+            {
+                "first": "D\u00f3",
+                "middle": [],
+                "last": "Ra",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Keresztes",
+                "middle": [],
+                "last": "Id",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of P\u00e9 cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": "keresztesdora87@gmail.com"
+            },
+            {
+                "first": "\u00c1",
+                "middle": [],
+                "last": "Kos M\u00e9 Rei",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of P\u00e9 cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Martin",
+                "middle": [],
+                "last": "Rozanovic",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Medical Skills Lab",
+                    "institution": "University of P\u00e9cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Edina",
+                "middle": [],
+                "last": "Nagy",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of P\u00e9 cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Zolt\u00e1",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kov\u00e1",
+                "middle": [],
+                "last": "Cs-\u00c1 Brah\u00e1 M",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of P\u00e9 cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "J\u00e1",
+                "middle": [],
+                "last": "Nos Ol\u00e1 H",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of P\u00e9 cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mar\u00f3",
+                "middle": [],
+                "last": "Ti Id",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Medical Skills Lab",
+                    "institution": "University of P\u00e9cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Szil\u00e1",
+                "middle": [],
+                "last": "Rd Rendeki",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of P\u00e9 cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "B\u00e1",
+                "middle": [],
+                "last": "Lint Nagy Id",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of P\u00e9 cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "G\u00e1",
+                "middle": [],
+                "last": "Bor Woth",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of P\u00e9 cs",
+                    "location": {
+                        "settlement": "P\u00e9cs",
+                        "country": "Hungary"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Early endotracheal intubation improves neurological outcomes in cardiopulmonary resuscitation, although cardiopulmonary resuscitation is initially carried out by personnel with limited experience in a significant proportion of cases. Videolaryngoscopes might decrease the number of attempts and time needed, especially among novices. We sought to compare videolaryngoscopes with direct laryngoscopes in simulated cardiopulmonary resuscitation scenarios.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Forty-four medical students were recruited to serve as novice users. Following brief, standardized training, students executed endotracheal intubation with the King Vision \u00ae , Macintosh and VividTrac \u00ae laryngoscopes, on a cardiopulmonary resuscitation trainer in normal and difficult airway scenarios. We evaluated the time to and proportion of successful intubation, the best view of the glottis, esophageal intubation, dental trauma and user satisfaction.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Airway management is a key intervention in every resuscitation attempt [1] . Tracheal intubation enables continuous, uninterrupted chest compressions with ventilation, and prevents gastric insufflation and gastric content aspiration into the lungs [2] . Additionally, Schuppen et al. reported that tracheal intubation reduces air leakage and improves patient safety during transport by reducing the probability of airway dislodgement [1] . However, in most cases, continuous chest compressions must be halted for the duration of the intubation attempt, which results in deterioration of the coronary blood flow and therefore decreases the effectiveness of cardiopulmonary resuscitation (CPR) [3] . Currently, the accepted gold standard device for endotracheal intubation (aside from coronavirus 2019 disease (COVID-19) infection-related case management) is the Macintosh-type bladed direct laryngoscope (DL) [4] . A critical point of the DL is the proper alignment of the vocal cords, oropharynx and oral cavity-mouth, which should be in a straight continuous line, allowing the insertion of the cuffed endotracheal tube [5] . A common maneuver to achieve the mentioned position is head-tilt manipulation, which cannot be used in situations of a probable or suspected cervical spine injury. To circumvent this and other airway management-related problems, various models of videolaryngoscopes (VLs) have been developed in recent years. These devices do not necessitate the alignment of airway-related structures and utilize a fiber-optic or optical lens system to provide airway visibility. Due to recent developments, one might observe an increase in the use of VLs with tubeguiding equipment [4] [5] [6] . According to recent literature, the use of VLs instead of DLs might improve the rate of intubation success on the first attempt among users with scarce experience using DLs or VLs [7] [8] [9] [10] [11] . In the hands of more experienced users, benefits have been observed, including a shorter duration of chest compression interruption [12] .",
+            "cite_spans": [
+                {
+                    "start": 71,
+                    "end": 74,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 248,
+                    "end": 251,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 434,
+                    "end": 437,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 692,
+                    "end": 695,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 908,
+                    "end": 911,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1121,
+                    "end": 1124,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1694,
+                    "end": 1697,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1698,
+                    "end": 1701,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1702,
+                    "end": 1705,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1888,
+                    "end": 1891,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1892,
+                    "end": 1895,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1896,
+                    "end": 1899,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1900,
+                    "end": 1904,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1905,
+                    "end": 1909,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 2044,
+                    "end": 2048,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The early successes of VLs has led to a broad diversity of available devices with different shapes, forms and sizes, but the effect of these differences on intubation success is not yet completely clear [6, 10, [13] [14] [15] [16] [17] .",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 206,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 207,
+                    "end": 210,
+                    "text": "10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 211,
+                    "end": 215,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 216,
+                    "end": 220,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 221,
+                    "end": 225,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 226,
+                    "end": 230,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 231,
+                    "end": 235,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Considering the abovementioned data, our research group aimed to assess the effectiveness of DLs and various VLs in the hands of nonprofessional airway providers during simulated resuscitation situations. In emergency situations, airway management isoften performed by a less experienced physician, particularly undersuboptimal conditions [8] . Considering, that the first-attempt intubation success rate varies widely across VLs, our goal was to identify a device that is capable of supporting a successful first intubation attempt for novice users. In the era of COVID-19, the use of VLs has become a priority. In resuscitation, early intubation with a cuffed endotracheal tube is recommended to decrease the chance of COVID-19 transmission [18] . According to the most recent European Resuscitation Council (ERC) guidelines, if an advanced airway is required during resuscitation, only rescuers with a high endotracheal intubation success rate (95% within two attempts) should attempt endotracheal intubation [19] . For the sake of proper transmission prevention, single-use VLs with standalone monitors are recommended. These devices could sufficiently increase the distance between the provider and the airway of the patient. Although the VividTrac 1 has not yet been evaluated in resuscitation scenarios, it completely fulfils the abovementioned criteria and has shown promising results [18, 20] . Therefore, our aim was to evaluate the performance of novices with the Vivid-Trac 1 in standardized and safe resuscitation scenarios compared with the DL and King Vision 1 .",
+            "cite_spans": [
+                {
+                    "start": 339,
+                    "end": 342,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 743,
+                    "end": 747,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1012,
+                    "end": 1016,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1254,
+                    "end": 1255,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1393,
+                    "end": 1397,
+                    "text": "[18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1398,
+                    "end": 1401,
+                    "text": "20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Our primary outcome was the rate of successful intubation, determined according to the most recent ERC guidelines of a >95% success rate within two attempts [19] .",
+            "cite_spans": [
+                {
+                    "start": 157,
+                    "end": 161,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The study was carried out with the prior permission of the Institutional Scientific and Human Research Ethics Committee of the University of P\u00e9cs (7176 -PTE 2018). The investigation was performed at the Medical Skills Lab of the University of P\u00e9cs Medical School, Hungary. Based on our previous study, we defined both the devices to be examined and the required minimum sample size [20] . All participants provided written consent prior to the study. Participation in the study was voluntary and the participants were free to withdraw consent any time. Based on the results of our previous similar study, the following laryngoscopes were selected for evaluation [20] : the Macintosh bladed DL, size 4, (KaWe 1 , Asperg, Germany); (b) the VividTrac 1 with an adult channeled hyperangulated blade (Vivid Medical, Palo Alto, USA); and the King Vision 1 with a size 3 channeled standard blade (Ambu, Copenhagen, Denmark). To allow an ideal picture size for the provider, the VividTrac 1 was connected to a 13.3\" thin-film transistor screen panel. Since resuscitation itself increases the difficulty of airway management and we mainly aimed to compare the VividTrac 1 to the gold standard DL, we performed calculations based on the \"scenario B\" intubation times of the VividTrac 1 (mean: 13.66 seconds) and the DL (mean: 20.93 seconds) [20] . With an enrollment ratio of 1:1, \u03b1 = 0.05 and \u03b2 = 0.1 we estimated a minimum sample size of 29. In total, we included 44 participants. As nonprofessionals without broad intubation experience, medical students were invited to participate in our study. Novice users took part in a 15-minute training sessions supervised by a consulting anesthesiologist and experienced investigators. During practice, participants acquired manual skills and theoretical knowledge regarding the use of each laryngoscope in the normal airway scenario (scenario A) and in the difficult airway scenario (scenario B). The utilization of optimization maneuvers, the use of a bougie, and the estimation of the percentage of glottic opening (POGO) score were also explained and practiced. Their attention was drawn to the mechanism and the relevance of dental injuries. Airway training was carried out on the Laerdal 1 Airway Management Trainer (Laerdal 1 , Stavanger, Norway). The study was performed using an Advanced Life Support (ALS) simulator (Ambu 1 Man Advanced) during continuous chest compressions performed by one of the study supervisors. Both the frequency and depth of chest compressions were in accordance with the protocol. This was verified by the provided Ambu 1 ALS monitoring program. The simulator mannequin was placed in a hospital ward bed to simulate the challenge of a potentially moving a patient's body during CPR. Two airway management scenarios were assessed: \"in scenario A\", during continuous chest compressions, head tilting was allowed in \"scenario B\", the cervical spine was immobilized with manual in-line stabilization (MILS) according to the Advanced Trauma Life Support algorithm. Each endotracheal intubation attempt was performed with a standard, cuffed, plastic, endotracheal tube 7.0 mm in internal diameter (Mallinckrodt 1 , Covidien, Dublin, Ireland). Participants were asked to perform intubation with each device in both scenarios in a random order. Randomization was performed by the closed envelope method, and participants selected the order immediately before the scenarios. The primary endpoint was successful endotracheal intubation. Additional endpoints included the number of intubation attempts, laryngoscopy time, tube insertion time, and intubation time; furthermore, the best achieved POGO was determined. We recorded esophageal intubation, dental injury, and bougie use. The laryngoscopy time was defined from when the laryngoscope blade passed through the interdental line until the achievement of the best POGO indicated by the beginning of tube manipulation. The intubation time ranged from the passage of the tube through the interdental line to successful intubation. The tube insertion time was defined as the difference between the exploration and intubation times. Attempt failure was defined as follows: the attempt took more than 120 seconds; the tube was removed from the oral cavity; or esophageal intubation occurred (recognized by the participant). Intubation failure was defined as 3 unsuccessful intubation attempts, failure of the participant to recognize esophageal intubation, or attempt resignation by the participant. The participant could not ask to for the chest compressions to be stopped during the intubation attempts.",
+            "cite_spans": [
+                {
+                    "start": 382,
+                    "end": 386,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 662,
+                    "end": 666,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1331,
+                    "end": 1335,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and methods"
+        },
+        {
+            "text": "After each scenario, we asked the participants to rate the device in the relevant scenario without ranking based on the ease of technical use (1 = easy, 5 = difficult), ease of physical use (1 = easy, 5 = difficult) and willingness to reuse (1 = would never use again, 5 = would like to use).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and methods"
+        },
+        {
+            "text": "Analyses were conducted using Statistical Package for the Social Sciences (SPSS) Statistics software, version 22.0 (IBM Corporation, Armonk, NY, USA). Continuous and ordinal data are presented as the median and interquartile range (IQR), while categorical data are presented as raw numbers and frequencies. Nonparametric tests were used since the data were not normally distributed, including the Kolmogorov-Smirnov and Shapiro-Wilk tests. The Kruskal-Wallis test by ranks (one-way ANOVA on ranks) with Dunn's post hoc test was used to assess pairwise differences between devices regarding the following variables: laryngoscopy time, tube insertion time, intubation time, POGO score, ease of technical use, ease of physical use and willingness to reuse. Chi-square tests were used to evaluate differences in categorical data among devices regarding the rate of successful tracheal intubation, esophageal intubation, dental injury, and bougie usage. Values of P < 0.05 were considered significant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "Data regarding \"scenario A\" are shown in detail in Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 51,
+                    "end": 58,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "We did not register unsuccessful intubation in \"scenario A\". The rate of success within two attempts was 86.4%, 93.2% and 95.5% using the DL, King Vision 1 and VividTrac 1 , respectively. There were no significant differences in the number of intubation attempts or the best POGO score achieved. The King Vision 1 was faster regarding the tube insertion time than the VividTrac 1 (P < 0.05). The King Vision 1 was superior to the VividTrac 1 and DL in terms of the intubation time. There were no significant differences in the laryngoscopy time and tube insertion time between the VLs and DL. The participants recognized all cases of esophageal intubation. The incidence of esophageal intubation and bougie use was higher with the DL (P < 0.05). Overall, only one dental injury occurred in this scenario. The score of neither the ease of use nor the willingness to reuse was significantly different among the devices.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Data regarding \"scenario B\" are shown in detail in Table 2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 51,
+                    "end": 58,
+                    "text": "Table 2",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "We did not register unsuccessful intubation in \"scenario B\". The rate of success within two attempts was 88.6%, 97.7% and 84.1% using the DL, King Vision 1 and VividTrac 1 , respectively. There were no significant differences in the number of intubation attempts or the best POGO score achieved. The laryngoscopy time was shorter with the VividTrac 1 than the King Vision 1 and DL (P < 0.05), but the King Vision 1 was superior to the VividTrac 1 and DL in terms of the tube insertion time. There were no significant differences in the intubation time among the devices. The VividTrac 1 received a better ease of physical use score than the DL (P < 0.05) and King Vision 1 , but the scores for the ease of technical use and willingness to reuse were similar. Dental injury did not occur. The incidence of esophageal intubation and bougie use was higher with the DL (P < 0.05). The participants recognized all cases of esophageal intubation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "17 \u00b6 \u2020 0 \ufffd 0 \ufffd Dental injury (n) 0 0 0 Esophageal intubation (n) 7 \u00b6 \u2020 0 \ufffd 0 \ufffd Data",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Use of bougie (n)"
+        },
+        {
+            "text": "Before detailed discussion of our results, the following limitations should be considered. All data were obtained from a monocentric mannequin study in which interventions were performed by medical students. The mannequin model may not precisely reproduce the intubation and resuscitation conditions of real patients. The time gap between the training and evaluation phases of the study was thirty minutes; therefore, the transferability of our findings into clinical practice is questionable. The training and measurement took place on two different simulators. Participants' intubation skills on the ALS simulator probably improved from scenario A to scenario B. Furthermore, dental trauma was assessed in a \"yes\" or \"no\" fashion, regardless of the exact number of \"clicks\" experienced during the attempts. MILS could decrease the effect of CPR on head and laryngeal structure movement and thus might affect differences between scenario A and B regarding airway difficulty. The success of CPR is highly dependent on the effectiveness of chest compressions and their necessary interruptions. A longer chest compression interruption would deteriorate the overall CPR outcome [3] . In the hands of unexperienced providers, a DL would result in longer compression interruptions and multiple intubation attempts [9] . The use of a VL improved the Cormack-Lehane classification of the laryngoscopic view and decreased the number of intubation attempts in these scenarios [13, 21] . Our study assessed the effectiveness of the King Vision 1 and VividTrac 1 during intubation by unexperienced users in a simulated reanimation situation. Previous studies have concluded that the type of laryngoscope used for intubation during CPR is not a significant factor of success among experienced users [11] . The recent literature is inconclusive regarding this question, as some former data have suggested that certain VLs are more suitable in this scenario, while other publications have reported no differences in benefits among different equipment [8, 10, 22] .",
+            "cite_spans": [
+                {
+                    "start": 1175,
+                    "end": 1178,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1309,
+                    "end": 1312,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1467,
+                    "end": 1471,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1472,
+                    "end": 1475,
+                    "text": "21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1787,
+                    "end": 1791,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 2037,
+                    "end": 2040,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 2041,
+                    "end": 2044,
+                    "text": "10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 2045,
+                    "end": 2048,
+                    "text": "22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The selected VLs have not been previously assessed. According to data in the literature, with using a DL, approximately 5.8% of cases are difficult airway cases, while during emergency situations (including CPR), 14.8% of cases are difficult [10] . In-line stabilization of the cervical spine can be used to simulate a difficult airway situation. All values for the LEMON criteria (mouth opening, modified Mallampati classification, and neck extension) worsen significantly after cervical collar application [23] . Literature regarding intubation by unexperienced providers in difficult airway situations during CPR are scarce, and the two VLs assessed herein have not been assessed in these scenarios before. According to our criteria, we did not register a failed intubation attempt with any device in any scenario. However, an acceptable success rate according to the most recent ERC guidelines (>95% within two attempts) was only achieved using the VividTrac 1 in \"scenario A\" and the King Vision 1 in \"scenario B\". In concordance with Han et al., we found a significantly higher esophageal intubation rate with the DL than with the VLs [8] . We found no difference in the number of intubation attempts between the DL and each VL in the simulated CPR intubation environment. A study by Gaszynska et al. was unable to demonstrate a significant difference between the King Vision 1 and DL [22] , while other studies have found better success rates for particular VLs [7] [8] [9] [10] . In the case of a difficult airway, the difference is also notable among experienced users [17] . A significant difference was not found among the laryngoscopes in the normal airway situation, while the VividTrac 1 yielded a significantly shorter laryngoscopy time than the other tools in the difficult airway situation. The King Vision 1 yielded a significantly shorter tube insertion time. Additionally, in \"scenario A\", the King Vision 1 yielded a shorter intubation time than the VividTrac 1 and DL. In \"scenario B\", no VL proved to be superior. Szarpak et al. and Han et al. formerly reported shorter laryngoscopy and intubation times with VLs than DLs [8, 17] , while there is controversy regarding the King Vision 1 compared to a DL [22] .",
+            "cite_spans": [
+                {
+                    "start": 242,
+                    "end": 246,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 508,
+                    "end": 512,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1141,
+                    "end": 1144,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1391,
+                    "end": 1395,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1469,
+                    "end": 1472,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1473,
+                    "end": 1476,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1477,
+                    "end": 1480,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1481,
+                    "end": 1485,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1578,
+                    "end": 1582,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 2145,
+                    "end": 2148,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 2149,
+                    "end": 2152,
+                    "text": "17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 2227,
+                    "end": 2231,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The benefit of VLs in the hands of experienced users is still questionable. Earlier studies provided evidence that the use of certain VLs comes with the benefit of significantly shorter intubation time, while others did not show improvement even in the hands of unexperienced providers compared to DLs. In the case of experienced providers, it is more difficult to provide evidence for the use of VLs. The main difficulty of DLs is proper alignment of the mouth-oropharynx-glottic opening [5, 24] . This procedure is not required during VL use; thus, former studies have reported better visualization results with VLs during CPR, independent of user experience [8, 11, 17] . In contrast, our results during constant chest compressions in both scenarios do not support this conclusion. While dental injury was not registered during the intubation attempts, the incidence of esophageal intubation was greater with the DL, which is in accordance with former results [9] [10] [11] . This might result from the possibility of visual checks during tube insertion with a VL [8] . The use of elastic tube guidance was significantly higher with the DL, although this might result from the fact that all VLs had tube-guiding sheaths.",
+            "cite_spans": [
+                {
+                    "start": 489,
+                    "end": 492,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 493,
+                    "end": 496,
+                    "text": "24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 661,
+                    "end": 664,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 665,
+                    "end": 668,
+                    "text": "11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 669,
+                    "end": 672,
+                    "text": "17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 963,
+                    "end": 966,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 967,
+                    "end": 971,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 972,
+                    "end": 976,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1067,
+                    "end": 1070,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our previous study demonstrated easier technical and physical use of VLs than DLs [20] . This result is in concordance with the findings reported by Han et al., who also conducted a CPR study under uninterrupted chest compressions [8] . In contrast to these findings, we noted a significant difference only between the DL and VividTrac 1 in \"scenario B\". In studies where the number of intubation attempts was lower and users found the use of a VL subjectively superior to that of a DL, an increased POGO score and lower incidence of intubationrelated complications were registered [8] . Currently, an increasing number of VLs have become available on the market however, their real benefit during emergency intubation situations is not completely clear. The significant heterogeneity of the studied patient populations and study approaches could be a cause of the differences in the results of VL effectiveness [25] . Additionally, the experience of the studied providers might play a key role in these discrepancies.",
+            "cite_spans": [
+                {
+                    "start": 82,
+                    "end": 86,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 231,
+                    "end": 234,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 582,
+                    "end": 585,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 912,
+                    "end": 916,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "All providers achieved successful intubation within three attempts in our study. While we found no device superior in any of our scenarios regarding the first-attempt success rate, the ERC criteria were met in the normal airway scenario only by the VividTrac 1 and in the difficult airway scenario only by the King Vision 1 . The King Vision 1 was superior to the Macintosh laryngoscope in terms of the intubation time in the normal airway scenario and noninferior in the difficult airway scenario among novice users. We noted significantly fewer instances of esophageal intubation by the VLs than the Macintosh laryngoscope in both scenarios. Based on our results, the KingVision 1 might be recommended over the VividTrac 1 and Macintosh laryngoscopes for further evaluation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Supporting information S1 Dataset. (XLSX) ",
+            "cite_spans": [
+                {
+                    "start": 35,
+                    "end": 41,
+                    "text": "(XLSX)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Optimizing airway management and ventilation during prehospital advanced life support in out-of-hospital cardiac arrest: A narrative review",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Van Schuppen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Boomars",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Kooij",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Den Tex",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Koster",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hollmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Best Pract Res Clin Anaesthesiol",
+            "volume": "35",
+            "issn": "",
+            "pages": "67--82",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bpa.2020.11.003"
+                ],
+                "PMID": [
+                    "33742579"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Airway and ventilation management during cardiopulmonary resuscitation and after successful resuscitation",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Newell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Grier",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Soar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Crit Care",
+            "volume": "22",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s13054-018-2121-y"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "European Resuscitation Council Guidelines for Resuscitation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Soar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Nolan",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "B\u00f6",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bw",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Perkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lott",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Carli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Resuscitation",
+            "volume": "95",
+            "issn": "",
+            "pages": "100--147",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.resuscitation.2015.07.016"
+                ],
+                "PMID": [
+                    "26477701"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Videolaryngoscopy as a new standard of care",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zaouter",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Calderon",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hemmerling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Br J Anaesth",
+            "volume": "114",
+            "issn": "",
+            "pages": "181--184",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bja/aeu266"
+                ],
+                "PMID": [
+                    "25150988"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Pioneers of laryngoscopy: indirect, direct and video laryngoscopy",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Pieters",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Eindhoven",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Acott",
+                    "suffix": ""
+                },
+                {
+                    "first": "Aaj",
+                    "middle": [],
+                    "last": "Van Zundert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Anaesth Intensive Care",
+            "volume": "43",
+            "issn": "",
+            "pages": "4--11",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0310057X150430S103"
+                ],
+                "PMID": [
+                    "26126070"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Review of video laryngoscopy and rigid fiberoptic laryngoscopy",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Pott",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Curr Opin Anaesthesiol",
+            "volume": "21",
+            "issn": "",
+            "pages": "750--758",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/ACO.0b013e3283184227"
+                ],
+                "PMID": [
+                    "18997526"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Video laryngoscopy versus direct laryngoscopy for tracheal intubation during in-hospital cardiopulmonary resuscitation",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "An",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Koh",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-M",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Resuscitation",
+            "volume": "89",
+            "issn": "",
+            "pages": "195--204",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.resuscitation.2014.11.030"
+                ],
+                "PMID": [
+                    "25541431"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Utility of the Pentax-AWS\u00ae without interruption of chest compression: Comparison of the Macintosh laryngoscope with the Pentax-AWS\u00ae in manikin model",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Shin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Resuscitation",
+            "volume": "81",
+            "issn": "",
+            "pages": "69--73",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.resuscitation.2009.09.031"
+                ],
+                "PMID": [
+                    "19919888"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Video laryngoscopy improves the firstattempt success in endotracheal intubation during cardiopulmonary resuscitation among novice physicians",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Na",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Resuscitation",
+            "volume": "89",
+            "issn": "",
+            "pages": "188--94",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.resuscitation.2014.12.010"
+                ],
+                "PMID": [
+                    "25541427"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Comparison of three types of laryngoscope for tracheal intubation during rhythmic chest compressions: A manikin study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Koyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Iwashita",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Okamoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Resuscitation",
+            "volume": "81",
+            "issn": "",
+            "pages": "1172--1176",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.resuscitation.2010.05.020"
+                ],
+                "PMID": [
+                    "20598426"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "C-MAC Video Laryngoscope versus Conventional Direct Laryngoscopy for Endotracheal Intubation During Cardiopulmonary Resuscitation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Min",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Medicina (B Aires)",
+            "volume": "55",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/medicina55060225"
+                ],
+                "PMID": [
+                    "31146497"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Video laryngoscopy vs. direct laryngoscopy: Which should be chosen for endotracheal intubation during cardiopulmonary resuscitation? A prospective randomized controlled study of experienced intubators",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Baek",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Resuscitation",
+            "volume": "105",
+            "issn": "",
+            "pages": "196--202",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.resuscitation.2016.04.003"
+                ],
+                "PMID": [
+                    "27095126"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Review article: Video-laryngoscopy: another tool for difficult intubation or a new paradigm in airway management?",
+            "authors": [
+                {
+                    "first": "J-B",
+                    "middle": [],
+                    "last": "Paolini",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Donati",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Drolet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Can J Anesth",
+            "volume": "60",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12630-012-9859-5"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The comparison of the technical parameters in endotracheal intubation devices: the Cmac, the Vividtrac, the McGrath Mac and the Kingvision",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cierniak",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Timler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wieczorek",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sekalski",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Borkowska",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gaszynski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Clin Monit Comput",
+            "volume": "30",
+            "issn": "",
+            "pages": "379--87",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10877-015-9727-2"
+                ],
+                "PMID": [
+                    "26120020"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "The video revolution: A new view of laryngoscopy",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hurford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Respir Care",
+            "volume": "55",
+            "issn": "",
+            "pages": "1036--1081",
+            "other_ids": {
+                "PMID": [
+                    "20667151"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Laryngoscopes for difficult airway scenarios: a comparison of the available devices",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Szarpak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Expert Rev Med Devices",
+            "volume": "15",
+            "issn": "",
+            "pages": "631--674",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/17434440.2018.1511423"
+                ],
+                "PMID": [
+                    "30099914"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Comparison of the UEScope videolaryngoscope with the Macintosh laryngoscope during simulated cardiopulmonary resuscitation",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Szarpak",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Madziala",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Czekajlo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Smereka",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kaserer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dabrowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Medicine (Baltimore)",
+            "volume": "97",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/MD.0000000000012085"
+                ],
+                "PMID": [
+                    "30200089"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Consensus guidelines for managing the airway in patients with COVID -19",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "El-Boghdadly",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mcguire",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Mcnarry",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Higgs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Anaesthesia",
+            "volume": "75",
+            "issn": "",
+            "pages": "785--99",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/anae.15054"
+                ],
+                "PMID": [
+                    "32221970"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "European Resuscitation Council Guidelines 2021: Executive summary",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Perkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-T",
+                    "middle": [],
+                    "last": "Gr\u00e4sner",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Semeraro",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Olasveengen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Soar",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Resuscitation",
+            "volume": "161",
+            "issn": "",
+            "pages": "1--60",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.resuscitation.2021.02.003"
+                ],
+                "PMID": [
+                    "33773824"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Comparison of VividTrac\u00ae, Airtraq\u00ae, King Vision\u00ae, Macintosh Laryngoscope and a Custom-Made Videolaryngoscope for difficult and normal airways in mannequins by novices",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rendeki",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Keresztes",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Woth",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "M\u00e9rei",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rozanovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rendeki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMC Anesthesiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12871-017-0313-7"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Video-laryngoscopy versus direct laryngoscopy in critically ill patients: a pilot randomized trial",
+            "authors": [
+                {
+                    "first": "Deg",
+                    "middle": [],
+                    "last": "Griesdale",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chau",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Isac",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ayas",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Foster",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Irwin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Can J Anesth",
+            "volume": "59",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12630-012-9775-8"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Endotracheal Intubation Using the Macintosh Laryngoscope or KingVision Video Laryngoscope during Uninterrupted Chest Compression",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gaszynska",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gaszynski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Biomed Res Int",
+            "volume": "",
+            "issn": "",
+            "pages": "1--4",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Cervical collar makes difficult airway: a simulation study using the LEMON criteria",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yuk",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ko",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Clin Exp Emerg Med",
+            "volume": "5",
+            "issn": "",
+            "pages": "22--30",
+            "other_ids": {
+                "DOI": [
+                    "10.15441/ceem.16.185"
+                ],
+                "PMID": [
+                    "29618189"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Comparison of different video laryngoscopes for emergency intubation in a standardized airway manikin with immobilized cervical spine by experienced anaesthetists. A randomized, controlled crossover trial",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wetsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Spelten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hellmich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Carlitscheck",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Padosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Resuscitation",
+            "volume": "83",
+            "issn": "",
+            "pages": "740--745",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.resuscitation.2011.11.024"
+                ],
+                "PMID": [
+                    "22155448"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Videolaryngoscopy versus direct laryngoscopy for emergency orotracheal intubation outside the operating room: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Arulkumaran",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ions",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mendoza",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Dunser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Br J Anaesth",
+            "volume": "120",
+            "issn": "",
+            "pages": "712--736",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bja.2017.12.041"
+                ],
+                "PMID": [
+                    "29576112"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Results of \"Scenario B\".",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "are reported as the median [IQR] or as numbers (n).",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,1601 @@
+{
+    "paper_id": "00a384085839bacb0e07ea967ca537b7638c6e3a",
+    "metadata": {
+        "title": "Hypozincemia in COVID-19 Patients Correlates With Stronger Antibody Response",
+        "authors": [
+            {
+                "first": "Wenye",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Chinese University of Hong Kong",
+                    "location": {
+                        "settlement": "Hong Kong"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "\u2020",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yingzhi",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Chinese University of Hong Kong",
+                    "location": {
+                        "settlement": "Hong Kong"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xuan",
+                "middle": [],
+                "last": "Zou",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Huanle",
+                "middle": [],
+                "last": "Luo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sun Yet-Sen University",
+                    "location": {
+                        "settlement": "Shenzhen",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Weihua",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Junjie",
+                "middle": [],
+                "last": "Xia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Matthew",
+                "middle": [
+                    "T V"
+                ],
+                "last": "Chan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Chinese University of Hong Kong",
+                    "location": {
+                        "settlement": "Hong Kong"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shisong",
+                "middle": [],
+                "last": "Fang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yuelong",
+                "middle": [],
+                "last": "Shu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Key Laboratory of Tropical Disease Control",
+                    "institution": "Sun Yat-sen University",
+                    "location": {
+                        "settlement": "Guangzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "William",
+                "middle": [
+                    "K K"
+                ],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Chinese University of Hong Kong",
+                    "location": {
+                        "settlement": "Hong Kong"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lin",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Chinese University of Hong Kong",
+                    "location": {
+                        "settlement": "Hong Kong"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Zinc ion as an enzyme cofactor exhibits antiviral and anti-inflammatory activity during infection, but circulating zinc ion level during Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) infection is unclear. This study aimed to evaluate serum zinc ion level in Coronavirus Disease 2019 (COVID-19) patients and healthy subjects, as well as its correlation with antibodies against SARS-CoV-2. 114 COVID-19 patients and 48 healthy subjects (38 healthy volunteers and 10 close contacts of patients with COVID-19) were included. Zinc ion concentration and levels of antibodies against SARS-CoV-2 Spike 1 + Spike 2 proteins, nucleocapsid protein, and receptorbinding domain in serum were measured. Results showed that the concentration of zinc ion in serum from COVID-19 patients [median: 6.4 nmol/mL (IQR 1.5 -12.0 nmol/mL)] were significantly lower than that from the healthy subjects [median: 15.0 nmol/mL (IQR 11.9 -18.8 nmol/mL)] (p < 0.001) and the difference remained significant after age stratification (p < 0.001) or when the patients were at the recovery stage (p < 0.001). Furthermore, COVID-19 patients with more severe hypozincemia showed higher levels of IgG against the receptor-binding domain of SARS-CoV-2 spike protein. Further studies to confirm the effect of zinc supplementation on improving the outcomes of COVID-19, including antibody response against SARS-CoV-2, are warranted.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Therapeutic options for Coronavirus Disease 2019 are currently limited. Zinc as an enzyme cofactor has been shown to preserve respiratory epithelium, prevent pathogen entry and modulate the antiviral and inflammatory responses (1) . Recently, the MATH+ protocol formulated by the Frontline COVID-19 Critical Care Alliance incorporated zinc supplementation as an optional co-intervention for all hospitalized COVID-19 patients (2) . Anecdotal evidence also suggests treatment with high-dose zinc salt might improve outcomes of COVID-19 patients (3) . However, the role of zinc levels in modulating on the immune response against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in COVID-19 patients is so far unclear.",
+            "cite_spans": [
+                {
+                    "start": 227,
+                    "end": 230,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 426,
+                    "end": 429,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 544,
+                    "end": 547,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Herein, we conducted a retrospective study to analyze the serum zinc ion concentration in 162 blood specimens collected from 114 COVID-19 patients and 48 healthy subjects and its correlation with the immune response profile.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "We included 114 COVID-19 patients that were tested positive for SARS-CoV-2 in throat swabs, based on real-time reverse transcription (RT)-polymerase chain reaction (PCR) according to a standard protocol (4). Among them, 50 patients underwent serum antibody level measurement [23 samples collected from the acute phase (Day 7 to day 21) and 27 samples from the late phase (after day 21) ]. We also included 48 subjects that were healthy volunteers (n = 38) or close contacts of COVID-19 patients (n = 10). These control subjects were asymptomatic and tested negative for SARS-CoV-2 by IgG, IgM, and real-time reverse transcription-PCR. Serum samples from COVID-19 patients were collected at the median time from symptom onset of 12 days (IQR 7-19.25 days). This work was done to support an ongoing public health response and data collection is part of the continuing public health investigation of an emerging outbreak and therefore the individual informed consent was waived (5) . The study was approved by the ethics committee of the Shenzhen Center for Disease Control and Prevention (CDC).",
+            "cite_spans": [
+                {
+                    "start": 382,
+                    "end": 385,
+                    "text": "21)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 975,
+                    "end": 978,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Patient Recruitment"
+        },
+        {
+            "text": "We collected the patient details and clinical outcomes through reviewing patient medical records. All data were recorded on a specifically designed data collection form. To ensure the data accuracy, two researchers independently reviewed the clinical notes and laboratory results. Disagreements were resolved by consensus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Data Collection"
+        },
+        {
+            "text": "Blood samples were collected during the hospital stay and after discharge as clinically indicated. Whole blood samples were allowed to set at 4\u00b0C for 60 minutes. After centrifuging at 1,500\u00d7 g for 10 minutes, the supernatant was collected and stored at -30\u00b0C until assay. Serum concentrations of zinc ion were measured using a commercially available zinc ion quantification kit (ab102507; Abcam) according to the manufacturer's instructions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Determination of Amount of Zinc Ion in Serum"
+        },
+        {
+            "text": "Enzyme-linked immunosorbent assays (ELISA) from Sino Biological Inc company were applied to detect SARS-CoV-2 antibodies isotypes including IgA, IgG, and IgM against the spike protein (S), the nucleocapsid protein (NP), and the receptor binding domain (RBD) in serum. 96-well EIA plates were coated with S1+S2, NP or RBD separately overnight at 4\u00b0C following by blockade with 200 ml/well of 2% Bovine Serum Albumin (Sigma-Aldrich, USA) in phosphate-buffered saline solution with 0.05% Tween \u2122 20 (PBST) overnight at 4\u00b0C. Serum samples were diluted in ten-fold dilutions with blocking buffer and 100 ml/well of samples were then added to the plates and incubated for two hours at room temperature (RT). Then, plates were washed three times with PBST and added with HRP-labeled goat anti-human IgA, IgG, IgM (Abcam, UK) or horseradish peroxidase-labelled mouse antihuman IgG1-4 (Southern Biotech, USA). After incubation at RT for one hour, plates were incubated with 3,3\u2032,5,5\u2032tetramethylbenzidine (Solarbio, China) for 25 min at RT after washing six times. The reaction was stopped with the ELISA stop solution (Solarbio, China). Then the OD 450 was read on BioTek (Synergy HTX, USA). Serum sample FS B26 with strong neutralization activity in micro-neutralization assay kindly provided by the Guangdong Provincial CDC diluted in ten-fold dilutions was set as a positive control on every ELISA plate to normalize all the detected values on different plates (6).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SARS-CoV-2 Antibody Measurements"
+        },
+        {
+            "text": "Data were expressed as median and interquartile range (IQR) or range and counts with percentages, as appropriate. Differences in serum zinc ion levels between COVID-19 patients and healthy subjects were compared using Wilcoxon test. Spearman's ranksum correlation coefficient was used to determine the correlation between serum zinc ion concentrations and antibody levels against SARS-CoV-2 S1+S2, NP and RBD.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistics"
+        },
+        {
+            "text": "Among 114 COVID-19 patients, 54 subjects (47%) were male and the median age was 49.5 (IQR:35 -61) years. For the healthy subjects, consisted of 38 healthy volunteers and 10 close contacts of patients with COVID-19 in this cohort, 25 subjects were male and the median age was 39 (IQR:30-47.25) years. The serum zinc ion concentration in COVID-19 patients [median: 6.4 nmol/mL (IQR 1.5 -12.0 nmol/mL)] was significantly lower than that in the healthy subjects [median: 15.0 nmol/mL (IQR 11.9 -18.8 nmol/ mL)] (p < 0.001) ( Figure 1A) . This difference remained significant after age stratification (p < 0.001) (Figures 1B, C) . There was, however, no correlation between zinc ion concentration and disease severity ( Figure 1D) . Furthermore, the zinc ion concentration of COVID-19 patients at the stage of recovery was still significantly lower than that of the healthy subjects (p < 0.001) ( Figure 1E) . Most of the determined antibodies against SARS-CoV-2 exhibited negative correlations with zinc ion level (Supplementary Figure 1) , yet only the anti-SARS-CoV-2 receptor RBD IgG reached statistical significance (Figure 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 521,
+                    "end": 531,
+                    "text": "Figure 1A)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 608,
+                    "end": 623,
+                    "text": "(Figures 1B, C)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 715,
+                    "end": 725,
+                    "text": "Figure 1D)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 892,
+                    "end": 902,
+                    "text": "Figure 1E)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1025,
+                    "end": 1034,
+                    "text": "Figure 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1116,
+                    "end": 1125,
+                    "text": "(Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Our study shows that patients with COVID-19 had a significantly lower serum zinc ion concentration than healthy individuals. Despite the lack of evidence on the direct effect of zinc ion on SARS-CoV-2, its antiviral effects have been demonstrated in various viral infections (7) . As an antiviral nutrient, zinc ion was reported to be able to inhibit replication of rhinoviruses, respiratory syncytial virus (8, 9) , picornavirus (10) , and the RNA polymerase activity of SARS-associated coronavirus and equine arteritis virus (11) . Similar to our finding, hypozincemia was reported in paediatric patients with severe pneumonia or Dengue viral infection (12, 13) . Given that serum zinc accounts for only 0.1% of the body's total zinc amount (14) , it is likely that an altered zinc distribution between the intracellular pool and the circulation during infection might explain the observed hypozincemia. In this connection, interleukin-6-mediated induction of Zip14/ SLC39A14 is known to mediate the uptake of zinc into the liver during acute inflammation and infection, which is believed to be host defensive (15) . However, the exact function of altered zinc distribution remains uncertain.",
+            "cite_spans": [
+                {
+                    "start": 275,
+                    "end": 278,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 408,
+                    "end": 411,
+                    "text": "(8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 412,
+                    "end": 414,
+                    "text": "9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 430,
+                    "end": 434,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 527,
+                    "end": 531,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 655,
+                    "end": 659,
+                    "text": "(12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 660,
+                    "end": 663,
+                    "text": "13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 743,
+                    "end": 747,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1112,
+                    "end": 1116,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The most notable finding of the present study is that COVID-19 patients with lower serum zinc ion concentration exhibited stronger antibody response against SARS-CoV-2, particularly, the RBD. The SARS-CoV-2 RBD was reported to have strong binding affinity to the host angiotensin-converting enzyme 2 (ACE2) which mediates the viral entry (16, 17) . One possibility is that patients with stronger antibody response had higher extent of B cell activation and expansion. In this connection, the uptake of transferrin-bound zinc has been shown to be stimulated in human lymphocytes upon activation (18) . Nevertheless, the effect of zinc ion on antibody response, especially in the context of vaccination, is controversial. It was demonstrated that supplementation with zinc is associated with improvement of seroconversion to vibriocidal antibody in 2-5-year-old children receiving cholera vaccine (19) and is able to boost higher levels of anti-HBs titers in infant receiving hepatitis B vaccination (20) . However, previous studies also showed that zinc supplementation could not promote immunogenicity of rotavirus vaccine (21) or enhance antibody response to multivalent influenza vaccine in hemodialysis patients (22) .",
+            "cite_spans": [
+                {
+                    "start": 338,
+                    "end": 342,
+                    "text": "(16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 343,
+                    "end": 346,
+                    "text": "17)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 594,
+                    "end": 598,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 895,
+                    "end": 899,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 998,
+                    "end": 1002,
+                    "text": "(20)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1123,
+                    "end": 1127,
+                    "text": "(21)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1215,
+                    "end": 1219,
+                    "text": "(22)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "A second remarkable finding of this study is that hypozincemia among COVID-19 patients did not resolve even they were at the stage of recovery, suggesting that COVID-19associated hypozincemia is not transient. This is reminiscent of the emerging \"long COVID\", in which symptoms such as fatigue, dyspnea and cardiac abnormalities can persist long after the acute phase of infection (23) . The pathogenic mechanism underlying the persistent hypozincemia and its relationship with other abnormalities observed in patients with long COVID require further investigation.",
+            "cite_spans": [
+                {
+                    "start": 381,
+                    "end": 385,
+                    "text": "(23)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Finally, another key finding is that all COVID-19 patients having mild, moderate and severe disease manifestation had a similar extent of hypozincemia. This is inconsistent with two previous studies revealing the association between low serum zinc ion concentrations and severe COVID-19 (24, 25) . Nevertheless, it is worthwhile to note that the post-infectious serum concentration of zinc ion depends on both the premorbid zinc level and the host hypozincemic response during infection. Therefore, the prevalence of zinc deficiency in different geographical regions could affect how the finding is interpreted.",
+            "cite_spans": [
+                {
+                    "start": 287,
+                    "end": 291,
+                    "text": "(24,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 292,
+                    "end": 295,
+                    "text": "25)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In summary, COVID-19 patients had significantly lower serum zinc ion concentrations than healthy individuals. A higher extent of hypozincemia was also associated with a stronger antibody response against SARS-CoV-2 RBD. Our study has several limitations. First, we do not have comparable numbers of healthy control subjects and COVID-19 patients. Second, the mechanism underlying the association between low zinc ion concentrations and high anti-SARS-CoV2 RBD IgG levels remains uncertain.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "We cannot rule out the possibility that both were commonly caused by higher viral load. Last but not least, the promulgation that zinc supplementation could be of benefit for the treatment of COVID-19 awaits confirmation by randomized clinical trials.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DATA AVAILABILITY STATEMENT"
+        },
+        {
+            "text": "The studies involving human participants were reviewed and approved by ethics committee of the Shenzhen Center for Disease Control and Prevention. Written informed consent for participation was not required for this study in accordance with the national legislation and the institutional requirements.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ETHICS STATEMENT"
+        },
+        {
+            "text": "LZ, WKKW and MTVC made substantial contribution to the conception, design of the work and interpretation of data. WYX, YZL and HLL carried out serology testing and analysis. LZ, WKKW, WYX, YZL and MTVC wrote the manuscript with input from all co-authors. SSF, XZ, and YLS contributed on the samples collection and manuscript revision. All authors contributed to the article and approved the submitted version.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AUTHOR CONTRIBUTIONS"
+        },
+        {
+            "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fimmu.2021.785599/ full#supplementary-material.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SUPPLEMENTARY MATERIAL"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Zinc in Infection and Inflammation",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Gammoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rink",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nutrients",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/nu9060624"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "MATH+ Protocol for the Treatment of SARS-CoV-2 Infection: The Scientific Rationale",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Marik",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kory",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Varon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Iglesias",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Meduri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Expert Rev Anti Infect Ther",
+            "volume": "19",
+            "issn": "",
+            "pages": "129--164",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/14787210.2020.1808462"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Treatment of SARS-CoV-2 With High Dose Oral Zinc Salts: A Report on Four Patients",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Finzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis",
+            "volume": "99",
+            "issn": "",
+            "pages": "307--316",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2020.06.006"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "World Health Organization. Laboratory Testing for Coronavirus Disease (COVID-19) in Suspected Human Cases: Interim Guidance",
+            "authors": [],
+            "year": 2020,
+            "venue": "Geneva: World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Epidemiology and Transmission of COVID-19 in 391 Cases and 1286 of Their Close Contacts in Shenzhen, China: A Retrospective Cohort Study",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Bi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "911--920",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s1473-3099(20)30287-5"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The Characterization of Disease Severity Associated IgG Subclasses Response in COVID-19 Patients",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Front Immunol",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fimmu.2021.632814"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "The Potential Impact of Zinc Supplementation on COVID-19",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Wessels",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rolles",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rink",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Pathogenesis. Front Immunol",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fimmu.2020.01712"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Zinc Ions Inhibit Replication of Rhinoviruses",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Korant",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Butterworth",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Nature",
+            "volume": "248",
+            "issn": "",
+            "pages": "588--90",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/248588a0"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Effect of Zinc Salts on Respiratory Syncytial Virus Replication",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Suara",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Crowe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Antimicrob Agents Chemother",
+            "volume": "48",
+            "issn": "",
+            "pages": "783--90",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.48.3.783-790.2004"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Antiviral Activity of the Zinc Ionophores Pyrithione and Hinokitiol Against Picornavirus Infections",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Krenn",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gaudernak",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Holzer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lanke",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Van Kuppeveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Seipelt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Virol",
+            "volume": "83",
+            "issn": "",
+            "pages": "58--64",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01543-08"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Zn(2+) Inhibits Coronavirus and Arterivirus RNA Polymerase Activity In Vitro and Zinc Ionophores Block the Replication of These Viruses in Cell Culture",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Velthuis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Van Den Worm",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Van Hemert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PloS Pathog",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1001176"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Low Serum Zinc Level: The Relationship With Severe Pneumonia and Survival in Critically Ill Children",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Saleh",
+                    "suffix": ""
+                },
+                {
+                    "first": "Abo",
+                    "middle": [
+                        "El"
+                    ],
+                    "last": "Fotoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wmm",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Int J Clin Pract",
+            "volume": "72",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/ijcp.13211"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Zinc Deficiency in Children With Dengue Viral Infection",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rerksuppaphol",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rerksuppaphol",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Pediatr Rep",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.4081/pr.2019.7386"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The Role of Zinc in Antiviral Immunity",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Read",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Obeid",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ahlenstiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ahlenstiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Adv Nutr",
+            "volume": "10",
+            "issn": "",
+            "pages": "696--710",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/advances/nmz013"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Interleukin-6 Regulates the Zinc Transporter Zip14 in Liver and Contributes to the Hypozincemia of the Acute-Phase Response",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Liuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lichten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rivera",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Blanchard",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Aydemir",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Knutson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "102",
+            "issn": "",
+            "pages": "6843--6851",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0502257102"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Characterization of the Receptor-Binding Domain (RBD) of 2019 Novel Coronavirus: Implication for Development of RBD Protein as a Viral Attachment Inhibitor and Vaccine",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Tai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Voronin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Mol Immunol",
+            "volume": "17",
+            "issn": "",
+            "pages": "613--633",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41423-020-0400-4"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Structural Basis of Receptor Recognition by SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Aihara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "581",
+            "issn": "",
+            "pages": "221--225",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2179-y"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Uptake of Transferrin-Bound Zinc by Human Lymphocytes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Phillips",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Cell Immunol",
+            "volume": "35",
+            "issn": "",
+            "pages": "318--347",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0008-8749(78)90152-1"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Supplementation With Zinc",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Albert",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Qadri",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wahed",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rahman",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ahmed",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Improves Seroconversion",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Vibriocidal Antibody in Children Given an Oral Cholera Vaccine",
+            "authors": [],
+            "year": 2003,
+            "venue": "J Infect Dis",
+            "volume": "187",
+            "issn": "",
+            "pages": "909--922",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/368132"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The Role of Zinc Supplementation in Humoral Immune Response to Hepatitis B Vaccination in Infants: A Double-Blind Randomized Placebo-Controlled Trial",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Suarca",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hendra",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Arhana",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Suandi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Paediatrica Indonesiana",
+            "volume": "48",
+            "issn": "",
+            "pages": "374--80",
+            "other_ids": {
+                "DOI": [
+                    "10.14238/pi48.6.2008.374-80"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The Effect of Probiotics and Zinc Supplementation on the Immune Response to Oral Rotavirus Vaccine: A Randomized, Factorial Design, Placebo-Controlled Study Among Indian Infants",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Lazarus",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "John",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Shanmugasundaram",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Rajan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Thiagarajan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Giri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Vaccine",
+            "volume": "36",
+            "issn": "",
+            "pages": "273--282",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2017.07.116"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Effects of Zinc Supplementation on the Immune System and on Antibody Response to Multivalent Influenza Vaccine in Hemodialysis Patients",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Turk",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bozfakioglu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Ecder",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kahraman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "G\u00fcrel",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Erkoc\u0327r",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Int J Artif Organs",
+            "volume": "21",
+            "issn": "",
+            "pages": "274--282",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/039139889802100508"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Long Covid-Mechanisms, Risk Factors, and Management",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Crook",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Raza",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nowell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "Edison",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "BMJ",
+            "volume": "374",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.n1648"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Low Zinc Levels at Admission Associates With Poor Clinical Outcomes in SARS-CoV-2 Infection",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vogel-Gonzalez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tallo-Parra",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Herrera-Ferna\u0144dez",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Pe\u0155ez-Vilaro\u0301g",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vogel-Gonzalez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vogel-Gonzalez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Nutrients",
+            "volume": "13",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/nu13020562"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Prediction of Survival Odds in COVID-19 by Zinc",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Heller",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hackler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Seelig",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Seibert",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cherkezov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Age and Selenoprotein P as Composite Biomarker. Redox Biol",
+            "volume": "38",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.redox.2020.101764"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Hypozincemia in patients with COVID-19. (A) Serum zinc ion concentrations in patients with COVID-19 (n = 114) were significantly lower than that in healthy subjects (n = 48). (B-D) The difference in serum zinc ion concentrations remained significant when the subjects were stratified by age or disease severity -(B) subjects < 50 years old; (C) subjects \u2265 50 years old; (D) COVID-19 patients with different severity classified by their need for oxygen therapy and ventilatory support; significantly different between the indicated groups by Wilcoxon test; (E) Serum zinc ion concentration in patients with COVID-19 at recovery stage (after discharge to the hospital) (n = 15) were significantly lower than that in healthy subjects (n = 48).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Correlation between serum zinc ion concentrations and anti-SARS-CoV-2 RBD IgG level for samples collected in the acute phase (day 7-21) (n = 23) and the late phase (after day 21) (n=27) from COVID-19 patients. The Spearman's rank-sum correlation coefficient and significance are shown. Shading represents 95% confidence intervals (CIs).",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Supplementary Figure 1 | Correlations between serum zinc ion concentrations and levels of antibodies against SARS-CoV-2 proteins. Correlations between serum zinc ion levels and anti-SARS-CoV-2 NP (A, D), RBD (B, E), S1+S2 protein (C, F) IgA, IgM and IgG, IgG1, IgG2, IgG3, IgG4 levels as well as neutralizing antibody (G) are shown. Samples were collected in the acute phase (day 7-21) (n=23) and the late phase (after day 21) (n=27) from COVID-19 patients. The Spearman's rank-sum correlation coefficient and significance are shown.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.Publisher's Note: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.Copyright \u00a9 2022 Xu, Liu, Zou, Luo, Wu, Xia, Chan, Fang, Shu, Wu and Zhang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of Interest:"
+        }
+    ]
+}

@@ -1,0 +1,531 @@
+{
+    "paper_id": "00e576dd01b0aff50466f95217c242e91db710c1",
+    "metadata": {
+        "title": "DiGA -A Chance for the German Healthcare System",
+        "authors": [
+            {
+                "first": "Sven",
+                "middle": [],
+                "last": "Sauermann",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Julia",
+                "middle": [],
+                "last": "Herzberg",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Solveig",
+                "middle": [],
+                "last": "Burkert",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Susanne",
+                "middle": [],
+                "last": "Habetha",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "A DiGA is a safe and data-protected interoperable medical device (officially called a \"digital health application\") of a low-risk class, which has the potential to improve the healthcare system in Germany for patients -with or without the involvement of a physician. It therefore already represents the first component of the envisaged future digitalised healthcare. In order not to promote the emergence of parallel healthcare markets (3 rd Healthcare Market), a rapid rethinking is necessary, above all among physicians requiring more expertise and competence regarding digitalisation. Continuing Medical Education (CME) can accompany and accelerate this process and thus contribute to the success of digital healthcare, which offers solutions to current challenges for the benefit of patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "ARTICLE HISTORY",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The topic of \"digitalisation of the healthcare system\" is currently still inconsistently evaluated. On the one hand, there are great opportunities to make the processes within healthcare more modern and effective in the future. Digitalisation can offer practical solutions for needs and quality-oriented, local treatment of patients [9] . Nevertheless, according to a survey on the website of the Journal of the German Medical Association (\"Deutsches \u00c4rzteblatt\"), 39.8% of the participants do not believe that the lives of people in Germany would be sustainably improved by digitalisation and 21% were undecided (33,687 participants in total between 03.09.2020 and 29.08.2021; 24.8% responded \"rather no\"; 15% \"no, in no way\") [10] . This coincides with another survey in physicians, published in the same journal, in which 63% of the respondents indicated a \"low\" or \"rather low\" willingness to prescribe DiGAs. Seventy per cent would not use digital health apps themselves and 63% of the respondents felt \"rather badly\" or \"badly\" informed about the DVG [11] . A recent survey of the Federal Association of Statutory Health Physicians (Kassen\u00e4rztliche Bundesvereinigung -KBV) has shown that video consultations would be used by 50% of the patients, with geographical variation between urban and rural areas [12] . However, these numbers have probably been biased by the Covid-19 pandemic.",
+            "cite_spans": [
+                {
+                    "start": 333,
+                    "end": 336,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 728,
+                    "end": 732,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1057,
+                    "end": 1061,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1310,
+                    "end": 1314,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Willingness for Digitalisation"
+        },
+        {
+            "text": "DiGA is a digital health application that has successfully passed the evaluation process at BfArM and is thus listed in the agency's official DiGA directory. In principle, innovations in the healthcare system must lead to a noticeable additional value in patient care and to a significant increase in the quality of treatment [12] . For this reason, DiGAs are thoroughly examined by the BfArM to determine whether they fulfil the extensive requirements with regard to data protection and security, functional suitability, quality, user-friendliness and interoperability and whether evidence of benefit is available in the form of a clinical study (preferably randomised controlled trial -RCT). Furthermore, a list of general conditions must be fulfilled in the prescription and billing process (s. figure 1) [9] .",
+            "cite_spans": [
+                {
+                    "start": 326,
+                    "end": 330,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 808,
+                    "end": 811,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "How to Be Recognised as a DiGA"
+        },
+        {
+            "text": "In detail, a DiGA is a medical device of risk class I or IIa (according to the Medical Device Regulation -MDR or, within the scope of the transitional provisions, according to the Medical Device Directive -MDD) whose main function is based on digital technologies. Moreover, the DiGA must not be a digital application that merely serves to read out or control another device and the medical purpose must be substantially achieved by the digital function. It is required that the DiGA supports the detection, monitoring, treatment or alleviation of diseases, injuries or disabilities. At the same time, the DiGA is not meant for primary prevention. It is used by the patient or by the healthcare provider and the patient jointly, i.e. applications that are only used by the physician during office visits (\"office equipment\") are not considered to be DiGAs [9] .",
+            "cite_spans": [
+                {
+                    "start": 856,
+                    "end": 859,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "How to Be Recognised as a DiGA"
+        },
+        {
+            "text": "The first formal step towards inclusion in the DiGA directory is the DiGA application itself.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "How to Be Recognised as a DiGA"
+        },
+        {
+            "text": "The BfArM application form contains 175 questions, and applicants have to provide conclusive evidence (incl. statistical analysis) of clinical benefits. Therefore, DiGA providers usually have to involve external experts to successfully run the application.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "How to Be Recognised as a DiGA"
+        },
+        {
+            "text": "If the evidence presented was inconclusive, the applicant may compensate for any flaws in the next 12 (maximum 15) months. This timeframe will probably allow for only minor points to be resolved, since it includes time for planning, conduct, and evaluation of a clinical trial. However, the DiGA may be listed provisionally in the BfArM directory, allowing for reimbursement (see below).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "How to Be Recognised as a DiGA"
+        },
+        {
+            "text": "Once approved, the DiGA can be prescribed by about 150,000 physicians involved in primary care to patients covered by statutory health insurance companies, currently representing about 88% of the German population [13] .",
+            "cite_spans": [
+                {
+                    "start": 214,
+                    "end": 218,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "How to Be Recognised as a DiGA"
+        },
+        {
+            "text": "As of 1 September 2021, 91 DiGA applications have been submitted to BfArM: 44 have later been withdrawn by the provider, 23 are still under evaluation, 4 have been rejected and 20 have been approved.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DiGAs in Practice"
+        },
+        {
+            "text": "Since October 2020 (listing of the first DiGA), about 20,000 prescriptions of DiGAs have been filled by primary care physicians. Reimbursement of DiGAs has to be negotiated with statutory health insurance and prices may vary with quality of evidence. Currently, DiGA providers make \u20ac410 (provisional approval) or \u20ac491 (full approval) on average per prescription period, which usually covers 90 days. This equals to \u20ac4.5 or \u20ac5.5, respectively, per day. Since January 2021 the prescription itself has been reimbursed to the physician for fully approved DiGAs (\u20ac2.0), and since August 2021, also for provisionally approved DiGAs (according to ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DiGAs in Practice"
+        },
+        {
+            "text": "Digitalisation leads to a global transformation process, where on the one hand, new markets emerge from disruptive ideas while, on the other hand, longstanding providers are going to lose market share [14] . However, even \"fast track\" DiGA approval at BfArM seems too slow to keep pace with digitalisation in healthcare driven by external partners [15] . Thus, the principle that the DiGA version listed in the DiGA directory has to be the same as the version used in the pre-approval clinical study poses a challenge in the face of typically rather short development cycles of digital products [15] . As slow integration of digital products into the primary healthcare market in Germany continues, this may lead to the emergence of a tertiary healthcare market: not accessible to everyone (as in an insurance system based on solidarity and subsidiarity), determined by market laws, and privately financed by patients.",
+            "cite_spans": [
+                {
+                    "start": 201,
+                    "end": 205,
+                    "text": "[14]",
+                    "ref_id": null
+                },
+                {
+                    "start": 348,
+                    "end": 352,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 595,
+                    "end": 599,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Digitalisation of Healthcare -Outlook and Chances for the Future"
+        },
+        {
+            "text": "To develop the full potential of DiGAs for the benefit of patients, they have to be integrated into the workflow of healthcare provided by primary care physicians contracted by statutory health insurance companies (i.e. working in the so-called primary healthcare market). This urgently requires a consistent and accelerated advancement of the digital level of maturity in primary healthcare in Germany.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Digitalisation of Healthcare -Outlook and Chances for the Future"
+        },
+        {
+            "text": "Different methods are suitable for determining levels of digital maturity. Typically, an assessment relates to the dimensions \"software\", \"hardware\", \"processes\" and \"people\". Nowadays, there is a tremendous need for development in all dimensions. The telematics infrastructure and the electronic patient record (Elektronische Patientenakte -ePA) regarded as key components for communication and interoperability in the German healthcare system, have been developed and are prerequisites for the appropriate use of DiGAs [16] . Currently, statutory health physicians in Germany do not seem to have reached the necessary level of digital maturity, one major reason being outdated software and hardware. Further dimensions of digital maturity are the empowerment and professional competence of individuals as well as the integration of digitisation into a corporate strategy and the development of digital business models [17] . These aspects are often missing in physicians' practices. The different dimensions of digital maturity can be classified as \"digital beginners, intermediates, advanced and experts\" [18] . Representative surveys to determine the level of digital maturity in the provision of primary healthcare in Germany are urgently needed for the advancement of digitalisation.",
+            "cite_spans": [
+                {
+                    "start": 521,
+                    "end": 525,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 920,
+                    "end": 924,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1108,
+                    "end": 1112,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Digitalisation of Healthcare -Outlook and Chances for the Future"
+        },
+        {
+            "text": "Transforming companies -including physicians' practices -in times of change requires a holistic approach [18] . DiGAs are only the latest example in the process of digital transformation in healthcare in Germany, demonstrating an urgent need for a change in mindset followed by continuing education. This includes, among others, change management, data protection, data security and interoperability, currently not at the top of the agenda of CME. Improvement in digital competence as required for certain levels of digital maturity should become a set requirement for CME. This also applies to a critical definition of how to deal with commercial providers of digital health, who have already in parallel created a market not regulated by authorities. Thus, it is up to the medical community to take care that education in digital health follows the same basic principles as adopted for CME [18] .",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 109,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 892,
+                    "end": 896,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Digitalisation of Healthcare -Outlook and Chances for the Future"
+        },
+        {
+            "text": "In our view, this represents the only approach to achieve the full benefit of DiGAs as part of digital health, ensure patient safety and maintain economic stability of primary care in physicians' practices.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Digitalisation of Healthcare -Outlook and Chances for the Future"
+        },
+        {
+            "text": "No potential conflict of interest was reported by the author (s).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Disclosure Statement"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Status quo der Digitalisierung im Gesundheitswesen, KU Gesundheitsmanagement",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Jan\u00dfen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Breuer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "B\u00dcNDNIS 90/DIE GR\u00dcNEN Einsetzung eines Ausschusses Digitale Agenda",
+            "authors": [
+                {
+                    "first": "Antrag",
+                    "middle": [],
+                    "last": "Der Fraktionen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cdu/",
+                    "middle": [],
+                    "last": "Csu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Spd",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Die",
+                    "middle": [],
+                    "last": "Linke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Digitale-Versorgung-Gesetz -DVG)",
+            "authors": [],
+            "year": 2021,
+            "venue": "?startbk=Bundesanzeiger_ BGBl&jumpTo=bgbl119s2562.pdf#__bgbl__%2F%2F*% 5B%40attr_id%3D%27bgbl119s2562",
+            "volume": "",
+            "issn": "",
+            "pages": "27--32",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Digitale Gesundheitsanwendungen-Verordnung (DiGAV)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Digital und kooperativ -netzwerke statt Sektoren Herausforderungen begegnen: f\u00fcr ein zukunftsf\u00e4higes Gesundheitswesen",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Van Aalst",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "KU Gesundheitsm anagement",
+            "volume": "7",
+            "issn": "",
+            "pages": "40--42",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Wird sich das Leben der Menschen in Deutschland Ihrer Meinung nach durch die Digitalisierung nachhaltig verbessern?",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Civey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Digitale Gesundheitsanwendungen Die Akzeptanz steigern",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Radi\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Waack",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Donner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Deutsches \u00c4rzteblatt",
+            "volume": "118",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Versichertenbefragung der Kassen\u00e4rztlichen Bundesvereinigung Teil II",
+            "authors": [
+                {
+                    "first": "Kassen\u00e4rztliche",
+                    "middle": [],
+                    "last": "Bundesvereinigung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The Fast-Track Process for Digital Health Applications (DiGA) according to Section 139e SGB V",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Ziele und Rahmenbedin gungen eines dynamisch lernenden Gesundheitssystems, SACHVERST\u00c4NDIGENRAT zur Begutachtung der Entwicklung im Gesundheitswesen",
+            "authors": [
+                {
+                    "first": "Gesundheit",
+                    "middle": [],
+                    "last": "Digitalisierung F\u00fcr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Mittelstand im Wandel -Wie ein Unternehmen seinen digitalen Reifegrad ermitteln kann",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fricke",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Thiessen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Die elektronische Patientenakte im Krankenhaus. KU Gesundheitsmanagement;2021",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wiring",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "72--73",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Mittelstand im Wandel -Wie ein Unternehmen seinen digitalen Reifegrad ermitteln kann",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fricke",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Thiessen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "A4t_Creative_Business/Business%20and%20Law% 20School/Science/2016_12_Ermittlung_des_digitalen",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The DiGA-application process.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

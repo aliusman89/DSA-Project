@@ -1,0 +1,2897 @@
+{
+    "paper_id": "00a29c2ddbe5bbb98d7eb7e1445f447d6d188a96",
+    "metadata": {
+        "title": "Physical inactivity and sitting time prevalence and trends in Mexican adults. Results from three national surveys",
+        "authors": [
+            {
+                "first": "Catalina",
+                "middle": [],
+                "last": "Medina Id",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institute of Public Health",
+                    "location": {
+                        "settlement": "Cuernavaca, Morelos, Mexico"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alejandra",
+                "middle": [],
+                "last": "J\u00e1 Uregui",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institute of Public Health",
+                    "location": {
+                        "settlement": "Cuernavaca, Morelos, Mexico"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cesar",
+                "middle": [],
+                "last": "Hern\u00e1 Ndez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institute of Public Health",
+                    "location": {
+                        "settlement": "Cuernavaca, Morelos, Mexico"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Teresa",
+                "middle": [],
+                "last": "Shamah",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institute of Public Health",
+                    "location": {
+                        "settlement": "Cuernavaca",
+                        "country": "Mexico"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Sim\u00f3 N Barquera",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institute of Public Health",
+                    "location": {
+                        "settlement": "Cuernavaca, Morelos, Mexico"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Physical inactivity and high sitting time are directly related to mortality and morbidity of noncommunicable diseases (NCDs). Thus, improved understanding of the prevalence and trends of these behaviors could support the design of policies and interventions for NCDs prevention.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "To determine the current prevalence of physical inactivity and high sitting time, to analyze the trends, and to estimate the association of meeting/not meeting physical activity recommendations and low/high sitting time with sociodemographic characteristics and body mass index categories.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Data from the 2018 National Health and Nutrition Survey were used. Moderate-to-vigorous physical activity (MVPA) and sitting minutes per week were calculated using the International Physical Activity Questionnaire short form (IPAQ). In total, 38,033 questionnaires of adults aged 20 to 69-year-old were analyzed. Adults were classified as physically inactive if they achieved less than 150 minutes per week of MVPA and as with high sitting time if they accumulated more than 420 minutes of sitting per day. Health and Nutrition National Surveys (ENSANUT) 2006, 2012 and 2018 were used to estimate the trends.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "In total, 16.5% were classified as physically inactive and 11.3% within the high sitting time category. Both prevalences increased more than 40% during the 12-y period (2006)(2007)(2008)(2009)(2010)(2011)(2012)(2013)(2014)(2015)(2016)(2017)(2018). In 2018, men, younger adults, those living in urban areas, and people within the highest socioeconomical status and educational levels were more likely to not achieve physical activity recommendations and to be classified in the highest sitting time category.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "a1111111111 a1111111111 a1111111111 a1111111111 a1111111111",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Physical inactivity is associated with increased morbidity and mortality of many diseases including diabetes, hypertension, cancer, stroke and cardiovascular diseases [1, 2] . In addition, physical inactivity is responsible for a substantial economic burden [3] . Based on the World Health Organization (WHO) recommendations, physical inactivity is defined as failing to accumulate at least 150 minutes of moderate physical activity or 75 minutes of vigorous physical activity or the combination of both intensities per week [4] . Globally, 27.5% of adults are classified as physically inactive [5] . Physical inactivity prevalence has not experienced a significant increase worldwide since 2001 [5] . However, a significant change of 44% was observed in Mexico between 2006 to 2012 [6] .",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 170,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 171,
+                    "end": 173,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 258,
+                    "end": 261,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 525,
+                    "end": 528,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 595,
+                    "end": 598,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 696,
+                    "end": 699,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 783,
+                    "end": 786,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Physical inactivity and sedentary behaviors are two distinct behaviors [7] . Sedentary behaviors have been defined as those activities whose energy expenditure is \ufffd1.5 metabolic equivalent (METs), while in seated, reclined or lying posture [8] . Sitting time is the most common sedentary behavior. Several studies have described that prolonged time in sedentary behaviors might increase the incidence and mortality of many chronic diseases, independent of total reported physical activity [7, [9] [10] [11] [12] [13] [14] . The available evidence suggests that total sitting time per day has increased in the last years [15] . Furthermore, prolonged sitting time has been observed in men, people within the higher income level [15] , and those in the highest BMI category [15] . Although, there is not a global cut-off point to estimate the prevalence of high sitting time in adults, most of the recently published studies have used the highest quartile ranging from 7 to more than 8 hours per day [16] [17] [18] .",
+            "cite_spans": [
+                {
+                    "start": 71,
+                    "end": 74,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 240,
+                    "end": 243,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 489,
+                    "end": 492,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 493,
+                    "end": 496,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 497,
+                    "end": 501,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 502,
+                    "end": 506,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 507,
+                    "end": 511,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 512,
+                    "end": 516,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 517,
+                    "end": 521,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 620,
+                    "end": 624,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 727,
+                    "end": 731,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 772,
+                    "end": 776,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 998,
+                    "end": 1002,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1003,
+                    "end": 1007,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1008,
+                    "end": 1012,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Physical inactivity and high sitting time prevalence, as well as trends have been monitored through the national surveillance system in Mexico since 2006 [6, 17] , however there is a lack of information related to the current prevalence stratified by sociodemographic and biological indicators. Thus, the purposes of this study were to determine the prevalence of physical inactivity and high sitting time, to analyze the trends, and to estimate the association between meeting/not meeting physical activity recommendations and being in the low/high sitting time category and sociodemographic characteristics and body mass index categories.",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 157,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 158,
+                    "end": 161,
+                    "text": "17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "We used information from the 2018 Health and Nutrition National Survey (by its acronym in Spanish: ENSANUT). This survey used a probabilistic multistage stratified cluster sampling design and is representative of Mexican adult population. ENSANUT 2018 was conducted between June and February 2018-2019 [19] . Data of 38,935 adults aged 20-69 years old was collected. For this analysis, data from 38,033 adults was analyzed after excluding 0.5% pregnant women, 1.3% with missing physical activity information and 0.5% with invalid sitting time information (n = 902). ENSANUT 2006 and 2012 have been previously described [20, 21] . Both surveys were cleaned and analyzed as 2018. All participants provided written informed consent. The Ethics Review Board from the National Institute of Public Health reviewed and approved this study. Detailed description of survey's methodology has been described elsewhere [19] [20] [21] .",
+            "cite_spans": [
+                {
+                    "start": 302,
+                    "end": 306,
+                    "text": "[19]",
+                    "ref_id": null
+                },
+                {
+                    "start": 619,
+                    "end": 623,
+                    "text": "[20,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 624,
+                    "end": 627,
+                    "text": "21]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 907,
+                    "end": 911,
+                    "text": "[19]",
+                    "ref_id": null
+                },
+                {
+                    "start": 912,
+                    "end": 916,
+                    "text": "[20]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 917,
+                    "end": 921,
+                    "text": "[21]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Health and Nutrition Surveys and participants"
+        },
+        {
+            "text": "The Spanish version of the International Physical Activity Questionnaire (IPAQ) short form was used to measure physical activity levels and sitting time among ENSANUTs [6] . This questionnaire has been validated in Mexican adults aged 20-69 years old [22] . It was applied by trained interviewers using a computer in 2018. The IPAQ short form asks for minutes and days of vigorous, and moderate physical activity, as well as walking, accumulated in at least 10 consecutive minutes over the last 7 days [23] . In addition, this questionnaire asks for sitting hours per day on a weekday or on Wednesday.",
+            "cite_spans": [
+                {
+                    "start": 168,
+                    "end": 171,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 251,
+                    "end": 255,
+                    "text": "[22]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 502,
+                    "end": 506,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Physical activity and sitting time assessment and data cleaning"
+        },
+        {
+            "text": "Data cleaning was performed using the IPAQs protocol [24] . Minutes per week of vigorous (VPA) and moderate (including walking) physical activity (MWPA) were calculated for each participant. Minutes per week of moderate-to-vigorous physical activity (MVPA) were estimated by adding moderate and vigorous physical activities per week. To calculate sitting time, sitting minutes per day <10 minutes and >16 hours were eliminated from the analysis [24] .",
+            "cite_spans": [
+                {
+                    "start": 53,
+                    "end": 57,
+                    "text": "[24]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 445,
+                    "end": 449,
+                    "text": "[24]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Physical activity and sitting time assessment and data cleaning"
+        },
+        {
+            "text": "Physical inactivity prevalence was classified as uncorrected and corrected for overestimation. For uncorrected physical activity prevalence, minutes per week of VPA were multiplied by two and added to the minutes per week of MWPA resulting in MV2PA minutes per week. This variable was used to classified adults as inactive (<150 minutes per week), moderately active (150-299 minutes per week) and sufficiently active (\ufffd300 minutes per week) based on the WHO physical activity recommendations [4] . Then, physical activity was categorized as 1) inactive and 2) active (moderately and sufficiently active). Due to the already known overestimation of physical activity using self-reports [22] , corrected prevalence was estimated using a previously developed equation (corrected prevalence) [6] . This equation was applied to the MV2PA minutes per week and stratified using the abovementioned WHO physical activity recommendations.",
+            "cite_spans": [
+                {
+                    "start": 492,
+                    "end": 495,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 685,
+                    "end": 689,
+                    "text": "[22]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 788,
+                    "end": 791,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Physical inactivity (uncorrected and corrected for overestimation) and sitting time prevalences"
+        },
+        {
+            "text": "Currently there is not an available cut-off point to estimate the sitting time prevalence. However, based on previous studies we categorized minutes per day of sitting as sedentary (>420 minutes per day) and non-sedentary (\ufffd420 minutes per day) [17] .",
+            "cite_spans": [
+                {
+                    "start": 245,
+                    "end": 249,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Physical inactivity (uncorrected and corrected for overestimation) and sitting time prevalences"
+        },
+        {
+            "text": "Three groups were created combining physical activity and sitting time categories: 1) active and non-sedentary, and 2) inactive and non-sedentary or active and sedentary, and 3) inactive and sedentary.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Categories for being classified as inactive/active or sedentary/nonsedentary"
+        },
+        {
+            "text": "Several sociodemographic (sex, age, area, socioeconomic status, and educational levels) and anthropometric (body mass index) variables were asked or measured. Participants were classified based on whether they lived in a rural (<2,500 residents) or in an urban area (\ufffd2,500 residents). Household socioeconomic status was measured using a wellness condition index based on eight key components that assessed household characteristics, services and belongings: construction materials of the floor, ceiling and walls, water accessibility, vehicle ownership, sleeping rooms, household belongings (refrigerator, washing machine, microwave, stove, boiler), electrical goods (computer, telephone, television, radio) [25] . This index was categorized in tertiles: low, medium and high.",
+            "cite_spans": [
+                {
+                    "start": 709,
+                    "end": 713,
+                    "text": "[25]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sociodemographic and anthropometric variables"
+        },
+        {
+            "text": "Weight and height were measured by trained personnel. Weight was assessed to the nearest 0.1 kg; height was measured to the nearest 0.1 cm. BMI was calculated and stratified based on WHO adult cut-off points: underweight (<18.5 kg/m 2 ), normal weight (18.5-24.9 kg/m 2 ), overweight (25-29.9 kg/m 2 ) and obese (\ufffd30 kg/m 2 ) [26] .",
+            "cite_spans": [
+                {
+                    "start": 326,
+                    "end": 330,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sociodemographic and anthropometric variables"
+        },
+        {
+            "text": "Percentages and confidence intervals were used to describe the sample. Mean minutes per week of MVPA and sitting time were logarithmically transformed. To assess the trends among years, uncorrected physical inactivity and sitting time prevalence was age-standardized to reflect the average age structure of the world's population using WHO distribution as a reference [27] . Physical inactivity prevalence was compared to previously reported prevalences (2006 and 2012) [6] . In addition, general linear models were used to estimate differences in the mean minutes per week of MVPA and sitting time and prevalence by survey. Kernel-density plots were used to project the proportional amount and the distribution of mean MVPA and sitting time per week by survey (2006, 2012, 2018) .",
+            "cite_spans": [
+                {
+                    "start": 368,
+                    "end": 372,
+                    "text": "[27]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 470,
+                    "end": 473,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 761,
+                    "end": 767,
+                    "text": "(2006,",
+                    "ref_id": null
+                },
+                {
+                    "start": 768,
+                    "end": 773,
+                    "text": "2012,",
+                    "ref_id": null
+                },
+                {
+                    "start": 774,
+                    "end": 779,
+                    "text": "2018)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "To estimate the association between active/inactive and sedentary/non-sedentary, with sociodemographic characteristics and BMI categories, we used a multinomial logistic regression test for the 2018 survey. We considered active and non-sedentary as a reference group. Multivariate model was adjusted by sex, age, area, household socioeconomic status and education level. Models were tested for multicollinearity. Significance was set at p<0.05. In order to maintain the representative nature of the sampling design, weights were considered using complex samples analysis in SPSS software version 25 (IBM SPSS statistics, IBM Corporation, Somers, NY). Table 1 shows the demographic characteristics and BMI of the participants. Above 10% individuals were adults aged 60-69-year. The prevalence of obesity was 37.0%. In total, more than 20% of adults lived in rural areas. A lower number of participants were classified into the less than primary education category. Table 2 describes the uncorrected and corrected physical activity prevalence and sitting time prevalence. Based on the uncorrected physical inactivity prevalence, an increment of 43.5% was observed from 2006 (11.5%) to 2018 (16.5%) (p<0.05). The same pattern was observed for the corrected physical inactivity prevalence in the same period of time (14% vs. 20.8%). With respect to high sitting time prevalence, a statistically significant increase was observed between 2006 (7.6%) and 2012 (9.5%) (25% increase), 2012 and 2018 (11.3%) (19% increase), and 2006 and 2018 (49% increase).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 651,
+                    "end": 658,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 964,
+                    "end": 971,
+                    "text": "Table 2",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "As shown in Fig 1A, the distribution of minutes per week of physical activity shifted slightly to the left, whereas the opposite was observed for the distribution of minutes per week of sitting time (Fig 1B) . This means that the average minutes per week of physical activity has decreased, and the average minutes per week of sitting time has increased. In addition, the mean minutes per week of MVPA was significantly higher in 2006 compared to minutes reported in 2012 and 2018 (1104.5 minutes vs. 872.7 and 814.9 minutes, respectively) (p<0.01). Mean weekly minutes of sitting time was significantly lower in 2006 with respect to minutes per week in 2012 and 2018 (1284.9 minutes vs. 1454.7 and 1503.2 minutes, respectively) (p<0.01). ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 12,
+                    "end": 19,
+                    "text": "Fig 1A,",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 199,
+                    "end": 207,
+                    "text": "(Fig 1B)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Physical inactivity and sitting time prevalence and trends in Mexican adults According to Table 3 , statistically significant differences were observed in minutes per week of MVPA and sitting minutes per week between groups. Statistically significant differences were observed on MVPA minutes per week for men vs. women, those aged 50-69 years vs. other age groups, underweight and obese groups (vs. other groups, respectively) and those living in a rural vs. urban areas, and those in the lowest socioeconomic status and educational levels.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 90,
+                    "end": 97,
+                    "text": "Table 3",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "With respect to sitting time, significant differences were observed in sitting minutes per week between men vs. women, those aged 20-29 years vs. other age groups, rural vs. urban areas, low and medium socioeconomic status vs. high socioeconomic status, and less than primary and primary or secondary vs. high school or higher.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "In 2018, after controlling for confounders, women (vs. men), those adults aged >49 years old (vs. other age groups), adults classified as underweight, those within the highest socioeconomic status (vs. the lowest) and adults classified in the primary educational level (vs. others) were more likely to be classified as active/inactive or sedentary/non-sedentary.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "Men (vs. women), adults <40 years (vs. other age groups), those living in urban areas, individuals classified within the highest socioeconomic status (vs. lower) and those in the high school or higher group (vs. other educational level groups) were more likely to be classified as inactive and sedentary (Table 4 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 304,
+                    "end": 312,
+                    "text": "(Table 4",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "The purposes of this study were to determine the current prevalence of physical inactivity and sitting time, to analyze the trends, and to estimate the association between meeting/not meeting physical activity recommendations and having a low/high sitting time, with sociodemographic characteristics and body mass index categories in Mexico. Main results indicated that uncorrected physical inactivity prevalence was 16.5%, this increased 43.5% from 2006 to 2018, the same pattern was observed for the corrected prevalence (14% to 20.8%). In the same way, sitting time prevalence increased 49% between 2006 and 2018. In addition, based on the multivariate model, men, younger adults, those living in urban areas, those within highest ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Physical inactivity and sitting time prevalence and trends in Mexican adults socioeconomic status and those within the highest educational level were more likely to not meet physical activity recommendations and have high sitting time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "We observed an increment in the uncorrected and corrected physical inactivity prevalence in the last 12 years. This result is in line with a global study indicating that although the global physical inactivity prevalence did not change substantially between 2001 and 2016 (28.5% vs. 27.5%) [5] a significant increase was observed for the Caribbean and Latin American regions [5] . Specifically, this study reported a corrected physical inactivity prevalence of 28.9% in Mexico in 2016 compared to the 20.8% reported in this study in 2018. Among the reasons for this difference could be the distinct constants used within the equations (i.e., a global constant was used for all regions while this study used one derived from a study among Mexican adults), and questionnaire adjustments due to the use of different international self-reports (example: GPAQ vs. IPAQ) [5, 22] .",
+            "cite_spans": [
+                {
+                    "start": 290,
+                    "end": 293,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 375,
+                    "end": 378,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 865,
+                    "end": 868,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 869,
+                    "end": 872,
+                    "text": "22]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "According to mean minutes per week of MVPA women vs. men, those aged 60-69 years old vs. other age groups, and those classified as underweight and obese were the most inactive population groups. This result is similar to previous international [5, 28] and national studies ",
+            "cite_spans": [
+                {
+                    "start": 244,
+                    "end": 247,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 248,
+                    "end": 251,
+                    "text": "28]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "Physical inactivity and sitting time prevalence and trends in Mexican adults [6, 22, 29, 30 ]. This could be explained by the fact that women and older adults [31] are involved in light intensity physical activity mainly performed within leisure or home-related activities [32] and adults classified as underweight or obese could have decreased levels of physical activity and an increased sedentarism [33, 34] . In addition, the lack of frequently use of places for physical activity by Mexican women could be another reason [29] . Even though the sitting time prevalence has increased in the last 12 years in Mexico, this prevalence is lower than that reported in other countries [16] . For instance, data from the US reported that the prevalence of high sitting time was 25.7% in adults [16] and 18.5% in the European Union [18] compared to the 11.3% reported in this study. Discrepancies could be related to the high sitting time cut-off point [16, 18] . Until now there is not an official cut-off point for sedentary behaviors, however, some authors have reported that spending 7-8 hours per day sitting could be detrimental for health [17, 35] .",
+            "cite_spans": [
+                {
+                    "start": 77,
+                    "end": 80,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 81,
+                    "end": 84,
+                    "text": "22,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 85,
+                    "end": 88,
+                    "text": "29,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 89,
+                    "end": 91,
+                    "text": "30",
+                    "ref_id": null
+                },
+                {
+                    "start": 402,
+                    "end": 406,
+                    "text": "[33,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 407,
+                    "end": 410,
+                    "text": "34]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 526,
+                    "end": 530,
+                    "text": "[29]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 682,
+                    "end": 686,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 790,
+                    "end": 794,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 827,
+                    "end": 831,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 948,
+                    "end": 952,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 953,
+                    "end": 956,
+                    "text": "18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1141,
+                    "end": 1145,
+                    "text": "[17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1146,
+                    "end": 1149,
+                    "text": "35]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "A study reporting the median hours per day of sitting time indicated that people from upper-middle income countries spent on average 234 minutes per day [36] . This result was slightly higher compared to the one obtained in our study (214.7 minutes per day) [36] . In addition, men, younger adults, those living in urban areas, those within the highest SES and ",
+            "cite_spans": [
+                {
+                    "start": 153,
+                    "end": 157,
+                    "text": "[36]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 258,
+                    "end": 262,
+                    "text": "[36]",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "Physical inactivity and sitting time prevalence and trends in Mexican adults educational levels spent a higher number of minutes per week on sitting time compared to other groups. This could be related to the fact that people in these groups spent more time in sedentary occupations such as industries, office works and schools. Men, younger adults, those living in urban areas, people within the medium and high SES and within the highest educational levels were more likely to not meet physical activity recommendations and have high sitting time. Similar results have been observed in a previous study that estimated the association of high sitting (\ufffd7.5 hour per day)/less active physical activity (0-5 days) using the IPAQ [37] . However, some differences have been reported in a European study that used accelerometers and higher sitting time cut-off points (>10 hours per day) [38] . As shown in previous studies [37] , similar groups with higher ORs of being high sitters [17] are also at risk of being classified as sedentary/non-active. Thus, caution should be taken in these groups because previous evidence has shown that high sitting time (\ufffd4 h/d) is associated with all-cause [39, 40] and cardiovascular mortality [39] in the least active group (<150 minutes/week).",
+            "cite_spans": [
+                {
+                    "start": 728,
+                    "end": 732,
+                    "text": "[37]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 884,
+                    "end": 888,
+                    "text": "[38]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 920,
+                    "end": 924,
+                    "text": "[37]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 980,
+                    "end": 984,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1190,
+                    "end": 1194,
+                    "text": "[39,",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1195,
+                    "end": 1198,
+                    "text": "40]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 1228,
+                    "end": 1232,
+                    "text": "[39]",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "Although several strategies to increase physical activity and decrease sitting time have been taking place in Mexico [41] [42] [43] , such as \"ch\u00e9cate, m\u00eddete [41] , mu\u00e9vete\", and \"pausas por la salud\" [42] , these are limited to informational approaches [41] , their reach is limited [42] and evidence indicates lack of clarity within the implementation [43] . Hence, the prevalence of both behaviors is still increasing. This trend is opposite to the WHO's global target for a reduction of 10% in physical inactivity by 2025 and of 15% by 2030 [44] . A Mexican study estimated that a 15% reduction in physical inactivity could decrease more than 1,500 cases of type 2 diabetes and cardiovascular disease [2] . Thus, focalized strategies that could promote physical activity levels and reduce sitting time should be implemented.",
+            "cite_spans": [
+                {
+                    "start": 117,
+                    "end": 121,
+                    "text": "[41]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 122,
+                    "end": 126,
+                    "text": "[42]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 127,
+                    "end": 131,
+                    "text": "[43]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 159,
+                    "end": 163,
+                    "text": "[41]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 202,
+                    "end": 206,
+                    "text": "[42]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 255,
+                    "end": 259,
+                    "text": "[41]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 285,
+                    "end": 289,
+                    "text": "[42]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 355,
+                    "end": 359,
+                    "text": "[43]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 546,
+                    "end": 550,
+                    "text": "[44]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 706,
+                    "end": 709,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "Nowadays, the COVID-19 pandemic has changed the daily life worldwide. These changes have impacted the physical activity and sitting time levels among the population and in the Mexican population [45] . Although the WHO has recommended several strategies for creating active places and people [44] , many opportunities to be physically active have been suspended. The COVID-19 era [46] has brought the use of webpages and free of charge applications to increase physical activity levels at home [47] . However, this will not be enough to reduce physical inactivity and sedentary levels in the population. Therefore, it is necessary to identify strategies that could help to improve active lifestyles considering the new social norms.",
+            "cite_spans": [
+                {
+                    "start": 195,
+                    "end": 199,
+                    "text": "[45]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 292,
+                    "end": 296,
+                    "text": "[44]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 380,
+                    "end": 384,
+                    "text": "[46]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 494,
+                    "end": 498,
+                    "text": "[47]",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "Several limitations should be considered in the interpretation of our results. Physical activity and sitting time were measured using IPAQ short, not allowing to differentiate physical activity in the four domains in which it is performed (occupational, house, commuting and leisure time) and limiting the ability to inform domain-specific physical activity promotion policies and strategies. Self-reported measures could over and underestimate, respectively. Adjustment of physical activity levels with an equation developed for Mexican population may attenuate the overestimation of physical activity [6] . However, there is no similar procedure to adjust IPAQ self-reported sitting time estimates. Due to study design, causal association between physical activity and sociodemographic characteristics cannot be inferred.",
+            "cite_spans": [
+                {
+                    "start": 603,
+                    "end": 606,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PLOS ONE"
+        },
+        {
+            "text": "Contrary to global targets for reducing physical inactivity by 2030, the prevalence of physical inactivity and high sitting time have increased in the last 12 years in Mexico among adults.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Such trends indicate that current national programs and policies are failing to promote physical activity and to reduce sitting time. To halt current trends and achieve global targets, stronger and more concerted efforts to promote healthy behaviors are required. These results encourage the continued monitoring of physical activity and sedentary time through national surveys. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Effect of physical inactivity on major non-communicable diseases worldwide: an analysis of burden of disease and life expectancy",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Shiroma",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Lobelo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Puska",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Blair",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Katzmarzyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Lancet",
+            "volume": "380",
+            "issn": "9838",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736%2812%2961031-9"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Cardiovascular and diabetes burden attributable to physical inactivity in Mexico",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Medina",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Coxson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Penko",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Janssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bautista-Arredondo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barquera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cardiovasc Diabetol",
+            "volume": "19",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12933-020-01050-3"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The economic burden of physical inactivity: a global analysis of major non-communicable diseases",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kolbe-Alexander",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Finkelstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Katzmarzyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Van Mechelen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Lancet",
+            "volume": "388",
+            "issn": "",
+            "pages": "1311--1335",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736%2816%2930383-X"
+                ],
+                "PMID": [
+                    "27475266"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Geneve: WHO; 2020",
+            "authors": [],
+            "year": null,
+            "venue": "WHO. Guidelines on physical activity and sedentary behaviour",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Worldwide trends in insufficient physical activity from 2001 to 2016: a pooled analysis of 358 population-based surveys with 1.9 million participants",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Guthold",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stevens",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Lancet Glob Health",
+            "volume": "6",
+            "issn": "10",
+            "pages": "30357--30364",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2214-109X%2818%2930357-7"
+                ],
+                "PMID": [
+                    "30193830"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Physical inactivity prevalence and trends among Mexican adults: results from the National Health and Nutrition Survey (ENSANUT)",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Medina",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Janssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Campos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barquera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "BMC Public Health",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2458-13-1063"
+                ],
+                "PMID": [
+                    "24215173"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Associations of TV viewing and physical activity with the metabolic syndrome in Australian adults",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Dunstan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Salmon",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Owen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Armstrong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Zimmet",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Welborn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Diabetologia",
+            "volume": "48",
+            "issn": "11",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00125-005-1963-4"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Sedentary Behavior Research Network (SBRN)-Terminology Consensus Project process and outcome",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tremblay",
+                    "suffix": ""
+                },
+                {
+                    "first": "Aubert",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Barnes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Saunders",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Carson",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Latimer-Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Int J Behav Nutr Phys Act",
+            "volume": "14",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12966-017-0525-8"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Sedentary behaviour, physical activity and a continuous metabolic syndrome risk score in adults",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wijndaele",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Duvigneaud",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Matton",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Duquet",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Delecluse",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Thomis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Eur J Clin Nutr",
+            "volume": "63",
+            "issn": "3",
+            "pages": "421--430",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.ejcn.1602944"
+                ],
+                "PMID": [
+                    "17971826"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Television viewing and low participation in vigorous recreation are independently associated with obesity and markers of cardiovascular disease risk: EPIC-Norfolk population-based study",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jakes",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Khaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Luben",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Oakes",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Welch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Eur J Clin Nutr",
+            "volume": "57",
+            "issn": "9",
+            "pages": "1089--96",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.ejcn.1601648"
+                ],
+                "PMID": [
+                    "12947427"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Television watching and other sedentary behaviors in relation to risk of obesity and type 2 diabetes mellitus in women",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Colditz",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Willett",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Manson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "JAMA",
+            "volume": "289",
+            "issn": "14",
+            "pages": "1785--91",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.289.14.1785"
+                ],
+                "PMID": [
+                    "12684356"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Sedentary behaviour and risk of all-cause, cardiovascular and cancer mortality, and incident type 2 diabetes: a systematic review and dose response meta-analysis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Patterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mcnamara",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tainio",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "De Sa",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Eur J Epidemiol",
+            "volume": "33",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10654-018-0380-1"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Sedentary Behavior, Exercise, and Cardiovascular Health",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lavie",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ozemek",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Carbone",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Katzmarzyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Blair",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Circ Res",
+            "volume": "124",
+            "issn": "5",
+            "pages": "799--815",
+            "other_ids": {
+                "DOI": [
+                    "10.1161/CIRCRESAHA.118.312669"
+                ],
+                "PMID": [
+                    "30817262"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Personal Activity Intelligence (PAI), Sedentary Behavior and Cardiovascular Risk Factor Clustering-the HUNT Study. Prog Cardiovasc Dis",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zisko",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Skjerve",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Tari",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Sandbakk",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Wisloff",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Nes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "60",
+            "issn": "",
+            "pages": "89--95",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.pcad.2017.02.007"
+                ],
+                "PMID": [
+                    "28274818"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Trends in Sedentary Behavior Among the US Population",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Kantor",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "JAMA",
+            "volume": "321",
+            "issn": "16",
+            "pages": "1587--97",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2019.3636"
+                ],
+                "PMID": [
+                    "31012934"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Joint Prevalence of Sitting Time and Leisure",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Ussery",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Fulton",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Galuska",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Katzmarzyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Carlson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Time Physical Activity Among US Adults",
+            "volume": "320",
+            "issn": "19",
+            "pages": "2036--2044",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2018.17797"
+                ],
+                "PMID": [
+                    "30458482"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Evidence of increasing sedentarism in Mexico City during the last decade: Sitting time prevalence, trends, and associations with obesity and diabetes",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Medina",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tolentino-Mayo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lopez-Ridaura",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barquera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS One",
+            "volume": "12",
+            "issn": "12",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0188518"
+                ],
+                "PMID": [
+                    "29194458"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "European Sitting Championship: Prevalence and Correlates of Self-Reported Sitting Time in the 28 European Union Member States",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Loyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Van Der Ploeg",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bauman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Brug",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lakerveld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PLoS One",
+            "volume": "11",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0149320"
+                ],
+                "PMID": [
+                    "26934701"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "M\u00e9 ndez I. Metodolog\u00eda. Encuesta Nacional de Salud y Nutrici\u00f3 n 2006. Primera ed. Cuernavaca, M\u00e9xico: Instituto Nacional de Salud P\u00fablica",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Palma",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shamah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Franco",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Olaiz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "19--33",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Encuesta Nacional de Salud y Nutrici\u00f3 n 2012: dise\u00f1o y cobertura",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Romero-Mart\u00ednez",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shamah-Levy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Franco-Nu\u00f1ez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Villalpando",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cuevas-Nasu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Guti\u00e9",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Salud Publica Mex",
+            "volume": "55",
+            "issn": "2",
+            "pages": "332--372",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Validity and reliability of the International Physical Activity Questionnaire among adults in Mexico",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Medina",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barquera",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Janssen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Rev Panam Salud Publica",
+            "volume": "34",
+            "issn": "1",
+            "pages": "21--29",
+            "other_ids": {
+                "PMID": [
+                    "24006016"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "International physical activity questionnaire: 12-country reliability and validity",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Craig",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Marshall",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sjostrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bauman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Booth",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ainsworth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Med Sci Sports Exerc",
+            "volume": "35",
+            "issn": "8",
+            "pages": "1381--95",
+            "other_ids": {
+                "DOI": [
+                    "10.1249/01.MSS.0000078924.61453.FB"
+                ],
+                "PMID": [
+                    "12900694"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Guidelines for data processing and analysis of the International Physical Activity Questionnaire (IPAQ)-Short and Long Forms",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Clasificaci\u00f3 n socio-econ\u00f3 mica de los hogares en la ENSANUT 2012",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Guti\u00e9 Rrez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Salud Publica Mex",
+            "volume": "55",
+            "issn": "2",
+            "pages": "342--348",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Obesity: preventing and managing the global epidemic",
+            "authors": [],
+            "year": 2000,
+            "venue": "WHO Technical Report Series",
+            "volume": "894",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Age standarization of rates: a new WHO standard. World Health Organization",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Ahmad",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Boschi-Pinto",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lopez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Jl"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lozano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Inoue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Physical activity levels, duration pattern and adherence to WHO recommendations in German adults",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Luzak",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Heier",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Thorand",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Laxy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nowak",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Peters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS One",
+            "volume": "12",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0172503"
+                ],
+                "PMID": [
+                    "28245253"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Understanding the contribution of publicand restricted-access places to overall and domain-specific physical activity among Mexican adults: A cross-sectional study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jauregui",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Salvo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Medina",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barquera",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hammond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "PLoS One",
+            "volume": "15",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0228491"
+                ],
+                "PMID": [
+                    "32032390"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Time use and physical activity: a shift away from movement across the globe",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Popkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Obes Rev",
+            "volume": "13",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1467-789X.2011.00982.x"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Trends over 5 decades in U.S. occupation-related physical activity and their associations with obesity",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Church",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Tudor-Locke",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Katzmarzyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Earnest",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Rodarte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS One",
+            "volume": "6",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0019657"
+                ],
+                "PMID": [
+                    "21647427"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Doseresponse associations between accelerometry measured physical activity and sedentary time and all cause mortality: systematic review and harmonised meta-analysis",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Ekelund",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tarp",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Steene-Johannessen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Jefferis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Fagerland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "BMJ",
+            "volume": "366",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.l4570"
+                ],
+                "PMID": [
+                    "31434697"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Worldwide surveillance of self-reported sitting time: a scoping review",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mclaughlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Atkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Starr",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wolfenden",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sutherland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Behav Nutr Phys Act",
+            "volume": "17",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12966-020-01008-4"
+                ],
+                "PMID": [
+                    "32883294"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Time trends between 2002 and 2017 in correlates of self-reported sitting time in European adults",
+            "authors": [
+                {
+                    "first": "Jgm",
+                    "middle": [],
+                    "last": "Jelsma",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Loyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Van Nassau",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bauman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Van Der Ploeg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "PLoS One",
+            "volume": "14",
+            "issn": "11",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0225228"
+                ],
+                "PMID": [
+                    "31714933"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Sedentary Time and Physical Activity Surveillance Through Accelerometer Pooling in Four European Countries",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Loyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Clarke-Cornwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Anderssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hagstromer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Sardinha",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sundquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sports Med",
+            "volume": "47",
+            "issn": "7",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s40279-016-0658-y"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Sitting Time, Physical Activity, and Risk of Mortality in Adults",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Stamatakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bauman",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Ekelund",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hamer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Am Coll Cardiol",
+            "volume": "73",
+            "issn": "16",
+            "pages": "2062--72",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacc.2019.02.031"
+                ],
+                "PMID": [
+                    "31023430"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Ekelund",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Steene-Johannessen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Fagerland",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Owen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Powell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Lancet",
+            "volume": "388",
+            "issn": "",
+            "pages": "1302--1312",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736%2816%2930370-1"
+                ],
+                "PMID": [
+                    "27475271"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Programa ch\u00e9cate, m\u00eddete y mu\u00e9 vete de la Secretaria de Salud",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Pausas para la salud. Manejo adecuado del estr\u00e9s y programa personal de autocuidado para las y los trabajadores del Indesol",
+            "authors": [],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Evaluaci\u00f3n de las unidades de especialidades m\u00e9 dicas de enfermedades cr\u00f3nicas (UNEMES-EC)",
+            "authors": [],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "More active people for a healthier world",
+            "authors": [],
+            "year": 2018,
+            "venue": "WHO. Global Action Plan on Physical Activity",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "ENSARS-COV2. Resultados de la evaluaci\u00f3 n basal de la encuesta nacional de las caracter\u00edsticas de la poblaci\u00f3n durante la pandemia de COVID-19. Cuernavaca, Morelos: Instituto Nacional de Salud P\u00fablica",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shamah-Levy",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "G\u00f3 Mez",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mundo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cuevas",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gaona",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Moving more and sitting less-Now more than ever-an important message for the prevention and treatment of chronic disease and pandemics",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Arena",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lavie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Prog Cardiovasc Dis",
+            "volume": "64",
+            "issn": "",
+            "pages": "1--2",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.pcad.2020.10.001"
+                ],
+                "PMID": [
+                    "33065144"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "A tale of two pandemics: How will COVID-19 and global trends in physical inactivity and sedentary behavior affect one another?",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Laddu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Phillips",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lavie",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Arena",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Prog Cardiovasc Dis",
+            "volume": "64",
+            "issn": "",
+            "pages": "108--118",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.pcad.2020.04.005"
+                ],
+                "PMID": [
+                    "32277997"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Mean minutes per week of moderate-to-vigorous physical activity and sitting time stratified by survey. a and b. https://doi.org/10.1371/journal.pone.0253137.g001",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Prevalence and trends of physical activity and sitting time. ENSANUT 2006, 2012, 2018.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Differences in mean for moderate-to-vigorous physical activity and sitting time minutes per week as measured by ENSANUT 2018.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Multinomial regression analysis for categories of physical activity and sitting time by sociodemographics and BMI. ENSANUT 2018.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Salvo D, Torres C, Villa U, Rivera JA, Sarmiento OL, Reis RS, et al. Accelerometer-based physical activity levels among Mexican adults and their relation with sociodemographic characteristics and BMI: a cross-sectional study. Int J Behav Nutr Phys Act. 2015; 12:79. https://doi.org/10.1186/s12966-015-0243-z PMID: 26088430 31. Hill RL, Heesch KC. The Problem of Physical Inactivity Worldwide Among Older People. The Palgrave Handbook of Ageing and Physical Activity Promotion 2018. p. 25-41. 32. Mielke GI, da Silva ICM, Kolbe-Alexander TL, Brown WJ. Shifting the Physical Inactivity Curve Worldwide by Closing the Gender Gap. Sports Med. 2018; 48(2):481-9. https://doi.org/10.1007/s40279-017-0754-7 PMID: 28647914",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We would like to thank researchers and fieldworkers from the ENSANUT and Instituto Nacional de Geograf\u00eda e Inform\u00e1tica (INEGI) project 2018.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ]
+}

@@ -1,0 +1,1659 @@
+{
+    "paper_id": "00e030dd484f4637eb8d28b74b3cfc15a8ae7e15",
+    "metadata": {
+        "title": "Prevention of oral and maxillofacial trauma secondary to orofacial dyskinesias associated with anti-N-methyl-d-aspartate receptor encephalitis: a case series",
+        "authors": [
+            {
+                "first": "Jeffrey",
+                "middle": [
+                    "W"
+                ],
+                "last": "Chadwick",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Patricia",
+                "middle": [
+                    "J"
+                ],
+                "last": "Brooks",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jeffrey",
+                "middle": [
+                    "M"
+                ],
+                "last": "Singh",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "K"
+                ],
+                "last": "Lam",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: Anti-N-methyl-d-aspartate receptor encephalitis (anti-NMDARE) is a multi-stage autoimmune-mediated disease associated with a multitude of neuropsychiatric and dysautonomic features. Orofacial dyskinesias are frequently associated with this condition and manifest as abnormal movements of the orofacial musculature. These involuntary movements may result in significant trauma to the oral and maxillofacial complex including the avulsion of the dentition and orofacial lacerations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "We describe the course of two female patients with anti-NMDARE in whom significant involuntary self-inflicted maxillofacial trauma was suffered despite the use of complex parenteral sedation regimens. The application of traditional maxillomandibular wiring techniques and pharmacologic strategies, including botulinum toxin, to immobilize the mandible were initially unsuccessful. These difficulties led to the fabrication and wire-based fixation of a patient-specific acrylic oral appliance that maintained the mandible in a depressed position and mitigated all lateral and protrusive movements.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "These cases illustrate the first known successful use of an appliance-based therapy for managing orofacial dyskinesias in the anti-NMDARE patient population through an adaptation of traditional maxillomandibular fixation techniques. This approach eliminated further orofacial trauma and afforded physicians with safer means to manage and assess patients afflicted with this condition during their protracted intensive care unit admissions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Initially described as the presence of teratomas in a clinical setting of psychiatric syndromes in 2005, anti-N-methyl-d-aspartate receptor encephalitis (anti-NMDARE) is a multistage autoimmune disorder primarily affecting adolescents and young adults [1] . The prevalence of this condition is unknown, with an approximate female to male ratio in the order of 4:1 [2] . Anti-NMDARE is associated with significant psychiatric, cognitive, dysautonomic and dyskinetic features which may or may not occur in the presence of neoplastic entities including ovarian and testicular teratomas, seminomas and small cell lung cancer [3] . The N-methyl-d-aspartate (NMDA) receptor, composed of NR1 and NR2 subunits that bind glycine and glutamate, respectively, is critical in normal neural network formation and synaptic plasticity [4] . The mechanism by which anti-NMDARE manifests is through immunoglobulin G 1 (IgG 1 ) antibody crosslinking of the NR1 subunit which leads to the internalization of the receptor and its depletion from the synapse [5] . In the early stages of this disease, patients may present with non-specific prodromal symptoms including psychosis, anxiety and delusions [6] . In progressive cases, development of catatonic behavior, orofacial and lingual dyskinesias and changes in level of consciousness may ensue and ultimately lead to erroneous psychiatric diagnoses. These symptoms can be so dramatic that anti-NMDARE is suspected of being an underlying cause for historical accounts of demonic possession [7] . In later stages, anti-NMDARE may manifest by pronounced autonomic instability requiring mechanical ventilation and prolonged intensive care unit (ICU) admissions [8] . T2-weighted and fluid-attenuated inversion recovery (FLAIR) magnetic resonance imaging (MRI) of the brain demonstrate non-specific hyperintense lesions involving multiple cortical and subcortical regions or leptomeningeal enhancement in less than half of all patients diagnosed with anti-NMDARE [9, 10] . Electroencephalogram (EEG) abnormalities are generally characterized by non-specific findings for encephalopathy in 90% of those afflicted with this condition [2, 11] . In some cases, an extreme delta brush pattern may be noted on EEG examination which has been touted as a pathognomonic finding that heralds a poor long-term prognosis [12] . Ultimately, however, the definitive diagnosis of anti-NMDARE is confirmed by the detection of IgG 1 antibodies in cerebrospinal fluid (CSF) or serum [13, 14] . Unfortunately, diagnosis through antibody detection can be delayed due to extended laboratory turnaround times which may result in deleterious clinical outcomes and poor neurologic recovery secondary to delayed therapy.",
+            "cite_spans": [
+                {
+                    "start": 252,
+                    "end": 255,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 364,
+                    "end": 367,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 621,
+                    "end": 624,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 820,
+                    "end": 823,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1037,
+                    "end": 1040,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1181,
+                    "end": 1184,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1521,
+                    "end": 1524,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1689,
+                    "end": 1692,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1990,
+                    "end": 1993,
+                    "text": "[9,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1994,
+                    "end": 1997,
+                    "text": "10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 2159,
+                    "end": 2162,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 2163,
+                    "end": 2166,
+                    "text": "11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 2336,
+                    "end": 2340,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 2492,
+                    "end": 2496,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 2497,
+                    "end": 2500,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "During protracted hospital admissions in the setting of anti-NMDARE, significant oral and maxillofacial trauma may occur as a result of orofacial dyskinesias. These injuries include complex intraoral and facial lacerations and tooth avulsion which may result in significant hemorrhage and wound infection. To date, there is a scarcity of literature describing an effective and reliable management strategy for orofacial dyskinesias in this patient population. While other dyskinetic manifestations of this process are potentially mitigated with a variety of pharmacologic agents, there is only one case report describing the successful management of orofacial dyskinesias in a single patient with anti-NMDARE using botulinum neurotoxin serotype A (BoNT-A) [15] . Unfortunately, the potential for the failure of BoNT-A due to insufficient dosing, inadequate target selection amongst the major and accessory muscles of mastication, sensitization due to prior BoNT-A treatment and decreased potency due to issues related to BoNT-A storage or handling can be particularly detrimental in this patient population. This paper describes the use of a novel oral appliance designed to manage and prevent recurrent oral and maxillofacial trauma resulting from uncontrolled orofacial dyskinesias in patients diagnosed with anti-NMDARE. This appliance is rapidly fabricated and can be effectively utilized for extended periods of time during prolonged ICU admissions.",
+            "cite_spans": [
+                {
+                    "start": 756,
+                    "end": 760,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "To mitigate the need for increasingly complex anesthetic regimens and to prevent further oral and maxillofacial trauma, an oral appliance with several mechanical and functional design features was constructed to manage orofacial dyskinesias secondary to anti-NMDARE ( Fig. 1a-c) . The appliance was designed to hold the mandible in a depressed position with a distance between the maxillary and mandibular dentition of greater than approximately 20 millimeters (mm) anteriorly or 11 mm posteriorly. These values were selected based on the position in which the mandible would be placed at the largest mechanical disadvantage as demonstrated in previous masticatory muscle electromyographic and bite force studies [16, 17] . This feature was crucial in reducing the force transmitted to the dentition caused by the dyskinetic gnathic movements. This design also allowed the inclusion of an anterior aperture large enough to facilitate the inspection and cleansing of the oral cavity as well as suctioning of the oropharynx when required. The appliance was fixed to the patient through its ligation between metal loops embedded within the acrylic to maxillary and mandibular Erich arch bars. The arch bars were secured to the existing dentition utilizing interdental wires, thereby distributing all applied gnathic forces to the entirety of both dental arches. The metal loops of the appliance were mechanically engaged into the acrylic in a manner which would not permit their avulsion with the application of continuous isometric forces. The appliance was constructed from an inert acrylic material which intimately engaged approximately 75% of the length of the clinical crowns of the available dentition, limiting the opportunity for the patient to dislodge the appliance with lateral and protrusive mandibular movements. This feature also provided sufficient space for the installation of Erich arch bars and access to perform oral hygiene practices. In order to facilitate the acquisition of maxillary and mandibular alginate impressions for appliance construction as well as its installation in a safe and efficient manner for both the oral and maxillofacial surgeons and patients, general anesthesia with paralysis was induced and monitored by the attending ICU physicians. At the time of appliance installation, patients were transitioned from oral endotracheal tubes to tracheostomies due to the anticipated need for long-term mechanical ventilation.",
+            "cite_spans": [
+                {
+                    "start": 713,
+                    "end": 717,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 718,
+                    "end": 721,
+                    "text": "17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 268,
+                    "end": 278,
+                    "text": "Fig. 1a-c)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Oral appliance design"
+        },
+        {
+            "text": "We have effectively used this device in five female anti-NMDARE patients ranging from 23 to 34 years of age for between three and eight months duration who were at risk for significant oral and maxillofacial trauma secondary to orofacial dyskinesias. The described appliance was simple to manufacture and rapidly installed utilizing methods germane to any oral and maxillofacial surgery (OMFS) service. The application of this device affords safer patient management and assessment in conjunction with sedative medications by critical care physicians. Furthermore, its installation mitigates further orofacial trauma thereby decreasing the potential for oral and maxillofacial wound infection and bleeding episodes while eliminating the need for increasingly complex prosthetic rehabilitation following recovery. Below, we discuss two representative examples which chronicle the clinical course of the initial patients affected by anti-NMDARE who were referred to our OMFS service.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case presentations"
+        },
+        {
+            "text": "A 23-year-old nulliparous woman with a past medical history significant for mild asthma initially presented to a peripheral community hospital in an agitated state with manic symptoms. She was treated for a psychiatric disorder with haloperidol, olanzapine and electroconvulsive therapy (ECT) without any improvement. The patient developed fever, rigidity and tongue-biting movements and was intubated and sedated shortly after admission. A lumbar puncture (LP) was performed revealing the presence of anti-NMDA receptor antibodies confirming the diagnosis of anti-NMDARE. MRI as well as computed tomography (CT) and positron emission tomography (PET) of the head demonstrated no discernable abnormalities. Multiple EEG examinations revealed an extreme delta brush pattern. Screening ultrasound (US) in addition to CT and MRI studies of the thorax, abdomen and pelvis failed to reveal the presence of a teratoma. A trial of intravenous immunoglobulin (IVIG) and methylprednisolone did not result in improvement and the patient was transferred to the ICU at the Toronto Western Hospital (TWH) approximately one month following her initial hospital presentation. Seven cycles of plasma exchange (PLEX) and three cycles of rituximab were administered without any change in patient symptomatology or EEG findings. A tracheostomy and percutaneous endoscopic gastrostomy (PEG) were performed in anticipation for prolonged ventilatory support and ICU admission. Due to refractory symptoms, the patient underwent a bilateral laparoscopic salpingo-oophorectomy, revealing the presence of a mature cystic teratoma associated with the right ovary. Several pharmacologic regimens were unsuccessful in suppressing the patient's severe dyskinetic movements involving the orofacial region and extremities including tetrabenazine, quetiapine, haloperidol, olanzapine, botulinum toxin deposited within the masseter muscles, and deep sedation with propofol and hydromorphone. Multiple complications were encountered during the patient's admission including a coagulase-negative staphylococcal bacteremia and ventilator-associated pneumonia.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case 1"
+        },
+        {
+            "text": "One major complication during this admission was an episode of significant oropharyngeal bleeding. This event occurred secondary to uncontrolled orofacial dyskinesia-induced trauma involving the avulsion of the mandibular central and lateral incisors and a significant laceration of the right anterior tongue which required the transfusion of packed red blood cells (Fig. 2a) . To prevent further trauma, maxillomandibular fixation (MMF) was attempted utilizing several techniques including the application of Ivy loops, Ernst ligatures and Erich arch bars. These approaches all failed due to her continued and worsening orofacial dyskinesias, despite the later administration of BoNT-A to the masseter muscles. Our oral appliance was subsequently fabricated which placed the mandible in a depressed position and was secured via 24-gauge steel ligatures to previously installed maxillary and mandibular Erich arch bars that were placed during the initial attempts at MMF. Following the application of this appliance, the patient suffered no further orofacial trauma (Fig. 2b, c) . After eight months, the oral appliance was removed due to improvement in bodily dyskinetic movements. Unfortunately, the patient still possessed significant orofacial dyskinesias and, now able to express a full range of mandibular movement, lacerated her right lower lip in a full-thickness fashion (Fig. 2d) . Two months later, the patient had improved significantly, demonstrating an increased level of alertness and responsiveness without the presence of dystonic movements. She was subsequently transferred to the neurology ward in stable condition for continued convalescence where no further intervention or follow-up was required by the OMFS service.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 366,
+                    "end": 375,
+                    "text": "(Fig. 2a)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1066,
+                    "end": 1078,
+                    "text": "(Fig. 2b, c)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1380,
+                    "end": 1389,
+                    "text": "(Fig. 2d)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Case 1"
+        },
+        {
+            "text": "A previously healthy nulliparous 25-year-old woman presented to a peripheral community hospital with new-onset right-sided twitching, generalized tonicclonic seizures, confusion and hallucinations. CT imaging of the head was negative for structural abnormalities, while US imaging of the pelvis revealed a mass associated with the left ovary. Initial treatment with phenytoin, propofol, valproic acid and clobazam was ineffective and necessitated patient transfer to TWH. Upon arrival, the patient exhibited irregular movement of all limbs and non-purposeful eye movements CT and MRI studies of the brain did not reveal structural lesions nor parenchymal, leptomeningeal or dural enhancement. The patient was intubated and, shortly thereafter, luxated the right maxillary and mandibular central and lateral incisors resulting in marked hemorrhage requiring consultation with the OMFS service (Fig. 3a) . After the extraction of the extremely mobile dentition, a tracheostomy was performed with installation of our oral appliance to mitigate further oral and maxillofacial trauma (Fig. 3b, c) . Repeat US demonstrated a 1.8 centimeter (cm) \u00d7 1.8 cm \u00d7 1.8 cm hypoechoic lesion associated with the left ovary suspicious for an ovarian teratoma. Anti-NMDA receptor antibodies were demonstrated within the CSF confirming the diagnosis of anti-NMDARE. The patient underwent a left laparoscopic salpingo-oophorectomy with histopathology revealing a mature teratoma associated with the left ovary. Unfortunately, the patient continued to deteriorate despite medical and surgical management including several courses of IVIG, PLEX, intravenous steroids, rituximab and a laparoscopic right salpingooophorectomy. Histopathology noted the presence of several cystic follicles and a benign simple cyst with no identifiable neural tissue or teratoma associated with the right ovary. Three months following her original hospital admission, dyskinetic movements and seizures terminated and the patient began to breathe spontaneously. The oral appliance was subsequently removed and the patient was eventually transferred to the neurology ward in stable condition where no further intervention or follow-up by the OMFS service was required. A review of the discharge MRI which captured the temporomandibular joint (TMJ) regions revealed an absence of osseous degeneration of the articulating components of the joints and no discernible disc abnormalities secondary to prolonged oral appliance use (Fig. 4a-d) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 892,
+                    "end": 901,
+                    "text": "(Fig. 3a)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1079,
+                    "end": 1091,
+                    "text": "(Fig. 3b, c)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 2480,
+                    "end": 2491,
+                    "text": "(Fig. 4a-d)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Case 2"
+        },
+        {
+            "text": "Patients diagnosed with anti-NMDARE often suffer from significant involuntary self-inflicted maxillofacial trauma secondary to severe orofacial dyskinesias. We describe the application of a novel oral appliance to manage orofacial dyskinesias in anti-NMDARE patients with several custom mechanical and functional design features. While we demonstrate the efficacy of this appliance in reducing the incidence of oral and maxillofacial trauma, it is not a replacement, but rather, an adjunct for the judicious use of sedative medications to mitigate ataxic movement in this patient population during their hospitalization.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Orofacial dyskinesias are regarded as a characteristic clinical presentation of anti-NMDARE that can result in significant morbidity if not adequately controlled [13, 18] . Despite aggressive supportive care, immunosuppressive agents and tumor resection, many patients with severe disease have prolonged ICU admissions and may require complex sedation regimens to suppress dangerous or injurious movements [1] . In such cases, prolonged use of high-dose sedatives such as propofol, benzodiazepines and ketamine have adverse effects on hemodynamics and respiratory function and may place patients at increased risk of infection and critical illness myopathy. In the setting of anti-NMDARE, the NMDA receptor is internalized in response to the binding of anti-NMDA receptor antibodies. Propofol functions through activation of the gamma-aminobutyric acid (GABA) receptor as well as inhibition of the NR1 subunit of the NMDA receptor and its action can be unpredictable with large and continuous doses in patients afflicted with anti-NMDARE [19] . Ketamine is a non-competitive antagonist of the NMDA receptor and may have unpredictable physiological effects on respiration and hemodynamics in this already fragile patient cohort [20] . Finally, there is the potential to induce or worsen orofacial dyskinesias in the anti-NMDARE patient population when treatment with anticonvulsant medications is required [21, 22] .",
+            "cite_spans": [
+                {
+                    "start": 162,
+                    "end": 166,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 167,
+                    "end": 170,
+                    "text": "18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 406,
+                    "end": 409,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1038,
+                    "end": 1042,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1227,
+                    "end": 1231,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1405,
+                    "end": 1409,
+                    "text": "[21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1410,
+                    "end": 1413,
+                    "text": "22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Despite the prolonged installation of an oral appliance which drastically altered the vertical dimension of occlusion (VDO), clinical assessment of patients treated in this fashion during their consultation for oral rehabilitation after discharge revealed no evidence of TMJ internal derangement. Currently, there is a dearth of well-designed studies which investigate the effect of large changes in VDO and the development of symptoms suggestive of temporomandibular dysfunction (TMD). More subtle changes in VDO have, however, resulted in only transient and mild discomfort in the TMJ region which was unlikely in these cases as our oral appliance was designed in a manner which promoted maximum occlusal stability through significant coronal contact [23] .",
+            "cite_spans": [
+                {
+                    "start": 753,
+                    "end": 757,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Classic wire-based MMF techniques were initially ineffective in establishing occlusal stabilization as they could not completely terminate lateral and protrusive movements in this patient population despite the presence of the majority of their dentition and a stable occlusion. The authors recognize that other methods for occlusal stabilization are available and may have included the use of intermaxillary fixation (IMF) screws or cementation of vacuum-formed splints. Unfortunately, in the setting of maxillofacial trauma, IMF screw failure is generally noted after approximately one month posing a considerable aspiration risk and cement-retained vacuum-formed splints are unable to adequately immobilize unstable [24, 25] . As such, it was anticipated that these MMF treatment options would have quickly failed in this patient population due to the severity of the dyskinetic jaw movements, potentially resulting in further oral and maxillofacial trauma. While these techniques are both technically simple and allow for rapid means of establishing MMF, their touted advantages over wire-based techniques related to oral hygiene maintenance and wire-related complications are contentious in these cases [26, 27] . First, oral hygiene was maintained via chlorhexidine swabbing as well as the avoidance of an oral diet due to the necessity for PEG feeding [28] . Second, injuries to the periodontium caused by interdental wires have been regarded as both temporary and reversible [29] . Third, as in our cases, injury to the clinicians applying interdental wires was mitigated through the practices of double gloving and the use of local anesthetics, deep sedation and, when required, short-acting paralytics [26] . Furthermore, with the use of our MMF technique, ICU staff were comfortable in being tasked to release the intermaxillary fixation wires with a set of wire cutters which were affixed to the head of the bed in the event that prompt removal of the appliance was required. In emergency situations, the removal of a cementretained appliance may have proved both cumbersome and difficult when attempted by non-dental personnel. Finally, the authors caution against the use of common dental bite blocks as well as other devices fabricated from tongue depressors. These devices cannot be rigidly affixed to the dentition which may result in their full or partial expulsion from the oral cavity and cause damage to oral soft tissues or dentition, be ingested or act as a choking hazard.",
+            "cite_spans": [
+                {
+                    "start": 719,
+                    "end": 723,
+                    "text": "[24,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 724,
+                    "end": 727,
+                    "text": "25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1208,
+                    "end": 1212,
+                    "text": "[26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1213,
+                    "end": 1216,
+                    "text": "27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1359,
+                    "end": 1363,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1483,
+                    "end": 1487,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1712,
+                    "end": 1716,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "While the advent of this appliance in relation to managing orofacial dyskinesias in anti-NMDARE patients may appear extraneous given the myriad of critical medical complications associated with this disease process, its importance cannot be overstated. The placement of our oral appliance eliminated the need for management of ingested or aspirated teeth, infection or sepsis, or bleeding episodes requiring transfusion secondary to involuntary self-inflicted oral and maxillofacial trauma. The use of this appliance also afforded a copacetic clinical appearance, easing the anxiety of visiting family members caused by the otherwise alarming degree of dyskinetic jaw activity, especially in those cases where orofacial trauma had already manifested. Overall, the clinical benefit of the appliance allowed for transient weaning of sedative medications to facilitate patient assessment following both medical and surgical therapy without risk of further oral and maxillofacial trauma during lengthy hospitalizations. Our limited experience with this patient population cannot be directly extrapolated to all patients with oral dyskinesias. However, in conjunction with the support of an ICU and immunotherapy with or without tumor ablation, oral appliance therapy was critical for a positive outcome in these patients with significant orofacial dyskinesias secondary to anti-NMDARE. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Immunotherapy for anti-NMDAR encephalitis: a review of paraneoplastic, autoimmune encephalopathy",
+            "authors": [
+                {
+                    "first": "R-F",
+                    "middle": [],
+                    "last": "Tzang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-C",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T-P",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Cancer Res Pract",
+            "volume": "4",
+            "issn": "",
+            "pages": "1--4",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "An update on anti-NMDA receptor encephalitis for neurologists and psychiatrists: mechanisms and models",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dalmau",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Armangu\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Planagum\u00e0",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Radosevic",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mannara",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Leypoldt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Lancet Neurol",
+            "volume": "18",
+            "issn": "",
+            "pages": "1045--57",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Pitfalls in clinical diagnosis of anti-NMDA receptor encephalitis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kaneko",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kaneko",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tominaga",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kanazawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hattori",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ugawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Neurol",
+            "volume": "265",
+            "issn": "",
+            "pages": "586--96",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Acute mechanisms underlying antibody effects in anti-N-methyl-Daspartate receptor encephalitis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Moscato",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Parsons",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dalmau",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Balice-Gordon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Ann Neurol",
+            "volume": "76",
+            "issn": "",
+            "pages": "108--127",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "NMDA receptor internalization by autoantibodies: a reversible mechanism underlying psychosis?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Masdeu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dalmau",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Berman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Trends Neurosci",
+            "volume": "39",
+            "issn": "",
+            "pages": "300--310",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Anti-NMDA receptor encephalitis-The disorder, the diagnosis and the immunobiology",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Peery",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dunn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fritzler",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Pr\u00fcss",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Souza",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Autoimmunity Rev",
+            "volume": "11",
+            "issn": "",
+            "pages": "863--72",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "The witchcraft of encephalitis in Salem",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zandi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Neurol",
+            "volume": "264",
+            "issn": "",
+            "pages": "1529--1560",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Critical care management of anti-N-methyl-d-aspartate receptor encephalitis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Neyens",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gaskill",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Chalela",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Crit Care Med",
+            "volume": "46",
+            "issn": "",
+            "pages": "1514--1535",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Anti-NMDAreceptor encephalitis: a severe, multistage, treatable disorder presenting with psychosis",
+            "authors": [
+                {
+                    "first": "K-P",
+                    "middle": [],
+                    "last": "Wandinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Saschenbrecker",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Stoecker",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dalmau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Neuroimmunol",
+            "volume": "231",
+            "issn": "",
+            "pages": "86--91",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Brain MRI characteristics of patients with anti-N-methyl-D-aspartate receptor encephalitis and their associations with 2-year clinical outcome",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am J Neuroradiol",
+            "volume": "39",
+            "issn": "",
+            "pages": "824--833",
+            "other_ids": {
+                "DOI": [
+                    "10.3174/ajnr.A5593"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "EEG findings in NMDA encephalitis-a systematic review",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gillinder",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Warren",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hartel",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dionisio",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "&apos;gorman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Seizure",
+            "volume": "65",
+            "issn": "",
+            "pages": "20--24",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Extreme delta brush; a unique EEG pattern in adults with anti-NMDA receptor encephalitis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Schmitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pargeon",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Frechette",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hirsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dalmau",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Friedman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Neurology",
+            "volume": "79",
+            "issn": "",
+            "pages": "1094--100",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Balice-Gordon R. Clinical experience and laboratory investigations in patients with anti-NMDAR encephalitis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dalmau",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lancaster",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Martinez-Hernandez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Rosenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Lancet Neurol",
+            "volume": "10",
+            "issn": "",
+            "pages": "63--74",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Anti-N-methyl-D-aspartate receptor encephalitis in adult patients requiring intensive care",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Montmollin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Demeret",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Brul\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Conrad",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dailler",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Lerolle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "195",
+            "issn": "",
+            "pages": "491--500",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Management of refractory orofacial dyskinesia caused by anti-n-methyl-d-aspartate receptor encephalitis using botulinum toxin",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Poonit",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Front Neurol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "EMG, bite force, and elongation of the masseter muscle under isometric voluntary contractions and variations of vertical dimension",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Manns",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Miralles",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Palazzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "J Prosthet Dent",
+            "volume": "42",
+            "issn": "",
+            "pages": "674--82",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Effect of jaw opening on masticatory muscle EMG-force characteristics",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lindauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gay",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rendell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Dent Res",
+            "volume": "72",
+            "issn": "",
+            "pages": "51--56",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "N-methyld-aspartate antibody encephalitis: temporal progression of clinical and paraclinical observations in a predominantly non-paraneoplastic disorder of both sexes",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Irani",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Waters",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zuliani",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Maxwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zandi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Brain",
+            "volume": "133",
+            "issn": "",
+            "pages": "1655--67",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Propofol inhibits phosphorylation of N-methyl-d-aspartate receptor NR1 subunits in neurons",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kingston",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Arora",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Fibuch",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Anesthesiology",
+            "volume": "104",
+            "issn": "",
+            "pages": "763--772",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/00000542-200604000-00021"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Ketamine-more mechanisms of action than just NMDA blockade",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sleigh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Harvey",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Voss",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Denny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Trends Anaesth Crit Care",
+            "volume": "4",
+            "issn": "",
+            "pages": "76--81",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Anticonvulsant-induced dyskinesias: a comparison with dyskinesias induced by neuroleptics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chadwick",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Reynolds",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Marsden",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "J Neurol Neurosurg Psychiatry",
+            "volume": "39",
+            "issn": "",
+            "pages": "1210--1218",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Tardive dyskinesia associated with atypical antipsychotics: prevalence, mechanisms and management strategies",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stegmayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Walther",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Van Harten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "CNS Drugs",
+            "volume": "32",
+            "issn": "",
+            "pages": "135--182",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Does altering the occlusal vertical dimension produce temporomandibular disorders? A literature review",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Moreno-Hay",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Okeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Oral Rehabil",
+            "volume": "42",
+            "issn": "",
+            "pages": "875--82",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Are maxillomandibular fixation screws a better option than erich arch bars in achieving maxillomandibular fixation? A randomized clinical study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Datarkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Borle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Oral Maxillofac Surg",
+            "volume": "69",
+            "issn": "",
+            "pages": "3015--3023",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Closed treatment of condylar fractures by intermaxillary fixation with thermoforming plates",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Terai",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shimahara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Br J Oral Maxillofac Surg",
+            "volume": "42",
+            "issn": "",
+            "pages": "61--64",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Incidence and patterns of needlestick injuries during intermaxillary fixation",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bali",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Br J Oral Maxillofac Surg",
+            "volume": "49",
+            "issn": "",
+            "pages": "221--225",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Treatment of mandibular fractures using intermaxillary fixation and vacuum forming splints: a comparative study",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Trupthi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chowdhury",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Maxillofac Oral Surg",
+            "volume": "13",
+            "issn": "",
+            "pages": "519--543",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Oral decontamination with chlorhexidine reduces the incidence of ventilator-associated pneumonia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ajam",
+                    "middle": [],
+                    "last": "Van Der Ven",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hak",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hca",
+                    "middle": [],
+                    "last": "Joore",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kaasjager",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Smet",
+                    "suffix": ""
+                },
+                {
+                    "first": "Aga",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "173",
+            "issn": "",
+            "pages": "1348--55",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Interdental wiring in jaw fractures: effects on teeth and surrounding tissues after a one-year follow-up",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Thor",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Andersson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Br J Oral Maxillofac Surg",
+            "volume": "39",
+            "issn": "",
+            "pages": "398--401",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Right lateral oblique (a), frontal (b) and left lateral oblique (c) images of the intraoral appliance on mounted study models",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Clinical photograph (a) demonstrating the loss of mandibular central and lateral incisors and right anterior tongue trauma two weeks following the initial orofacial dyskinesia-induced trauma. Clinical photograph (b) demonstrating the installation of continuous maxillary and interrupted mandibular Erich arch bars with wires prepared for the ligation of the intraoral appliance. Clinical photograph (c) of the installed intraoral appliance. Clinical photograph (d) of an orofacial dyskinesia-induced full-thickness laceration of the right lower lip following the removal of the appliance as well as lip smacking and chewing motions which were initially managed with clonazepam and clonidine.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Clinical photograph (a) demonstrating the loss of the right maxillary and mandibular central and lateral incisors and right anterior tongue laceration following orofacial dyskinesia-induced trauma. Clinical photograph (b) demonstrating the installation of continuous maxillary and mandibular Erich arch bars. Clinical photograph (c) of the installed intraoral appliance",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Selected T1-weighted (a, b) and contrast-enhanced three-dimensional fast spoiled gradient-echo (c, d) magnetic resonance imaging of the left (a, c) and right (b, d) temporomandibular joints demonstrating normal osseous anatomy and articular disc position mandibular fractures",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "anti-NMDARE: Anti-N-methyl-d-aspartate receptor encephalitis; BoNT-A: Botulinum neurotoxin serotype A; cm: Centimeters; CSF: Cerebrospinal fluid; CT: Computed tomography; ECT: Electroconvulsive therapy; EEG: Electroencephalogram; FLAIR: Fluid-attenuated inversion recovery; GABA: Gamma-aminobutyric acid; IgG 1 : Immunoglobulin G 1 ; ICU: Intensive care unit; IMF: Intermaxillary fixation; IVIG: Intravenous immunoglobulin; LP: Lumbar puncture; mm: Millimeters; MMF: Maxillomandibular fixation; MRI: Magnetic resonance imaging; NMDA: N-Methyl-d-aspartate; OMFS: Oral and maxillofacial surgery; PEG: Percutaneous endoscopic gastrostomy; PET: Positron emission tomography; PLEX: Plasma exchange; TMD: Temporomandibular dysfunction; TMJ: Temporomandibular joint; TWH: Toronto Western Hospital; US: Ultrasound; VDO: Vertical dimension of occlusion.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors are thankful to Drs. R. E. Wood, M. Laschuk and J. Metcalfe (Department of Dental Oncology and Maxillofacial Prosthetics, Princess Margaret Cancer Centre) for their participation in the care of these patients. We would also like to extend our deepest gratitude to Mr. Joseph Li (Department of Dental Oncology and Maxillofacial Prosthetics, Princess Margaret Cancer Centre) for the construction of the oral appliances which, without doubt, significantly reduced the degree of orofacial trauma suffered by these patients. Finally, we sincerely appreciate the confidence of the physicians of the Medical Surgical/ Neuroscience Intensive Care Unit at the Toronto Western Hospital in our service to aid in the care of their patients. 1 ",
+            "cite_spans": [
+                {
+                    "start": 741,
+                    "end": 742,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions JWC prepared the manuscript. JWC, PJB, JMS and DKL revised the manuscript. All authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "Ethics approval and consent to participate Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declarations"
+        },
+        {
+            "text": "Written consent was obtained for the publication of all clinical photographs and radiographic images.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        },
+        {
+            "text": "\u2022 fast, convenient online submission ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author details"
+        }
+    ]
+}

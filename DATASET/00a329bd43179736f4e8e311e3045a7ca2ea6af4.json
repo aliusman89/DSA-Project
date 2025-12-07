@@ -1,0 +1,2303 @@
+{
+    "paper_id": "00a329bd43179736f4e8e311e3045a7ca2ea6af4",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Stella",
+                "middle": [],
+                "last": "Stabouli",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hiroshima University",
+                    "location": {
+                        "postCode": "734-8551",
+                        "settlement": "Hiroshima",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The high prevalence of dyslipidemia in children is a serious problem in modern society [1] ; a previous study conducted on a cohort of 9-10-year-old Japanese children showed that 15% of the children had increased total cholesterol levels [2] . The historical trends of changes in cholesterol levels in children and adolescents have been investigated, but the results vary depending on the study [3] [4] [5] [6] [7] .",
+            "cite_spans": [
+                {
+                    "start": 87,
+                    "end": 90,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 238,
+                    "end": 241,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 395,
+                    "end": 398,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 399,
+                    "end": 402,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 403,
+                    "end": 406,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 407,
+                    "end": 410,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 411,
+                    "end": 414,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Many of the hypercholesterolemia cases in children represent familial hypercholesterolemia [8] . Notably, cholesterol levels in children change with age and may decrease due to growth. Therefore, the risk of hypercholesterolemia is often considered to be low in children. However, the changes in cholesterol levels in community-living healthy children have not been definitively elucidated.",
+            "cite_spans": [
+                {
+                    "start": 91,
+                    "end": 94,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In modern society, the lifestyle of children has started to resemble that of adults, with reduced physical activity, a lack of exercise, and altered nutritional habits [9, 10] . Such significant changes pose crucial challenges regarding the risk of developing hyperlipidemia, obesity, and other lifestyle-associated medical conditions. Thus, childhood obesity has increasingly become a concern [11, 12] . Moreover, a sedentary lifestyle and unhealthy nutrition may increase cholesterol levels. In addition, because of the lockdown situation due to the COVID-19 pandemic, the use of electronic devices, particularly tablets and smartphones, has increased [13] . Isolation and the prolonged sitting and use of electronic devices for long periods have increased the prevalence of sedentary habits and lifestyles in children. In light of these developments, the Japanese Ministry of Education, Culture, Sports, Science and Technology has emphasized the need for the resumption of sports [14] . Furthermore, one previous study noted an association between cholesterol levels and nutritional knowledge as well as behaviors in children and their guardians [2] . Another study by Scherr and colleagues iterated the significance of lifestyle factors for cholesterol levels in children [15] .",
+            "cite_spans": [
+                {
+                    "start": 168,
+                    "end": 171,
+                    "text": "[9,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 172,
+                    "end": 175,
+                    "text": "10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 394,
+                    "end": 398,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 399,
+                    "end": 402,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 654,
+                    "end": 658,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 983,
+                    "end": 987,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1149,
+                    "end": 1152,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1276,
+                    "end": 1280,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Childhood hypercholesterolemia has been associated with long-term health risks. Thus, LDL-cholesterol levels in children were correlated with the intima-media thickness of the common carotid artery, a preclinical marker of atherosclerosis, in adulthood [16] . It has been reported that cholesterol screening in childhood may facilitate the preventive management of cardiovascular disorders in adulthood [17] . However, the early prevention of hypercholesterinemia in children has not been emphasized. Since it is difficult to test healthy children and to evaluate the effectiveness of health guidance, the active engagement of children attending school in prophylactic activities has been impeded [18] . Children should be motivated to participate in hypercholesterolemia-preventing activities that would help them establish favorable lifestyle habits by adulthood. Moreover, the characteristics of younger children who need assistance with establishing healthy lifestyle habits should be clarified, which would allow for the prioritizing of health guidance provisions in schools without performing blood tests [19] .",
+            "cite_spans": [
+                {
+                    "start": 253,
+                    "end": 257,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 403,
+                    "end": 407,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 697,
+                    "end": 701,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1111,
+                    "end": 1115,
+                    "text": "[19]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "This study aimed to determine whether cholesterol levels change with growth and to clarify the situation related to their change in order to enable the development of materials for the health guidance of 9-10-year-old elementary school students.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Children of the applicable grade, who lived in Akitakata City, attended public schools, and were 9-10 years old, were recruited in compliance with the mayor's policy that emphasized disease prevention. The mayor was concerned regarding the prevalence of lifestyle-related diseases among young people, which would put pressure on medical expenses. Another concern regarding Akitakata City was its declining population. Akitakata City is a mountain city with population of 27,000 people and a population density of 50.1 people/km 2 , which is much lower than that of Hiroshima City (1318 people/km 2 ). The declining population will disrupt the mutual aid system for medical expenses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Participants"
+        },
+        {
+            "text": "The participating children and their parents gave consent for the examination. The Municipal Corporation of Akitakata City agreed to the data analysis. In all three years of primary assessments (2014, 2015, and 2016), the children assessed were 9-10 years old, and were all in the same grade (fourth grade of elementary school). Children who were in the fourth grade ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Participants"
+        },
+        {
+            "text": "The same survey was conducted in the fourth grade of elementary school and first year of junior high school. The survey was developed as a collaboration among schoolteachers, health care nurses, and our team. It was based on the Japanese Ministry of Education, Culture, Sports, Science and Technology's survey of children. The questionnaires were filled out by the children themselves at school and were collected by teachers. The data entry was completed by a contracted company, and its correctness was verified. The variables analyzed in the questionnaire are presented in Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 576,
+                    "end": 583,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Study Survey"
+        },
+        {
+            "text": "Blood tests were limited to the laboratory analyses included in the general health checkups for adults due to cost considerations. For blood testing, 10-15 mL blood was withdrawn using venipuncture. The blood samples were handled in accordance with the general health examination procedures in Japan and sent by the school for analysis to a company contracted by the municipality. The participants underwent blood tests twice: in the fourth year of elementary school and first year of junior high school.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Overview"
+        },
+        {
+            "text": "A guide was mailed to the schools from the city's health center. The guide described the method for blood withdrawal and preparation for it as well as the details of the analysis. It reminded children to check whether they had an allergy to rubbing alcohol. Moreover, it indicated that the cost of the test would be paid in full by the local government, and that the data obtained would be used by the school health teachers to develop guidelines for the children. Further, it indicated that detailed analysis would be conducted by Hiroshima University. Finally, it also advised that the parents and children should be explicitly asked whether they consented to the procedure. The guide also advised that, as a precaution, if a child refused the test on the planned day, it should not be conducted. The study information was also distributed to the parents by the local government followed by registration for blood sampling of the children performed by their parents. The children watched an educational video on blood collection prior to the procedure. For cholesterol analysis, total cholesterol was assessed using the cholesterol oxidase method. In Japan, total cholesterol levels are categorized as follows: acceptable <190 mg/dL, borderline 190\u2212219 mg/dL, and high >220 mg/dL [20] . The school physician holistically determined the need for treatment based on the reference data for 10-year-old and for 13-year-old children published by the National Center for Child Health and Development.",
+            "cite_spans": [
+                {
+                    "start": 1282,
+                    "end": 1286,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Overview"
+        },
+        {
+            "text": "Weight, height, and BMI values were also included in the study. Japanese children are required to undergo height and weight measurements at least once a year before June. The data were maintained by school health teachers. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Overview"
+        },
+        {
+            "text": "The same survey was conducted in the fourth grade of elementary school and first year of junior high school. The survey was developed as a collaboration among schoolteachers, health care nurses, and our team. It was based on the Japanese Ministry of Education, Culture, Sports, Science and Technology's survey of children. The questionnaires were filled out by the children themselves at school and were collected by teachers. The data entry was completed by a contracted company, and its correctness was verified. The variables analyzed in the questionnaire are presented in Table 1 . ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 576,
+                    "end": 583,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Study Survey"
+        },
+        {
+            "text": "The statistical analysis was performed using the data of participants whose data from both the surveys and blood tests were available for both evaluation timepoints. The need for guidance due to cholesterol changes according to the children's ages and the association of increased cholesterol levels with their appearance and habits were analyzed using two-sample and paired t-tests. The association between changes in the cholesterol level and growth related to height, weight, and body mass index (BMI) was analyzed by a Pearson correlation analysis, and the Pearson correlation coefficient was defined as r. Multiple regression analysis was also conducted to evaluate lifestyle habits due to the difference between two cholesterol levels with the change in cholesterol levels as the objective variable and parameters measured in the fourth grade of elementary school as explanatory variables. Finally, we analyzed whether appearance and habits determine the need for health guidance without a blood test. The STATA statistical software was used for statistical analysis. p-values < 0.05 were considered statistically significant. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "The demographic characteristics of the participants in the study, who were in the fourth grade of elementary school, are presented in Table 1 . The study population included similar numbers of male and female students. The majority of the participants had bowel movements every day but not at a fixed time (50.5%); 49.9% of the participants were satisfied with their body shape, and 67.5% of the individuals included in the study had never contemplated losing weight. Moreover, the amount of time spent on games, TV, the internet, smartphones, or phones each day after returning from school had large variations. The majority of participants (61.5%) did not know about lifestyle-related diseases. The height, weight, BMI values, BMI z-scores, and height z-scores of the participants in the fourth grade of elementary school and first year of junior high school are presented in Table 2 . ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 134,
+                    "end": 141,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 878,
+                    "end": 885,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Demographic Characteristics of the Study Participants"
+        },
+        {
+            "text": "The mean cholesterol level in the fourth grade of elementary school was 174 mg/dL (SD 24.8 mg/dL). It decreased to 166 mg/dL in the first year of junior high school (SD 24.7 mg/dL) ( Table 3) . A statistically significant difference was found between the cholesterol values at the two measurement timepoints (p < 0.0001) using t-test. Longitudinal changes in serum cholesterol levels and their association with the demographic and lifestyle characteristics of the participating children were analyzed using two-sample t-tests ( Table 4 ). The total cholesterol levels significantly decreased from the fourth grade of primary school until the first year of junior high school (p < 0.0001). The reduction in total cholesterol levels was significant in both boys (p < 0.0001) and girls (p = 0.0299). Regarding bowel movements, the reduction in cholesterol levels was significant in individuals who had bowel movements every day but not in those who had bowel movements less often. Interestingly, cholesterol levels decreased in participants who wanted to lose weight or thought that their body shape should be as it is, but not in individuals who wanted to gain weight. Children who spent at least a little time but less than 3 h per day on a video game, computer, television, or phone showed a decrease in cholesterol levels. Particularly, a reduction in cholesterol levels was observed in individuals who considered themselves healthy sometimes or always. Interestingly, a cholesterol level reduction was detected in individuals who could not explain lifestyle-related diseases at the beginning of the study. Table 5 describes the analysis of the correlation between cholesterol levels and changes related to growth and weight with continuous variables. The weight and cholesterol level changes (p = 0.0002) as well as weight and cholesterol levels in the first year of junior high school (p = 0.0402) were negatively correlated. In the first year of junior high school (p = 0.0369), cholesterol levels and height were negatively correlated. Moreover, there were strong correlations among cholesterol levels and their changes. The correlation between total cholesterol levels in the fourth grade of elementary school and their changes was negative, and the correlation between total cholesterol levels in the first year of junior high school and their changes was positive (Table 5 ). Abbreviations: BMI = body mass index; TC = total cholesterol; timepoint 1 = fourth grade of elementary school; timepoint 2 = first year of junior high school. Note: Pearson product moment correlation coefficient analysis was conducted; r is the product moment correlation coefficient.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 183,
+                    "end": 191,
+                    "text": "Table 3)",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 528,
+                    "end": 535,
+                    "text": "Table 4",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 1608,
+                    "end": 1615,
+                    "text": "Table 5",
+                    "ref_id": "TABREF5"
+                },
+                {
+                    "start": 2372,
+                    "end": 2380,
+                    "text": "(Table 5",
+                    "ref_id": "TABREF5"
+                }
+            ],
+            "section": "Longitudinal Cholesterol Level Changes and Their Relationship with Demographic and Lifestyle Characteristics"
+        },
+        {
+            "text": "The baseline factors predicting changes in cholesterol levels revealed by a multivariable regression analysis are presented in Table 6 . Weight was the factor that most strongly negatively predicted the reduction in cholesterol levels (p < 0.001), meaning that in individuals with greater weight, the cholesterol levels were less likely to be reduced. There was a positive predictive effect of height (p = 0.041), indicating a higher likelihood of cholesterol level reduction in taller individuals. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 127,
+                    "end": 134,
+                    "text": "Table 6",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "Factors Predicting Changes in Cholesterol Levels Revealed by Multivariable Regression Analysis"
+        },
+        {
+            "text": "There is an urgent need to understand how cholesterol levels change in children and adolescents and to elucidate the factors influencing these changes. Our survey and analysis showed that cholesterol levels decrease in children from the fourth year of primary school until the first year of junior high school. In particular, weight was the most consistent factor associated with cholesterol levels; lower weight was a predictor of a significant cholesterol level reduction. The findings of this study support the need for teachers and public health authorities to instruct children whose cholesterol level changes are unpredictable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The changes in lifestyle in modern society that also affect children have caused concerns regarding the incidence of dyslipidemia in the pediatric population. Studies from different geographic areas demonstrated an increased prevalence of high cholesterol levels among children [2, 21, 22] . Moreover, the risk of dyslipidemia in children is a strong argument for the implementation of cholesterol screening [23] . Nutrient-gene interac-tions should also be considered to fully understand the complexity of cholesterol level regulation [24] .",
+            "cite_spans": [
+                {
+                    "start": 278,
+                    "end": 281,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 282,
+                    "end": 285,
+                    "text": "21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 286,
+                    "end": 289,
+                    "text": "22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 408,
+                    "end": 412,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 536,
+                    "end": 540,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Previous studies indicated an association between lifestyle factors and cholesterol levels in children, suggesting the significance of nutritional knowledge, behavior, and physical activity for the maintenance of cholesterol levels within the reference range [2, 12, [25] [26] [27] [28] . Moreover, an association between obesity and dyslipidemia has been observed in pediatric populations [22] . Furthermore, the age at which the BMI increases in children is apparently also important for tackling the risk of metabolic syndrome [29] . During adolescence, fat distribution is affected, and adiponectin reportedly decreases. Adiponectin concentration was shown to play an important role in lipid metabolism [30] . Moreover, low adiponectin levels were observed in adolescents with a high weight [31] .",
+            "cite_spans": [
+                {
+                    "start": 259,
+                    "end": 262,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 263,
+                    "end": 266,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 267,
+                    "end": 271,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 272,
+                    "end": 276,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 277,
+                    "end": 281,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 282,
+                    "end": 286,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 390,
+                    "end": 394,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 530,
+                    "end": 534,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 707,
+                    "end": 711,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 795,
+                    "end": 799,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The presence of multiple risk factors such as obesity, decreased physical activity levels, and unhealthy dietary habits in children has been correlated with a particularly high atherogenic index [32] . Our findings confirm the important role of weight in cholesterol levels using a prospective design, which enabled us to follow the longitudinal development of cholesterol levels. However, previous studies reported that even young people with normal weight may be at risk for dyslipidemia [33] . Furthermore, height should be considered when analyzing the cholesterol levels of pubertal children [34] ; this idea was also confirmed by our findings. However, our study found no significant association between cholesterol changes and BMI values. The average 50th percentile BMI values for each age in Japan [35] and the BMI values of the subjects in the current study were roughly the same. In other words, children in the target area apparently had BMI values within the average range for Japan.",
+            "cite_spans": [
+                {
+                    "start": 195,
+                    "end": 199,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 490,
+                    "end": 494,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 597,
+                    "end": 601,
+                    "text": "[34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 807,
+                    "end": 811,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "There are still uncertainties regarding the health guidance for overweight children aged 9-10 years. Our findings also show that children with a heavy weight cannot expect a significant decrease in cholesterol levels simply due to growth, but cholesterol levels may be expected to decrease with growth and good habits; thus, children should be provided with specific longitudinal guidance. Accordingly, our results highlight the need to guide children aged 9-10 years regarding health-promoting lifestyle habits. Previous studies indicated that obesity prevention programs may improve the health outcomes in school children [36] . The current investigation suggests that an obesity prevention program intended for younger children may be valuable for improving cholesterol levels, thereby decreasing the risk of cardiovascular disease in adulthood. Although the effect is recognized, the interests of children of this age and their parents are directed towards their educational studies. This is because elementary school students and parents are less aware of the importance of lifestyle-related diseases, which rarely occur in this age group [37] . Reportedly, in preadolescent children, obesity and health risk do not correlate [38] . This risk is believed to be induced by diet and lifestyle until adolescence [30] . The findings of our study support the idea that cholesterol lowering is pronounced in children with good lifestyle habits. This knowledge contributes to the motivation for elementary-school students to develop habits that prevent lifestyle-related diseases. Our study suggests the need of health guidance considering weight and lifestyle in the fourth grade of elementary school.",
+            "cite_spans": [
+                {
+                    "start": 624,
+                    "end": 628,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1144,
+                    "end": 1148,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1231,
+                    "end": 1235,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 1314,
+                    "end": 1318,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Limitations of the study include the relatively low number of laboratory assessments and the fact that self-report measures, which may not realistically represent the children's habits, were used in some cases. Moreover, the regulation of cholesterol levels and the correlation with different factors that influence them may be different at high levels versus normal levels or in obese children versus normal weight children. Finally, the number of participants in some subcategories was low, and the findings should be replicated in larger studies. Future studies should also design and examine the effect of specific lifestyle modifications on the longitudinal cholesterol changes in youth.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our data indicate the significance of weight and lifestyle factors in longitudinal changes in total cholesterol levels in school-aged children. They also show that that children with a heavy weight cannot expect a significant decrease in cholesterol levels simply due to growth, but cholesterol levels may be expected to decrease with growth and good habits. This knowledge is useful for motivating elementary-school students to adopt strategies for the prevention of lifestyle-related diseases. In addition, our findings clearly suggest that lifestyle-related guidance is required from the fourth grade of elementary school. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "High prevalence of dyslipidemia in children and adolescents: Opportunity for prevention",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mangili",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Arq. Bras. Cardiol",
+            "volume": "2020",
+            "issn": "",
+            "pages": "57--58",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Factors affecting children's cholesterol levels with a view to prevent cardiovascular disease-the unique benefits of health screening at the elementary school",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kihara",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kawasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yamasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nishiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rahman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "9",
+            "issn": "",
+            "pages": "172--188",
+            "other_ids": {
+                "DOI": [
+                    "10.4236/health.2017.91012"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Trends in levels of cholesterol in Japanese children from 1993 through",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kouda",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tokunaga",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Epidemiol",
+            "volume": "14",
+            "issn": "",
+            "pages": "78--82",
+            "other_ids": {
+                "DOI": [
+                    "10.2188/jea.14.78"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Trends in serum lipid levels of a 10-and 13-year-old population in Fukuroi City",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kouda",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Iki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fujita",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ohara",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tachiki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nishiyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Epidemiol",
+            "volume": "30",
+            "issn": "",
+            "pages": "7724--7729",
+            "other_ids": {
+                "DOI": [
+                    "10.2188/jea.JE20180164"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Trends in levels of lipids and apolipoprotein B in US youths aged 6 to 19 years",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Perak",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ning",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kit",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "De Ferranti",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Van Horn",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wilkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lloyd-Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "",
+            "volume": "321",
+            "issn": "",
+            "pages": "1895--1905",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2019.4984"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Declining cholesterol levels in US youths: A reason for optimism",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "De Ferranti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "JAMA",
+            "volume": "308",
+            "issn": "",
+            "pages": "621--622",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2012.9621"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Abnormal cholesterol among children and adolescents in the United States",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kit",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Carroll",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "NCHS Data Brief",
+            "volume": "228",
+            "issn": "",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Familial hypercholesterolaemia in children and adolescents: Gaining decades of life by optimizing detection and treatment",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wiegman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gidding",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Watts",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chapman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Ginsberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cuchel",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ose",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Averna",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Boileau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bor\u00e9n",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Eur. Heart J",
+            "volume": "36",
+            "issn": "",
+            "pages": "2425--2437",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/eurheartj/ehv157"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Identifying patterns of lifestyle behaviours among children of 3 years old",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Jansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Van Grieken",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Vlasblom",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Boere-Boonekamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hoir",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Raat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur. J. Public Health",
+            "volume": "30",
+            "issn": "",
+            "pages": "1115--1121",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/eurpub/ckaa109"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Daily Life of an Elementary School Pupil in Japan",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Trends in obesity and blood lipid abnormalities in school-age children in Japan",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Morisaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Piedvache",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Harada",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Urayama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Pediatrics Int",
+            "volume": "63",
+            "issn": "",
+            "pages": "825--832",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/ped.14544"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Use of body mass index and percentage overweight cutoffs to screen Japanese children and adolescents for obesity-related risk factors",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Okuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sugiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Kunitsugu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hinoda",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Okuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shirabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Yoshitake",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hobara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Epidemiol",
+            "volume": "20",
+            "issn": "",
+            "pages": "46--53",
+            "other_ids": {
+                "DOI": [
+                    "10.2188/jea.JE20090036"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The Image of the Transformation of Learning Brought by \"1 Device for 1 Student with a High-Speed Network",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Education in Japan beyond the Crisis of COVID-19-Leave No One Behind",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Lipid profile analysis in school children",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Scherr",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Magalh\u00e3es",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Malheiros",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Arq. Bras. Cardiol",
+            "volume": "89",
+            "issn": "",
+            "pages": "73--78",
+            "other_ids": {
+                "DOI": [
+                    "10.1590/S0066-782X2007001400001"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Cardiovascular risk factors in childhood and carotid artery intima-media thickness in adulthood: The Cardiovascular Risk in Young Finns Study",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Raitakari",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Juonala",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "K\u00e4h\u00f6nen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Taittonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Laitinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "M\u00e4ki-Torkko",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "J\u00e4rvisalo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Uhari",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jokinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "R\u00f6nnemaa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "JAMA",
+            "volume": "290",
+            "issn": "",
+            "pages": "2277--2283",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.290.17.2277"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "The rationale for universal lipid screening and treatment in children",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Benuck",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Point",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Clin. Lipidol",
+            "volume": "9",
+            "issn": "",
+            "pages": "93--100",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacl.2015.03.104"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Comparing costs and benefits over a 10 year period of strategies for familial hypercholesterolaemia screening",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Marks",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Thorogood",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Neil",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wonderling",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Humphries",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Public Health Med",
+            "volume": "25",
+            "issn": "",
+            "pages": "47--52",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/pubmed/fdg010"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "New criteria of normal serum lipid levels in Japanese children: The nationwide study",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Okada",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Murata",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yamauchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Harada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Pediatrics Int",
+            "volume": "44",
+            "issn": "",
+            "pages": "596--601",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1442-200X.2002.01634.x"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Serum lipid profiles including non-high density lipoprotein cholesterol levels in Turkish school-children",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "U\u00e7ar",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Kili\u00e7",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Dinleyici",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Colak",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "G\u00fcne\u015f",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Anadolu Kardiyol. Derg",
+            "volume": "7",
+            "issn": "",
+            "pages": "415--420",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Distribution and correlates of non-high-density lipoprotein cholesterol and triglycerides in Lebanese school children",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Gannag\u00e9-Yared",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Farah",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Chahine",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Balech",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ibrahim",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Asmar",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Barakett-Hamad\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jambart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Clin. Lipidol",
+            "volume": "10",
+            "issn": "",
+            "pages": "378--385",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacl.2015.12.018"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Universal cholesterol screening of children in community-based ambulatory pediatric clinics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matches",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Leung-Pineda",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hamilton",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mcneal",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Bowman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Clin. Lipidol",
+            "volume": "9",
+            "issn": "",
+            "pages": "88--92",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacl.2015.05.006"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Rapid westernization of children's blood cholesterol in 3 countries: Evidence for nutrient-gene interactions?",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Couch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Cross",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kida",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ros",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Plaza",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shea",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Deckelbaum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am. J. Clin. Nutr",
+            "volume": "72",
+            "issn": "",
+            "pages": "1266--1274",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ajcn/72.5.1266s"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Association between serum lipid levels in Greek children with dyslipidemia and Mediterranean diet adherence, dietary habits, lifestyle and family focioeconomic factors",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lampropoulou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chaini",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Rigopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Evangeliou",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Papadopoulou-Legbelou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Koutelidakis",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Nutrients",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/nu12061600"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Efficacy and safety of lowering dietary intake of total fat, saturated fat, and cholesterol in children with elevated LDL cholesterol: The Dietary Intervention Study in Children",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Obarzanek",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hunsberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Van Horn",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hartmuller",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Barton",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Stevens",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Kwiterovich",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jr",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Franklin",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jr",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Kimm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am. J. Clin. Nutr",
+            "volume": "72",
+            "issn": "",
+            "pages": "1332--1342",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ajcn/72.5.1332s"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Consumption of ultra-processed food products and its effects on children's lipid profiles: A longitudinal study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Rauber",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Campagnolo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hoffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Vitolo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nutr. Metab. Cardiovasc. Dis",
+            "volume": "25",
+            "issn": "",
+            "pages": "116--122",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.numecd.2014.08.001"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Longitudinal changes of lipid profile in the Lebanese pediatric population",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Saad\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sleilaty",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Gannag\u00e9-Yared",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Lipids Health Dis",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12944-019-0991-x"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Relation of adiposity rebound age to serum small dense low-density lipoprotein in young childhood",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yamazaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Dokkyo. J. Med. Sci",
+            "volume": "35",
+            "issn": "",
+            "pages": "7--12",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The metabolic syndrome in children and adolescents-an IDF consensus report",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zimmet",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Alberti",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Kaufman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tajima",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Silink",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Arslanian",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Caprio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Pediatric Diabetes",
+            "volume": "8",
+            "issn": "",
+            "pages": "299--306",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1399-5448.2007.00271.x"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Higher adiponectin concentrations are associated with reduced metabolic syndrome risk independently of weight status in Brazilian adolescents",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sparrenberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sbaraini",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Cureau",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tel\u00f3",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bahia",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Schaan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Diabetol. Metab. Syndr",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s13098-019-0435-9"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Tracking of cardiovascular risk factors and a cohort study on hyperlipidemia in rural schoolchildren in Japan",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Okamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Suyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Miyamoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Epidemiol",
+            "volume": "10",
+            "issn": "",
+            "pages": "255--261",
+            "other_ids": {
+                "DOI": [
+                    "10.2188/jea.10.255"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Lipid temporal trends in normal-weight youth",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Zachariah",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shittu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Am. Heart J",
+            "volume": "231",
+            "issn": "",
+            "pages": "68--72",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ahj.2020.10.050"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Height-specific serum cholesterol levels in pubertal children: Data from population-based Japanese school screening",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fujita",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kouda",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nishio",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Iki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Epidemiol",
+            "volume": "21",
+            "issn": "",
+            "pages": "102--107",
+            "other_ids": {
+                "DOI": [
+                    "10.2188/jea.JE20100108"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Evaluation of the Physique of Japanese Children (Data of 2000) (In Japanese)",
+            "authors": [],
+            "year": 2022,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The impact of a 3-year after-school obesity prevention program in elementary school children",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Vernon",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gutin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Child. Obes",
+            "volume": "8",
+            "issn": "",
+            "pages": "60--70",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/chi.2011.0085"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Using data from patient interactions in primary care for population level chronic disease surveillance: The Sentinel Practices Data Sourcing (SPDS) project. BMC Public Health",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ghosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Charlton",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Girdo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Batterham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2458-14-557"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Metabolic syndrome in a Mediterranean pediatric cohort: Prevalence using International Diabetes Federation-derived criteria and associations with adiponectin and leptin",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Papoutsakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yannakoulia",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ntalla",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Dedoussis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Metabolism",
+            "volume": "61",
+            "issn": "",
+            "pages": "140--145",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.metabol.2011.06.006"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "of elementary school in 2014, 2015, and 2016, would have turned 10 years old during the periods 2 April 2014-1 April 2015; 2 April 2015-1 April 2016; and 2 April 2016-1 April 2017, respectively. They were 3 years older during the second assessments in 2017, 2018, and 2019, respectively. The recruitment procedure is presented inFigure 1.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "A flowchart presenting the recruitment procedure.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "A flowchart presenting the recruitment procedure.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Contributions: Conceptualization, H.K.; methodology, H.K. and S.Y.; formal analysis, H.K., H.S. and S.F.; investigation, H.K. and S.Y.; data curation, S.Y., H.S. and S.F.; writing-original draft preparation, H.K.; writing-review and editing, S.Y., H.S. and S.F.; visualization, H.K.; supervision, H.K.; project administration, H.K.; funding acquisition, H.K. All authors have read and agreed to the published version of the manuscript.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "This research received no external funding. Institutional Review Board Statement: The study was conducted in accordance with the Declaration of Helsinki and approved by the Ethical Committee for Epidemiology of Hiroshima University (protocol code E-535-1; approved on 8 November 2017). Informed Consent Statement: Informed consent was obtained from all subjects involved in the study and their parents. Data Availability Statement: The data are not publicly available because of confidentiality reasons.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Demographic characteristics of the study participants when they were in the fourth grade of elementary school.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Demographic characteristics of the study participants when they were in the fourth grade of elementary school.Have you ever tried to deliberately lose weight?I was told by a hospital or schoolteacher that I was overweight, and I was instructed to do it 2 0.3% I did it because I wanted to lose weight 102 15.7% I wanted to, but I have not done it yet How much time do you spend each day playing video games, on TV, the internet, smartphones/phones, etc. after returning from school?",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Height, weight, and BMI values of the participants.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Cholesterol levels in the analyzed sample.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "t-test comparison between mean total cholesterol levels at two time points.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Correlation between cholesterol levels/changes and continuous growth-and weightrelated variables.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Factors predicting changes in cholesterol levels revealed by multivariable regression analysis.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank the municipality that provided the data for this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments:"
+        },
+        {
+            "text": "The authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest:"
+        }
+    ]
+}

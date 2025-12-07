@@ -1,0 +1,427 @@
+{
+    "paper_id": "009f27c49f442898dac4b85fe0d692e218aabee9",
+    "metadata": {
+        "title": "Breakthrough infections and waning immune responses with ChAdOx1 nCoV-19 or mRNA vaccine in healthcare workers",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "ChAdOx1 or mRNA vaccine, 105 (0.8%) had breakthrough infections. All breakthrough infection cases were asymptomatic or mild illness. Of these, 67 (64%) were females (median age was 36; interquartile range [IQR 28-46]), and 90 (86%) were vaccinated with ChAdOx1 nCoV-19. The number of infections has increased since October ( Figure 1B ). The infection rate increased as time passed after the first vaccination (P for trend < .001 in the ChA-dOx1 group and < .007 in the mRNA vaccine group, respectively, Figure 1C , Table S1 ). There was no difference in the infection rate between the ChAdOx1 vaccine and the mRNA vaccine in each period (.06% vs. .08% in 91-120 days, P = .69;.01% vs..09% in 121-150 days, P = .10; .08% vs. .11% in 151-180 days, P = .66; .09% vs..21% in 181-210 days, P = .26; .19% vs. .54% in 211-240 days; P = .17; .63% vs. .55%; P > .99).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 325,
+                    "end": 334,
+                    "text": "Figure 1B",
+                    "ref_id": null
+                },
+                {
+                    "start": 504,
+                    "end": 513,
+                    "text": "Figure 1C",
+                    "ref_id": null
+                },
+                {
+                    "start": 516,
+                    "end": 524,
+                    "text": "Table S1",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Additionally, a total of 117 HCWs who received the ChA-dOx1 vaccine (n = 82 [70%]) or BNT162b2 vaccine (n = 35 [30%]) and 28 participants with natural SARS-CoV-2 infection were enrolled in this study. Of these 117 HCWs, there were no breakthrough infections during the study period. The baseline characteristics of the natural infection group and the two vaccination groups are shown in Table 1 . In the natural infection group, the median titer of S1-specific IgG peaked at 1 month after infection and significantly decreased by 6 months (1252-106.8 IU/ml, Figure 2A ). At peak immunity, the S1-specific antibody titer was significantly higher in the BNT162b2 group than in the natural infection group; however, the titres were comparable between the two groups at 6 months. The ChAdOx1 group showed a significantly lower S1-specific antibody response than the natural infection group or the BNT162b2 group both at peak immunity and at 6 months. The detailed kinetics of the S1-specific antibody titer over 6 months in the three groups are shown in Figure 3A and Figure S1 . The neutralising antibody titres to the ancestral strain were more durable over 6 months in the natural infection group Hospital day, median (range) 9 (5-24) 14 (9-140) .18",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 387,
+                    "end": 394,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 558,
+                    "end": 567,
+                    "text": "Figure 2A",
+                    "ref_id": null
+                },
+                {
+                    "start": 1050,
+                    "end": 1059,
+                    "text": "Figure 3A",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1064,
+                    "end": 1073,
+                    "text": "Figure S1",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Note: Data represent n (%) unless indicated otherwise. a Included one asymptomatic patient.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(from 2406 at peak to 1870 at 6 months; P = .21) than in the vaccination groups, with a significant decrease in antibody titres (both P < .001, Figure 2B ). The detailed kinetics of neutralising antibody titres to the ancestral strain over 6 months in the three groups are shown in Figure 3B . The neutralising antibody titres to the delta variant at 6 months were significantly higher in the natural infection group (391.1) than in the BNT162b2 (166.5, P = .003) and ChA-dOX1 (110.6, P < .001) groups, while the titres in the two vaccination groups were comparable (P = .17; Figure 2C) . A comparison of antibody responses according to the severity of SARS-CoV-2 infection is shown in the Extended Results section of Supporting Information. Interferon-\u03b3-producing T-cell responses showed a decreasing trend over 6 months in all three groups. At the peak immune response, the BNT162b2 group showed the highest T-cell response (155 SFC/500,000 PBMCs) compared with the natural infection group (50.50 SFC/500,000 PBMCs; P = .02) or the ChA-dOx1 group (84.50 SFC/500,000 PBMCs; P = .26), while the T-cell responses in the natural infection group and the BNT162b2 group were comparable at 6 months (P = .63; Figure 2D , Figure S2 ). Data regarding the duration of the protective effect after ChAdOx1 are limited. In a population-based cohort study from Brazil and Scotland, hospital admissions and death increased 3 months after the second dose of ChAdOx1, 4 suggesting the waning vaccine effectiveness induced by ChAdOx1 vaccination. Moreover, there are a few comparative data for waning immunity between the two vaccine platforms. In this study, we found that the breakthrough infection rate increased as time passed after vaccination, but there was no significant difference in the breakthrough infection rate between HCWs who received ChAdOx1 and those who received mRNA vaccines. Our findings were further consolidated by the results that neutralising antibody levels against the delta variant after BNT162b2 vaccination declined rapidly and were similar at 6 months between the BNT162b2 group and the ChAdOx1 group. However, the antibody titres at 6 months, especially those against the delta variant, were significantly higher in the natural infection group than in either of the COVID-19 vaccination groups, which implies the longevity and robustness of the immune response after natural infection compared with COVID-19 vaccination. Our findings are consistent with recent epidemiological studies that reported long-term protective immunity after SARS-CoV-2 infection, with a more than 80% reduction in the risk of reinfection over 7 months following primary SARS-CoV-2 infection. 3, 5, 6 F I G U R E 2 Humoral and cell-mediated immune responses over 6 months after SARS-CoV-2 natural infection and COVID-19 vaccination. Solid lines indicate the median values. (A) S1-specific IgG antibody. (B) Neutralising antibody against ancestral strain. (C) Neutralising antibody against the delta strain. (D) S1-specific T-cell response",
+            "cite_spans": [
+                {
+                    "start": 1453,
+                    "end": 1454,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 2686,
+                    "end": 2688,
+                    "text": "3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 2689,
+                    "end": 2691,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2692,
+                    "end": 2693,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 144,
+                    "end": 153,
+                    "text": "Figure 2B",
+                    "ref_id": null
+                },
+                {
+                    "start": 282,
+                    "end": 291,
+                    "text": "Figure 3B",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 576,
+                    "end": 586,
+                    "text": "Figure 2C)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1204,
+                    "end": 1213,
+                    "text": "Figure 2D",
+                    "ref_id": null
+                },
+                {
+                    "start": 1216,
+                    "end": 1225,
+                    "text": "Figure S2",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The relatively small sample size of immune response measurements and the different study participants between the two cohorts in our study may limit further interpretation of our results. Additionally, SARS-CoV-2 variant identification was not performed in our study. However, most of the breakthrough infections occurred after August 2021, when the delta variant was dominant in South Korea. Therefore, variants other than the delta variant did not significantly affect our study. In conclusion, we found that the rate of breakthrough infection in ChAdOx1-vaccinated HCWs was similar to that in mRNA-vaccinated HCWs in the delta variant-dominant ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "F I G U R E 2 Continued"
+        },
+        {
+            "text": "There are no conflicts of interest for any of the authors.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C O N F L I C T S O F I N T E R E S T"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Waning immunity after the BNT162b2 vaccine in Israel",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Goldberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mandel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bar-On",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "N Engl J Med",
+            "volume": "385",
+            "issn": "24",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2114228"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Evolution of immune responses to SARS-CoV-2 in mild-moderate COVID-19. Nat Commun",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wheatley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Juno",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41467-021-21444-5"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "SARS-CoV-2 infection rates of antibody-positive compared with antibody-negative healthcare workers in England: a large, multicentre, prospective cohort study (SIREN)",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Foulkes",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Charlett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Lancet",
+            "volume": "397",
+            "issn": "",
+            "pages": "675--684",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(21)00675-9/"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Two-dose ChAdOx1 nCoV-19 vaccine protection against COVID-19 hospital admissions and deaths over time: a retrospective, population-based cohort study in Scotland and Brazil",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Katikireddi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cerqueira-Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Vasileiou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Robertson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Amele",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2022,
+            "venue": "Lancet",
+            "volume": "399",
+            "issn": "",
+            "pages": "25--35",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Assessment of SARS-CoV-2 reinfection 1 year after primary infection in a population in Lombardy, Italy",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vitale",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mumoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Clerici",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Paschale",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Evangelista",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "JAMA Intern Med",
+            "volume": "181",
+            "issn": "10",
+            "pages": "1407--1408",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Antibody status and incidence of SARS-CoV-2 infection in health care workers",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lumley",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "O&apos;donnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Stoesser",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Matthews",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Howarth",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Hatch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "N Engl J Med",
+            "volume": "384",
+            "issn": "6",
+            "pages": "533--540",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "I G U R E 1 (A) Monthly number of healthcare workers (HCWs) who were vaccinated. (B) Monthly number of HCWs with breakthrough infection. (C) The infection rate of HCWs fully vaccinated with ChAdOx1 nCoV-19 and mRNA vaccine stratified by days since first vaccination TA B L E 1 Baseline characteristics of the vaccination group and study participants with natural SARS-CoV-2 infection according to disease severity",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Kinetics of the antibody response induced by SARS-CoV-2 infection and COVID-19 vaccination. Solid lines indicate the median values, and the error bars indicate the 95% confidential intervals. (A) Kinetics of S1-specific IgG antibody. (B) Kinetics of neutralising antibody area despite some different immunogenicity. In addition, neutralising antibody levels against the delta variant after COVID-19 vaccination appear to decline more rapidly than those after natural SAR-CoV-2 infection. A C K N O W L E D G M E N T S This study has been supported by a grant from the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI) funded by the Ministry of Health & Welfare, South Korea (no. HW20C2062) and the National Research Foundation of Korea (NRF) grant funded by the Korea Government (MSIT, No. 2017M3A9G6068254).",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

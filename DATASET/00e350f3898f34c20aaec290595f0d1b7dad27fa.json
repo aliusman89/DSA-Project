@@ -1,0 +1,2803 @@
+{
+    "paper_id": "00e350f3898f34c20aaec290595f0d1b7dad27fa",
+    "metadata": {
+        "title": "The effect of meloxicam on neonatal dairy calves: Immunoglobulin G uptake and preweaning performance",
+        "authors": [
+            {
+                "first": "M",
+                "middle": [
+                    "O C"
+                ],
+                "last": "Clark",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of New Hampshire",
+                    "location": {
+                        "postCode": "03824",
+                        "settlement": "Durham"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "T",
+                "middle": [
+                    "C"
+                ],
+                "last": "Stahl",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of New Hampshire",
+                    "location": {
+                        "postCode": "03824",
+                        "settlement": "Durham"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "P",
+                "middle": [
+                    "S"
+                ],
+                "last": "Erickson",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of New Hampshire",
+                    "location": {
+                        "postCode": "03824",
+                        "settlement": "Durham"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Objectives of this study were to determine effects of meloxicam administered in 2 forms on IgG uptake, growth, and health of preweaned calves. Sixteen Holstein bulls and 14 heifers with a body weight (BW) of 44.3 \u00b1 5.24 kg were blocked by birth date in a randomized complete block design. Calves were removed from the dam before suckling, weighed, and randomly assigned to 1 of 3 treatments: (1) colostrum replacer (CR) at 0 h with no meloxicam (control; CON), (2) 1 mg/kg of BW of meloxicam in pill form before CR (PL), or (3) 1 mg/kg of BW of meloxicam mixed in solution with CR (SL). Calves were fed 675 g of dry matter of CR, providing a volume of 3 L and 180 g of IgG. Blood samples were collected at 0 h to analyze initial IgG and ketone concentrations, and at 6, 12, 18, and 24 h to analyze IgG uptake. At 24 h, calves were fed 432 g of dry matter of 24% crude protein milk replacer (MR) split in 2 feedings, and free choice starter and water until 42 d. Weekly blood samples were analyzed for glucose, plasma urea nitrogen, and ketone concentrations. Time of consumption of MR, BW, length, hip and withers height, and heart girth were recorded weekly. All calves achieved adequate transfer of immunity. Meloxicam did not affect apparent efficiency of absorption, serum total protein, or IgG uptake at 6, 18, and 24 h; however, meloxicam-treated calves had lesser IgG concentrations at 12 h (24.40 and 22.59 g/L for PL and SL, respectively) compared with CON (28.47 g/L). Meloxicam treatment did not affect BW. Calves that received PL tended to gain length at a faster rate (0.24 cm/d) than those that received SL (0.19 cm/d). Meloxicam treatment did not affect MR intake, time of consumption of MR, total dry matter intake, or feed efficiency. Meloxicam-treated calves tended to consume more starter (560.4 and 515.4 g/d for PL and SL, respectively) than those that received CON (452.6 g/d). Ketone levels tended to be greater in meloxicam-treated calves (0.15 and 0.17 mmol/L for PL and SL, respectively), suggesting improved rumen development compared with those that received CON (0.12 mmol/L). Meloxicam treatment did not affect plasma urea nitrogen . Glucose concentrations of calves that received PL (73.2 mg/dL) were less than those that received SL (83.3 mg/dL). Results of this study suggest that meloxicam given at 0 h offers positive effects on starter intake, and possibly rumen development, of preweaned dairy calves. Treatment PL, as compared with SL, offered positive results for rumen development, indicated by lower blood glucose levels.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The ability of the small intestine of the newborn calf to nonselectively absorb immunoglobulin (Michanek et al., 1989 ) is affected by stress or trauma at calving (Beam et al., 2009 ). Parturition, during which a calf is ejected from a controlled, sterile environment into an external environment (Murray and Leslie, 2013) , can become more distressing depending on environmental conditions (Uetake et al., 2014; Murray et al., 2015a,b,c) , intervention from staff (Dufty, 1973) , fetopelvic disproportions, and calf presentation (Mee, 2008; Murray and Leslie, 2013) . Such complications can result in injuries such as fractures, umbilical ruptures (Szenci et al., 1988) , asphyxia, hypoxia (Grove-White, 2000) , respiratory and metabolic acidosis (Szenci, 1982) , aspiration pneumonia, edema, or bleeding (Poulsen and McGuirk, 2009) . These have been observed to disrupt immunoglobulin absorption (Martin et al., 1975; Olson et al., 1980; Besser et al., 1990) and interfere with natural behaviors of the calf such as maintenance of homeostasis (Murray et al., 2015a,b) and the ability to stand, move, and suckle colostrum (Mellor and Stafford, 2004) .",
+            "cite_spans": [
+                {
+                    "start": 95,
+                    "end": 117,
+                    "text": "(Michanek et al., 1989",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 163,
+                    "end": 181,
+                    "text": "(Beam et al., 2009",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 297,
+                    "end": 322,
+                    "text": "(Murray and Leslie, 2013)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 391,
+                    "end": 412,
+                    "text": "(Uetake et al., 2014;",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 413,
+                    "end": 438,
+                    "text": "Murray et al., 2015a,b,c)",
+                    "ref_id": null
+                },
+                {
+                    "start": 465,
+                    "end": 478,
+                    "text": "(Dufty, 1973)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 530,
+                    "end": 541,
+                    "text": "(Mee, 2008;",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 542,
+                    "end": 566,
+                    "text": "Murray and Leslie, 2013)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 649,
+                    "end": 670,
+                    "text": "(Szenci et al., 1988)",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 691,
+                    "end": 710,
+                    "text": "(Grove-White, 2000)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 748,
+                    "end": 762,
+                    "text": "(Szenci, 1982)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 806,
+                    "end": 833,
+                    "text": "(Poulsen and McGuirk, 2009)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 898,
+                    "end": 919,
+                    "text": "(Martin et al., 1975;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 920,
+                    "end": 939,
+                    "text": "Olson et al., 1980;",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 940,
+                    "end": 960,
+                    "text": "Besser et al., 1990)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1045,
+                    "end": 1069,
+                    "text": "(Murray et al., 2015a,b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1123,
+                    "end": 1150,
+                    "text": "(Mellor and Stafford, 2004)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Meloxicam is a nonsteroidal anti-inflammatory drug (NSAID) for reduction of inflammation in humans and animals. It inhibits activity of the enzyme cyclooxygenase-2 (EC number 1.14.99.1; Brideau et al., 2001; Beretta et al., 2005) , interrupting production of chemical messengers that promote inflammation (Hla and Neilson, 1992) . Common indications for which it is an effective treatment are calf diarrhea (Todd et. al, 2010) , dehorning (Heinrich et al., 2009 (Heinrich et al., , 2010 , castration, respiratory disease, and mastitis (Coetzee et al., 2009) .",
+            "cite_spans": [
+                {
+                    "start": 186,
+                    "end": 207,
+                    "text": "Brideau et al., 2001;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 208,
+                    "end": 229,
+                    "text": "Beretta et al., 2005)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 305,
+                    "end": 328,
+                    "text": "(Hla and Neilson, 1992)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 407,
+                    "end": 426,
+                    "text": "(Todd et. al, 2010)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 439,
+                    "end": 461,
+                    "text": "(Heinrich et al., 2009",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 462,
+                    "end": 486,
+                    "text": "(Heinrich et al., , 2010",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 535,
+                    "end": 557,
+                    "text": "(Coetzee et al., 2009)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Calves treated for diarrhea with injectable meloxicam had greater milk intakes, water intakes, and BW gains, as well as consumed starter earlier and faster than control calves, indicating efficacy of the drug for relief of diarrhea (Todd et. al, 2010) . Injectable meloxicam paired with a local block after dehorning reduced pain compared with a nerve block alone (Heinrich et al., 2009 (Heinrich et al., , 2010 , reflected by lower heart and respiratory rates, reduced cortisol (Heinrich et al., 2009) , less ear-flicking, head shaking, activity, and sensitivity to pressure (Heinrich et al., 2010) . Calves administered oral meloxicam after dehorning spent more time at the feed bunk on 2 of 6 d, and more time lying down on 4 of 6 d compared with control calves (Theurer et al., 2012) , demonstrating reduction of stress. Meloxicam can also be dosed in pill form or ground and added to colostrum. When provided in pill, it will likely enter the rumen, as opposed to the abomasum, via the esophageal groove when mixed with colostrum.",
+            "cite_spans": [
+                {
+                    "start": 232,
+                    "end": 251,
+                    "text": "(Todd et. al, 2010)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 364,
+                    "end": 386,
+                    "text": "(Heinrich et al., 2009",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 387,
+                    "end": 411,
+                    "text": "(Heinrich et al., , 2010",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 479,
+                    "end": 502,
+                    "text": "(Heinrich et al., 2009)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 576,
+                    "end": 599,
+                    "text": "(Heinrich et al., 2010)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 765,
+                    "end": 787,
+                    "text": "(Theurer et al., 2012)",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Due to its ability to relieve diarrhea, inflammation, and stress, meloxicam was investigated in relation to newborn calf health and vigor (Murray et al., 2015a,b) . Though improvements in vigor, milk intakes (Murray et al., 2015a) , weight gain, and health (Murray et al., 2015b) were observed, immunoglobulin uptake was not improved. Because serum total protein (STP) concentration is reported to decrease with age, and blood samples were collected at varying times between 24 h to 8 d, results may have been more meaningful if blood collection occurred at specific times (Murray et. al., 2015b) .",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 162,
+                    "text": "(Murray et al., 2015a,b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 208,
+                    "end": 230,
+                    "text": "(Murray et al., 2015a)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 257,
+                    "end": 279,
+                    "text": "(Murray et al., 2015b)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 573,
+                    "end": 596,
+                    "text": "(Murray et. al., 2015b)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Little evidence exists on control of pain and inflammation in the newborn calf. Stress and inflammation from injury during birth inhibits absorption of colostral immunoglobulin (Martin et al., 1975; Olson et al., 1980; Besser et al., 1990) . Following meloxicam treatment, mitigation of inflammation associated with stress and injury inherent to parturition resulted in improved health and performance of calves (Murray et al., 2015a,b,c) . Therefore, it was hypothesized that meloxicam-treated newborn calves would have improved ability to absorb IgG provided by colostrum replacer (CR). Objectives were to determine the following: (1) if meloxicam improved IgG uptake at specific times, and other blood, growth, and intake measures and (2) if there was a difference between pill form versus meloxicam mixed with CR.",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 198,
+                    "text": "(Martin et al., 1975;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 199,
+                    "end": 218,
+                    "text": "Olson et al., 1980;",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 219,
+                    "end": 239,
+                    "text": "Besser et al., 1990)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 412,
+                    "end": 438,
+                    "text": "(Murray et al., 2015a,b,c)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "This experiment was reviewed and approved by the University of New Hampshire Institutional Animal Care and Use Committee (IACUC; Protocol # 180201). It was conducted at the Fairchild Dairy Teaching and Research Center at the University of New Hampshire in Durham, New Hampshire from May to September 2018.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experimental Design"
+        },
+        {
+            "text": "Thirty newborn Holstein calves entered the study when born; then, they were blocked by birth date and randomly assigned to 1 of 3 treatments as follows: (1) CR at 0 h with no meloxicam (control; CON), (2) 1 mg/kg of BW of meloxicam in pill form before consumption of CR (PL), or (3) 1 mg/kg of BW of meloxicam crushed and mixed in solution with CR (SL). Prior to and during the experiment, anticipated parturition dates were used to randomly select calves before birth through pulling respective treatments marked on paper from a box. This was done 10 times to represent the 10 blocks used in the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experimental Design"
+        },
+        {
+            "text": "Dosage was prescribed by the IACAUC veterinarian and supported by similar studies that consider the effects of meloxicam administered to calves orally (Coetzee et al., 2009; Allen et al., 2013; Chibisa et al., 2018; Shock et al., 2020) . A total of 3 experimental units, or 3 calves, each having received 1 of the 3 different treatments, comprised a complete block. Of the 30 calves on study, 5 bulls and 5 heifers received treatment 1, 6 bulls and 4 heifers received treatment 2, and 5 bulls and 5 heifers received treatment 3.",
+            "cite_spans": [
+                {
+                    "start": 151,
+                    "end": 173,
+                    "text": "(Coetzee et al., 2009;",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 174,
+                    "end": 193,
+                    "text": "Allen et al., 2013;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 194,
+                    "end": 215,
+                    "text": "Chibisa et al., 2018;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 216,
+                    "end": 235,
+                    "text": "Shock et al., 2020)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Experimental Design"
+        },
+        {
+            "text": "Dams were moved to individual maternity pens as they neared calving and fitted with tail-mounted calving sensors provided by Moocall Ltd. (Dublin, IE) 48 h before due dates. Sensors measured tail movement patterns triggered by labor contractions, and a text alert was sent 1 h before a predicted calving. Calves born with no assistance (given a score of 1), some minor assistance (given a score of 2), or mechanical assistance (given a score of 3), were used for this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Parturition"
+        },
+        {
+            "text": "Calves were removed from the dam before nursing and within 30 min of birth, weighed (A and A scales, Prospect Park, NJ) for recording of initial BW and placed into individual pens (1 \u00d7 2.15 m). Pens were bedded with kiln-dried sawdust in a naturally ventilated, enclosed calf room. A blood sample was drawn at 0 h, and 1 of 3 treatments was administered. We prepared SCCL Gold CR (The Saskatoon Colostrum Company Ltd., Saskatoon, SK, Canada) by mixing 675 g of CR powder in 2.3 L of warm water to achieve a final volume of 3 L at 22% total solids. This provided calves with a dose of 180 g of IgG as soon as possible following birth, and before 1 h.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Parturition"
+        },
+        {
+            "text": "If calves did not consume the entire volume of CR at birth via nipple bottle, it was kept warm and reintroduced after 1 h. If the remaining CR was refused, it was administered via esophageal tube. Following assignment of treatments, all calves were handled identically and in congruence with standard procedures of the research farm. A quantity of 10 mL of Bar-Guard-99 (Boehringer Ingelheim Vetmedica, Inc., Duluth, GA) and 3 mL of Calf-Guard (Zoetis, Parsippany, NJ) were administered orally following consumption of colostrum to protect against Escherichia coli, bovine rotavirus, and bovine corona virus. Navels were dipped in 7% iodine tincture.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Parturition"
+        },
+        {
+            "text": "Calves remained in the study until 42 d. Beginning at 24 h of life, calves were offered milk replacer (MR; Nurture Calf Formula, Professional 24-17 Bov CFL, Provimi North America Inc., Brookeville, OH), free choice starter grain (F4-C15-01-1X TEXT DX CFL HS, Provimi North America Inc.), and ad libitum access to water. Following the feeding at 24 h, feeding occurred daily at 0600 and 1600 h.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animal Management"
+        },
+        {
+            "text": "Pens were cleaned and bedded twice daily. Animals were dehorned between 2 and 6 wk via cauterization. Most calves presented with diarrhea at some point during the study, typically beginning around 3 wk. Calves with diarrhea that persisted more than 2 to 3 d had body temperatures monitored and were treated with 20 to 40 g of First Arrival Calf Formula Paste (DBC Ag Products, Lancaster, PA), which included probiotics and organic compounds to target pathogens that may cause scours. Doses were determined subject to the discretion of the farm's calf manager with consultation of the IACUC veterinarian and based on the severity of symptoms, such as refusal to drink MR or a sudden drop in starter intake, in addition to diarrhea. Calves that did not respond to initial treatment within 24 h were administered a second bolus of First Arrival Calf Formula Paste. Those with more severe scours and changes in temperament were examined by the IACUC veterinarian and received Diaque nutrition and electrolyte supplement (Boehringer Ingelheim Animal Health USA Inc., Duluth, GA), mixed with warm water and administered orally, as well as an injection of vitamin B. Incidence of treatment of diarrhea was analyzed following completion of the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animal Management"
+        },
+        {
+            "text": "Milk replacer was prepared by mixing 216 g of powder in 1.8 L of warm water. This resulted in a total volume of just over 2 L per feeding, and was fed twice daily. Milk replacer was medicated with lasalocid (106 g/1,000 kg). Milk replacer also contained diflubenzuron (12.0 g/1,000 kg) for prevention of development of house, stable, face, and horn flies in manure. Milk replacer contained 24% CP and 17% fat ( Table 1 ). The amount of MR fed remained consistent throughout the entirety of the experiment, and refusals were measured at both a.m. and p.m. feedings. Feeding rates were based on previous research conducted at our university (Guindon et al., 2015; Chapman et al., 2017a,b; Aragona et al., 2020) . While some studies at our institution have indicated that calves fed MR at a higher rate present with greater gains and feed efficiency during the preweaning period (Guindon et al., 2015; Chapman et al., 2017a) , these studies have also revealed lower starter intakes during the preweaning and weaning phases (Guindon et al., 2015; Chapman et al., 2017a) , poorer nitrogen efficiency (Chapman et al., 2017a) , and greater cortisol levels at weaning, suggestive of more stress due to removal of MR (Guindon et al., 2015) , compared with the control group.",
+            "cite_spans": [
+                {
+                    "start": 639,
+                    "end": 661,
+                    "text": "(Guindon et al., 2015;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 662,
+                    "end": 686,
+                    "text": "Chapman et al., 2017a,b;",
+                    "ref_id": null
+                },
+                {
+                    "start": 687,
+                    "end": 708,
+                    "text": "Aragona et al., 2020)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 876,
+                    "end": 898,
+                    "text": "(Guindon et al., 2015;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 899,
+                    "end": 921,
+                    "text": "Chapman et al., 2017a)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1020,
+                    "end": 1042,
+                    "text": "(Guindon et al., 2015;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1043,
+                    "end": 1065,
+                    "text": "Chapman et al., 2017a)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1095,
+                    "end": 1118,
+                    "text": "(Chapman et al., 2017a)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1208,
+                    "end": 1230,
+                    "text": "(Guindon et al., 2015)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 411,
+                    "end": 418,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Feeding, Sampling, and Analysis"
+        },
+        {
+            "text": "Calves were fed a textured, 18% CP starter grain (Table 1) containing whole corn and oats, molasses, and a protein pellet. Starter was medicated with decoquinate (31.14 g/tonne), and diflubenzuron (6.33 mg/kg). Starter fed and refused was measured each morning. Quantity of grain offered was based on grain consumption for the previous day, allowing for a buffer of ~227 g. Additional grain was measured and offered Clark et Starter and MR intakes were used to analyze total DMI. Samples of starter orts were collected daily and frozen at \u221220\u00b0C for future analysis. Dry matter was determined by thawing frozen samples at room temperature for 12 to 24 h and drying in paper bags in a forced hot air convection oven (Binder, Bohemia, NY). Samples were dried for 48 h at 55\u00b0C. All samples were sent to a commercial laboratory (Rock River Laboratory Inc., Watertown, WI) for nutrient analysis. Samples were analyzed for NDF (method 6 in an Ankom Fiber Analyzer A2000 with \u03b1-amylase and sodium sulfite, Ankom Technology, Fairpoint, NY; solutions as in Van Soest et al., 1991) , ADF (method 5 in an Ankom Fiber Analyzer A2000, Ankom Technology; method 973.18; AOAC International, 1998). Nitrogen was analyzed via Dumas combustion (method 968.06; AOAC International, 2002) on a Rapid N cube (Elementar Analysensystem, GmbH, Hanau, Germany). Nitrogen was then multiplied by 6.25 to calculate CP. Fat was determined by ether extraction (method 2003.05; AOAC International, 2006) . Ash content was determined by incinerating 1 g of sample for 8 h at 450\u00b0C in a muffle furnace (method 942.05; AOAC International, 2002). Mineral composition analysis included Ca, P, Mg, K, (method 985.01; AOAC International, 1998), and S (method 923.01; AOAC International, 1998). Milk replacer was sent to Analab (Fulton, IL) where fat was determined by saponification with KOH in ethyl alcohol; HCl was used to liberate the fat from soaps, which was then extracted with petroleum ether. Milk replacer was sent to Rock River Laboratory and analyzed for CP and ash as described for starter.",
+            "cite_spans": [
+                {
+                    "start": 416,
+                    "end": 424,
+                    "text": "Clark et",
+                    "ref_id": null
+                },
+                {
+                    "start": 1047,
+                    "end": 1070,
+                    "text": "Van Soest et al., 1991)",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1427,
+                    "end": 1443,
+                    "text": "(method 2003.05;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1444,
+                    "end": 1469,
+                    "text": "AOAC International, 2006)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 49,
+                    "end": 58,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Feeding, Sampling, and Analysis"
+        },
+        {
+            "text": "Blood samples were collected using 10-mL vacutainer tubes without additive via jugular venipuncture at 0, 6, 12, 18, and 24 h of age. A single drop of whole blood from 0-h samples was transferred using a disposable pipette to the test strip of a hand-held electronic ketone monitoring device (Nova Max Plus, Nova Biomedical, Waltham, MA) for determination of initial blood ketone concentration. Ketone concentration was measured in duplicate. Samples were allowed to clot before centrifugation at 1,278 \u00d7 g at 4\u00b0C for 20 min. Serum was harvested and frozen for analysis of IgG concentration by Saskatoon Colostrum Company Ltd. by radial immunodiffusion following completion of the study. Apparent efficiency of absorption (AEA) at 24 h of age was estimated using the following equation (Quigley and Drewry, 1998) and adjusted for CR :",
+            "cite_spans": [
+                {
+                    "start": 786,
+                    "end": 812,
+                    "text": "(Quigley and Drewry, 1998)",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Skeletal and Blood Sampling and Analysis"
+        },
+        {
+            "text": "Additional samples were collected weekly for 6 wk. On Tuesday at 0700 h, calves were sampled that were born after 1630 h on Thursday until Monday at 0700 h. On Friday at 1630 h, calves were sampled that were born Monday after 0700 h until Thursday at 1630 h. During these times, blood samples were collected, and BW measurements, skeletal measurements, and time for consumption of MR were recorded.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Skeletal and Blood Sampling and Analysis"
+        },
+        {
+            "text": "Weekly blood samples were collected via jugular venipuncture with a 10-mL vacutainer tube containing no additive for collection of whole blood, and a 10-mL vacutainer EDTA tube for collection of plasma. A small fraction of whole blood was used for analysis of blood ketone concentration using the same methods as the 0-h sample on d 0. The remaining samples from tubes containing the EDTA anticoagulant were centrifuged at 1,278 \u00d7 g at 4\u00b0C for 20 min, and plasma was harvested and frozen for analysis of glucose and plasma urea nitrogen (PUN) following completion of the experiment. Plasma glucose concentrations were measured in duplicate using the Wako Autokit Glucose Assay (Wako Diagnostics, Mountain view, CA), and read on a UV-visible spectrophotometer at a wavelength of 505 nm. Urea concentrations of plasma were measured in duplicate via the diacetyl-monoxime method and read using a UV-visible spectrophotometer (Beckman Coulter Inc., Brea, CA) at wavelength of 520 nm.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Skeletal and Blood Sampling and Analysis"
+        },
+        {
+            "text": "Body weight (A and A scales) and skeletal measurements including hip height, withers height, length, and heart girth were recorded weekly. Body weights were used to calculate ADG. Withers and hip heights were collected using a sliding-scale height stick with a bubble level. Body length and heart girth were collected using a weight tape. Skeletal measurements were used to calculate gain in centimeters per day. Time for consumption of MR were documented weekly in seconds.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Skeletal and Blood Sampling and Analysis"
+        },
+        {
+            "text": "Unless otherwise stated, data were analyzed as a randomized complete block design with repeated measures, using the MIXED procedure of SAS (SAS Institute Inc., Cary, NC). For analysis of blood metabolites collected in the first 24 h, including rate of IgG absorption and rate of STP absorption, hour was used as the repeated measure. For weekly BW, skeletal measurements, and blood metabolites, week was used as the repeated measure. For any variables analyzed with repeated measures, the residual errors were errors within calf across time and represented errors from repeated measurements in the experimental units (calves). Serum IgG, STP, and AEA, analyzed at individual time points (0, 6, 12, 18, and 24 h), as well as final BW and growth measurements collected on d 42 of the study were not analyzed with repeated measures. Planned single degrees of freedom contrasts were used to compare the effect of meloxicam versus the CON treatment, as well as the administration of meloxicam in pill form, before CR versus powder form mixed in solution with CR. Covariates for all variables included initial BW and sex. Blood ketone concentration at 0 h served as a covariate for analysis of weekly blood ketone measurements, and treatment for the prevention of scours was used as a covariate for analysis of incidence of treatment of diarrhea. Significant treatment and interaction effects were noted at P \u2264 0.05, and trends were noted at 0.05 < P \u2264 0.10. Any data points that were 2 standard deviations from the mean were removed from the data set as outliers. For each of the following models, the random effect of calf within block subclass was used as the error term for the effect of treatment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "For calving difficulty score; serum IgG, STP, and AEA at individual time points (0, 6, 12, 18, and 24 h); incidence of treatment of diarrhea; as well as for BW and skeletal measurements collected on d 42, the following model was used:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "where Y i = the dependent variable, \u00b5 = the overall mean, B i = the random effect of the ith block (i = 1,\u2026, 10), TRT j = the fixed effect of the jth treatment (j = 1, 2, or 3), \u03b2 = the regression (covariate coefficient), X ij = the covariate measurement, and e ij = the residual error term.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Rate of IgG absorption and rate of STP absorption were analyzed using the following model:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "where Y ijk = the dependent variable, \u00b5 = the overall mean, B i = the random effect of the ith block (i = 1,\u2026, 10), TRT j = the fixed effect of the jth treatment (j = 1, 2, or 3), H k = the fixed effect of the kth hour of the experiment (k = 0, 6, 12, 18, 24), \u03b2 = the regression (covariate coefficient), X ij = the covariate measurement, TRTH jk = the fixed interaction between the jth treatment and the kth hour, and e ijk = the residual error term.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Weekly ADG, DMI, BW, skeletal measurements, and blood metabolites were analyzed according to the following model:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "where Y ijk = the dependent variable, \u00b5 = the overall mean, B i = the random effect of the ith block (i = 1,\u2026, 10), TRT j = the fixed effect of the jth treatment (j = 1, 2, or 3), W k = the fixed effect of the kth week relative to birth, \u03b2 = the regression (covariate coefficient), X ij = the covariate measurement, TRTW jk = the fixed interaction between the jth treatment and the kth week, and e ijk = the residual error term. Degrees of freedom were calculated using the Kenward-Rogers option of the MIXED procedure of SAS.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Covariance structure for each variable was determined based on which of the 5 tested structures resulted in the smallest Bayesian information criterion. Blood glucose, ADG, heart girth, and MR intakes were modeled using variance components. Weekly time for consumption of MR, water intake, BW, wither height, hip height, heart girth, length, and gains for withers and length were modeled using Autoregressive 1 covariance structure. Starter intake and total DMI were modeled using unstructured covariance. Blood ketone concentrations, PUN, and hip gain were modeled using compound symmetry. The only covariance structure tested for the aforementioned variables that was not used was Toeplitz. Interaction effects of treatment and time were tested in each model, not including those which analyzed specific time points as opposed to repeated measures. Effects of interactions were interpreted by assessing contrasts among different combinations of treatments and time points for significance or trends.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "All calves achieved serum IgG concentrations \u226510 g/L, indicating successful transfer of passive immunity. Of the 30 calves in the study, 6 calves required feeding via esophageal tube. A total of 4 calves suckled first from the bottle and then were administered the remainder via esophageal tube, while 2 refused to suckle at all. Of the 4 calves that first suckled and then were tube fed, there was 1 bull that received the CON treatment, 1 bull and 1 heifer that received treatment PL, and 1 bull that received treatment SL. Of the 2 calves that refused to suckle at all, there was 1 bull that received treatment PL, and 1 heifer in that received treatment SL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "A total of 8 calves required some level of assistance at birth. There were 3 calves that required minor, Clark et al.: MELOXICAM FOR NEONATAL CALVES nonmechanical assistance, 1 calf that was pulled with chains, and 4 calves that were pulled with a mechanical calf crank. Of the 3 calves that required minor, nonmechanical assistance, there were 2 bulls on treatment PL, and 1 heifer on treatment SL. The calf that was assisted with chains was a bull on treatment SL. Of the 4 calves that were pulled with the calf crank, there were 2 bulls in the CON group, 1 bull that received treatment PL, and 1 heifer that received treatment SL. There were no differences among treatments for calving difficulty score (Table 2) .",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 118,
+                    "text": "Clark et al.:",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 706,
+                    "end": 715,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Values for IgG, AEA, and STP are presented in Table 2 . Treatment did not affect IgG concentrations, STP concentrations, or AEA at 6, 18, or 24 h. These results are consistent with findings from other research (Murray et al., 2015a,b; Chibisa et al., 2018) , which reported that meloxicam administration was not associated with STP concentration. In the current study, at 12 h postpartum, meloxicam-treated calves had lesser IgG concentrations (P = 0.01) and poorer AEA (P < 0.05) than those in the CON group; however, all calves achieved successful transfer of passive immunity. Treatment did not affect overall rate of IgG absorption (Table 2) or overall rate of STP absorption. A trend for a treatment by time interaction was observed at 12 h for rate of STP concentration (P = 0.07), whereas the CON group had STP levels that tended to increase at a greater rate compared with calves that received treatment SL (P = 0.08; Table 2 ).",
+            "cite_spans": [
+                {
+                    "start": 210,
+                    "end": 234,
+                    "text": "(Murray et al., 2015a,b;",
+                    "ref_id": null
+                },
+                {
+                    "start": 235,
+                    "end": 256,
+                    "text": "Chibisa et al., 2018)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 46,
+                    "end": 53,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 926,
+                    "end": 933,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "A total of 26 calves received treatment for diarrhea. The high incidence of diarrhea within this calf population was likely due to an infection caused by the pathogenic agent, Cryptosporidium parvum, as many of the students and farm-staff tending to these animals were also infected and diagnosed with C. parvum. Of the 26 calves that were medicated for diarrhea, 8 were in the CON group, 9 received treatment PL, and 8 received treatment SL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Intake values are reported in Table 3 . Treatment did not affect DMI, MR intakes, time for consumption of MR, or water intakes; however, calves administered meloxicam tended to consume more starter than calves in the CON group (P = 0.06; Figure 1 ). These findings are supported by 2 other studies that reported improved milk intakes in meloxicam-treated calves compared with placebo-treated animals (Murray et al., 2015a; Chibisa et al., 2018 ). In the current study, this positive effect on milk consumption was not observed; however, these calves were fed just over 4 L of MR per day compared with the 8 to 12 L fed in the study by Murray et al. (2015a) and the 6 L fed in the study by Chibisa et al. (2018) . As a result, the ability to detect a positive response in milk intake observed by Murray et al. (2015a) and Chibisa et al. (2018) was Calving difficulty was scored as (1) no assistance, (2) some minor assistance, or (3) mechanical assistance. 5 STP = serum total protein. 6 Apparent efficiency of absorption (AEA) = [(24 \u2212 h plasma IgG (g/L) \u00d7 BW (kg) \u00d7 0.0825)/IgG intake (g/L)] \u00d7 100 (Quigley and Drewry, 1998; Cabral et al., 2015) .",
+            "cite_spans": [
+                {
+                    "start": 400,
+                    "end": 422,
+                    "text": "(Murray et al., 2015a;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 423,
+                    "end": 443,
+                    "text": "Chibisa et al., 2018",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 635,
+                    "end": 656,
+                    "text": "Murray et al. (2015a)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 689,
+                    "end": 710,
+                    "text": "Chibisa et al. (2018)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 795,
+                    "end": 816,
+                    "text": "Murray et al. (2015a)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 821,
+                    "end": 842,
+                    "text": "Chibisa et al. (2018)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 985,
+                    "end": 986,
+                    "text": "6",
+                    "ref_id": null
+                },
+                {
+                    "start": 1099,
+                    "end": 1125,
+                    "text": "(Quigley and Drewry, 1998;",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1126,
+                    "end": 1146,
+                    "text": "Cabral et al., 2015)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 30,
+                    "end": 37,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 238,
+                    "end": 246,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "limited (P = 0.04 and P < 0.01, respectively); however, meloxicam-treated animals in the current study compensated for this lack of available MR with a trend for increased starter intake compared with the CON group ( Figure 1 ). These findings are congruous with research by Todd et al. (2010) , in which it was reported that calves treated with meloxicam after the onset of diarrhea consumed more starter than those treated with a placebo (P < 0.01). Calves from another study that were administered meloxicam orally following dehorning were reported to spend more time at the feed bunk on 2 of the 6 d that they were observed (Theurer et al., 2012) . Interestingly, meloxicam has a half-life of only 26 h in bovine plasma; therefore, attribution to the drug for improved starter intakes observed over the entire 6-wk period is difficult to state. However, Murray et al. (2015a) found that neonatal calves treated with meloxicam had greater improvement in vigor (P = 0.02), and better health scores from birth to 6 wk, compared with calves that received a placebo, which could have affected intakes. Meloxicam-treated calves in the study by Murray et al. (2015a) showed a greater suckling response than placebo-treated animals, which may have improved motivation to drink throughout the preweaning period, resulting in greater milk intakes. It is therefore conceivable that healthier, more vigorous calves are more likely to exhibit vigorous feeding behaviors.",
+            "cite_spans": [
+                {
+                    "start": 275,
+                    "end": 293,
+                    "text": "Todd et al. (2010)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 628,
+                    "end": 650,
+                    "text": "(Theurer et al., 2012)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 858,
+                    "end": 879,
+                    "text": "Murray et al. (2015a)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1142,
+                    "end": 1163,
+                    "text": "Murray et al. (2015a)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 217,
+                    "end": 225,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Values for PUN, glucose concentrations, and blood ketone concentrations are reported in Table 3 . Meloxicam treatment did not affect PUN concentration; however, in accordance with improved starter intake, calves in the current study treated with meloxicam also tended to have greater concentrations of circulating ketones (P < 0.10; Figure 2 ). This is expected, as consumption of solid feed results in the establishment of anaerobic microbiota in the gut (Baldwin et al., 2004; Khan et al., 2011) . The coupling of both inhabitation of microorganisms in the gut, and increased solid feed intake, initiates the fermentation of fiber and other carbohydrates present in solid feeds, and the absorption of VFA (Quigley et al., 1991) . As ruminal microbes break down and utilize nutrients from carbohydrates in the feed, less carbohydrate becomes available for digestion after the rumen. Therefore, the amount of glucose available to the animal from the diet declines, and the energy supply of the animal shifts from glucose to VFA byproducts of fermentation (Baldwin et al., 2004) . During this transitional period of development from preruminant to ruminant, blood measures for glucose will decrease over time (Rice et al., 2019) . At the same time, BHB, a ketone produced for energy via the metabolism of VFA, will increase (Baldwin and Jesse, 1992) .",
+            "cite_spans": [
+                {
+                    "start": 456,
+                    "end": 478,
+                    "text": "(Baldwin et al., 2004;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 479,
+                    "end": 497,
+                    "text": "Khan et al., 2011)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 707,
+                    "end": 729,
+                    "text": "(Quigley et al., 1991)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1055,
+                    "end": 1077,
+                    "text": "(Baldwin et al., 2004)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1208,
+                    "end": 1227,
+                    "text": "(Rice et al., 2019)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 1323,
+                    "end": 1348,
+                    "text": "(Baldwin and Jesse, 1992)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 88,
+                    "end": 95,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 333,
+                    "end": 341,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "For this reason, it was anticipated that meloxicamtreated calves would also have lower circulating glucose concentrations; however, this effect was not ob- served. Instead, no differences were identified between meloxicam-treated calves and those in the CON group. Unlike butyrate, which in growing calves would arise from rumen microbiota, glucose can be derived from other sources, such as gluconeogenesis or uptake from the small intestine. This may explain why glucose concentrations were similar among treatments in spite of a trend for increased ketone concentrations observed in meloxicam-treated calves. On the other hand, calves that received treatment PL had lower plasma glucose concentrations than calves that received treatment SL (P < 0.05). This effect was not observed in analysis of blood ketone concentrations, as results were similar among calves that received meloxicam in pill or powder form. Because of the inconsistencies between glucose and ketone concentrations in calves that received treatment PL versus SL, it is difficult to proclaim that PL resulted in greater rumen development that calves that received treatment SL. Body weights are reported in Table 3 . Average initial BW was 44.43 \u00b1 5.24 kg (mean \u00b1 SD) at birth. Meloxicam treatment did not affect average BW, final BW, ADG, or skeletal measurements. These results were similar to those from 2 studies by Murray et al. (2015a,b) . In the first of those studies, ADG did not differ in calves treated with meloxicam compared with the control. In the second study, 6-wk weight gain was also unaffected by meloxicam treatment; however, calves that were assisted at birth and treated with meloxicam were observed to gain more weight in the first week compared with assisted placebo-treated calves. These results are similar to those reported by Chibisa et al. (2018) , in which 1-to 3-d-old calves treated with meloxicam before transport experienced greater ADG (P < 0.02) compared with the control.",
+            "cite_spans": [
+                {
+                    "start": 1391,
+                    "end": 1414,
+                    "text": "Murray et al. (2015a,b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1826,
+                    "end": 1847,
+                    "text": "Chibisa et al. (2018)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1178,
+                    "end": 1185,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Notably, in the study by Murray et al. (2015b) , assisted meloxicam-treated calves experienced improved gains compared with placebo-treated animals; however, the opposite effect was observed for calves that received meloxicam but were not assisted at birth. These findings indicate that while meloxicam may benefit calves born from difficult parturition, it might not have such positive effects on calves that do not suffer substantial inflammation following birth. Alternatively, such variable results reported across different studies and within the same studies may also suggest that weight gain could be a poor indicator of efficacy of NSAID use in calves. There was a treatment by week interaction for average BW (P = 0.03), ADG (P = 0.04), and blood ketone concentrations (P < 0.05; Table 3 ), but there were no differences at any time points for any variables. Therefore, this was likely caused by a strong effect of week.",
+            "cite_spans": [
+                {
+                    "start": 25,
+                    "end": 46,
+                    "text": "Murray et al. (2015b)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 789,
+                    "end": 796,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Skeletal measurements and incidence of treatment for diarrhea are reported in Table 4 . Calves that received treatment PL tended to have greater rates of gain in length compared with calves that received treatment SL (P = 0.07). However, there were no differences in average length, final length, or any other skeletal measurements observed among treatments. Differences in effects between form of drug administration observed in rate of gain in length and glucose concentration could first be attributed to residual meloxicam on the inner surfaces of the bottle when crushed into solution, meaning that calves that received treatment SL may not have ingested the same dose of the drug as calves that received treatment PL. Therefore, if calves that received treatment PL ingested and absorbed more meloxicam than calves that received treatment SL, it is conceivable that a greater effect would be observed in this group, indicated by lower glucose values and greater rate of gain in length. Another possibility for these differences could be attributed to the path of the drug within the digestive tract. Specifically, meloxicam swallowed in pill form is likely to arrive to the rumen, and then pass to the abomasum, while meloxicam crushed into solution with CR will bypass the rumen as a consequence of the reflexive closure of the esophageal groove in response to milk. In the current study, there is not enough data to speculate as to why this difference in pathway through the digestive tract resulted in the observed variability in effect; however, future research should investigate potential causes by considering mea-surements for absorption of meloxicam in the blood, indicators of stress such as cortisol, and indicators of inflammation such as inflammatory cytokines.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 78,
+                    "end": 85,
+                    "text": "Table 4",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Meloxicam usage did not affect incidence of treatment for diarrhea. These results are congruous with those of another study which considered the effects of injectable meloxicam on symptoms of neonatal diarrhea (Todd, 2007) . While later research reported improvements in milk intake, as well as earlier starter intake for meloxicam-treated calves compared with those that received a placebo injection (Todd et al., 2010) , investigators reported that these effects were not due to a variation in duration of illness, as meloxicam-treated animals and placebo-treated calves did not differ in time to resolution of abnormally soft stools. There was a treatment by week interaction for withers height (P = 0.03) and weekly gain in withers height (P < 0.01; Table 4 ), but there were no differences at any time points for any variables; therefore, this was likely caused by a strong effect of week.",
+            "cite_spans": [
+                {
+                    "start": 210,
+                    "end": 222,
+                    "text": "(Todd, 2007)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 401,
+                    "end": 420,
+                    "text": "(Todd et al., 2010)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 754,
+                    "end": 761,
+                    "text": "Table 4",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Administration of meloxicam at birth did not improve IgG uptake in dairy calves in this study. However, meloxicam-treated calves did tend to have greater starter intakes (Figure 1 ), similar to increased milk intakes observed by Murray et al. (2015b) and Chibisa et al. (2018) . In the current study, and likely a result of a trend for increased starter consumption, Clark et al.: MELOXICAM FOR NEONATAL CALVES Figure 2 . Weekly blood ketone concentrations (mmol/L) of calves supplemented with no meloxicam (CON), meloxicam as a pill (PL), or meloxicam mixed into solution with CR (SL). Treatments: CON = 0 mg/mL of meloxicam, PL = 1 mg/kg of BW of meloxicam before consumption of CR in pill form, SL = 1 mg/kg of BW of meloxicam during consumption of CR, crushed and mixed into solution. A treatment by time interaction was observed (P < 0.05). There was a trend (P = 0.09) for calves given meloxicam to have greater ketone concentrations than control calves (n = 10 per treatment). CR = colostrum replacer. improved rumen development was indicated by a tendency for greater blood ketone concentrations observed in meloxicam-treated animals compared with placebotreated calves (Figure 2 ). Improvements in intake could be a result of improved vigor, also detected in the study by Murray et al. (2015b) ; however, although these studies did report greater intakes (Murray et al., 2015b; Chibisa et al., 2018) and gains (Chibisa et al., 2018) in meloxicam-treated animals compared with the control groups, cortisol levels measured by Chibisa et al. (2018) were not affected by treatment. This, in conjunction with the fact that the current study does not consider uptake of meloxicam in the blood, or measures for stress and inflammation, means that investigators are unable to proclaim that improved intakes are an effect of reduced stress and inflammation resulting from meloxicam usage. Therefore, future research should consider physiological mechanisms for improvements in intake observed in both the current and aforementioned studies by reporting specific characteristics for stress and inflammation in neonatal calves.",
+            "cite_spans": [
+                {
+                    "start": 229,
+                    "end": 250,
+                    "text": "Murray et al. (2015b)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 255,
+                    "end": 276,
+                    "text": "Chibisa et al. (2018)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 367,
+                    "end": 380,
+                    "text": "Clark et al.:",
+                    "ref_id": null
+                },
+                {
+                    "start": 1281,
+                    "end": 1302,
+                    "text": "Murray et al. (2015b)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1364,
+                    "end": 1386,
+                    "text": "(Murray et al., 2015b;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1387,
+                    "end": 1408,
+                    "text": "Chibisa et al., 2018)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1419,
+                    "end": 1441,
+                    "text": "(Chibisa et al., 2018)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1533,
+                    "end": 1554,
+                    "text": "Chibisa et al. (2018)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 170,
+                    "end": 179,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 411,
+                    "end": 419,
+                    "text": "Figure 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 1178,
+                    "end": 1187,
+                    "text": "(Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "The administration of meloxicam following birth resulted in a trend for improved starter intake, and possibly ruminal development, as evidenced by a trend for increased blood ketone values. In the United States, where NSAID use in the dairy industry is not approved, meloxicam is an extralabel drug prescribed for treatment of pain and inflammation. Additional research should be conducted that investigates the supplementation of meloxicam to colostrum, CR, and MR before a recommendation for widespread use as a preventative drug in newborn calves can be made. The current data does not support speculation as to the physiological mechanisms responsible for the observed differences in treatment; however, future research should investigate potential causes by considering measurements for absorption of meloxicam in the blood and indicators of stress and inflammation. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The effect of timing of oral meloxicam administration on physiological responses in calves after cautery dehorning with local anesthesia",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Coetzee",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Edwards-Callaway",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Glynn",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dockweiler",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kukanich",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fraccaro",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bergamasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Dairy Sci",
+            "volume": "96",
+            "issn": "",
+            "pages": "5194--5205",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.2012-6251"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Official methods of analysis",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Aoac International",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "AOAC International",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Official methods of analysis",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Aoac International",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "AOAC International",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Official methods of analysis",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Aoac International",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "AOAC International",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Supplementation of nicotinic acid to prepartum Holstein cows increases colostral immunoglobulin G, excretion of urinary purine derivatives, and feed efficiency in calves",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Aragona",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rice",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Engstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Erickson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Dairy Sci",
+            "volume": "103",
+            "issn": "",
+            "pages": "2287--2302",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.2019-17058"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Developmental changes in glucose and butyrate metabolism by isolated sheep ruminal cells",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Baldwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jesse",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Nutr",
+            "volume": "122",
+            "issn": "",
+            "pages": "1149--1153",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jn/122.5.1149"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Rumen development, intestinal growth and hepatic metabolism in the pre-and post-weaning ruminant",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Baldwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mcleod",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Klotz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Heitmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Dairy Sci",
+            "volume": "87",
+            "issn": "",
+            "pages": "70061--70063",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.S0022-0302(04)70061-2"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Prevalence of failure of passive transfer of immunity in newborn heifer calves and associated management practices on US dairy operations",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Beam",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Lombard",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kopral",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Garber",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Winter",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hicks",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Schlater",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Dairy Sci",
+            "volume": "92",
+            "issn": "",
+            "pages": "3973--3980",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "COX-1 and COX-2 inhibition in horse blood by phenylbutazone, flunixin, carprofen and meloxicam: An in vitro analysis",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Beretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Garavaglia",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cavalli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Pharmacol. Res",
+            "volume": "52",
+            "issn": "",
+            "pages": "302--306",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.phrs.2005.04.004"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Decreased colostral immunoglobulin absorption in calves with postnatal respiratory acidosis",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Szenci",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gay",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Am. Vet. Med. Assoc",
+            "volume": "196",
+            "issn": "",
+            "pages": "1239--1243",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "In vitro effects of cyclooxygenase inhibitors in whole blood of horses, dogs, and cats",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Brideau",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Van Staden",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Am. J. Vet. Res",
+            "volume": "62",
+            "issn": "",
+            "pages": "1755--1760",
+            "other_ids": {
+                "DOI": [
+                    "10.2460/ajvr.2001.62.1755"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Estimating plasma volume in neonatal Holstein calves fed one or two feedings of lacteal-based colostrum replacer using Evans blue dye and hematocrit values at various time points. Can",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Cabral",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Chapman",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kent",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Erickson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "95",
+            "issn": "",
+            "pages": "293--298",
+            "other_ids": {
+                "DOI": [
+                    "10.4141/cjas-2014-176"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Nitrogen utilization, preweaning nutrient digestibility, and growth effects of Holstein dairy calves fed 2 amounts of a moderately high protein or conventional milk replacer",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Chapman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hill",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Elder",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Erickson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Dairy Sci",
+            "volume": "100",
+            "issn": "",
+            "pages": "279--292",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.2016-11886"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Technical note: Evaluating nuclear magnetic resonance spectroscopy for determining body composition in Holstein dairy calves using deuterium oxide dilution methods",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Chapman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Stone Wilkinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Murphy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Erickson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Dairy Sci",
+            "volume": "100",
+            "issn": "",
+            "pages": "2807--2811",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.2016-11888"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Short communication: Effects of meloxicam administration on protein metabolism and growth and performance in transported Jersey calves",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Chibisa",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Vinyard",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Laarman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Pharmacokinetics of intravenous and oral meloxicam in ruminant calves",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Coetzee",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kukanich",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mosher",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Vet. Ther",
+            "volume": "10",
+            "issn": "",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Clinical studies on bovine parturition-Foetal aspects",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Dufty",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "Aust. Vet. J",
+            "volume": "49",
+            "issn": "",
+            "pages": "177--181",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Resuscitation of the newborn calf",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grove-White",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "In Pract",
+            "volume": "22",
+            "issn": "",
+            "pages": "17--23",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Effects of human visitation on calf growth and performance of calves fed different milk replacer feeding levels",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Guindon",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Antaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Cabral",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Whitehouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Earleywine",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Erickson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Dairy Sci",
+            "volume": "98",
+            "issn": "",
+            "pages": "8952--8961",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.2015-9759"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The effect of meloxicam on behavior and pain sensitivity of dairy calves following cautery dehorning with a local anesthetic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Heinrich",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Duffield",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lissemore",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Millman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Dairy Sci",
+            "volume": "93",
+            "issn": "",
+            "pages": "2450--2457",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.2009-2813"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "The impact of meloxicam on postsurgical stress associated with cautery dehorning",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Heinrich",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Duffield",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lissemore",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Squires",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Millman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Dairy Sci",
+            "volume": "92",
+            "issn": "",
+            "pages": "540--547",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.2008-1424"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Human cyclooxygenase-2 cDNA",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hla",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Neilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "89",
+            "issn": "",
+            "pages": "7384--7388",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.89.16.7384"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Hay intake improves performance and rumen development of calves fed higher quantities of milk",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Khan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Weary",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A G"
+                    ],
+                    "last": "Von Keyserlingk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Dairy Sci",
+            "volume": "94",
+            "issn": "",
+            "pages": "3547--3553",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.2010-3871"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Dairy calf mortality rate: Influence of meteorologic factors on calf mortality in Tulare County, California",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Schwabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Franti",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Am. J. Vet. Res",
+            "volume": "36",
+            "issn": "",
+            "pages": "1105--1109",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Prevalence and risk factors for dystocia in dairy cattle: A review",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Mee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Vet. J",
+            "volume": "176",
+            "issn": "",
+            "pages": "93--101",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Animal welfare implications of neonatal mortality and morbidity in farm animals",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mellor",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stafford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Vet. J",
+            "volume": "168",
+            "issn": "",
+            "pages": "118--133",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Intestinal transmission of macromolecules in newborn dairy calves of different ages at first feeding",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Michanek",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ventorp",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Westrom",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Res. Vet. Sci",
+            "volume": "46",
+            "issn": "",
+            "pages": "375--379",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The effect of meloxicam NSAID therapy on the change in vigor, suckling reflex, blood gas measures, milk intake and other variables in newborn dairy calves",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Duffield",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Haley",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pearl",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Veira",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Deelen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Vet. Sci. Anim. Husb",
+            "volume": "4",
+            "issn": "",
+            "pages": "1--14",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "A field study to evaluate the effects of meloxicam NSAID therapy and calving assistance on newborn calf vigor, improvement of health and growth in pre-weaned Holstein calves",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Haley",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Duffield",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pearl",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Deelen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Bov. Pract",
+            "volume": "49",
+            "issn": "",
+            "pages": "1--12",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Newborn calf vitality: Risk factors, characteristics, assessment, resulting outcomes, and strategies for improvement",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Vet. J",
+            "volume": "198",
+            "issn": "",
+            "pages": "322--328",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tvjl.2013.06.007"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "The effect of dystocia on physiological and behavioral characteristics related to vitality and passive transfer of immunoglobulins in newborn Holstein calves",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Veira",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nadalin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Haines",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pearl",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Can. J. Vet. Res",
+            "volume": "79",
+            "issn": "",
+            "pages": "109--119",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "The effects of cold stress on neonatal calves. I. Clinical condition and pathological lesions",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Olson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Papasian",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ritter",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Can. J. Comp. Med",
+            "volume": "44",
+            "issn": "",
+            "pages": "11--18",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Respiratory disease of the bovine neonate",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Poulsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcguirk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Vet. Clin. North Am. Food Anim. Pract",
+            "volume": "25",
+            "issn": "",
+            "pages": "121--137",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Changes in blood glucose, nonesterified fatty acids, and ketones in response to weaning and feed intake in young calves",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Quigley",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Iii",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Caldwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Sinks",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Heitmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Dairy Sci",
+            "volume": "74",
+            "issn": "91",
+            "pages": "78167--78175",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.S0022-0302(91)78167-8"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Nutrient and immunity transfer from cow to calf pre-and post-calving",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Quigley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Iii",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Drewry",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Dairy Sci",
+            "volume": "81",
+            "issn": "98",
+            "pages": "75836--75845",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.S0022-0302(98)75836-9"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Supplementation of sodium butyrate to postweaned heifer diets: Effects on growth performance, nutrient digestibility, and health",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rice",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Aragona",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Moreland",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Erickson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J. Dairy Sci",
+            "volume": "102",
+            "issn": "",
+            "pages": "2018--15525",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.2018-15525"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "The effect of delivery method on the pharmacokinetic properties of meloxicam in pre-weaned dairy calves with diarrhea",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shock",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Roche",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nagel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Olson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Open J. Vet. Med",
+            "volume": "10",
+            "issn": "",
+            "pages": "27--38",
+            "other_ids": {
+                "DOI": [
+                    "10.4236/ojvm.2020.103003"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Correlations between muscle tone and acid-base balance in newborn calves: Experimental substantiation in a simple new score system proposed for neonatal status diagnosis",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Szenci",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Acta Vet. Acad. Sci. Hung",
+            "volume": "30",
+            "issn": "",
+            "pages": "79--84",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Comparison between pre-and postnatal acid-base status of calves and their perinatal mortality",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Szenci",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Taverne",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bakonvi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Erodi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Vet. Q",
+            "volume": "10",
+            "issn": "",
+            "pages": "140--144",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Assessment of behavioral changes associated with oral meloxicam administration at time of dehorning in calves using a remote triangulation device and accelerometers",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Theurer",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Coetzee",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Edwards",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mosher",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cull",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "BMC Vet. Res",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1746-6148-8-48"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "An evaluation of meloxicam as supportive therapy for neonatal calf diarrhea complex",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Todd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Nonsteroidal anti-inflammatory drug therapy for neonatal calf diarrhea complex: Effects on calf performance",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Todd",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Millman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mcknight",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Duffield",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Anim. Sci",
+            "volume": "88",
+            "issn": "",
+            "pages": "2019--2028",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas.2009-2340"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Relationship between stress levels of the antepartum cow and her newborn calf",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Uetake",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Akiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Anim. Sci. J",
+            "volume": "85",
+            "issn": "",
+            "pages": "81--84",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Methods for dietary fiber, neutral detergent fiber, and nonstarch polysaccharides in relation to animal nutrition",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Van Soest",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Robertson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lewis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Dairy Sci",
+            "volume": "74",
+            "issn": "91",
+            "pages": "78551--78553",
+            "other_ids": {
+                "DOI": [
+                    "10.3168/jds.S0022-0302(91)78551-2"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF2": {
+            "text": "/mL of meloxicam, PL = 1 mg/kg of meloxicam before consumption of colostrum replacer in pill form, SL = 1 mg/ kg of meloxicam during consumption of colostrum replacer, crushed and mixed into solution. 3 Single df contrasts were used to compare the effect of meloxicam versus the control (MEL vs. Con) as well as pill versus solution (PL vs. SL), and treatment by time interaction (TRT \u00d7 Time).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Average weekly starter intakes (g) of calves supplemented with no meloxicam (CON), meloxicam as a pill (PL), or meloxicam mixed into solution with CR (SL). Treatments: CON = 0 mg/mL of meloxicam, PL = 1 mg/kg of BW of meloxicam before consumption of CR in pill form, SL = 1 mg/kg of BW of meloxicam during consumption of CR, crushed and mixed into solution. Starter intake tended (P = 0.06) to be greater in calves supplemented with meloxicam compared with calves not receiving meloxicam (n = 10 calves/treatment). CR = colostrum replacer.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "al.: MELOXICAM FOR NEONATAL CALVES Table 1. Nutrient analysis of milk replacer and calf starter",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Calving score and immunoglobulin absorption of calves supplemented with no meloxicam (CON), meloxicam as a pill (PL), or meloxicam mixed into solution with colostrum replacer (SL) during d 1 of life 1",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Blood metabolites, intake, BW, and performance of calves supplemented with no meloxicam (CON), meloxicam as a pill (PL), or meloxicam mixed into solution with colostrum replacer (SL) over the 6-wk period 1",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Weekly skeletal measurements and incidence of diarrhea of calves supplemented with no meloxicam (CON), meloxicam as a pill (PL), or meloxicam mixed into solution with colostrum replacer (SL), over the 6-wk period 1 The number of calves per treatment = 10. 2 Treatments: CON = 0 mg/mL of meloxicam, PL = 1 mg/kg of meloxicam before consumption of colostrum replacer in pill form, SL = 1 mg/ kg of meloxicam during consumption of colostrum replacer, crushed and mixed into solution. 3 Single df contrasts were used to compare the effect of meloxicam versus the control (MEL vs. Con) as well as pill versus solution (PL vs. SL), and treatment by time interaction (TRT \u00d7 Time).",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors thank Saskatoon Colostrum Company for the colostrum replacer and the analysis of IgG, Mark Hill and colleagues at Provimi (Brookville, OH) for their donation of milk replacer and calf starter, the Fairchild Dairy Teaching and Research Center staff, as well as Kyah Hardy, Hannah Robertson, and Hailee Whitesel for their assistance. Partial funding was provided by the New Hampshire Agriculture Experiment Station (Durham, NH). This is scientific contribution number 2852. This work was supported by the USDA National Institute of Food and Agriculture Project (Hatch Multistate NC2042; accession number 10012830). There are no conflicts of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        }
+    ]
+}

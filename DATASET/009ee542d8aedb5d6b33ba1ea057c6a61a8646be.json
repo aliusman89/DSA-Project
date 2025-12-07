@@ -1,0 +1,2269 @@
+{
+    "paper_id": "009ee542d8aedb5d6b33ba1ea057c6a61a8646be",
+    "metadata": {
+        "title": "High prevalence of an alpha variant lineage with a premature stop codon in ORF7a in Iraq, winter 2020-2021",
+        "authors": [
+            {
+                "first": "Nihad",
+                "middle": [
+                    "A M"
+                ],
+                "last": "Al-Rashedi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Al-Muthanna University",
+                    "location": {
+                        "settlement": "Samawah",
+                        "country": "Iraq"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hussein",
+                "middle": [],
+                "last": "Alburkat",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Helsinki",
+                    "location": {
+                        "settlement": "Helsinki",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Abas",
+                "middle": [
+                    "O"
+                ],
+                "last": "Hadi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sawa University",
+                    "location": {
+                        "settlement": "Samawah",
+                        "country": "Iraq"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Murad",
+                "middle": [
+                    "G"
+                ],
+                "last": "Munahi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Al-Muthanna University",
+                    "location": {
+                        "settlement": "Samawah",
+                        "country": "Iraq"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ali",
+                "middle": [],
+                "last": "Jasim",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Al-Muthanna Health Directorate",
+                    "location": {
+                        "settlement": "Samawah",
+                        "country": "Iraq"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alaa",
+                "middle": [],
+                "last": "Hameed",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sawa University",
+                    "location": {
+                        "settlement": "Samawah",
+                        "country": "Iraq"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Basel",
+                "middle": [],
+                "last": "Saber Oda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Al-Muthanna Health Directorate",
+                    "location": {
+                        "settlement": "Samawah",
+                        "country": "Iraq"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kareem",
+                "middle": [
+                    "Moamin"
+                ],
+                "last": "Lilo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ministry of Health",
+                    "location": {
+                        "country": "Iraq"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Laith",
+                "middle": [
+                    "A H"
+                ],
+                "last": "Alobaidi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Al-Muthanna University",
+                    "location": {
+                        "settlement": "Samawah",
+                        "country": "Iraq"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Olli",
+                "middle": [],
+                "last": "Vapalahti",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Helsinki",
+                    "location": {
+                        "settlement": "Helsinki",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tarja",
+                "middle": [],
+                "last": "Sironen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Helsinki",
+                    "location": {
+                        "settlement": "Helsinki",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Teemu",
+                "middle": [],
+                "last": "Smura",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Helsinki",
+                    "location": {
+                        "settlement": "Helsinki",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "In late December 2019, an outbreak of pneumonia of unknown etiology was announced in Wuhan, China. A relative unknown coronavirus named \"Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)\" was then identified as the causative agent of COVID-19 [1] . On March 11, 2020 , the WHO declared the COVID-19 outbreak a pandemic [2] , affecting most of the human population, especially in developing countries [3] . SARS-CoV-2 is highly infectious and has caused over 234 million confirmed cases of COVID-19 globally, including over 4.8 million deaths reported by the WHO as of October 3, 2021. In Iraq, the first SARS-CoV-2 case was diagnosed in February 24, 2020 [4] . Since then, over 695,489 cases and more than 13,000 deaths were confirmed by the end of February 2021 [5] . The epidemiological situation displayed a slight improvement at the end of the first wave (week 1, 2021).",
+            "cite_spans": [
+                {
+                    "start": 254,
+                    "end": 257,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 263,
+                    "end": 277,
+                    "text": "March 11, 2020",
+                    "ref_id": null
+                },
+                {
+                    "start": 330,
+                    "end": 333,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 411,
+                    "end": 414,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 579,
+                    "end": 595,
+                    "text": "October 3, 2021.",
+                    "ref_id": null
+                },
+                {
+                    "start": 666,
+                    "end": 669,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 774,
+                    "end": 777,
+                    "text": "[5]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "However, the number of cases has risen with the beginning of the second wave in week 5, 2021 [6] .",
+            "cite_spans": [
+                {
+                    "start": 93,
+                    "end": 96,
+                    "text": "[6]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Emerging RNA viruses are a global health concern due to their potentially high transmission rate, high mutation rates, and aggressive competition to host cellular functions. As a result of SARS-CoV-2 mutation dynamics, several variants of concern have emerged, of which there is evidence of increased transmission, more severe disease outcomes, and/or evidence of decreased neutralization by antibodies raised against previous infection or vaccine [7] . In particular, amino acid replacements in the spike protein can lead to enhanced binding with the host ACE2 receptor causing increased transmissibility and potentially higher virulence [8, 5] . Similar to influenza A virus and, to a lesser extent, seasonal human coronaviruses, SARS-CoV-2 can be expected to accumulate adaptive amino acid replacements in its glycoprotein, resulting in antigenic drift [9] . However, due to the biological differences in influenza A virus (IAV) (which is a segmented negative-stranded RNA virus with a higher overall evolutionary rate compared to coronaviruses) and seasonal coronaviruses, (which have been circulating among the human population for a long time), genomic surveillance of SARS-CoV-2 is needed to detect and assess the effect of such mutations [9] . The global effort for SARS-CoV-2 sequencing has led to efficient tracking of circulating lineages as well as tracking of mutations that may lead to changes in vaccine efficacy, PCR detection, and virus transmissibility [10, 11] . Therefore, surveying the molecular epidemiology/spatiotemporal changes in the SARS-CoV-2 genome and understanding its mutations are important. Yet, there is a significant underrepresentation of SARS-CoV-2 sequences from middle-and low-income countries in the global dataset [12] .",
+            "cite_spans": [
+                {
+                    "start": 448,
+                    "end": 451,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 639,
+                    "end": 642,
+                    "text": "[8,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 643,
+                    "end": 645,
+                    "text": "5]",
+                    "ref_id": null
+                },
+                {
+                    "start": 856,
+                    "end": 859,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1246,
+                    "end": 1249,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1471,
+                    "end": 1475,
+                    "text": "[10,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1476,
+                    "end": 1479,
+                    "text": "11]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1756,
+                    "end": 1760,
+                    "text": "[12]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Recently, four variants have been identified by the WHO to be of particular concern (VOCs): Alpha [13] . Only a limited number of SARS-CoV-2 sequences are currently available from Iraq (https://www.gisaid.org/). The first sequence of Iraqi patients available from the first wave showed the presence of a GH clade with the D614G mutation [14] . In the current study, we sequenced 76 SARS-CoV-2 genomes to produce baseline data for the genomic surveillance of SARS-CoV-2 in Iraq. Our work summarizes sequences, emerging mutations, and the evolutionary relationships of SARS-CoV-2 in Iraq between December 2020 and February 2021. All rights reserved. No reuse allowed without permission. perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in ",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "[13]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 337,
+                    "end": 341,
+                    "text": "[14]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Combined naso-and oropharyngeal swabs were collected from 76 patients (46 males and 30 females, age ranging between 13 and 85 years) in Samawa, Iraq (31.3188\u00b0 N, 45 .2806\u00b0 E) during the second epidemic wave of COVID-19 in Iraq (between December 27, 2020 and February 28, 2021). Of these patients, five (6.6%) died, eight (10.5%) had severe disease, and the remaining 63 (82.9%) had mild to moderate infections. The samples were analyzed with STAT-NAT COVID-19 MULTI real-time PCR kits (Sentinel, Milano, Italy), based on two targets in RdRP and Orf1b genes, to detect the presence of SARS-CoV-2. The real-time PCR assay was conducted using the Mx3000P qPCR system (Agilent Technologies, Waldbronn, Germany). A total of 76 samples that had a high copy number of the virus were selected for whole genome sequencing.",
+            "cite_spans": [
+                {
+                    "start": 149,
+                    "end": 164,
+                    "text": "(31.3188\u00b0 N, 45",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sampling"
+        },
+        {
+            "text": "RNA isolation was carried out using TRIzol reagent (ThermoFisher Scientific, MA, USA) from a viral transport media (VTM) sample (3:1 ratio) according to the manufacturer's procedure. The LunaScript RT Super Mix Kit (New England Biolabs, UK) was used for first-strand cDNA synthesis. A multiplex PCR approach following the ARTIC protocol was used to amplify the viral genome using Q5 High Fidelity DNA Polymerase (New England BioLabs, UK). The NEBNext Ultra II library prep kit was used for Illumina sequencing library preparation. The libraries were quantified using the Qubit 4 with the dsDNA High Sensitivity Kit (ThermoFisher Scientific, MA, USA).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SARS-CoV-2 Sequencing"
+        },
+        {
+            "text": "High throughput sequencing was performed using the Illumina NovaSeq 6000 system with a read length of 250 bp, which produced 1,222,270 reads. Additionally, sequencing reads with low-quality (quality score <30) and short sequence (<50 nt) were removed using Trimmomatic [15] , assembly using BWA-MEM [16] , variant calling using LoFreq [17] , and consensus calling using SAMtools [18] implemented in the HaVoC pipeline [19] .",
+            "cite_spans": [
+                {
+                    "start": 269,
+                    "end": 273,
+                    "text": "[15]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 299,
+                    "end": 303,
+                    "text": "[16]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 335,
+                    "end": 339,
+                    "text": "[17]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 379,
+                    "end": 383,
+                    "text": "[18]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 418,
+                    "end": 422,
+                    "text": "[19]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SARS-CoV-2 Sequencing"
+        },
+        {
+            "text": "Mutation analysis of the SARS-CoV-2 genome was interpreted using the GISAID CoVsurver \"CoVsurver enabled by GISAID\" [20] and Coronapp web application [21] . Lineage and clade assignment were identified using Pangolin (version v.3.1.7) [22] and the Nextstrain web server [23] .",
+            "cite_spans": [
+                {
+                    "start": 116,
+                    "end": 120,
+                    "text": "[20]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 150,
+                    "end": 154,
+                    "text": "[21]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 235,
+                    "end": 239,
+                    "text": "[22]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 270,
+                    "end": 274,
+                    "text": "[23]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Genome Sequence Analysis"
+        },
+        {
+            "text": "The 3D model of the mutant ORF7a was built using the Swiss-model web server, and the crystal structure of ORF7a (pdb:7ci3) was used as a template. Structural comparison was performed between the selected template and the built model to assign their similarity and dissimilarity using TM-align [24] and FATCAT web tools [25] . The PROCHECK web server was used to validate the best-fit model based on the stereochemical properties and geometry of the structure [26] . The quality of the model was evaluated by establishing a plot between phi and psi of the polypeptide residues using the Ramachandran plot server [27] . Subsequently, the model structure was refined using a 3D refine web server [28] . Finally, the refined model structure was prepared for docking by adding polar hydrogen All rights reserved. No reuse allowed without permission. perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in The copyright holder for this this version posted October 22, 2021. ; https://doi.org/10.1101/2021.10.20.21265042 doi: medRxiv preprint atoms and Gasteiger charges using the Autodock tool 1.5.6 [29] . The model, along with the wild ORF7a, was subjected to the HADDOCK 2.4 web server to investigate the protein-protein interactions [30] .",
+            "cite_spans": [
+                {
+                    "start": 293,
+                    "end": 297,
+                    "text": "[24]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 319,
+                    "end": 323,
+                    "text": "[25]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 459,
+                    "end": 463,
+                    "text": "[26]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 611,
+                    "end": 615,
+                    "text": "[27]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 693,
+                    "end": 697,
+                    "text": "[28]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1184,
+                    "end": 1188,
+                    "text": "[29]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1321,
+                    "end": 1325,
+                    "text": "[30]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Homology Structure of Mutant ORF7a and Molecular Docking"
+        },
+        {
+            "text": "Genome sequence alignment was performed using alignment of multiple complete SARS-CoV-2 genomes (MAFFT online version April 11, 2020) [31] . To analyze the SARS-CoV-2 genome samples derived from the Iraqi patients in a phylogenetic relatedness, a data set of 154 available SARS-CoV-2 complete genomes from different countries was collected from GISAID available on May 25, Table S1 ). The phylogenetic tree was mapped by a maximum likelihood estimation using a fit substitution model (ModelFinder) and replicate number with 1000 bootstrap on IQ-TREE (version: 1.6.10) [32] with ultrafast bootstrap support. ITOL v6 tools [33] were used for the visualization of the phylogenetic tree.",
+            "cite_spans": [
+                {
+                    "start": 134,
+                    "end": 138,
+                    "text": "[31]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 621,
+                    "end": 625,
+                    "text": "[33]",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 373,
+                    "end": 381,
+                    "text": "Table S1",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "Phylogenetic Tree"
+        },
+        {
+            "text": "The COVID-19 pandemic caused by SARS-CoV-2 has caused significant morbidity and mortality worldwide. During the first wave in Iraq, (February-December 2020), implementation of the restrictions (lockdowns) was related to a significant reduction in daily reported cases and mortality, followed by phased relaxation in restrictions. During the second wave (Figure 1 ), the cumulative number of cases reached more than a million by late May 2021 [6] . perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in ",
+            "cite_spans": [
+                {
+                    "start": 442,
+                    "end": 445,
+                    "text": "[6]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 353,
+                    "end": 362,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "We identified nine different genetic lineages, including two variants of concern: B. Coronapp [21] , the amino acid change D614G in the spike glycoprotein was detected at a high frequency of sequences (n = 73, 96%) ( Figure 3 ). All rights reserved. No reuse allowed without permission. perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in Table S3 ) and recorded in 77 countries before. Figure 4 , comprising high frequencies of S106, G107, and F108del in NSP6 (n=62, 81.6%), spike H69del (n=53, 69.7%), and Y145del (n=51, 67.1%).",
+            "cite_spans": [
+                {
+                    "start": 94,
+                    "end": 98,
+                    "text": "[21]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 217,
+                    "end": 225,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 432,
+                    "end": 440,
+                    "text": "Table S3",
+                    "ref_id": null
+                },
+                {
+                    "start": 480,
+                    "end": 488,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Genetic Clades and Lineages of SARS-CoV-2"
+        },
+        {
+            "text": "All rights reserved. No reuse allowed without permission. perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Deletion mutations are shown in"
+        },
+        {
+            "text": "We found a high prevalence of premature stop codon Q62stop among the Iraqi Alpha variant strains.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Molecular Docking of ORF7a Stop Mutation"
+        },
+        {
+            "text": "SARS-CoV-2 ORF7a is a transmembrane protein (type I) composed of 122 amino acids (15, 81, 21, and 5 amino acids composed to N-terminal, luminal domain, transmembrane segment, and cytoplasmic tail, respectively). It has been reported [34] that this accessory protein modulates the immune response of the host by binding with the host lymphocyte function-associated antigen I (LFA-1). Previous studies have suggested that the amino acids T39, E41, N43, Q62, A66, and K72 play a key role in the function of ORF7a [34] . Among these six active residues, two (A66 and K72) were truncated by a premature stop codon. Therefore, to predict the potential effect of the stop codon (Q62*) on the function of the ORF7a protein, we constructed a 3D model of the mutant ORF7a. The crystal structure of ORF7a (PDB: 7ci3) was used as the template. The similarity and dissimilarity between the selected template and model were performed using TM-align and FATCAT, where the optimal structural similarity was evaluated based on the obtained TM score (0.70, TM-score > 0.5, indicating that the two proteins have the same fold). A flexible protein structure comparison between the model and template was achieved using FATCAT, where the obtained p-value (1.55e-15) and RMSD (0.06 \u212b) indicate that the two protein structures are significantly similar. After validation, quality check, adding polar hydrogen atoms, and adding Gasteiger charge of the selected model, it was then subjected to molecular docking alongside the wild ORF7a to assess the protein-protein interaction of ORF7a and LFA-1 Idomain (pdb: 7ci3). The latter is located on the cell membrane of human leukocytes, which is the target of ORF7a ( Figure 5 ). The molecular docking results suggested that there was no significant difference in the binding affinity of the mutant and wild ORF7a, and the HADDOCK scores were -67.0 and -63.6 for mutant and wild ORF7a, respectively ( Table 1) . All rights reserved. No reuse allowed without permission. perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in Z-Score -2.1 -1.7",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 237,
+                    "text": "[34]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 510,
+                    "end": 514,
+                    "text": "[34]",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1689,
+                    "end": 1697,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1922,
+                    "end": 1930,
+                    "text": "Table 1)",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "Molecular Docking of ORF7a Stop Mutation"
+        },
+        {
+            "text": "The phylogenetic tree confirmed the presence of different lineages belonging to multiple clusters ( Figure 6 ). Seventy-six strains from the Iraqi population were distributed to eight different SARS-CoV- ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 100,
+                    "end": 108,
+                    "text": "Figure 6",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "Phylogenetic Tree"
+        },
+        {
+            "text": "Complete-genome sequencing and phylogenetic analysis of SARS-CoV-2 strains is an essential approach for tracking the virus evolution and understanding the circulation of SARS-CoV-2 variants in Iraq. However, there is little genetic information about the SARS-CoV-2 outbreak in Iraq. Therefore, the current study aimed to provide some rudimentary information about the genotypes of SARS-CoV-2 that are circulating in the country. All rights reserved. No reuse allowed without permission. perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in The copyright holder for this this version posted October 22, 2021. ; https://doi.org/10.1101/2021. 10.20.21265042 doi: medRxiv preprint In this analysis, 76 SARS-CoV-2 complete genomes were sequenced from Iraq. From these genomes, we identified nine lineages. Of these, four genome sequences accompanied four novel mutations (A2853T, T20780A, TG25774AT, and T26159A) that caused a change in the amino acids E45V (NSP3), M41K (NSP16), W128M (NS3), and V256D (NS3).",
+            "cite_spans": [
+                {
+                    "start": 732,
+                    "end": 768,
+                    "text": "10.20.21265042 doi: medRxiv preprint",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "As expected, most (n = 73, 96%) of the sequences from the second epidemic wave in Iraq contained the amino acid replacement D614G in the spike proteins (Figure 3) . D614G was the first mutation in the spike glycoprotein that was first identified in Germany in January 2020 and became the dominant mutation in all the circulating strains worldwide by June 2020 [35] . Despite the D614G mutation being located outside of receptor binding domain (RBD) it enhanced the function of S protein and became the common mutation in most of the circulating strains during the second pandemic wave of COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 360,
+                    "end": 364,
+                    "text": "[35]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 152,
+                    "end": 162,
+                    "text": "(Figure 3)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "The amino acid D614G is in the S1 subunit and is incorporated via hydrogen bonding and electrostatic interactions with two amino acids in the S2 subunit. Thus, replacement of Asp with Gly was accompanied by rupturing of these interactions, causing higher virus fitness in the upper respiratory tract [36] .",
+            "cite_spans": [
+                {
+                    "start": 300,
+                    "end": 304,
+                    "text": "[36]",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The first SARS-CoV-2 genome sequence was reported on June 30, 2020, during the first wave occurrence in Iraq and belonged to the B.1/GH clade. According to the clade distribution, this clade diminished during the second wave. The B.1.1.7/GR and GRY clades were the most prevalent, which is consistent with the global distribution of SARS-CoV-2 clades in different countries.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Here, we report the first confirmed case of Alpha/B.1.1.7 variant of concern in Iraq (EPI_ISL_1524332), in a sample collected in December 2020, followed by the recording of 59 cases (GISAID). Since then, the number of infected cases has risen to over seven thousand cases per day. This is likely due to the emergence of this variant, which is characterized by high transmissibility and pathogenicity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The Beta variant (B.1.351) was first reported in South Africa in October 2020, and concerns about this variant are associated with high transmissibility, pathogenicity, and the limited protection of some vaccines against the infection [37] . Interestingly, we identified one strain belonging to B.1.351 for the first time in Iraq in late February 2021, which was collected from a patient without a history of travel, suggesting that this variant has been circulating locally before this date. showing that there is a genomic diversity of this variant in Iraq, which could be attributed to a variety of infection sources. It has been reported that the deletion 69-70 in the S protein causes a negative result from RT-PCR assays specific target for S-gene [38] . This specific deletion has occurred at high frequency in different countries and is currently geographically widespread. According to our results, this deletion was identified in 53 strains among 60 of the Alpha variant ( Figure 4 ). In addition to this deletion, a cluster of aa mutations (Y144del, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H) were noticed in the spike proteins of the strains belonging to the Alpha variant (Supplementary Table S2 ). Fortunately, most of these aa changes are located outside the RBD; hence, All rights reserved. No reuse allowed without permission. perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in [34] . This motivated us to use an in silico approach to investigate the effect of Q62* on the function of NS7a using molecular docking scores ( Table 1 ). The results predicted that NS7a was still able to bind to its target (LFA-1). Consistently, some strains with Q62* were derived from patients with severe infections, suggesting that truncated NS7a may not reduce the pathogenicity of the virus. However, further studies on the functional consequences of the stop codon Q62* are required to confirm this finding.",
+            "cite_spans": [
+                {
+                    "start": 235,
+                    "end": 239,
+                    "text": "[37]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 754,
+                    "end": 758,
+                    "text": "[38]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1500,
+                    "end": 1504,
+                    "text": "[34]",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 983,
+                    "end": 991,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 1196,
+                    "end": 1219,
+                    "text": "(Supplementary Table S2",
+                    "ref_id": null
+                },
+                {
+                    "start": 1645,
+                    "end": 1652,
+                    "text": "Table 1",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "The phylogenetic tree indicated that Iraqi B.1.1.7 strains form several subclusters, suggesting multiple introductions followed by local transmission, and most of the Iraqi strains clustered with the European strain, which may either reflect true importations or be due to unequal sampling efforts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In this work, we reported the genome sequences of SARS-CoV-2 from Iraq and tracked the locally distributed viral variations during the second epidemic wave. Sequence analysis showed the transformation of the previously circulating strains from the first wave to the dominance of Alpha variants that most likely surged during the second epidemic wave, as in most other countries. In addition, one Beta variant (B.1.351) was detected. Furthermore, we detected a prevalent NS7a Q62stop mutation among the Alpha variant strains in Iraq. In silico analysis suggested that there was no significant difference in the binding affinity of mutant and wild NS7a to LFA-I.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "All raw sequencing data used in this study are available on the Sequence Read Archive (SRA) under the BioProject accession numbers PRJNA731979, PRJNA735311, and PRJNA738286. The genome sequences were deposited in GISAID and GenBank and are now accessible by the numbers listed in Supplementary Table S1 and S3.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data availability"
+        },
+        {
+            "text": "NA designed the study. AJ, AO, and NA collected the strains and epidemiological data. NA, HA, TS, OV, and TS performed laboratory work, RNA extraction, whole-genome sequencing, and bioinformatics analysis. NA, AH, MM, LA analyzed and interpreted data and prepared the figures. NA, MM, KM, and BA drafted the manuscript. All authors discussed the results and contributed to the revision of the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author contributions"
+        },
+        {
+            "text": "This work was approved by the scientific research-ethics committee of Al Muthanna University within the collaborative protocol of joint work between the College of Science and Public Health Department, Al-Muthanna Directorate (July 30, 2020-8928). All participants provided signed informed consent. All rights reserved. No reuse allowed without permission. perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethical Statement"
+        },
+        {
+            "text": "All participants provided signed informed consent.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Informed consent"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A new coronavirus associated with human respiratory disease in China",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "579",
+            "issn": "7798",
+            "pages": "265--274",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "General's opening remarks at the media briefing on COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Crucial contribution of the universities to SARS-CoV-2 surveillance in Ecuador: Lessons for developing countries",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Santander-Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Iturralde",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Freire-Paspuel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zambrano-Mila",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Morales-Jadan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Vallejo-Janeta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "One Heal",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "COVID-19 Weekly Epidemiological Update 22: Special edition: Proposed working definitions of SARS-CoV-2 Variants of Interest and Variants of Concern",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "1--3",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "SARS-CoV-2 variants, spike mutations and immune escape",
+            "authors": [],
+            "year": 2021,
+            "venue": "Nat Rev Microbiol",
+            "volume": "19",
+            "issn": "7",
+            "pages": "409--433",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "SARS-CoV-2 mutations: The biological trackway towards viral fitness",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Majumdar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Niyogi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Epidemiol Infect",
+            "volume": "149",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The impact of mutations in SARS-CoV-2 spike on viral infectivity and antigenicity",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell",
+            "volume": "182",
+            "issn": "5",
+            "pages": "1284--94",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The evolutionary dynamics of endemic human coronaviruses",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wendy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Christian",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Jan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Virus Evol",
+            "volume": "7",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Will mutations in the spike protein of SARS-CoV-2 lead to the failure of COVID-19 vaccines? Why is the S protein the target of most COVID-19",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "36",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Real-time RT-PCR in COVID-19 detection: Issues affecting the results",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tahamtan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ardebili",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Expert Rev Mol Diagn",
+            "volume": "20",
+            "issn": "5",
+            "pages": "453--457",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Global disparities in SARS-CoV-2 genomic surveillance",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Brito",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Semenova",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Dudas",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hassler",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kalinich",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mug",
+                    "middle": [],
+                    "last": "Kraemer",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Increased transmissibility and global spread of SARS-CoV-2 variants of concern as at",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Finlay",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brett",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Henry",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuka",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Franck",
+                    "suffix": ""
+                },
+                {
+                    "first": "Neale",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Euro Surveill",
+            "volume": "26",
+            "issn": "24",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Genome sequencing of a novel coronavirus SARS-CoV-2 isolate from Iraq",
+            "authors": [],
+            "year": 2021,
+            "venue": "Microbiol Resour Announc",
+            "volume": "10",
+            "issn": "4",
+            "pages": "1316--1336",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Trimmomatic: A flexible trimmer for Illumina sequence All rights reserved. No reuse allowed without permission. perpetuity",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bolger",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lohse",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Usadel",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in The copyright holder for this this version posted",
+            "authors": [],
+            "year": 2014,
+            "venue": "Bioinformatics",
+            "volume": "30",
+            "issn": "15",
+            "pages": "2114--2134",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2021.10.20.21265042"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "A sequencequality aware, ultra-sensitive variant caller for uncovering cell-population heterogeneity from high-throughput sequencing datasets",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilm",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ppk",
+                    "middle": [],
+                    "last": "Aw",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bertrand",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ght",
+                    "middle": [],
+                    "last": "Yeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Nucleic Acids Res",
+            "volume": "40",
+            "issn": "",
+            "pages": "11189--201",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The sequence alignment/map format and SAMtools",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Handsaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wysoker",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fennell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Homer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Bioinformatics",
+            "volume": "25",
+            "issn": "",
+            "pages": "2078--2087",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "HaVoC, a bioinformatic pipeline for reference-based consensus assembly and lineage assignment for SARS-CoV-2 sequences",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Truong Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Plyusnin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sironen",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Vapalahti",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kant",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Smura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "BMC Bioinformatics",
+            "volume": "22",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Global initiative on sharing all influenza data-from vision to reality",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mccauley",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Gisaid",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Euro Surveill",
+            "volume": "22",
+            "issn": "13",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Coronapp: A web application to annotate and monitor SARS-CoV-2 mutations",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mercatelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Triboli",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Giorgi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fornasari",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "J Med Virol",
+            "volume": "93",
+            "issn": "",
+            "pages": "3238--3283",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "A dynamic nomenclature proposal for SARS-CoV-2 lineages to assist genomic epidemiology",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "\u00c1",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Toole",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Hill",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mccrone",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ruis",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du Plessis",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Pybus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Microbiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "1403--1410",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "NextStrain: Real-time tracking of pathogen evolution",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hadfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Megill",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Huddleston",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Potter",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Callender",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Callender",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sagulenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bedford",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Neher",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "TM-align: A protein structure alignment algorithm based on the TMscore",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Skolnick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nucleic Acids Res",
+            "volume": "33",
+            "issn": "7",
+            "pages": "2302--2311",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "FATCAT: A web server for flexible structure comparison and structure similarity searching",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Godzik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res",
+            "volume": "32",
+            "issn": "",
+            "pages": "582--585",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "PROCHECK: A program to check the stereochemical quality of protein structures",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Laskowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Molecular",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Thornton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Appl Crystallogr",
+            "volume": "26",
+            "issn": "",
+            "pages": "283--91",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Main-chain conformational tendencies of amino acids",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Weng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proteins",
+            "volume": "60",
+            "issn": "",
+            "pages": "679--89",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "3Drefine: An interactive web server for efficient protein structure refinement",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bhattacharya",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nowotny",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nucleic Acids Res",
+            "volume": "44",
+            "issn": "",
+            "pages": "406--415",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Software news and updates AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Huey",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lindstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Sanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Belew",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Goodsell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Comput Chem",
+            "volume": "30",
+            "issn": "16",
+            "pages": "2786--91",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "The HADDOCK2.2 web server: User-friendly integrative modeling of biomolecular complexes",
+            "authors": [
+                {
+                    "first": "Gcp",
+                    "middle": [],
+                    "last": "Van Zundert",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jpglm",
+                    "middle": [],
+                    "last": "Rodrigues",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Trellet",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Schmitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kastritis",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Karaca",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Melquiond",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Van Dijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Vries",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bonvin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Mol Biol",
+            "volume": "428",
+            "issn": "",
+            "pages": "720--725",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "MAFFT online service: Multiple sequence alignment, interactive sequence choice and visualization",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Katoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rozewicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Yamada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Brief Bioinform",
+            "volume": "20",
+            "issn": "4",
+            "pages": "1160--1166",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "All rights reserved. No reuse allowed without permission. perpetuity",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in The copyright holder for this this version posted",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2021.10.20.21265042"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "W-IQ-TREE: A fast online phylogenetic tool for maximum likelihood analysis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Trifinopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Von",
+                    "middle": [],
+                    "last": "Haeseler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Minh",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nucleic Acids Res",
+            "volume": "44",
+            "issn": "",
+            "pages": "232--276",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Interactive Tree Of Life (iTOL) v5: an online tool for phylogenetic tree display and annotation",
+            "authors": [
+                {
+                    "first": "Ivica",
+                    "middle": [],
+                    "last": "Letunic",
+                    "suffix": ""
+                },
+                {
+                    "first": "Peer",
+                    "middle": [],
+                    "last": "Bork",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Nucleic Acids Research",
+            "volume": "49",
+            "issn": "W1",
+            "pages": "293--296",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Structural assessment of SARS-CoV2 accessory protein ORF7a predicts LFA-1 and Mac-1 binding potential",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Nizamudeen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Karthik",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Halawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Arkill",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Biosci Rep",
+            "volume": "41",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-ll",
+            "authors": [],
+            "year": 2020,
+            "venue": "Cell",
+            "volume": "182",
+            "issn": "",
+            "pages": "812--839",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ojha",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rangarajan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.06.12.148726"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Evidence of escape of SARS-CoV-2 variant B. 1. 351 from natural and vaccine-induced sera",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Supasa",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Screaton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Cell",
+            "volume": "189",
+            "issn": "",
+            "pages": "2348--61",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "COG. UK update on SARS-CoV-2 Spike mutations of special interest",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2021.02.037"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "UK_19-December-2020_SARSCoV-2-Mutations.pdf. Prepared by COG-UK",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "COVID-19 cases/week and fatalities/week rates during first and second waves in Iraq[6]. All rights reserved. No reuse allowed without permission.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "designation of the B.1 lineage was reported in Iraq on June 30, 2020 [14]. Our results suggest turnover of circulating lineages, resulting as the dominance of the Alpha variant (B.1.1.7) during the last three months of sampling (December 2020-February 2021).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Distribution of GISAID clades (a) and Pango lineages (b) of the Iraqi sequenced strains. Lineages B.1.1.7 and genetic clades GR and GRY show the most prevalent in SARS-CoV-2 strains Genomic Mutation Analysis Analysis of the amino acid changes between SARS-CoV-2 strains in this study and the reference genome of virus EPI_ISL_402124 (hCoV-19/Wuhan/WIV04/2019) identified numerous mutations detected in the 5'UTR, NSP2, NSP3, NSP4, NSP6, NSP12b, NSP13, NSP15, NSP16, Spike, ORF6, ORF7, ORF8, 3'UTR, and N. Multiple Spike Protein Mutations: The most common cluster of spike protein mutations were H69del, V70del, Y144del, A570D, D614G, P681H, T716I, S982A, and D1118H, which were detected in both GRY (n=33, 34.4%) and GR (n=29, 38.1%) (SupplementaryTable S2).The most notable strain in this study, one out of 76, was identified as a Beta variant, B.1.351 lineage with spike mutation profile: D80A, D215G, L242del, A243del, L244del, E484K, N501Y, D614G, and A701V, which are linked to the South African variant (20H/501Y.V2). In addition, spike mutations A222V and L18F were found in the Iraqi strain of clade O (n=1, 1.3%). Using the web application",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Frequency of spike mutations in 76 SARS-CoV-2 genomes provided datasets. D614G with the most frequent mutation appears in 73 of the original spike proteins data set. Red-dots indicate amino acid replacement mutations and blue-dots indicate silent mutations.According to GISAID data (accessed in May 2021), the S605A mutation spike gene was reported in three strains comprising one from Iraq (EPI_ISL_1524356) and two from India and the USA. S605A is considered a rare mutation leading to the removal of a potential N-glycosylation site at position 603[20].Novel aa Changes:Among the detected mutations, four novel aa changes were identified (E45V/NSP3, M41K/NSP16, W128M/NS3, and V256D/NS3). In this study, the collected strains that individually carried these amino acid changes were EPI_ISL_2467922, EPI_ISL_2467921, EPI_ISL_1524366, and EPI_ISL_2467913, respectively.NS7a Q62stop: Amino acid change NS7a Q62stop occurred in 26 strains sequenced in this study (Supplementary",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Deletion mutations recorded in 67 of genomic SARS-CoV-2 sequences.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Surface representation of ORF7a-LFA-1 for (a): wild ORF7a (b): mutant ORF7a.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Maximum-likelihood phylogenetic tree based on complete genomic sequences of SARS-CoV-2 constructed from 154 complete genome sequencing from GISAID accessed 25 May 2021 and 76 sequences (yellow color) from Iraq. B.1.1.7 was observed to split into GRY and GR and it was dominated by viruses as the largest clusters. Replicate number with 1,000 bootstrap on IQ-TREE.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": ", we analyzed mutation profiles in the spike proteins of the alpha variant (B.1.1.7),",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "variant (B.1.1.7), first reported in the UK; Beta (B.1.351), first reported in South Africa in October 2020; P.1, a descendant of variant Gamma (B.1.1.28), first reported in Brazil, and Delta (B.1.617.2), first reported in India",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "ORF7a-LFA-1 interaction score for both wild and mutant ORF7a protein.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "The copyright holder for this this version posted October 22, 2021. ; https://doi.org/10.1101/2021.10.20.21265042 doi: medRxiv preprint they likely do not affect vaccine efficacy. Contrastingly, we detected a stop codon mutation (Q62*) at the ORF7a (NS7a) coding region (27577) in most of the Iraqi strains belonging to the Alpha variant, resulting in a truncated NS7a protein. The accessory protein ORF7 of SARS-CoV-2 is involved in modulation of host immune responses",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF9": {
+            "text": "The copyright holder for this this version posted October 22, 2021. ; https://doi.org/10.1101/2021.10.20.21265042 doi: medRxiv preprint",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We would like to thank Dr. Ryiad Abed-Ameer Halfi and Spec. Microbiologist Batool Kadham Salman, Ministry of Health, Iraq, and all the personnel from the unit of Molecular Virology, College of Medicine, Helsinki University, Finland, for their great efforts in this work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        },
+        {
+            "text": "None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest statement:"
+        },
+        {
+            "text": "The present work was supported by Sawa University, Samawa, Iraq.All rights reserved. No reuse allowed without permission. perpetuity. preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        }
+    ]
+}

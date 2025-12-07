@@ -1,0 +1,1450 @@
+{
+    "paper_id": "00a6e4277f976960ab4e09e93663e1a9e0fb3aeb",
+    "metadata": {
+        "title": "Journal Pre-proof Cytomegalovirus gastritis in a patient with severe acute respiratory syndrome coronavirus 2 infection: A case report and literature review Cytomegalovirus gastritis in a patient with severe acute respiratory syndrome coronavirus 2 infection: a case report and literature review",
+        "authors": [
+            {
+                "first": "Ehsan",
+                "middle": [],
+                "last": "Taherifard",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shiraz University of Medical Sciences",
+                    "location": {
+                        "settlement": "Shiraz",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Roozbeh",
+                "middle": [],
+                "last": "Mortazavi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shiraz University of Medical Sciences",
+                    "location": {
+                        "settlement": "Shiraz",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Maral",
+                "middle": [],
+                "last": "Mokhtari",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shiraz University of Medical Sciences",
+                    "location": {
+                        "settlement": "Shiraz",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ali",
+                "middle": [],
+                "last": "Taherifard",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shiraz University of Medical Sciences",
+                    "location": {
+                        "settlement": "Shiraz",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sima",
+                "middle": [
+                    "Kiani"
+                ],
+                "last": "Salmi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shiraz University of Medical Sciences",
+                    "location": {
+                        "settlement": "Shiraz",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Erfan",
+                "middle": [],
+                "last": "Taherifard",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shiraz University of Medical Sciences",
+                    "location": {
+                        "settlement": "Shiraz",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "In this study, we reported a previously immunocompetent patient who developed cytomegalovirusinduced gastric ulcers after severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. A 33-year-old man was referred to our center with complaints of persistent dysphagia and odynophagia, and epigastric pain and discomfort after ingesting solids or liquids, a few days after his hospital discharge following admission to treat coronavirus disease 2019 . Endoscopy revealed inflammation and a whitish exudate in the esophagus, and multiple large active ulcers in the stomach. Histopathological and immunohistochemical findings were strongly suggestive of cytomegalovirus infection. J o u r n a l P r e -p r o o f List of Abbreviations: CMV: cytomegalovirus; Covid-19: coronavirus disease 2019; CT: computed tomography; GI: gastrointestinal; IHC: immunohistochemical; RT-PCR: reverse transcriptase-polymerase chain reaction; SARS-CoV-2: severe acute respiratory syndrome coronavirus 2. J o u r n a l P r e -p r o o f CMV colitis Corticosteroids, HCQ, antibiotics, antifungals, tocilizumab, ganciclovir Recovered J o u r n a l P r e -p r o o f J o u r n a l P r e -p r o o f J o u r n a l P r e -p r o o f J o u r n a l P r e -p r o o f J o u r n a l P r e -p r o o f J o u r n a l P r e -p r o o f J o u r n a l P r e -p r o o f J o u r n a l P r e -p r o o f J o u r n a l P r e -p r o o f",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Cytomegalovirus (CMV), a double-stranded DNA virus from the Herpesviridae family, is considered one of the most common causes of infection in humans. Like other herpesviruses, CMV has lifelong latency within the body after primary infection (1) . The primary infection is mostly asymptomatic, whereas reactivation in patients with immunosuppressed status may be life-threatening, and is associated with a high rate of morbidities (2) . A systematic review by Rafailidis et al. reported that the gastrointestinal (GI) tract was among the systems involved most frequently in severe CMV infections (3) . Here we report the first case (to our knowledge) of a previously immunocompetent patient who developed CMV-induced gastric ulcers after severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection.",
+            "cite_spans": [
+                {
+                    "start": 241,
+                    "end": 244,
+                    "text": "(1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 430,
+                    "end": 433,
+                    "text": "(2)",
+                    "ref_id": null
+                },
+                {
+                    "start": 459,
+                    "end": 476,
+                    "text": "Rafailidis et al.",
+                    "ref_id": null
+                },
+                {
+                    "start": 595,
+                    "end": 598,
+                    "text": "(3)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "A 33-year-old man was referred to our center with complaints of persistent dysphagia and odynophagia, and epigastric pain and discomfort after his discharge from the hospital following admission because of coronavirus disease . His symptoms were aggravated by the intake of solids or liquids, and had appeared about 1 week previously. The patient also complained of a new-onset symptom of feeling sick.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case presentation"
+        },
+        {
+            "text": "The patient was diagnosed with Covid-19 about 35 days previously, and remained hospitalized for about 1 month. Prior to his admission the patient had no previous medical history. He had flu-like symptoms including fever, fatigue, sore throat, cough, headache, and generalized body pain for 4 days; however, reverse transcriptase-polymerase chain reaction (RT-PCR) testing for SARS-CoV-2 from a nasopharyngeal swab was negative. The patient was advised to home-quarantine and use conservative treatment. On day 4 after he started showing these symptoms, his medical condition deteriorated and he presented to the emergency department with progressive shortness of breath and palpitations (day 1). On arrival the patient had tachycardia (pulse rate 110/min), tachypnea (respiratory rate 24/min), and fever (temperature 37.8 \u00b0C). He was oriented and awake, but was dehydrated (dry mouth and tongue) and hypoxemic (O2 saturation 89), requiring 4-6 L/min of supplemental oxygen via cannula. The patient underwent chest computed tomography (CT) which revealed radiologic signs typical of Covid-19, including extensive areas of ground-glass opacities involving >90% of the lung parenchyma. Laboratory studies revealed leukocytosis (16,400 cells/mL) with marked neutropenia (80%). Erythrocyte sedimentation rate (56 mg/dL) and C-reactive protein (43 mg/dL) were both increased. Other laboratory parameters including hemoglobin, platelets, blood urea nitrogen, creatinine, and liver function tests were within normal limits.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case presentation"
+        },
+        {
+            "text": "Two blood cultures were done during his inpatient stay, both of which showed no growth. A second SARS-J o u r n a l P r e -p r o o f CoV-2 RT-PCR performed on admission was positive. On the 3rd day of hospitalization, the patient's oxygen saturation decreased and noninvasive positive pressure ventilation was started. During his inpatient stay due to SARS-CoV-2 infection, the patient received broad-spectrum antibiotics, remdesivir, methylprednisolone, two doses of tocilizumab, and supportive therapy. In the final days of the patient's hospital stay (day 28-30), he developed mild epigastric discomfort and was given a proton pump inhibitor.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case presentation"
+        },
+        {
+            "text": "Five days after the patient's first discharge (day 35), he was readmitted for new symptoms he had recently developed, i.e., dysphagia and epigastric discomfort. The patient's vital signs were stable. In his paraclinical workup he had a normal white blood cell count (6400 cells/mL) with a decreased lymphocyte count (1100 cells/mL), and thrombocytopenia (110,000 cells/mL); other routine laboratory parameters were within normal limits. Immune system tests were done, including human immunodeficiency virus antibody serology, complement and immunoglobulin levels, and flow-cytometric analysis of lymphocyte subpopulations. However, none of them was suggestive of an underlying immunodeficiency disorder. To determine the cause of his low level of platelets, laboratory tests including peripheral blood smear, viral markers (hepatitis B surface antigen, and hepatitis C virus antibody), lupus markers (antinuclear and antideoxyribonucleic acid antibodies), and color Doppler sonography of the hepatic portal system were done, but yielded no significant findings. Because the patient reported that he had white oral mucosal lesions that appeared after his first hospital discharge, our primary impression was GI candidiasis. Therefore, we started the patient on nystatin drop and fluconazole.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case presentation"
+        },
+        {
+            "text": "On second day after readmission (day 36), endoscopy was conducted. It showed mild inflammation along with a few whitish exudates in the proximal and distal third of the esophagus, and a large gastric ulcer from the fundus extending to the body of the stomach ( Figure 1 ). The lesion had inflamed, elevated borders but no bleeding. A black exudate highly suggestive of mucormycosis was seen covering the gastric ulcer. Brushing for KOH and cytology tests were done, and a biopsy was obtained from the margins of the lesion. Meanwhile, liposomal amphotericin B (AmBiosme; 300 mg i.v. daily) was initiated for the patient.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 261,
+                    "end": 269,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Case presentation"
+        },
+        {
+            "text": "Paranasal and abdominopelvic CT scans revealed no extragastrointestinal involvement. Histopathological assessment of the biopsy specimens showed an acute inflammatory process along with granulation tissue formation, but no evidence of mucormycosis or malignant cells. Figure 3C ). Ganciclovir was then started at 300 mg i.v. daily. After about 72 hours, the patient's symptoms had improved and his dysphagia and abdominal pain had lessened. He received ganciclovir for 3 weeks, after which a new endoscopy showed a healed ulcer in the body of stomach. Interestingly, the patient's platelet level also normalized after CMV treatment, suggesting CMV infection as a probable underlying cause of his thrombocytopenia.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 268,
+                    "end": 277,
+                    "text": "Figure 3C",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Case presentation"
+        },
+        {
+            "text": "SARS-CoV-2 infection can present with a wide range of symptoms. Those related to the GI tract including loss of appetite, nausea, abdominal pain, and diarrhea are common in these patients, and some symptoms can last for weeks to months after recovery (4). In a systematic review and metaanalysis of 33 studies, the pooled prevalence of GI manifestations was estimated to be 11.51% with diarrhea as the most frequent symptom (7.78% with a 95% confidence interval, range 5.05\u250011.04) (5) . Furthermore, the incidence and In contrast to other cases in the literature, our patient was young and had no known previous medical history. The average age of patients reported to date was 65.2 \u00b1 9.5 years, and all had a history of at least one chronic disease (Table 1) Treatment with immunosuppressive agents can also be responsible for CMV reactivation. A high-dose infusion of corticosteroids and tocilizumab, an interleukin-6 receptor antagonist, was used for our patient.",
+            "cite_spans": [
+                {
+                    "start": 481,
+                    "end": 484,
+                    "text": "(5)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 750,
+                    "end": 759,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Interleukin-6 is known to play a pivotal role in optimal activation and regulation of the immune response,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "particularly T-cell response, during viral infections (11) . Tocilizumab suppresses this antiviral activity by blocking the interleukin-6 receptor. Among the cases of GI involvement reported to date in patients with CMV, 5 patients had received an interleukin-6 receptor antagonist. CMV reactivation has also been reported in patients without Covid-19 who were taking tocilizumab. Komura et al. reported a 54-year-old woman with a history of rheumatoid arthritis who was being treated with a corticosteroid, methotrexate and tocilizumab (12) . After taking this biologic agent for about 3 weeks, the patient developed epigastric pain and fever, and she was diagnosed with CMV reactivation-induced acute hepatitis and gastric erosions. In addition, infection with other viruses such as Herpes zoster or Epstein-Barr virus (among others) has been observed in patients with or without Covid-19 who were treated with interleukin-6 receptor antagonists (13, 14) . Although the evidence to date is insufficient to indicate a significantly higher risk of viral reactivation including CMV in patients with Covid-19 who are using interleukin-6 receptor antagonist therapy, this potential issue should be of concern to physicians.",
+            "cite_spans": [
+                {
+                    "start": 54,
+                    "end": 58,
+                    "text": "(11)",
+                    "ref_id": null
+                },
+                {
+                    "start": 537,
+                    "end": 541,
+                    "text": "(12)",
+                    "ref_id": null
+                },
+                {
+                    "start": 948,
+                    "end": 952,
+                    "text": "(13,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 953,
+                    "end": 956,
+                    "text": "14)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "This case report provides comprehensive information on gastrointestinal CMV involvement associated with Covid-19. The aims of this report are to alert clinicians to the importance of vigilance in the face of an unexpected clinical course or prolonged gastrointestinal signs and symptoms in patients with Covid-19, and to remind them to consider other diseases such as CMV infection in order to prevent delays in early suspicion, diagnosis, and treatment. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "J o u r n a l P r e -p r o o f"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Cytomegaloviruses and their replication",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Mocarski",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ejfv",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Cytomegalovirus infection in immunocompetent and immunocompromised individuals--a review. Current drug targets Immune, endocrine and metabolic disorders",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Vanc\u00edkov\u00e1",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dvor\u00e1k",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "",
+            "volume": "1",
+            "issn": "",
+            "pages": "179--87",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Severe cytomegalovirus infection in apparently immunocompetent patients: a systematic review",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Rafailidis",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Mourtzoukou",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Varbobitis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Falagas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virology journal",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The Spectrum of Gastrointestinal Symptoms in Patients With Coronavirus Disease-19: Predictors, Relationship With Disease Severity, and Outcome",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ghoshal",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Ghoshal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mathur",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nath",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Transl Gastroenterol",
+            "volume": "11",
+            "issn": "12",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Prevalence of gastrointestinal symptoms in coronavirus disease 2019: a meta-analysis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Merola",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Armelao",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "De Pretis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Acta gastro-enterologica Belgica",
+            "volume": "83",
+            "issn": "4",
+            "pages": "603--618",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Cytomegalovirus proctitis as a complication of COVID-19 with immunosuppressive treatments",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Maillet",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pourbaix",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Le Pluart",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sirmai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Postolache",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Couvelard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "IDCases",
+            "volume": "24",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Cytomegalovirus-Induced Gastrointestinal Bleeding and Pancreatitis Complicating Severe Covid-19 Pneumonia: A Paradigmatic Case",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Marchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vianello",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crisafulli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Maroccia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Crin\u00f2",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pecori",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mediterr J Hematol Infect Dis",
+            "volume": "12",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "COVID-19 and Cytomegalovirus Co-infection: A Challenging Case of a Critically Ill Patient with Gastrointestinal Symptoms",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Amaral",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferreira",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Roll",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Neves",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Pivetta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mohrbacher",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Immune dysregulation and system pathology in COVID-19",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jamal",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Bangash",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Habiba",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Virulence",
+            "volume": "12",
+            "issn": "1",
+            "pages": "918--954",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Cytomegalovirus-induced immunopathology and its clinical consequences",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Varani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Landini",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The Role of Interleukin 6",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Velazquez-Salinas",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Verdugo-Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Borca",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Cytomegalovirus Reactivation Induced Acute Hepatitis and Gastric Erosions in a Patient with Rheumatoid Arthritis under",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Komura",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ohta",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Nakai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Seishima",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yamato",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Miyazawa",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Convalescent plasma, cytomegalovirus infection, and persistent leukopenia in COVID-19 recovery phase: What is the link? Journal of postgraduate medicine",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kakar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gogia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Langer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "67",
+            "issn": "",
+            "pages": "100--102",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Cytomegalovirus-Induced Gastrointestinal Bleeding and Pancreatitis Complicating Severe Covid-19 Pneumonia: A Paradigmatic Case. Mediterranean journal of hematology and infectious diseases",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Marchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vianello",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crisafulli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Maroccia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Crin\u00f2",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pecori",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "COVID-19 and Cytomegalovirus Co-infection: A Challenging Case of a Critically Ill Patient with Gastrointestinal Symptoms",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Amaral",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferreira",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Roll",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Neves",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Pivetta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mohrbacher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "European journal of case reports in internal medicine",
+            "volume": "7",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Cytomegalovirus Enterocolitis secondary to experimental COVID-19 therapy",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Geisen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Berger",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reddy",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rai",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wadih",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Idcases",
+            "volume": "22",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "CYTOMEGALOVIRUS COLITIS POST IL-6 INHIBITOR USE IN COVID-19 INFECTION",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Jiwa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lorick",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mutneja",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chest",
+            "volume": "158",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Cytomegalovirus colitis combined with Clostridium innocuum as a cause of lower GI bleeding in a patient with COVID-19",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Gastrointestinal endoscopy",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "A case of urgent colonoscopic hemostasis of a cecal hemorrhagic ulceration in a patient receiving heparin for COVID-19 coagulopathy. JGH open : an open access journal of gastroenterology and hepatology",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Yoshida",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hirose",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yamazaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hashimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matsubara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "5",
+            "issn": "",
+            "pages": "160--162",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "COVID-19-induced granulomatosis with polyangiitis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Selvaraj",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moustafa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dapaah-Afriyie",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Birkenbach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "BMJ Case Reports",
+            "volume": "14",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Cytomegalovirus haemorrhagic colitis complicating COVID-19 in an immunocompetent critically ill patient: A case report",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Leemans",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Maillart",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Van Noten",
+                    "suffix": ""
+                },
+                {
+                    "first": "Oliveira Dos",
+                    "middle": [],
+                    "last": "Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Leahu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kamgang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Clinical case reports",
+            "volume": "9",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Cytomegalovirus proctitis as a complication of COVID-19 with immunosuppressive treatments",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Maillet",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pourbaix",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Le Pluart",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sirmai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Postolache",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Couvelard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Idcases",
+            "volume": "24",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Cytomegalovirus haemorrhagic enterocolitis associated with severe infection with COVID-19",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Carll",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Rady",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Salomao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "BMJ open gastroenterology",
+            "volume": "8",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Viral Clearance and Serological Response to SARS-cov-2 in Kidney Transplant Recipients",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Silvano",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ferreira",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bustorff",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Nunes",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Tavares",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sobrinho",
+                    "middle": [],
+                    "last": "Sim\u00f5es",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Transplantation Proceedings",
+            "volume": "53",
+            "issn": "4",
+            "pages": "1180--1186",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Tocilizumab-induced cytomegalovirus colitis in a patient with COVID-19",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Khatib",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Shaik",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alwraidat",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Mohamed",
+                    "suffix": ""
+                },
+                {
+                    "first": "Abou",
+                    "middle": [],
+                    "last": "Kamar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Journal",
+            "volume": "9",
+            "issn": "1",
+            "pages": "148--52",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The patient underwent another endoscopy 8 days later (day 44), which showed mild inflammation in the distal third of the esophagus and multiple large active ulcers with congested borders in the body of the stomach, but without the previous black coating(Figure 2). Biopsies from the antrum and body mucosa showed cytopathic effects suggestive of CMV infection including cell and nuclear enlargement and nuclear J o u r n a l P r e -p r o o f inclusion bodies(Figures 3A and 3B). CMV gastritis was confirmed by immunohistochemical (IHC) study (",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "severity of Covid-19-related GI symptoms were greater among patients with a more severe course of infection. This association may mislead physicians and thereby delay the early suspicion, diagnosis, and treatment of other diseases. A high index of suspicion is the key to attaining an early diagnosis of CMV infection or reactivation, or other superimposed infections. Therefore, it is important to monitor the patient's clinical manifestations closely and attempt to consider other pathologies when the clinical course is unexpected in a patient diagnosed with SARS-Cov-2 infection. Severe or prolonged GI signs and symptoms or unexplained worsening of the individual's condition are examples of clinical courses that warrant a new round of taking a detailed history, physical examination, and paraclinical workup if necessary. Maillet et al. reported the case of a 75-year-old man known to have diabetes mellitus, who presented with a 15-day history of fever, chills, myalgia and cough, but no major GI symptoms (6). However, 2 weeks later the patient developed acute-onset nonbloody diarrhea with negative stool cultures for bacteria or parasites, and negative PCR results for fungal infection. He showed no response to conservative treatment. Colonoscopy and biopsy revealed that the patient was coinfected with CMV. New-onset epigastric pain, hemodynamic instability, melena, and a substantial decrease in hemoglobin (7) or the appearance of abdominal distention (8) are among other reported presentations in patients with SARS-CoV-2 and CMV coinfection. Detailed information on cases of CMV infection with GI symptoms reported to date is summarized inTable 1. Our patient developed epigastric pain and odynophagia even to fluids shortly after his discharge from the hospital for Covid-19 treatment. This J o u r n a l P r e -p r o o f esophageal symptom was unusual; subsequent endoscopy and biopsy showed a large gastric ulcer, and IHC assay was positive for CMV.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": ". Furthermore, all patients with GI manifestations of CMV infection were diagnosed in the course of their hospital stay, whereas our patient developed symptoms of CMV infection after discharge from the hospital. The co-occurrence of CMV in our patient may be attributable to immune system dysregulation as a result of SARS-CoV-2 infection. Changes in the immune cell profile, robust activation of the complement system, and abnormal activation of neutrophils are the key features of immune system dysregulation seen mostly in more severe cases (9). These alterations can lead to unregulated and erratic immune responses (both local and systemic), and to cytokine release syndrome. Marked reductions in the number of T-cells (both CD4+ and CD8+), B cells, and natural killer cells (mainly CD4+ cells) are associated with an unfavorable course and prognosis, and may be the main contributor to CMV coinfection or reactivation. In turn, this coinfection per se induces profound systemic inflammatory responses, aggravating the pre-existing kinetics of hypercytokinemia (cytokine storm) (10).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "(A) and (B): Endoscopy revealed a large gastric ulcer from the proximal portion of the stomach extending to the body, with inflamed and elevated borders. A black exudate was also observed on the surface of the lesion.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "(A) and (B): There were multiple large ulcers with congested borders in the body of the stomach, but without the previous black coating in the second endoscopy.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "(A) and (B): Antral biopsy showed virus-induced cytopathic effects characterized by nucleomegaly and nuclear inclusion bodies (arrows in panel 3B) suggestive of cytomegalovirus infection. Hematoxylin & eosin staining, 200\u00d7 and 400\u00d7, respectively. CAD: coronary artery disease, CMV: cytomegalovirus; COVID-19: coronavirus disease 2019; CT: computed tomography; DM: diabetes mellitus; DNA: deoxyribonucleic acid; GI: gastrointestinal; G-CSF: granulocyte colony-stimulating factor; HCQ: hydroxychloroquine; HTN: hypertension; IHC: immunohistochemistry; PCR: polymerase chain reaction; SARS-cov-2: severe acute respiratory syndrome coronavirus-2; TB: tuberculosis",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Treatment with an Anti-IL-6 Receptor Antibody, Tocilizumab. Internal medicine (Tokyo, Japan). Bedini A, Biagioni E, Serio L, Tonelli R, Meschiari M, et al. Two Fatal Cases of Acute Liver Failure Due to HSV-1 Infection in COVID-19 Patients Following Immunomodulatory Therapies. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. 2021;73(1):e252-e5. 14. Tsurukawa S, Iwanaga N, Izumi Y, Shirakawa A, Kawahara C, Shukuwa T, et al. Herpes Zoster Meningitis Complicating Combined Tocilizumab and Cyclosporine Therapy for Adult-Onset Still's Disease. Case Rep Rheumatol. 2016;2016:4232657-.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Characteristics of patients with COVID-19 who developed cytomegalovirus coinfection with gastrointestinal involvement Endoscopy showed multiple large, confluent ulcers in the first and second portions of the duodenum. Diagnosis confirmed by positive CMV DNA PCR and duodenal histopathological findings 67-year-old female K/C of HTN and DM Fever and dyspnea Bloody stools and decrease in hemoglobin; wall thickening of the lower part of the rectum in CT Colonoscopy showed colitis and bleeding ulcer in the rectum. Biopsies showed viral cytopathogenic effect with positive IHC for CMV, positive blood CMV PCR Fever Large volume of bloody stool resulting in hypovolemic shock; diffuse wall thickening of the ascending colon and cecum in CT Colonoscopy showed ulceration in the cecum and ascending colon. Blood test and IHC of the biopsy were positive for CMV /C of post-TB aspergilloma Respiratory distress Ileus; right-sided colitis and ileal distension without blockage in CT Colonoscopy revealed right-sided colitis with multiple ulcers. CMV colitis was confirmed by colon biopsy staining, positive CMV PCR Acute nonbloody diarrhea; circumferential thickening of the rectal wall with perirectal fat infiltration and enhancement of rectal mucosa in CT Colonoscopy showed multiple uncomplicated diverticula in the sigmoid colon and a circumferential mass in the rectum. Biopsy disclosed viral cytopathogenic effect with positive IHC for CMV. Positive blood CMV PCR Rectal bleeding; thickening and marked mural edema of the distal jejunum, ileum, and colon in CT Colonoscopy revealed friable ulcerated mucosa. Biopsies demonstrated near-complete loss of epithelium and CMV-infected cells by IHC. Positive blood CMV PCR 55-year-old female K/C of kidney transplant Melena and hemoglobin decrease further complicated by fresh rectal bleeding; mural thickening with intramural axial hemorrhage involving the splenic flexure and descending colon in CT angiogram Histopathological study of the resected colon reported CMV colitis. Colonic perforation and serology confirmed CMV infection.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank K. Shashok (AuthorAID in the Eastern Mediterranean) for improving the use of English in the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgment:"
+        },
+        {
+            "text": "The authors declare no conflicts of interest.Ethics approval and consent to participate: Prior informed consent was obtained from the patient.Funding Support: None.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of Interest:"
+        }
+    ]
+}

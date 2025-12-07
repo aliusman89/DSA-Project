@@ -1,0 +1,1393 @@
+{
+    "paper_id": "00e850f0130f4b72a96c595560d24d78be0ee376",
+    "metadata": {
+        "title": "Changes in mobility pre and post first SARS-CoV-2 vaccination: findings from a prospective community cohort study including GPS movement tracking in England and Wales (Virus Watch) on behalf of Virus",
+        "authors": [
+            {
+                "first": "Vincent",
+                "middle": [],
+                "last": "Nguyen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yunzhe",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "SpaceTimeLab",
+                    "institution": "University College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Richard",
+                "middle": [],
+                "last": "Mumford",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ben",
+                "middle": [],
+                "last": "Flanagan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Parth",
+                "middle": [],
+                "last": "Patel",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Isobel",
+                "middle": [],
+                "last": "Braithwaite",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Madhumita",
+                "middle": [],
+                "last": "Shrotri",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Thomas",
+                "middle": [],
+                "last": "Byrne",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sarah",
+                "middle": [],
+                "last": "Beale",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Anna",
+                "middle": [],
+                "last": "Aryee",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wing",
+                "middle": [],
+                "last": "Lam",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Erica",
+                "middle": [],
+                "last": "Fong",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ellen",
+                "middle": [],
+                "last": "Fragaszy",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cyril",
+                "middle": [],
+                "last": "Geismar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Annalan",
+                "middle": [
+                    "M D"
+                ],
+                "last": "Navaratnam",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Pia",
+                "middle": [],
+                "last": "Hardelid",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "UCL Great Ormond Street Institute of Child Health",
+                    "location": {
+                        "settlement": "London",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jana",
+                "middle": [],
+                "last": "Kovar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Addy",
+                "middle": [],
+                "last": "Pope",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tao",
+                "middle": [],
+                "last": "Cheng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "SpaceTimeLab",
+                    "institution": "University College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Andrew",
+                "middle": [],
+                "last": "Hayward",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Robert",
+                "middle": [
+                    "W"
+                ],
+                "last": "Aldridge",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Watch",
+                "middle": [
+                    "Collaborative"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alison",
+                "middle": [],
+                "last": "Rodger",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "settlement": "London, London",
+                        "country": "UK., UK. 10"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Susan",
+                "middle": [],
+                "last": "Michie",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Linda",
+                "middle": [],
+                "last": "Wijlaars",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "UCL Great Ormond Street Institute of Child Health",
+                    "location": {
+                        "settlement": "London",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Eleni",
+                "middle": [],
+                "last": "Nastouli",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "UCL Great Ormond Street Institute of Child Health",
+                    "location": {
+                        "settlement": "London",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Moira",
+                "middle": [],
+                "last": "Spyer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "SpaceTimeLab",
+                    "institution": "University College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ben",
+                "middle": [],
+                "last": "Killingley",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London Hospital",
+                    "location": {
+                        "settlement": "London",
+                        "country": "United Kingdom. 13"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ingemar",
+                "middle": [],
+                "last": "Cox",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Vasileios",
+                "middle": [],
+                "last": "Lampos",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rachel",
+                "middle": [
+                    "A"
+                ],
+                "last": "Mckendry",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Anne",
+                "middle": [
+                    "M"
+                ],
+                "last": "Johnson",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "settlement": "London, London",
+                        "country": "UK., UK. 10"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jo",
+                "middle": [],
+                "last": "Gibbs",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "settlement": "London, London",
+                        "country": "UK., UK. 10"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Richard",
+                "middle": [],
+                "last": "Gilson",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University College London",
+                    "location": {
+                        "settlement": "London, London",
+                        "country": "UK., UK. 10"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Affiliations",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: Some evidence suggests that individuals may change adherence to public health policies aimed at reducing contact, transmission and spread of the SARS-CoV-2 virus after they receive their first SARS-CoV-2 vaccination. In this study, we aim to estimate the rate of change in average daily travel distance from a participant's registered address before and after SARS-CoV-2 vaccination.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Method: Participants were recruited into Virus Watch starting in June 2020. Weekly surveys were sent out to participants and vaccination status was collected from January 2021 onwards. Between September 2020 and February 2021, we invited 13,120 adult Virus Watch participants to contribute towards our tracker sub-cohort which uses the Global Positioning System (GPS) to collect data on movement. We used segmented linear regression to estimate the median daily travel distance before and after the first self-reported SARS-CoV-2 vaccine dose.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "We analysed the daily travel distance of 228 vaccinated adults. Between 157 days prior to vaccination until the day before vaccination, the median daily travel distance travelled was 8.9km (IQR: 3.50km, 24.17km). Between the day of vaccination and 100 days after vaccination, the median daily travel distance travelled was 10.30km (IQR: 4.11, 27.53km). Between 157 days prior to vaccination and the vaccination date, there was a daily median decrease in mobility of 40m (95%CI: -51m, -31m, p-value <0.001) per day. After the removal of outlier data, and between the vaccination date and 99 days after vaccination, there was a median daily increase in movement of 45.0m (95%CI: 25m, 65m, p-value = <0.001). Restricting the analysis to the 3rd national lockdown (4th of January 2021 to the 5th of April 2021), we found a median daily movement increase of 9m (95%CI: -25m, 45m, p = 0.57) in the 30 days prior to vaccination and the vaccination date, and a median daily movement increase of 10m (95%CI: -60m, 94m, p-value = 0.69) in the 30 days after vaccination.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Our study demonstrates the feasibility of collecting high volume geolocation data as part of research projects, and the utility of these for understanding public health issues. Our results are consistent with both an increase and decrease in movement after vaccination and suggest that, amongst Virus Watch participants, any changes in movement distances post-vaccination are small.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The UK response to the COVID-19 pandemic has included restrictions on non-essential movement in order to reduce contacts and control transmission (1) . However, the restriction of movement can have a detrimental impact on a wide variety of outcomes such as mental health, domestic accidents, the economy and education (2) .",
+            "cite_spans": [
+                {
+                    "start": 146,
+                    "end": 149,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 318,
+                    "end": 321,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Vaccination against SARS-CoV-2 reduces COVID-19 transmission and disease (3) and as a result is a critical part of the strategies to allow more normal societal mixing. However, in the UK context, there are current concerns that misunderstandings about the effectiveness of the COVID-19 vaccine after the first dose may be leading to a reduction in adherence to other public health policies and increased exposure of partially protected individuals (4) .",
+            "cite_spans": [
+                {
+                    "start": 73,
+                    "end": 76,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 448,
+                    "end": 451,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Preliminary research on vaccination in February 2021 found that 41% of over 80s who had their first dose of the vaccine had met another person within 3 weeks. These individuals did not include another household member, care worker or member of their support bubble, indoors which was permitted by the restrictions in place at the time (4) . This is concerning as antibody levels will not have risen in the 1-2 weeks following the first dose of vaccine (5, 6) . Further evidence also suggests that those over the age of 80 are more likely to have a positive polymerase chain reaction test in the first 9 days of a vaccination compared to a control group, which might be explained by increased mobility and contacts between people in the period following vaccination (7) .",
+            "cite_spans": [
+                {
+                    "start": 335,
+                    "end": 338,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 452,
+                    "end": 455,
+                    "text": "(5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 456,
+                    "end": 458,
+                    "text": "6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 765,
+                    "end": 768,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "With the emergence of the Delta (B.1.617.2) SARS-CoV2 variant, which is currently the dominant in the UK (8) , the effectiveness of both the Oxford-AstraZeneca and Pfizer-BioNTech vaccines are estimated to be 33% against symptomatic disease after a first dose (9) although protection against hospitalisation appears to be much higher (10) . Therefore, if those who are not fully vaccinated increase their level of social contact and mobility after the first dose, their risk of becoming infected and infecting others may also be increased.",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 108,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 260,
+                    "end": 263,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 334,
+                    "end": 338,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Understanding movement post-first vaccination is important as it could help policy makers understand how perceived protection from the vaccination programme may negatively offset the effectiveness of other policies designed to reduce transmission. Whilst previous studies have attempted to investigate travel distances after vaccination(11), these were conducted using mobile call data based upon cellular tower location which is considered less accurate compared to GPS location.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In this analysis, we aim to quantify the effect that the first SARS-CoV-2 vaccination dose has on travelling behaviour using mobile phone global position system data collected from study participants that consented and voluntarily downloaded ArcGIS Tracker App onto their mobile phones.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted June 28, 2021. ; https://doi.org/10.1101/2021.06.21.21259237 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "We conducted a quasi-experimental interrupted time series study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Design"
+        },
+        {
+            "text": "Virus Watch is a household community cohort study which began recruitment in June 2020 and has recruited 50,000 individuals by May 2021 across England and Wales with weekly online follow up, serology sampling and movement tracking in a subset of participants. A full description of the Virus Watch study has been published previously (12) . Between September 2020 and February 2021, we invited 13,120 adults (aged 18+ on entry) from the Virus Watch study to contribute location data (longitude, latitude, date, time, travel mode and GPS accuracy which was defined by phone manufacturer's GPS algorithm) using a proprietary mobile phone application (ArcGis Tracker).",
+            "cite_spans": [
+                {
+                    "start": 334,
+                    "end": 338,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Resource"
+        },
+        {
+            "text": "Date of receiving the first dose of vaccine was self-reported through the weekly Virus Watch questionnaire. We began collecting weekly vaccination status on 11 January 2021 and asked about any prior vaccination during the first two weekly surveys. Subsequently, participants were asked to provide a weekly update only. The options available were \"Pfizer/BioNTech\", \"Oxford/AstraZeneca\", \"Moderna\" and \"Other/Can't remember\".",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention"
+        },
+        {
+            "text": "The study population included adults (18+ on entry) in the sub-cohort of the Virus Watch study who were vaccinated and submitted at least 10 days of readings. Participants had to submit 5 days of readings before and after their self reported vaccination date. We excluded readings which were outside of England and excluded analysis from days where there were less than 5 contributors. We only used location readings with an accuracy rating of less than 30 metres.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Population"
+        },
+        {
+            "text": "We started sending out invitations for the Tracker cohort between September 2020 and February 2021 with the data extract for this analysis being undertaken in May 2021.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Period"
+        },
+        {
+            "text": "The primary outcome of the analysis was the change in median daily travel distance from a participant's registered address. We choose the median daily distance to account for the distribution of the cohort's daily travel patterns.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "For each individual and each day, we calculated the cumulative outdoor travel distance recorded using the ArcGIS tracker app from their registered household address. This was calculated by summing up the distance (d) computed by the Euclidean distance method (equation 1) between the two sequential outdoor GPS records. Considering the accuracy of the GPS records, we set up a 25m radius buffer zone (the average horizontal accuracy is 25m) around a participant's . CC-BY-NC 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Analysis"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted June 28, 2021. ; https://doi.org/10.1101/2021.06.21.21259237 doi: medRxiv preprint home location. Those points that fall within the buffer are considered as at-home travel activities and therefore considered as zero distance in analyses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "We defined the interruption time point in our analysis as the date of the first vaccination for each individual with negative days denoting dates before vaccination and positive days denoting days after vaccination. For each timepoint (days since vaccination), we calculated the median travel distance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "To calculate the trends in travel patterns, we used a segmented linear regression model; the first segment calculated travel trends before vaccination, and the second segment calculated trends after vaccination. To calculate the travel trajectory before vaccination, we conducted linear regression analysis to estimate the population's median daily travel distance from home with time (days before vaccination) as the explanatory variable. To calculate the travel trajectory after vaccination, we conducted linear regression analysis using data after vaccination to estimate the population's median daily travel distance from their home with time (days after vaccination) as the explanatory variable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The UK vaccination programme prioritised people by (older) age and clinical risk groups, which, in addition to differences in the socio-economic backgrounds between those invited and accepting a vaccination, meant that selecting an appropriate control group for this analysis was not feasible.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Due to the study design, which compared the same individuals' movement before and after vaccination, we did not use covariates for regression adjustment. For each eligible individual, we used the following data: days since vaccination and the total travel distance for the corresponding day.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Covariates"
+        },
+        {
+            "text": "We performed two sensitivity analyses. First, after reviewing the data, we repeated the analyses with outliers removed. Second, to account for the effect of the removal of national restrictions on movement as alternative explanations for differences in movement after vaccination, we conducted a sensitivity analysis which limited travel and vaccination events to the third national lockdown. This period was between the 4th of January 2021 to the 5th of April 2021 and represents a time period when restrictions did not change in relation to rules about travel and social distancing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity analyses"
+        },
+        {
+            "text": "The Virus Watch study was approved by the Hampstead NHS Health Research Authority Ethics Committee: 20/HRA/2320. All members of participating households provided informed consent for themselves and, where relevant, for children that they were responsible for. To contribute to the tracker subcohort of Virus Watch, adults had to provide explicit consent during our registration process.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics and Approval"
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics and Approval"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted June 28, 2021. ; https://doi.org/10.1101/2021.06.21.21259237 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "This research was registered with the UCL data protection office and reviewed by the UCL information security and governance teams. The Virus Watch Data Privacy Impact Assessment can be found online -https://ucl-virus-watch.net/?page_id=1228. During the consent and registration process, adult participants were invited to contribute geolocation data using the ArcGIS mobile phone tracker app. For those who chose to participate, we sent personal identifiable data from the UCL Data Safe Haven to a secure memory stick on a UCL machine from which we transferred the data via HTTPS into the ArcGIS Online subscription. The purpose of this data transfer was to set up participants' tracker app accounts. The transferred data, along with the account passwords, were stored in North America. The UCL Virus Watch study team undertook the data transfer process and had access to the Participant Profile within the ArcGIS subscription. Only a small number of named ArcGIS employees had access to the participant profile area and only for the purposes of assisting the UCL study team when necessary. Once the tracker app accounts were created, the UCL study team emailed tracker app participants instructions on how to download the app and sign into the tracker app.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Information Governance"
+        },
+        {
+            "text": "The geolocation data collected by the app was stored securely on a section of the ArcGIS Online Subscription hosted in Europe which is securely cleared every 30 days. Participants' geolocation data was transferred on a regular basis via HTTPS to a secure memory stick on a UCL machine and was then imported via a secure gateway technology on to the UCL secure memory stick into the UCL Data Safe Haven.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Information Governance"
+        },
+        {
+            "text": "Geolocation data was linked with other participant study data in the Data Safe Haven. Once analysed, aggregate data (generated from geolocation and other study data) was exported from the Data Safe Haven and published on the public study website and in research publications.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Information Governance"
+        },
+        {
+            "text": "The aggregated dataset used in this analysis will be securely destroyed after 20 years in line with UCL's record retention policy. In line with policies developed for electronic healthcare research, we did not report any data with a cell containing <5 events and where necessary, we protected these counts with secondary suppression.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Information Governance"
+        },
+        {
+            "text": "79% of adult participants agreed to participate in the tracking subcohort of Virus Watch. We invited 13,120 participants into the Tracker sub-cohort and of these, 2,193 participants contributed at least 1 GPS reading. After removing invalid data points including those outside of England, and those which did not submit accurate readings (e.g., points exhibit extremely high horizontal and vertical accuracy), 1,376 participants were included. Of the 1,376 individuals, 1244 individuals were vaccinated by May 2021. After removing individuals with fewer than 5 data points either side of their vaccination date, 228 individuals were included in our final analysis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted June 28, 2021. ;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Of the 228 participants, there were more females (57%) than males, with a median age of 62 (IQR: 55, 67). Individuals resident in local super output areas (LSOAs) in the three least deprived quintiles represented nearly 80% of the population. Nearly 90% of our cohort self-identified as \"White -English/ Welsh/ Scottish/ Northern Irish/British\". See Table 1 for a socio-demographic breakdown of the cohort. Between 157 days prior to the first vaccination until the day before vaccination, the median daily travel distance was 8.9km (IQR: 3.50km, 24.17km). Between the day of the first vaccination until 100 days after that vaccination, the median daily travel distance was 10.30km (IQR: 4.11, 27.53km).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 350,
+                    "end": 357,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "During the first segment of the linear regression model, from 157 days before the first vaccination until the vaccination date, there was a median daily decline of 40m (95%CI: -51m, -31m, p-value < 0.001) of movement per day (Figure 1a) . During the second segment of the linear regression model, from the first vaccination date until 100 days after vaccination, there was a median daily increase of 114m (95%CI: 53.2m, 175.1m, p-value <0.001) in movement per-day.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 225,
+                    "end": 236,
+                    "text": "(Figure 1a)",
+                    "ref_id": null
+                }
+            ],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "After reviewing the data, we believe that certain values at either end of the timeline were outliers which we then removed. This changed the time interval to 157 days pre-vaccination with 99 days of followup post vaccination. In this sensitivity analysis, the median pre-vaccine travel distance between 157 before vaccination until the day before vaccination was 8.95km (IQR: 3.50km, 24.17km) and the median post-vaccine travel distance was 10.29km (IQR: 4.11km, 27.53km). Removing outliers updated the pre-vaccination segment to a daily decline of 37m (95%CI: -47.5m, -27.9m, p-value <0.001) and the post-vaccination segment to a daily increase of 45.1m (95%CI: 25.0m, 65.1m, p-value < 0.001). See figure 1b for a graphical representation of the interrupted time series when removing outlier values.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity Analysis"
+        },
+        {
+            "text": "To account for the effect of national restrictions on movement, we conducted a sensitivity analysis which limited travel and vaccination events to the third national lockdown between 4th of January 2021 to the 5th of April 2021. Due to the asymmetry of the number of datapoints before and after vaccination in this analysis, we analysed movement 30 days before vaccination and 30 days after vaccination.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity Analysis 2"
+        },
+        {
+            "text": "This reduced our cohort from 228 participants to 199 participants. Between 30 days prior to vaccination and the vaccination date, there was a median daily movement of 7.90km (95%CI: 3.43km, 19.94km) with a median daily movement increase of 9m (95%CI: -25m, 45m, p = 0.57).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity Analysis 2"
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity Analysis 2"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted June 28, 2021. ;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Between the vaccination date and the following 30 days (during the 3rd national lockdown) there was a median daily movement of 9.12km (95%CI: 3.88km, 24.79km) with a median daily movement increase of 10m (95%CI: -60m, 94m, p-value = 0.69). See Figure 1c for a graphical representation of the interrupted time series for this sensitivity analysis.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 244,
+                    "end": 253,
+                    "text": "Figure 1c",
+                    "ref_id": null
+                }
+            ],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Our study demonstrates the feasibility of collecting high volume geolocation data as part of research projects, and the utility of these for understanding public health issues. Our results require cautious interpretation. Our initial analysis found evidence of a modest increase in the rate of change in median daily distance travelled after participants received their first dose of SARS-CoV-2 vaccine, but when restricting our analysis to periods of lockdown, we did not find evidence of a difference in mobility following one vaccination dose. On balance, our results do not provide evidence that people increase the rate of their movements following first dose vaccination as they are consistent with both an increase and decrease in movement after vaccination and suggest that any change in mobility post vaccination is likely to be modest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "We used GPS data to measure the travel distance of vaccinated individuals. Not only does this improve accuracy over other methods of distance estimation by using the GPS system (as compared to cellular location), it also reduces recall bias when compared with using self reported data. Our interrupted time series study design controls for non time varying confounders as the same individual's data are considered before and after vaccination. Our studies' sample size means that we may be underpowered to detect small changes in mobility, particularly when restricting to the period of national lockdown. Our GPS collection was automated, but could be switched on and off by participants and is more likely to have been switched off on days when participants stayed at home. The use of the app in this way would result in our analysis over estimating the median distance travelled per day, through the non-reporting of GPS data (e.g. switching the app off) on days when participants stayed at home. Due to technological requirements of tracking applications, results were skewed towards those who had access to a smartphone and were able to contribute their data plan towards research activities, leading to low initial uptake rate. With a draining effect on battery life from the GPS app used, the drop-out rate from the tracker cohort of Virus Watch was relatively high. People taking part in Virus Watch are self-selecting and motivated to contribute to COVID-19 research and therefore their movement patterns may not be generalisable to all vaccinated groups.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Changes in national physical distance rules are likely to have led to an increase in the rate of change in median daily travel distance. It is also possible that other time varying confounders such as weather changes may affect the findings, with participants increasing mobility during this same time period post-vaccination as a result of improvements in weather. Whilst previous research found that nearly half of those who were vaccinated (after one dose) met with others outside their households or support bubbles (4), our findings provide a mixed picture about movement after the first dose of vaccination and we find no evidence of an increase when we conduct our analyses during periods of national movement restrictions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Given previous studies have suggested people increase their non-household contacts after their first vaccination dose, further research on behaviour change following vaccination is warranted. In the meantime, it is important that public health communications are clear about the differential protection against SARS-CoV-2 infection offered by the first and second doses of the vaccine, such that people can exercise sound personal judgement on how they alter behaviour change following vaccination. . CC-BY-NC 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted June 28, 2021. (BNG) as the reference system.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Tables, Equations and Graphs"
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Tables, Equations and Graphs"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted June 28, 2021. ; https://doi.org/10.1101/2021.06.21.21259237 doi: medRxiv preprint ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Tables, Equations and Graphs"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Association of tiered restrictions and a second lockdown with COVID-19 deaths and hospital admissions in England: a modelling study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Davies",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Barnard",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Jarvis",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Semple",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Lancet Infect Dis",
+            "volume": "21",
+            "issn": "4",
+            "pages": "482--92",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Mental Health During COVID-19 Lockdown in the United Kingdom",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Budimir",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Delgadillo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Barkham",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jrj",
+                    "middle": [],
+                    "last": "Fontaine",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Probst",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Psychosom Med",
+            "volume": "83",
+            "issn": "4",
+            "pages": "328--365",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Initial report of decreased SARS-CoV-2 viral load after inoculation with the BNT162b2 vaccine",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Levine-Tiefenbrun",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Yelin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Katz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Herzel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Golan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Schreiber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Nat Med",
+            "volume": "27",
+            "issn": "5",
+            "pages": "790--792",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Office of National Statistics. Coronavirus and vaccine attitudes and behaviours in England -Office for National Statistics",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Quantitative SARS-CoV-2 anti-spike responses to Pfizer-BioNTech and Oxford-AstraZeneca vaccines by previous infection status",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Eyre",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lumley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "James",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Justice",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2021.03.21.21254061"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Spike-antibody responses to ChAdOx1 and BNT162b2 vaccines by demographic and clinical factors (Virus Watch study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shrotri",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fragaszy",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Geismar",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Beale",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Braithwaite",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2021.05.12.21257102"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Early effectiveness of COVID-19 vaccination with BNT162b2 mRNA vaccine and ChAdOx1 adenovirus vector vaccine on symptomatic disease, hospitalisations and mortality in older adults in England",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bernal",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Andrews",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gower",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Robertson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Tessier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2021.03.01.21252652"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Covid-19: Delta variant is now UK's most dominant strain and spreading through schools",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Torjesen",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "BMJ",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Effectiveness of COVID-19 vaccines against the B.1.617.2 variant [Internet]. Epidemiology",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bernal",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Andrews",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gower",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gallagher",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Simmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Thelwall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2021.05.22.21257658"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "SARS-CoV-2 variants of concern and variants under investigation in England",
+            "authors": [
+                {
+                    "first": "Nhs",
+                    "middle": [],
+                    "last": "Phe Phee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tjbc",
+                    "middle": [],
+                    "last": "Nt",
+                    "suffix": ""
+                },
+                {
+                    "first": "Phs",
+                    "middle": [],
+                    "last": "Phs",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Group",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "SPI-B: Behavioural considerations for vaccine uptake in Phase 2 and beyond",
+            "authors": [],
+            "year": 2021,
+            "venue": "Scientific Pandemic Insights Group on Behaviours (SPI-B)",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Risk factors, symptom reporting, healthcare-seeking behaviour and adherence to public health guidance: protocol for Virus Watch, a prospective community cohort study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hayward",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fragaszy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kovar",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Beale",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Byrne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.12.15.20248254"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "From the 228 participants, 157 days of eligible readings prior to the first vaccination and 100 days of eligible readings after the first vaccination were included. The mean number of people who contributed per day was 85.28(95%CI: 78.78, 91.78). The mean number of days contributed by the 228 participants was 95.79 (95%CI: 90.28, 101.30).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Graphical representation of the interrupted time series Graphical representation of the interrupted time series when outliers at the extreme end of the timeline Graphical representation of the interrupted time series when only accounting for movement and vaccinations which occurred during the 3rd national lockdown (4th January 2021 -5th April 2021) with a 30 day period either side of the vaccination date",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Socio Demographic breakdown of the included cohort",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "; https://doi.org/10.1101/2021.06.21.21259237 doi: medRxiv preprint Equation 1: Equation to calculate the distance travelled by each participant Where ) is the Euclidean distance between two sequential GPS points (i.e., and ); the ( , Cartesian coordinates of are ( , ) and ( , ) for . We employed the British National Grid",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The research costs for the Virus Watch study have been supported by the MRC Grant Ref:MC_PC 19070 awarded to UCL on 30 March 2020 and MRC Grant Ref: MR/V028375/1 awarded on 17 August 2020. The study also received $15,000 of Facebook advertising credit to support a pilot social media recruitment campaign on 18th August 2020. Access to ArcGIS Tracker and supporting software was provided by Esri UK free of charge.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        }
+    ]
+}

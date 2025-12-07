@@ -1,0 +1,2336 @@
+{
+    "paper_id": "00a56e830481bdc11d6d364da878b9938556f605",
+    "metadata": {
+        "title": "A novel geo-hierarchical population mobility model for spatial spreading of resurgent epidemics",
+        "authors": [
+            {
+                "first": "Alexandru",
+                "middle": [],
+                "last": "Top\u00eerceanu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Radu-Emil",
+                "middle": [],
+                "last": "Precup",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Politehnica University Timisoara",
+                    "location": {
+                        "settlement": "Timisoara",
+                        "country": "Romania"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Computational models for large, resurgent epidemics are recognized as a crucial tool for predicting the spread of infectious diseases. It is widely agreed, that such models can be augmented with realistic multiscale population models and by incorporating human mobility patterns. Nevertheless, a large proportion of recent studies, aimed at better understanding global epidemics, like influenza, measles, H1N1, SARS, and COVID-19, underestimate the role of heterogeneous mixing in populations, characterized by strong social structures and geography. Motivated by the reduced tractability of studies employing homogeneous mixing, which make conclusions hard to deduce, we propose a new, very fine-grained model incorporating the spatial distribution of population into geographical settlements, with a hierarchical organization down to the level of households (inside which we assume homogeneous mixing). In addition, population is organized heterogeneously outside households, and we model the movement of individuals using travel distance and frequency parameters for interand intra-settlement movement. Discrete event simulation, employing an adapted SIR model with relapse, reproduces important qualitative characteristics of real epidemics, like high variation in size and temporal heterogeneity (e.g., waves), that are challenging to reproduce and to quantify with existing measures. Our results pinpoint an important aspect, that epidemic size is more sensitive to the increase in distance of travel, rather that the frequency of travel. Finally, we discuss implications for the control of epidemics by integrating human mobility restrictions, as well as progressive vaccination of individuals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Understanding the dynamics of large, resurgent epidemics is an ongoing scientific effort aimed at controlling and preventing the spread of infectious diseases. Disease epidemiology, computational epidemics, and network science are some of the major scientific fields involved in this high impact social challenge. Notable research has been conducted over the past 30 years, answering important questions on the processes driving epidemics, and proposing strategies for prediction and control 1-4 . The heavy socio-economical burden of epidemics has been demonstrated repeatedly during crises like SARS 5 , Ebola 6 or recent COVID-19 7 . To this end, we need to be able to predict long-term epidemic evolution, and the impact of governmental interventions, like isolation, travel restrictions, and vaccination/immunization of the population 8-12 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "In light of these challenges, we find recent studies that are predominantly augmenting mass-action models into tools suitable for analyzing large scale epidemics 8,12-16 . However, in most cases, we notice that their underlying epidemic models (e.g., SI, SIS, SIR, SEIR, SIRS) adopt homogeneous mixing of the population (i.e., all individuals are fully connected inside single scale compartments or stochastic blocks) [15] [16] [17] [18] [19] . Also underpinned by homogeneous mixing models, we find many flattening the curve-type solutions that try to reduce the reproduction number R 0 ; on the other hand, R 0 is found to have little influence on the final size of large-scale epidemics 20 , as well as being hard to estimate in a real-world context 21 . The over-simplification of social organization lacks the complexity of global scale population organization 22 , which is dictated by geographical, historical, demographic and economic factors. Consequently, numerical simulation of such simplified models can lead to over-or underestimations in terms of epidemic size 10,16,23 or duration 8, 12, 15, 17 .",
+            "cite_spans": [
+                {
+                    "start": 418,
+                    "end": 422,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 423,
+                    "end": 427,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 428,
+                    "end": 432,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 433,
+                    "end": 437,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 438,
+                    "end": 442,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1097,
+                    "end": 1099,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1100,
+                    "end": 1103,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1104,
+                    "end": 1107,
+                    "text": "15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1108,
+                    "end": 1110,
+                    "text": "17",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Conversely, we find some important studies which developed more robust and realistic models for epidemic dynamics and contagion, for heterogeneous population organization and human mobility. Without a doubt, the structure of networks is found to be paramount in explaining infectious spreading patterns 4,22 seen in empirical data for transmissible diseases such as SARS 24 , influenza 16,21 , measles 25 , or HIV 1 . Community structure is a OPEN 1",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "www.nature.com/scientificreports/ known key factor influencing the speed of epidemics. Chen et al. 26 show that overlapping in communities leads to increased infection prevalence and a higher spread velocity in the early stages of emerging infections; Salath\u00e9 et al. 4 show that the dynamics of epidemics is influenced by the structure of communities, which, in turn, has implications on immunization strategies for large epidemics; Shang et al. 27 show that overlapping communities and a higher network average degree accelerate spreading; Stegehuis et al. 28 show that the structure of communities has a significant influence on the behavior of percolation on networks, as community structure can stimulate or suppress spreading, based on the mesoscopic set of communities. Further incorporating human mobility and contact patterns increases the realism of an epidemic model. We note the work of Liu et al. 21 which shows that the reproduction number R 0 has a much higher variability than expected, due to the heterogeneity of contact networks. Fueled by a data driven approach, the authors propose a multiplex representation of the population. Mistry et al. 22 provide accurate age-stratified contact matrices for a large number of countries further motivating the need for a heterogeneous approach in disease modeling. Sattenspiel et al. 29 extend a SIR model with five fixed patterns of mobility, but use otherwise large compartments for modeling the population structure. Watts et al. 20 propose a fully synthetic hierarchical block model, aimed at reproducing multiple epidemic waves, but without integrating realistic distances between communities, or any correlation to real-world human settlement organization. Additionally, Salath\u00e9 et al. 30 analyze contact networks in the USA and confirm that heterogeneity is essential on the larger scale, but it is reliable enough to assume homogeneous contact inside small communities (like high schools). This conclusion reinforces our choice for partitioning the population into very fine-grained communities (to the level of households), and further simplification of the small communities' topology, from a social network, to a stochastic block model 31 .",
+            "cite_spans": [
+                {
+                    "start": 99,
+                    "end": 101,
+                    "text": "26",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 267,
+                    "end": 268,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 446,
+                    "end": 448,
+                    "text": "27",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 558,
+                    "end": 560,
+                    "text": "28",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 909,
+                    "end": 911,
+                    "text": "21",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1162,
+                    "end": 1164,
+                    "text": "22",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1343,
+                    "end": 1345,
+                    "text": "29",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1492,
+                    "end": 1494,
+                    "text": "20",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1751,
+                    "end": 1753,
+                    "text": "30",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 2206,
+                    "end": 2208,
+                    "text": "31",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We also note the recent work of Calvetti et al. 32 which adapt a network SEIR model using a single scale lattice of geographical blocks for modeling spatial mobility of the population. By contrast, our approach models a multiscale population with much higher granularity. Finally we note our previous work 33 , which is a first attempt at exploring geo-spatially organized populations. However 33 , is limited to studying the impact of country density on epidemic spreading on a single scale population model.",
+            "cite_spans": [
+                {
+                    "start": 48,
+                    "end": 50,
+                    "text": "32",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 306,
+                    "end": 308,
+                    "text": "33",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 394,
+                    "end": 396,
+                    "text": "33",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The motivation of this study is to describe a robust epidemic modeling framework which simultaneously incorporates accurate population modeling and human mobility, both of which represent ongoing challenges due to their theoretical complexity as well as limitation in available data for validation. Thus, we propose the novel geo-hierarchical population mobility model (GHPM) which lies at the crossroads of population organization and mobility, both of which are key aspects to consider when targeting realistic large-scale resurgent epidemic outbreaks. We propose the novel idea of distributing a population into spatially organized communities (i.e., human settlements), which are then organized into a hierarchy of administrative divisions (i.e., district, neighborhood, street, block, household). Thus, the population is partitioned with very high granularity all the way down to household-/family-level, containing just a few individuals, but where the transmission risks are highest 34 . Embedded into our population model, we further propose a novel mobility algorithm based on the geographical distance between settlements and their size, which determines the complexity of the underlying hierarchical structure. Finally, targeting the reliable reproduction of resurgent epidemics, we analyze the complex interplay between the population mobility model of GHPM and outbreak dynamics by adopting a modified SIR model with patient relapse. Altogether, the resulting framework is analyzed using detailed computer simulations.",
+            "cite_spans": [
+                {
+                    "start": 990,
+                    "end": 992,
+                    "text": "34",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In contrast to other computational models like GLEaMviz 35 , RAPIDD Ebola forecasting 36 , or 37 , our GHPM model is, to the best of our knowledge, the first framework to combine a geo-spatial and a hierarchical model to structure population, alongside an epidemic model with relapse. Using available empirical data on influenza and COVID-19, we show how GHPM reproduces similar epidemic dynamics (e.g., size, waves). The main focus of this paper is to determine how the population organization, travel distance and travel frequency affect the spread of diseases on large scales (country-level), and how restriction and immunization strategies can be applied efficiently to control epidemics.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Characteristics of large epidemics. Real-world large, resurgent epidemics are known to be shaped by repeated waves of non-deterministic amplitude, and an overall limited epidemic size \u03c6 (it is safe to assume \u03c6 < 0.1 considering epidemics over the last decades 38, 39 ) . To this end, we investigate the epidemic sizes of various outbreaks over heterogeneous geographical areas. Since many infectious diseases are repetitive, seasonal (e.g., influenza, pertussis), and others appear and are then permanently eradicated (e.g., H1N1, smallpox), our approach, throughout the rest of the study, is to use the yearly epidemic size \u03c6 y as a measure of the repeating outbreak waves. Therefore, we further provide a statistical overview of seasonal, eradicated and ongoing epidemics worldwide, as such: seasonal influenza in Germany (2014), influenza in California (winter season 2016/2017), global H1N1 cases (2009), measles in Indonesia (2016), Pertussis in California (2010), and data on COVID-19, with estimates on global epidemic sizes for 2020.",
+            "cite_spans": [
+                {
+                    "start": 260,
+                    "end": 263,
+                    "text": "38,",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 264,
+                    "end": 268,
+                    "text": "39 )",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The distributions of the yearly epidemic sizes \u03c6 y are given in Fig. 1 [COVID-19 in panel (f)], showing predominantly small-sized epidemics [ N(\u03c6 y ) is highest for smaller outbreak sizes, like \u03c6 y < 0.02 in panel (f), for COVID -19] . The power-law fits for the flatter area in each distribution [e.g., 0.02 < \u03c6 < 0.06 in panel (f)] range within \u03b3 = 0.55 \u2212 1.05 , well outside the representative power-law exponent 2 < \u03b3 < 3 ; this means that larger sized epidemics are not exceptional situations. Nevertheless, the upper yearly real-world threshold for epidemic sizes seems to be small 39 , e.g., \u03c6 < 4 \u00d7 10 \u22124 for influenza in California, or \u03c6 < 0.1 for COVID-19. Even though COVID-19 is an ongoing pandemic, with final size and dynamics not yet known, the statistical analysis shows that the regional epidemic size distribution is consistent with historical data on other outbreaks.",
+            "cite_spans": [
+                {
+                    "start": 229,
+                    "end": 233,
+                    "text": "-19]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 64,
+                    "end": 70,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "We observe that, in case of large and/or long-lasting epidemics, we find heterogeneity and multi-modality in outbreak size over a heterogeneous geographical area (i.e, world's countries, regions in Indonesia, counties in www.nature.com/scientificreports/ California, Germany). Since regional diversity (e.g., demographics, climate, mobility, NPIs) is highly relevant in determining seasonality and resurgence of epidemics 40 we are encouraged to further develop a multiscale population structure, based on real-world geographic data.",
+            "cite_spans": [
+                {
+                    "start": 422,
+                    "end": 424,
+                    "text": "40",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The geo-hierarchical population mobility model (GHPM). Population structuring. Despite of the political, historical and geographical factors influencing the boundaries of countries and states, human populations have always flocked together into settlements 41 . As such, our proposed GHPM model starts from a targeted, real-world geographical area A (e.g., a continent, a country, a state), quantified by a set S of (real) settlements, which represent the basis of human organization and cooperation. In contrast to the abstract representation of network communities, each settlement s i \u2208 S is modeled according to real-world data, using its geographical position s i (x i , y i ) (i.e., longitude, latitude) and estimated size \ufffd * (s i ) (i.e., number of individuals). Next, we create a multi-level hierarchical structure under each settlement based on its estimated population \ufffd * (s i ) . This hierarchy of administrative divisions is summarized in Table 1 , with the lowest level corresponding to households, each containing a family of average size h size 42 (more details in \"Methods\"). The number of households n h for a settlement is estimated as n h = \ufffd * (s i )/h size , where h size is given by a distribution (see SI.1). From households upward, in the administrative hierarchy of each settlement, we define blocks, whose number n b is given by the number of households as n b = (n h ) \u03b2 , followed by streets ( n s = (n b ) \u03b2 ), neighborhoods ( n n = (n s ) \u03b2 ), districts ( n d = (n n ) \u03b2 ), and finally the root of the hierarchy represented by the settlement. The impact of choosing different branching factors \u03b2 is detailed in SI.2. Also, note that the number of hierarchical levels added to each settlement depends on its estimated size \ufffd * (s i ) as defined in Table 1 . Thus, we differentiate between the complexity of population organization in villages, towns, cities and metropolises (with 2-5 levels accordingly).",
+            "cite_spans": [
+                {
+                    "start": 257,
+                    "end": 259,
+                    "text": "41",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 953,
+                    "end": 960,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1779,
+                    "end": 1786,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Once the hierarchy of administrative divisions is created, each household h j in s i is randomly populated with individuals based on h size . The final size of a household is represented as \ufffd(h j ) and the final population of each in all examples, for small outbreaks (e.g., \u03c6 y < 0.02 in f) followed by a relatively uniform distribution of larger epidemic sizes (e.g., 0.02 < \u03c6 y < 0.06 in f). The insets summarize the cumulative frequency distributions CFD, quantifying the amount of epidemics sized \u2264 \u03c6 y , on log-log axes. Fitting a power-law over the flatter regions (orange line) results in exponents \u03b3 = 0.55 \u2212 1.05. Table 1 . Summary of the possible hierarchical administrative divisions characterizing a settlement s i , given its estimated real-world population \ufffd * (s i ) . Each division models a distinct hierarchical level in the settlement; based on its size, a settlement is modeled with 2-5 hierarchical levels (village-metropolis). www.nature.com/scientificreports/ parent division is calculated as the sum of the population of the households in the parent's subtree. As such, the final population \ufffd(s i ) (without the * symbol) of the settlement becomes \ufffd(s i ) = \ufffd(h j ) ; likewise, the total population of A becomes \ufffd = \ufffd(s i ) . We also introduce the notations D i , for the set of all divisions inside any settlement s i \u2208 S (note that |D i | = n h + n b + n s + n n + n d ), and H i , for the set of all households in any s i \u2208 S (note that |H i | = n h , H i \u2282 D i ). This concludes the definition of the geo-hierarchical population structure, which is depicted in Fig. 2 , using three settlements from the United Kingdom as an example. For more details on the experimental setup of GHPM refer to the \"Methods\" section.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 624,
+                    "end": 631,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1589,
+                    "end": 1595,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Individual mobility. The mobility algorithm is described by a stochastic mobility function, based on the previously obtained geo-hierarchical population structure. The algorithm is applied to every individual n k , from all settlements s i \u2208 S , for every iteration of the simulation time t. An individual can adopt one of three different movement scenarios: S1 Travel to another settlement s j \u2208 S with probability P 1 , in a randomly chosen household h j of that settlement. Furthermore, for a random timeout of 1-10 iterations (e.g., days), the individual is part of h j , after which, the individual is returned to his original household. We use this simple timeout mechanism to implement the idea of business/leisure travel for a random, limited duration. S2 Otherwise, remain in the same settlement s i with probability P 2 , and move to another division div j \u2208 D i (a household, or any upper level division inside the settlement). Furthermore, the individual is part of div j for 1 iteration (e.g., day), after which, the individual is returned to his original household. We use this simple timeout mechanism to implement the idea of short local trips to work, shopping etc. S3 Otherwise, remain home with probability P 3 . The individual does not move out of his household.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "The mechanisms of inter-settlement travel (scenario 1) and intra-settlement travel (scenario 2) are based on the same principle-a probability proportional to the population of the target settlement/division, and indirect proportional to the distance traveled. As such, the absolute inter-settlement travel probability p * inter (s i , s j ) is: www.nature.com/scientificreports/ where is the geographical Euclidean distance between the two settlements (in km, based on latitude and longitude), lg is the log base 10 of the population of the settlement to travel to, 0 < \ufffd \u2264 1 is a tunable travel distance parameter, and 0 < \ufffd \u2264 1 is a tunable travel frequency parameter. The effects of these two parameters are detailed in the forthcoming experimental results sections and the Discussion. The actual probability p inter (s i , s j ) of travel between two settlements is obtained through normalization of p * inter (s i , s j ) as:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "Based on Eq. (2), if an individual leaves its home settlement s i , he will be associated to a randomly chosen household h j in the target settlement s j . If the individual does not leave the settlement (based on Eq. 2), we compute a similar intra-settlement probability p * intra (h i , div j ) of mobility between a household h i \u2208 H i and any other administrative division div j \u2208 D i (e.g., household, block, street etc.) from within s i as:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "where, similar to Eq. (1), we use the distance , population , the travel frequency parameter , and the travel distance parameter . Inside a settlement, is the maximum distance to the lowest common ancestor of the two divisions. See Fig. 2 with examples = 1 (London) and = 3 (Edinburgh). When div j is another household, then \ufffd(div j ) is equivalent with the size of the household \ufffd(h j ) ; for div j being an upper level division, \ufffd(div j ) is the sum of sizes of all households under that division. The actual intra-settlement probability p intra (h i , div j ) of travel between a household and another division is obtained through normalization of p * intra (h i , div j ) as:",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 232,
+                    "end": 238,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "Based on Eqs. (1)-(4), any individual will choose one of the three mobility scenarios with the following probabilities:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "Adding up the three probabilities P 1 + P 2 + P 3 = 1.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "As a final observation, we consider that while an individual is \"away\" from home (scenarios 1, 2), he is exempt from any further travel until he returns to his original household. Also, the starting point of travel for any individual is its original household.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "Epidemic transmission. We intend to use the GHPM model to replicate resurgent epidemics, like influenza or COVID-19 (see Fig. 1 ), so that we adopt a SIR epidemic model with relapse 43 , also know as a SIRI model 44 . Hence, we make the following assumptions:",
+            "cite_spans": [
+                {
+                    "start": 182,
+                    "end": 184,
+                    "text": "43",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 213,
+                    "end": 215,
+                    "text": "44",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 121,
+                    "end": 127,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "\u2022 Each individual can be in one of three mutually exclusive states (susceptible S, infected I, or recovered R),",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "where the fraction of the population in each state, at any discrete moment in time t, is denoted as S(t), I(t), and R(t), respectively. At every time step, an infected coming in contact with a susceptible individual, can transfer the disease with a probability . Subsequently, an infected individual can recover with a probability \u00b5 , after which he remains recovered, but only for a specific period (see \"GHPM experimental setup\" for details on the reproduction number estimation). After this timeout period, the individual becomes susceptible again. \u2022 Homogeneous population mixing is sufficiently accurate at the small granularity of households 30, 34 , as well as for short duration (1 day) in higher administrative divisions (e.g., block, neighborhood). Moreover, we consider that epidemic contagion only occurs between infected and susceptible individuals found in the same administrative division at the same time t. Given R 0 > 1 as a necessary condition to trigger an epidemic, we choose R 0 = 3 ; nevertheless, this does not guarantee that an outbreak will occur every single simulation. \u2022 Only one random individual (seed) is infected at t = 0 . Once triggered, an epidemic can develop inside the household of the seed using homogeneous mixing with the described SIR model. Further spatial spreading depends entirely on the described mobility algorithm.",
+            "cite_spans": [
+                {
+                    "start": 648,
+                    "end": 651,
+                    "text": "30,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 652,
+                    "end": 654,
+                    "text": "34",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Administrative division Applies to Population Inclusion criteria Amount/s i Level"
+        },
+        {
+            "text": "We run the GHPM model in various scenarios, defined by different parameter settings, to better understand the potential of recent epidemic outbreaks to exhibit heterogeneous and resurgent behavior. In Fig. 3 we investigate the potential of our GHPM model's heterogeneity in estimating epidemic dynamics. As such, we vary the travel distance parameter (while keeping all other parameters fixed). Figure 3d depicts a bimodal distribution of the yearly epidemic size \u03c6 y , given simple homogeneous population mixing, modeled through one single-scale settlement ( = 533, 160 individuals). Alternatively, Fig. 3e ,f depict two epidemic size distributions achieved by GHPM with its specific hierarchical structure and mobility (same population , R 0 = 3 , simulation time t = 2000 iterations (days), = 0.1 , respectively = 0.35 ). Regardless of the epidemic sizes, a visible mode is detected near \u03c6 y = 0 , followed by a relatively flat distribution. Figure 3b ,c shows two www.nature.com/scientificreports/ representative simulated epidemics generated with GHPM for the corresponding travel distance parameters = 0.1 , and = 0.35 . Figure 3a depicts the same time series information corresponding to the homogeneously mixing model in Fig. 3d .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 201,
+                    "end": 207,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 395,
+                    "end": 404,
+                    "text": "Figure 3d",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 600,
+                    "end": 607,
+                    "text": "Fig. 3e",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 945,
+                    "end": 954,
+                    "text": "Figure 3b",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1127,
+                    "end": 1136,
+                    "text": "Figure 3a",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1229,
+                    "end": 1236,
+                    "text": "Fig. 3d",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Estimating epidemic dynamics."
+        },
+        {
+            "text": "Two main observations can be summarized from Fig. 3 . First, the homogeneous model in panel (a) reproduces an over-simplified spike in the number of daily cases without any resurgence, while panels (b-c) display different shapes and sizes \u03c6 y , as well as resurgence. Even if the epidemic looks like it repeatedly dies out in panel (b), it manages to flare up again in new waves. Second, the homogeneous model in panel (a) is only capable of reproducing a bimodal epidemic size distribution. Nevertheless, real data (see Fig. 1 ) confirms the variability and resurgence reproduced by our GHPM heterogeneous model.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 45,
+                    "end": 51,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 521,
+                    "end": 527,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Estimating epidemic dynamics."
+        },
+        {
+            "text": "These results also have implications in the context of epidemic control. Even though the two scenarios depicted in Fig. 3b ,c (with corresponding distributions in Fig. 3e,f) have a similar parameter setting, the difference in travel distance results in a large variation of epidemic size. As increases, the expected epidemic size \u03c6 increases and the distribution tends to become more bimodal. Conversely, for very small , the epidemic size distribution tends to have one single mode near 0. Thus, extremes of the travel distance parameter lead to entirely local or entirely global outbreaks, and GHPM can be compared with a homogeneous one. However, when is neither too small or too large (like in Fig. 3b,c) , we obtain the most faithful reproduction of real epidemic dynamics (Fig. 1c,d) , and the impact of a fixed R 0 is negligible. Figure 4a summarizes the impact of increasing the travel distance parameter on the total epidemic size \u03c6 . In accordance to Eqs. (1) and (3), influences the range over which individuals are likely to travel, both outside and inside settlements. Namely, a higher increases the probability of any individual to travel to a more distant settlement (or division) from its original household, because it directly reduces the weight of in Eqs. (1) and (3). Figure 4b depicts \u03c6 as a function of the travel frequency parameter . In addition, we choose to introduce h as the average number of individuals transiting (leaving) a household, which is a more intuitive measure than alone. Unlike , which is an input parameter in the model, the value of h is measured during simulation, and normalized by the number of households. The inset of Fig. 4b shows the linear relationship ( , n ). In accordance to Eqs. (1) and (3), affects the weight of each probability of any individual to travel outside its home settlement (or household).",
+            "cite_spans": [
+                {
+                    "start": 1736,
+                    "end": 1739,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 115,
+                    "end": 122,
+                    "text": "Fig. 3b",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 163,
+                    "end": 173,
+                    "text": "Fig. 3e,f)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 698,
+                    "end": 708,
+                    "text": "Fig. 3b,c)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 778,
+                    "end": 789,
+                    "text": "(Fig. 1c,d)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 837,
+                    "end": 846,
+                    "text": "Figure 4a",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1288,
+                    "end": 1297,
+                    "text": "Figure 4b",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1667,
+                    "end": 1674,
+                    "text": "Fig. 4b",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Estimating epidemic dynamics."
+        },
+        {
+            "text": "In case of Figure 4a , we observe a clear phase transition from local to global epidemic as increases. Intuitively, when the two travel parameters are close to 0, infected individuals are more likely to remain in their original household (or settlement); as such, the resulting epidemic size \u03c6 is delimited to the local scale of h size . As long as the size of a modeled local scale is much smaller than the size of the entire population, truly large epidemics cannot occur with , , h \u2192 0 . On the other hand, When \ufffd > 0.01 and \ufffd h > 0.01 , large scale outbreaks can occur, regardless of the modeled population size.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 11,
+                    "end": 20,
+                    "text": "Figure 4a",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Estimating epidemic dynamics."
+        },
+        {
+            "text": "When either or h converge towards extremes (0 and 1) GHPM can be assimilated to a homogeneously population model, where the set of susceptible individuals coincides with the size of a household h size and , correspondingly (stochastic dynamics appear at the household level, or at the global scale). Nevertheless, neither of these limits (0 and 1) are realistic representations of real-world mobility, which is a mixture of local and non-local patterns. As such, we further focus on the intermediate values of travel parameters where shifts in \u03c6 are visible. The phase transition in Fig. 4a is best fitted by a 3rd degree polynomial, whereas the less abrupt increase in \u03c6 triggered by h is best modeled by a linear fit. This suggests that small changes in have a much greater impact on the size of the epidemic \u03c6 compared to similar changes in h . Similarly, by considering the linear relationship between ( , h ), depicted in the inset of Fig. 4b , we conclude that the epidemic size \u03c6 is more sensitive to increases in than increases in .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 583,
+                    "end": 590,
+                    "text": "Fig. 4a",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 940,
+                    "end": 947,
+                    "text": "Fig. 4b",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Estimating epidemic dynamics."
+        },
+        {
+            "text": "The analysis of travel parameters in the GHPM model leads to an insightful conclusion with possible effective policy implications on the ongoing COVID-19 pandemic and future outbreaks. We found that restricting the distance, rather than the frequency of travel -during an outbreak-is the more adequate approach to minimize the eventual impact of an epidemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimating epidemic dynamics."
+        },
+        {
+            "text": "Embedding mobility restrictions and immunization. Finally, we compare the effectiveness of mobility restrictions versus mass immunization. The first, is implemented by long distance travel restrictions, a measure already adopted world-wide, throughout 2020, during the COVID-19 pandemic, and with notable results 45, 46 . In GHPM, this restriction is obtained by reducing the travel distance parameter , as discussed in the previous section. The second, is implemented in GHPM by adding a progressive linear vaccination policy. More precisely, we pick random, not currently infected individuals, and transfer them to a permanent recovered state R * . The vaccination policy is not started at t = 0 , but only after t = 365 days in our 5-year long simulation frame- www.nature.com/scientificreports/ work (this approach mirrors the current COVID-19 situation better). Afterwards, a random set of individuals are selected every single iteration as the number of immune individuals grows progressively. Figure 5a depicts the impact of two mobility restriction policies of reducing travel to 30% (orange line), respectively to just 10% (red line) of the original, unrestricted travel. We note that, for increasing \ufffd > 0.2 , even very strict measures do not guarantee a proportional reduction in epidemic size \u03c6. Figure 5b summarizes the impact of two immunization policies of vaccinating individuals at a rate of 60% per year (5%/month; green line), respectively 90% per year (7.5%/month; red line), compared to no vaccination at all (gray line). Here we observe that, as the travel distance parameter increases, even an aggressive vaccination policy is unable to guarantee a proportional reduction in epidemic size \u03c6 . Of course, this is, in part, a consequence of our choice to implement the vaccination policy with a 1 year delay in our simulations. Further experimenting with different vaccination delays, or vaccination rates is outside the scope of this paper but can make an interesting follow-up research topic.",
+            "cite_spans": [
+                {
+                    "start": 313,
+                    "end": 316,
+                    "text": "45,",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 317,
+                    "end": 319,
+                    "text": "46",
+                    "ref_id": "BIBREF46"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1000,
+                    "end": 1009,
+                    "text": "Figure 5a",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 1308,
+                    "end": 1317,
+                    "text": "Figure 5b",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Estimating epidemic dynamics."
+        },
+        {
+            "text": "The introduction of our multiscale GHPM model enables us to reveal several meaningful characteristics of realworld epidemic outbreaks that are, otherwise, challenging to describe with homogeneous mixing models which adopt a single scale [15] [16] [17] [18] [19] . For instance, most epidemic spreading models describe any outbreak though only two outcomes: (1) an epidemic trigger condition is not fulfilled and the disease subsides in a local sub-population, or (2) the condition is fulfilled, and the disease manages to spread globally to a large scale comparable to the entire population 47 . The epidemic sizes distribution always becomes bimodal, as the first mode correlates to unsuccessful, local outbreaks, and the second mode correlates to successful, global scale outbreaks (see Fig. 3a,d) . Different, network science approaches have also been used in computational epidemics, like a forest-fire topology 48 , and social networks with two 49 and multiple dimensions 50 . However, even relatively complicated network models lead to the same bimodal distributions.",
+            "cite_spans": [
+                {
+                    "start": 237,
+                    "end": 241,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 242,
+                    "end": 246,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 247,
+                    "end": 251,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 252,
+                    "end": 256,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 257,
+                    "end": 261,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 591,
+                    "end": 593,
+                    "text": "47",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 916,
+                    "end": 918,
+                    "text": "48",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 789,
+                    "end": 799,
+                    "text": "Fig. 3a,d)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "The motivation of this study is to bridge realistic, hierarchical population structuring, with individual mobility patterns and infectious dynamics with patient relapse into a reliable simulation framework, targeting the better prediction and control of epidemic dynamics. As such, we propose a very fine-grained population structuring and mobility influenced by spatial and hierarchical constraints. To the best of our knowledge, our approach is novel, and we provide qualitative comparisons to homogeneous population mixing through means of epidemic size distributions. Furthermore, our empirical data restates the important temporal heterogeneity of many large epidemics that has yet to receive full attention in the modeling state of the art. This heterogeneity is exemplified in our real data on influenza and COVID-19 evolution (Fig. 1) , and reproduced by our GHPM model (Fig. 3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 834,
+                    "end": 842,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 878,
+                    "end": 886,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "A predominant body of the disease epidemiology state of the art focuses on R 0 as the central topic of research 8, 12, 23, 51 . While this number has an inherent value for compartmental models with homogeneous mixing, R 0 could also be estimated for a more complex deterministic multiscale model. Nevertheless, estimating or redefining R 0 , would not improve any relationship to the final epidemic size in stochastic multiscale models 20 , like our GHPM. The large, non-deterministic variations in epidemic size (Fig. 3e,f) , and the resurgent characteristic (Fig. 3b,c) do not result from initial conditions like R 0 = /\u00b5 , but rather from \"black swan\" 52 events, during which an infected individual travels from a compromised household (or settlement) to new uninfected settlements. In this way, the fluctuating yearly epidemic size \u03c6 y is mostly decided by the increasing travel distance and travel frequency to susceptible populations. www.nature.com/scientificreports/ In addition, we show that, apart from rare, long distance travel events, the population structure is a decisive factor in influencing the speed and impact of epidemic outbreaks. For example, the recent COVID-19 epidemic has a very varied evolution across countries (suggested by the distribution in Fig. 1b) , ranging from less than 1-10% prevalence in 2020. These variations can also be attributed to the intensity, delay, and strength of implementing restrictions 23 . Even though non-pharmaceutical interventions (NPIs) are a relevant form of active control on epidemic duration and size 9 , our observations pinpoint that the GHPM population organization can achieve stochastic dynamics in epidemic size as large and heterogeneous as empirically observed fluctuations.",
+            "cite_spans": [
+                {
+                    "start": 112,
+                    "end": 114,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 115,
+                    "end": 118,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 119,
+                    "end": 122,
+                    "text": "23,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 123,
+                    "end": 125,
+                    "text": "51",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 1441,
+                    "end": 1443,
+                    "text": "23",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 513,
+                    "end": 524,
+                    "text": "(Fig. 3e,f)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 560,
+                    "end": 571,
+                    "text": "(Fig. 3b,c)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1274,
+                    "end": 1282,
+                    "text": "Fig. 1b)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "The focus of our simulation experiments was to determine how population organization, travel distance and travel frequency affect the spread of disease. In this sense, we show that travel restrictions, like reducing , and (or equivalently h ) in our model (distance and frequency), can determine a significant change in the resulting epidemic size \u03c6 y , comparable to stronger social intervention strategies like vaccination or total quarantine. Specifically, we find a phase transition from local to global epidemic around \ufffd > 0.1 and \ufffd h > 1 . When the two parameters are close to 0, infected individuals are more likely to remain in their original household, and the resulting epidemic is delimited to the local scale ( h size \u226a ). Overall, we conclude that minor modifications in have a higher impact on the size of the epidemic \u03c6 y compared to similar modifications in h . One of the main take-away messages of this study is that we found travel distance to be more significant in increasing epidemic size than travel frequency. Additionally, our results pinpoint that, even an aggressive immunization policy (e.g., vaccination of 60-90% non-infected individuals per year), is unable to guarantee an immediate proportional reduction in epidemic size, given a delay of one year to start the vaccination campaign. To this end, vaccination (at a moderately realistic pace) does not yield lower epidemic sizes than reduced travel distances.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "To conclude, major recent outbreaks like Ebola, SARS or COVID-19 repeatedly confront public health authorities with the uncertainty of-how big will it be this time? Unfortunately, current state of the art computational epidemiology can hardly offer accurate answers. Even the most complicated models of infectious spreading require an estimation of the relevant susceptible population. It is much easier to do retrospective studies in which, after an epidemic is observed, the specific parameters are approximated. However, such an approach is often limited because it has reduced relevance for future outbreaks. For instance, the global 1918 Spanish flu pandemic did not stop the 2003 SARS or 2020 COVID-19 pandemics. Even if the planet was less populated and less connected a century ago, the 1918 flu made considerably more victims compared to the potentially more infectious diseases of the XXI century. With the statistics of SARS pointing towards a quick mitigation with relatively low global impact, COVID-19 has had a very different evolution 53 . In the current pandemic context, the population susceptible to the SARS-CoV-2 virus is roughly the entire population of the planet. Should we then estimate scenarios with outbreaks concentrated around large populated hubs, or include billions of susceptible individuals spread across the entire planet? Perhaps the ultimate question is simply formulated as-what is the epidemic size distribution for a given infectious pathogen?",
+            "cite_spans": [
+                {
+                    "start": 1051,
+                    "end": 1053,
+                    "text": "53",
+                    "ref_id": "BIBREF53"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our GHPM model tries to address these questions, to the best possible extent, by structuring population as a geographically spaced hierarchical set of sub-populations, modeled down to the level of households. The major advantage over other single scale, multiscale, or network models is that it can be extended to very large scales (e.g., continental or global) without implying homogeneous populations. This way, a modeled epidemic can be seen as multiple smaller epidemics occurring at different times, in different sub-populations. In this context, most of the infectious spreading happens locally, and global spreading is determined by rare distant travel. Because the epidemic size distribution is remarkably susceptible to the population structure, we suggest that epidemic control can be improved through adequate strategies applied to the boundaries inherently delimiting large, multiscale populations. We believe that future studies can adopt and extend our concept of geo-hierarchical population mobility to study progressively more realistic epidemic models of infectious spreading.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Geo-spatial population data. GHPM supports a pseudo-realistic organization of the population on which to run an epidemic outbreak simulation. In this sense, the settlements number |S|-and implicitly the total population of the experiment -are defined by a chosen geographical area A, most commonly limited to a country. In this sense, the number, position and size of settlements are defined according to data extracted from the Global Rural-Urban Mapping Project (GRUMP v1), revision 01 (March 2017) curated by the Center for International Earth Science Information Network (CIESIN), Columbia University 54 . GRUMP is an undergoing large-scale project, and is still missing some data, to a variable extend, for some countries. For the purpose of this paper we run all experiments on a model of Germany, with with 53.31M inhabitants (as defined by GRUMP) spread over 1132 settlements, which we consider a mid-sized representative example.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Inside each settlement, GHPM uses a simplified synthetic, but intuitive hierarchical organization of inhabitants using 2-5 levels of administrative units. We chose the synthetic alternative (inside settlements) because of the limitation in available data defining the organization of each settlement. Nevertheless, with more available data in the future, GHPM can be modified to offer a more precise mapping of each settlement's population. Conversely, GHPM can be used without any real data, if one so chooses, by creating a synthetic set of settlements, defined by positions and populations according to any distribution of choice.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "GHPM experimental setup. In order to significantly accelerate the large number of GHPM experiments, we chose to scale down the modeled population by 100 fold. As such, the final simulation population used throughout the experiments is 533,160 individuals (i.e., 1% of uniformly scaled down population of Germany from the GRUMP dataset). www.nature.com/scientificreports/ In general, the size of each unique household h i may be chosen as a uniformly distributed integer number between 1-4 individuals (i.e., average h size = 2.5 ) based on UN data for developed countries 42 . In particular, we use a custom distribution of household sizes according to data available in 2019 for Germany (Federal Statistical Office-Statistisches Bundesamt), as detailed in SI.1.",
+            "cite_spans": [
+                {
+                    "start": 572,
+                    "end": 574,
+                    "text": "42",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "A branching factor \u03b2 can be used to determine the number of divisions in a settlement, based on the number of households. In this sense, a static parameter of \u03b2 = 0.5 \u2212 0.7 makes a good approximation of the hierarchical density of administrative units. In this paper we use \u03b2 = 0.6 . Overall, it makes practical sense to use 1 > \u03b2 > 0.5 (i.e., larger than square root) in order to obtain a more dense hierarchy of upper level divisions. A sensitivity analysis for \u03b2 is provided in SI.2.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "All simulations run for t = 2000 iterations (days). If we consider the correspondence 1 iteration = 1 day, then the simulation duration translates to 2000/365 \u2248 5.48 years. Since the target of our study are resurgent epidemics (with relapse), the final epidemic duration and final size cannot be expressed in absolute values (they run indefinitely in most cases). Our approach, throughout the paper, is to use the yearly epidemic size \u03c6 y as a measure of the repeating outbreak waves. Intuitively, we average the total epidemic size \u03c6 over the simulation period, i.e., \u03c6 y = \u03c6/5.48 . Furthermore, the impact of each parameter in the GHPM model is discussed in SI.3.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "The timeout period for any recovered individual is uniformly chosen between of 3-6 months (current estimates of COVID-19 immunity of 3 months 55 , 4-5 months 56 , 6 months 57 ). The adopted infection rate is = 0.06 , and the recovery rate is \u00b5 = 0.02 . While a theoretical reproduction number R 0 is based on the \u00b5 and , in practice 22 , we estimate R 0 from the household size distribution, and obtain R 0 = 0.983 . Recent studies suggest an R 0 = 3.30 \u00b1 1.4 for COVID-19 51 .",
+            "cite_spans": [
+                {
+                    "start": 333,
+                    "end": 335,
+                    "text": "22",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 473,
+                    "end": 475,
+                    "text": "51",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "COVID-19 data used in this study are supplied by the European Centre for Disease Prevention and Control (https:// www. ecdc. europa. eu/ en/ covid-19/ data). Weekly influenza data are supplied the US Outpatient Influenza-like Illness Surveillance Network (ILINet) (https:// gis. cdc. gov/ grasp/ fluvi ew/ flupo rtald ashbo ard. html), by Google Trends (https:// www. google. com/ publi cdata/ explo re? ds= z3bsq ef7ki 44ac_) . Measles cases in Indonesia are supplied by the International Federation of Red Cross and Red Crescent Societies (IFRC) (https:// data. humda ta. org/m/ datas et/ indon esia-measl es-outbr eaks-2015-2017? force_ layout= light). H1N1 data are provided by the WHO via Kaggle (https:// www. kaggle. com/ de5d5 fe61f caa6a d7a66/ pande mic-2009-h1n1-swine-flu-influ enzaa-datas et). Pertussis data are provided by the California Department of Public Health (CDPH) via Health.gov (https:// healt hdata. gov/ State/ Vacci ne-Preve ntable-Disea se-Cases-by-County-and-Ye/ 58x3-zrxa).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data availability"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Infectious Diseases of Humans",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "May",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Dynamics and Control",
+            "volume": "28",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The implications of network structure for epidemic dynamics. Theor",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Popul. Biol",
+            "volume": "67",
+            "issn": "",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Modeling Infectious Diseases in Humans and Animals",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Keeling",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rohani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Dynamics and control of diseases in networks with community structure",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Salath\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Comput. Biol",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Economic impact of SARS: The case of Hong Kong",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Siu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Asian Econ. Pap",
+            "volume": "3",
+            "issn": "",
+            "pages": "62--83",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The health impact of the 2014-15 Ebola outbreak",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Elston",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cartwright",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ndumbi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Public Health",
+            "volume": "143",
+            "issn": "",
+            "pages": "60--70",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "The socio-economic implications of the coronavirus and Covid-19 pandemic: A review",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nicola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Surg",
+            "volume": "78",
+            "issn": "",
+            "pages": "185--193",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Feasibility of controlling Covid-19 outbreaks by isolation of cases and contacts",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hellewell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Glob. Health",
+            "volume": "8",
+            "issn": "",
+            "pages": "488--496",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Centralized and decentralized isolation strategies and their impact on the Covid-19 pandemic dynamics",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Topirceanu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Udrescu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Marculescu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "arXiv": [
+                    "arXiv:2004.04222"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Countries test tactics in 'war' against Covid-19",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kupferschmidt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "367",
+            "issn": "",
+            "pages": "1287--1288",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.367.6484.1287"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Estimating the number of infections and the impact of non-pharmaceutical interventions on Covid-19 in European countries",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Flaxman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "arXiv": [
+                    "arXiv:2004.11342"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Early dynamics of transmission and control of Covid-19: A mathematical modelling study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kucharski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect. Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "553--558",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "A modified SEIR model for the spread of Ebola in Western Africa and metrics for resource allocation",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Diaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Constantine",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kalmbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pankavich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Appl. Math. Comput",
+            "volume": "324",
+            "issn": "",
+            "pages": "141--155",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Modeling the SARS epidemic",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dye",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1884--1885",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "A mathematical model for the spatiotemporal epidemic spreading of Covid19",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Arenas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MedRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Strategies for mitigating an influenza pandemic",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "442",
+            "issn": "",
+            "pages": "448--452",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Social network-based distancing strategies to flatten the Covid-19 curve in a post-lockdown world",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Block",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat. Hum. Behav",
+            "volume": "4",
+            "issn": "",
+            "pages": "588--596",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "The benefits and costs of using social distancing to flatten the curve for Covid-19",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Thunstr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Newbold",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Finnoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ashworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Shogren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Benefit-Cost Anal",
+            "volume": "11",
+            "issn": "",
+            "pages": "179--195",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "What will be the economic impact of Covid-19 in the us? Rough estimates of disease scenarios",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Atkeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "National Bureau of Economic Research",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "resurgent epidemics in a hierarchical metapopulation model",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Watts",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Muhamad",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Medina",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dodds",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Multiscale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Nat. Acad. Sci",
+            "volume": "102",
+            "issn": "",
+            "pages": "11157--11162",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Measurability of the epidemic reproduction number in data-driven contact networks",
+            "authors": [
+                {
+                    "first": "Q.-H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Proc. Nat. Acad. Sci",
+            "volume": "115",
+            "issn": "",
+            "pages": "12680--12685",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Inferring high-resolution human mixing patterns for disease modeling",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mistry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Nat. Commun",
+            "volume": "12",
+            "issn": "",
+            "pages": "1--12",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Interventions to mitigate early spread of Covid-19 in Singapore: A modelling study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Koo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "20",
+            "pages": "30162--30168",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30162-6"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "SARS: A Case Study in Emerging Infections",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mclean",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The dynamics of measles in sub-Saharan Africa",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ferrari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "451",
+            "issn": "",
+            "pages": "679--684",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Epidemic spreading on networks with overlapping community structure",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.-H",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Physica A",
+            "volume": "391",
+            "issn": "",
+            "pages": "1848--1854",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Epidemic spreading on complex networks with overlapping and non-overlapping community structure",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Physica A",
+            "volume": "419",
+            "issn": "",
+            "pages": "171--182",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Epidemic spreading on complex networks with community structures",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Stegehuis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Van Der Hofstad",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Van Leeuwaarden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Sci. Rep",
+            "volume": "6",
+            "issn": "",
+            "pages": "1--7",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "A structured epidemic model incorporating geographic mobility among regions",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sattenspiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Math. Biosci",
+            "volume": "128",
+            "issn": "",
+            "pages": "71--92",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "A high-resolution human contact network for infectious disease transmission",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Salath\u00e9",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Nat. Acad. Sci",
+            "volume": "107",
+            "issn": "",
+            "pages": "22020--22025",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Stochastic blockmodels: First steps",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Holland",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Laskey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Leinhardt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Soc. Netw",
+            "volume": "5",
+            "issn": "",
+            "pages": "109--137",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Metapopulation network models for understanding, predicting, and managing the coronavirus disease Covid-19",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Calvetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hoover",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rose",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Somersalo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Front. Phys",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Analyzing the impact of geo-spatial organization of real-world communities on epidemic spreading dynamics",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Top\u00eerceanu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "International Conference on Complex Networks and Their Applications",
+            "volume": "",
+            "issn": "",
+            "pages": "345--356",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Transmission heterogeneities, kinetics, and controllability of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Science",
+            "volume": "371",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The gleamviz computational tool, a publicly available software to explore realistic epidemic spreading scenarios at the global scale",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Van Den Broeck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "BMC Infect. Dis",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "The RAPIDD Ebola forecasting challenge: Synthesis and lessons learnt",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Viboud",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Epidemics",
+            "volume": "22",
+            "issn": "",
+            "pages": "13--21",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Epidemic processes in complex networks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pastor-Satorras",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Castellano",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Van Mieghem",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vespignani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Rev. Mod. Phys",
+            "volume": "87",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "The International Bank for Reconstruction and Development / The World Bank",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Madhav",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "30212163"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Estimates of global seasonal influenza-associated respiratory mortality: A modelling study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Iuliano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "The Lancet",
+            "volume": "391",
+            "issn": "",
+            "pages": "1285--1300",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Seasonality of viral infections: Mechanisms and unknowns",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fisman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Clin. Microbiol. Infect",
+            "volume": "18",
+            "issn": "",
+            "pages": "946--954",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Ekistics, the science of human settlements",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Doxiadis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "Science",
+            "volume": "170",
+            "issn": "",
+            "pages": "393--404",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "United Nations, Department of Economic and Social Affairs, Population Division",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Stochastic stability and instability of an epidemic model with relapse",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "El Fatini",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lahrouz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pettersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Settati",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Taki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Appl. Math. Comput",
+            "volume": "316",
+            "issn": "",
+            "pages": "326--341",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "A stochastic SIRI epidemic model with relapse and media coverage",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Caraballo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "El Fatini",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pettersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Taki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Discrete Contin. Dyn. Syst. B",
+            "volume": "23",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "The effect of travel restrictions on the spread of the 2019 novel coronavirus (Covid-19) outbreak",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chinazzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "368",
+            "issn": "",
+            "pages": "395--400",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Changes in contact patterns shape the dynamics of the Covid-19 outbreak in china",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "368",
+            "issn": "",
+            "pages": "1481--1486",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Planning for smallpox outbreaks",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "425",
+            "issn": "",
+            "pages": "681--685",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Power laws governing epidemics in isolated populations",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rhodes",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nature",
+            "volume": "381",
+            "issn": "",
+            "pages": "600--602",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Epidemic outbreaks in two-scale community networks",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bonaccorsi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ottaviano",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "De Pellegrini",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Socievole",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Van Mieghem",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Phys. Rev. E",
+            "volume": "90",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Epidemics and dimensionality in hierarchical networks",
+            "authors": [
+                {
+                    "first": "D.-F",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Trimper",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Physica A",
+            "volume": "352",
+            "issn": "",
+            "pages": "659--668",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Estimate of the basic reproduction number for Covid-19: A systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Alimohamadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Taghdir",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sepandi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Prev. Med. Public Health",
+            "volume": "53",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "The Black Swan: The Impact of the Highly Improbable",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Taleb",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Comparing SARS-CoV-2 with SARS-CoV and influenza pandemicsc",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect. Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "238--244",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Center for international earth science information network-CIESIN-Columbia University. Gridded population of the world, version 4 (gpwv4). NASA socioeconomic data and applications center (SEDAC)",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Warszawski",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Frieler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7927/h4np22dq"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Declining prevalence of antibody positivity to SARS-CoV-2: A community study of 365,000 adults",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MedRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Humoral immune response to SARS-CoV-2 in iceland",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Gudbjartsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "383",
+            "issn": "",
+            "pages": "1724--1734",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Robust SARS-CoV-2-specific t-cell immunity is maintained at 6 months following primary infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zuo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BioRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Yearly epidemic size \u03c6 y distributions normalized by the population of each administrative region for: influenza in counties of Germany (a), influenza in counties of California (b), global H1N1 (c), measles in Indonesia (d), pertussis in California (e) and global COVID-19 cases (f). Representative modes are detected,",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Conceptual representation of the hierarchical population structure of three settlements in the UK with real-world position and population. On the left side, all possible administrative divisions are enumerated; in the central panel, the hierarchical levels of each settlement are defined (orange nodes, based on the population \ufffd(s i ) ), down to the level of households which contain a small, random number (see \"Methods\") of individuals (green nodes). The red arrows suggest three different mobility scenarios: (London) nodes move from one household to another with travel distance = 1 ; (Edinburgh) nodes moves from a household to the neighborhood level with travel distance = 3 ; (Hambleden) nodes move from one household to a random household in London, with travel distance = 58 km.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Aggregated results proving the resurgent behavior of epidemics in our simulation experiments. (a-c) Representative time series of new daily cases for (a) homogeneously mixing population, and (b,c), heterogeneously structured population using GHPM. In (a), most of the population is quickly infected ( \u03c6 y = 95% ), as a typical outbreak surges rapidly only once and then drops back to zero. By contrast, in (b,c), the two epidemics exhibits visible resurgence, and infect very different (and smaller) proportions of individuals ( \u03c6 y = 2.9% , and \u03c6 y = 14.7% ). (d-f) Corresponding epidemic size distributions for all three depicted scenarios in (a-c). We ran 2000 simulations each, on a population model of Germany with 533,160 individuals and simulation time t = 2000 days. (d) Strictly bimodal epidemic size \u03c6 y distribution on a homogeneously mixing population (all individuals placed in one single-scale settlement). (e,f) Population is structured according to GHPM, and the two setups differ in the travel distance parameter (0.1 and 0.35). Both (e) and (f) depict distributions of similar size with modes near \u03c6 y = 0 , and an approximately uniform distribution for 0 < \u03c6 y < 0.2 . From a qualitative standpoint, both distributions are comparable to real epidemic data in Fig. 1. The insets summarzie the cumulative frequency distributions CFD. Fitting a power-law over the flatter regions (orange line) results in exponents \u03b3 = 0.79 \u2212 0.89 for the GHPM model. The impact of travel distance versus travel frequency.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Total epidemic size \u03c6 averaged over 2000 simulations, (a) as a function of the travel distance parameter , respectively (b) as a function of the travel frequency, normalized at household level h . (a) Epidemic size \u03c6 exhibits a clear phase transition starting with minimal increases in , which, in turn, enables non-local spreading. (Inset) Linear relationship between and the daily travel distance (in km), averaged over all individuals in the GHPM model for Germany (sized roughly 600 \u00d7 750 km). (b) Epidemic growth shows no visible phase transition in response to increases in h . (Inset) Linear relationship between and h , averaged over all households. The blue regions indicate 95% CI. Scientific Reports | (2021) 11:14341 | https://doi.org/10.1038/s41598-021-93810-8",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Total epidemic size \u03c6 , averaged over 2000 simulations, as a function of the travel distance parameter in two complementary scenarios. (a) Epidemic size in response to a mobility reduction down to 30% (orange), respectively 10% (red). (b) Epidemic size in response to adopting a linear immunization policy of vaccinating 60% (green), respectively 90% (blue) of individuals per year of simulation (i.e., 365 iterations). Colored regions indicate 95% CI. Scientific Reports | (2021) 11:14341 | https://doi.org/10.1038/s41598-021-93810-8",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF2": {
+            "text": "size 1",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Scientific Reports | (2021) 11:14341 | https://doi.org/10.1038/s41598-021-93810-8",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "A.T. and R.E.P. conceived the experiments, A.T. conducted the experiments, A.T. and R.E.P. analyzed the results, A.T. wrote the manuscript. Both authors reviewed the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author contributions"
+        },
+        {
+            "text": "The authors declare no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        },
+        {
+            "text": "The online version contains supplementary material available at https:// doi. org/ 10. 1038/ s41598-021-93810-8.Correspondence and requests for materials should be addressed to A.T.Reprints and permissions information is available at www.nature.com/reprints.Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Information"
+        }
+    ]
+}

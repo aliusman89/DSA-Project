@@ -1,0 +1,2294 @@
+{
+    "paper_id": "009bdaa812321ebc29a0fdb8bc3fabde9abb4b5f",
+    "metadata": {
+        "title": "Factors Associated With the Resilience of Nurses During the COVID-19 Pandemic",
+        "authors": [
+            {
+                "first": "Mohamad",
+                "middle": [],
+                "last": "Alameddine",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Michael",
+                "middle": [],
+                "last": "Clinton",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Karen",
+                "middle": [],
+                "last": "Bou-Karroum",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nathalie",
+                "middle": [],
+                "last": "Richa",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Myrna",
+                "middle": [
+                    "A A"
+                ],
+                "last": "Doumit",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: The delivery of health care during the COVID-19 outbreak imposed significant challenges on the global nursing workforce and placed them at a higher risk of occupational burnout and turnover. In Lebanon, the pandemic hit when nurses were already struggling with an economic collapse caused by government failures. Resilience may play a protective factor against adversity and enable effective adaption to the burden of the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "To determine the level of resilience in the nursing workforce and its relationship to burnout, intention to quit, and perceived COVID-19 risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "A cross-sectional study was employed among all registered nurses affiliated with the Order of Nurses in Lebanon and working in patient care positions in hospitals. The online survey questionnaire incorporated the Connor-Davidson Resilience Scale and the Copenhagen Burnout Inventory. Quartile scores were used to differentiate levels of resilience and burnout. Multiple logistic regression identified variables significantly associated with resilience.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Results: Five-hundred and eleven nurses responded to the questionnaire. Nurses had a moderate level of resilience (M = 72 \u00b1 13.5). In multivariate analyses, being male (OR = 3.67; 95% CI [1. 46, 9.22]; p = .006) and having a master's degree (OR = 4.082; 95% CI [1.49, 11.20]; p = .006) were independently associated with higher resilience. Resilience levels decreased with higher personal burnout (OR = 0.12; 95% CI [0.03, 0.435]; p = .001), work-related burnout (OR = 0.14; 95% CI [0.04, 0.46]; p = .001), and client-related burnout rates (OR = 0.09; 95% CI [0.03, 0.34]; p < .001). Nurses reporting the intention to quit their job had lower resilience scores (OR = 0.20; 95% CI [0.04, 0.88]; p = .033).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Linking Evidence to Action: Nursing stakeholders must introduce programs to regularly assess and enhance the resilience of nurses especially at time of crisis. Such programs would protect nurses from the perils of burnout and enhance their retention during times when they are most needed. Protecting nurses from burnout is an ethical imperative as well as an operational requirement.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The coronavirus disease 2019 (COVID-19) has exerted significant strain on the healthcare systems worldwide. The pandemic jeopardized the physical and psychological wellbeing of healthcare workers due to excessive workload, higher risks of infection, lack of resources, uncertainty, and stigmatization (Jun, Tucker, & Melnyk, 2020; Y\u00f6r\u00fck & G\u00fcler, 2020; Zhang et al., 2020) . Recent studies reported higher levels of anxiety, emotional exhaustion, and depression among frontline workers during the COVID-19 crisis (K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020; Labrague & De Los Santos, 2020; Y\u00f6r\u00fck & G\u00fcler, 2020; Zhang et al., 2020) .",
+            "cite_spans": [
+                {
+                    "start": 301,
+                    "end": 330,
+                    "text": "(Jun, Tucker, & Melnyk, 2020;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 331,
+                    "end": 351,
+                    "text": "Y\u00f6r\u00fck & G\u00fcler, 2020;",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 352,
+                    "end": 371,
+                    "text": "Zhang et al., 2020)",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 512,
+                    "end": 538,
+                    "text": "(K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 539,
+                    "end": 570,
+                    "text": "Labrague & De Los Santos, 2020;",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 571,
+                    "end": 591,
+                    "text": "Y\u00f6r\u00fck & G\u00fcler, 2020;",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 592,
+                    "end": 611,
+                    "text": "Zhang et al., 2020)",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Nurses, being the largest professional category in the healthcare sector, were disproportionally affected by the pandemic. Not only were they dealing with excessive workload in poorly resourced environments, but they were also risking their own lives and the lives of their loved ones in the course of fulfilling their duties (Mo et al., 2020) . During the pandemic, nurses were working under extreme physical and emotional pressure while dealing with patients' suffering and death, which could further amplify their anxiety and fears (Labrague & De Los Santos, 2020; Lorente, Vera, & Peir\u00f3, 2020) . In fact, the perceived COVID-19 risk has been highlighted as a new risk factor to nurses' well-being that is associated with the pandemic situation (Coulombe et al., 2020; Y\u0131ld\u0131r\u0131m, Arslan, & \u00d6zaslan, 2020) .",
+            "cite_spans": [
+                {
+                    "start": 326,
+                    "end": 343,
+                    "text": "(Mo et al., 2020)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 535,
+                    "end": 567,
+                    "text": "(Labrague & De Los Santos, 2020;",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 568,
+                    "end": 597,
+                    "text": "Lorente, Vera, & Peir\u00f3, 2020)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 748,
+                    "end": 771,
+                    "text": "(Coulombe et al., 2020;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 772,
+                    "end": 806,
+                    "text": "Y\u0131ld\u0131r\u0131m, Arslan, & \u00d6zaslan, 2020)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "During the COVID-19 pandemic, the nursing workforce has been at higher risk of professional burnout and turnover (Gujral, Rushton, & Rosa, 2020; Lai et al., 2020; Lyu, Yao, Zhang, & Liu, 2020; Segers, 2020) . Professional burnout is a serious occupational hazard, as burnt-out nurses show lower job commitment, greater probability of medical errors, reduction in work performance, lower job satisfaction, and frequent absenteeism (Duarte et al., 2020; Labrague & De Los Santos, 2020) . If not properly managed, burnout could eventually result in higher turnover rates among frontline nurses (Labrague & De Los Santos, 2020) . Furthermore, the COVID-19 pandemic could exacerbate the global shortage of nurses, as inadequately addressed burnout will lead to increased turnover risks (Jun et al., 2020) . Thus, mitigating the risks of nurses' burnout and turnover, and enhancing their retention, is a matter of critical concern to nursing stakeholders, especially in times of crisis. Enhancing the resilience of nurses and other health practitioners has been gaining prominence. Recently, the National Academy of Medicine launched the \"Action Collaborative on Clinician Well-Being and Resilience,\" an initiative to combat the significant increase in burnout and to develop the skill of resilience among healthcare clinicians (National Academy of Medicine, 2019).",
+            "cite_spans": [
+                {
+                    "start": 113,
+                    "end": 144,
+                    "text": "(Gujral, Rushton, & Rosa, 2020;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 145,
+                    "end": 162,
+                    "text": "Lai et al., 2020;",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 163,
+                    "end": 192,
+                    "text": "Lyu, Yao, Zhang, & Liu, 2020;",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 193,
+                    "end": 206,
+                    "text": "Segers, 2020)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 430,
+                    "end": 451,
+                    "text": "(Duarte et al., 2020;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 452,
+                    "end": 483,
+                    "text": "Labrague & De Los Santos, 2020)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 591,
+                    "end": 623,
+                    "text": "(Labrague & De Los Santos, 2020)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 781,
+                    "end": 799,
+                    "text": "(Jun et al., 2020)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Resilience, defined as a process of successful adaptation through hardships or significant sources of stress (Hart, Brannan, & De Chesnay, 2014) , has been identified as a protective factor against adversity in nurses. Resilience allows nurses to maintain their mental and psychological health in times of crisis Labrague & De Los Santos, 2020; Y\u00f6r\u00fck & G\u00fcler, 2020) . Evidence suggests that measures employed to enhance nurses' resilience can reduce their risk of burnout, improve their job satisfaction, and reduce their turnover intentions (Hart et al., 2014; Heritage et al., 2019; Huang et al., 2020; Manomenidis, Panagopoulou, & Montgomery, 2019) .",
+            "cite_spans": [
+                {
+                    "start": 109,
+                    "end": 144,
+                    "text": "(Hart, Brannan, & De Chesnay, 2014)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 313,
+                    "end": 344,
+                    "text": "Labrague & De Los Santos, 2020;",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 345,
+                    "end": 365,
+                    "text": "Y\u00f6r\u00fck & G\u00fcler, 2020)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 542,
+                    "end": 561,
+                    "text": "(Hart et al., 2014;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 562,
+                    "end": 584,
+                    "text": "Heritage et al., 2019;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 585,
+                    "end": 604,
+                    "text": "Huang et al., 2020;",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 605,
+                    "end": 651,
+                    "text": "Manomenidis, Panagopoulou, & Montgomery, 2019)",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "In addition to sociodemographic characteristics, previous empirical studies showed burnout (Duarte et al., 2020) , turnover intention (Yu & Lee, 2018) , and perceived COVID-19 risk (Coulombe et al., 2020; Y\u0131ld\u0131r\u0131m et al., 2020) as negatively associated with resilience. Furthermore, the perceived COVID-19 risk has been found to be negatively associated with nurses' physical and psychological wellbeing, with resilience playing a key role in mitigating it (Coulombe et al., 2020; Y\u0131ld\u0131r\u0131m et al., 2020) . Thus, based on previous studies, this national study aimed to explore the relationships between nurse resilience and sociodemographic and work-related variables within the troubled context of Lebanon.",
+            "cite_spans": [
+                {
+                    "start": 91,
+                    "end": 112,
+                    "text": "(Duarte et al., 2020)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 134,
+                    "end": 150,
+                    "text": "(Yu & Lee, 2018)",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 181,
+                    "end": 204,
+                    "text": "(Coulombe et al., 2020;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 205,
+                    "end": 227,
+                    "text": "Y\u0131ld\u0131r\u0131m et al., 2020)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 457,
+                    "end": 480,
+                    "text": "(Coulombe et al., 2020;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 481,
+                    "end": 503,
+                    "text": "Y\u0131ld\u0131r\u0131m et al., 2020)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Lebanon is a small Eastern Mediterranean country with a population of around seven million individuals including around two million refugees (Trading Economics, 2020; United Nations High Commissioner for Refugees, 2020). The population is served by 16,927 practicing nurses according to the latest statistics from the Order of Nurses in Lebanon (ONL; Order of Nurses in Lebanon, 2020). While the country has witnessed multiple wars and civil unrests over the last few decades, no crises were more critical than those occurring most recently. Since October 2019, the country has been grappling with a public uprising and an economic meltdown that resulted in the downsizing of hospitals, pay cuts, and decreased earning in all sectors of the economy due to currency devaluation (Doherty & Sullivan, 2020) . Amid all this suffering, the deadly explosion at the port of Beirut brought the nation to its knees (Gardner, 2020) . Furthermore, the COVID-19 pandemic resulted in serious damages to the country's already strained healthcare sector and presented major challenges to the health workforce in general, particularly in nurses. The culmination of multiple crises, added to the unprecedented workload and occupational risk precipitated by the pandemic, meant that Lebanese nurses were at a higher risk of burnout and turnover. Under the current circumstances, it is pivotal to assess the psychological health and degree of resilience of nurses, and to provide evidence-based supportive policy and practice recommendations. The purpose of this study was to determine the level of resilience in the nursing workforce and its relationship to perceived COVID-19 risk, burnout, and turnover intention.",
+            "cite_spans": [
+                {
+                    "start": 777,
+                    "end": 803,
+                    "text": "(Doherty & Sullivan, 2020)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 906,
+                    "end": 921,
+                    "text": "(Gardner, 2020)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The Troubled Local Context"
+        },
+        {
+            "text": "A cross-sectional non-experimental design was used to survey registered nurses affiliated with the ONL and practicing in healthcare facilities across Lebanon. According to 2019 ONL statistics, the sampling frame included around 8,098 registered nurses working in patient care position in hospitals (ONL, 2020). Since there were no previous systematic investigations of the resilience of nurses within the local context, it was not possible for the authors to estimate the effect size based on those studies. Thus, to err on the side of caution, the authors decided to use the maximum possible effect size of 50%. The required sample size was 367 responses for an assumed margin of error of 5%, confidence level of 95%, and a response distribution/effect size of 50%. Responses exceeding the minimum required sample size of 367 were analyzed. Unemployed nurses, those working outside Lebanon, or nurses not working in patient care were excluded from this study. Since the study employed an online survey questionnaire, nurses without a valid email address in the ONL nursing registration database were also excluded.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Sample and Design"
+        },
+        {
+            "text": "The survey questionnaire included demographic questions (age, gender, marital status, level of education, nursing specialty, current employment status, and years of experience). The Connor-Davidson Resilience Scale (CD-RISC-25; Connor & Davidson, 2003 ) was used to determine the resilience levels of nurses. Permission for use was obtained from the scale's creators. The scale consists of 25 items scored on a 5-point Likert scale with 0 = not true at all and 4 = true nearly all the time (Connor & Davidson, 2003) . In a previous study, the Cronbach alpha value of the scale was calculated as 0.89, showing good reliability and validity scores (Toma, Guetterman, Yaqub, Talaat, & Fetters, 2017) . In the present study, the Cronbach alpha of the CD-RISC-25 scale was 0.923. Burnout was measured using the Copenhagen Burnout Inventory (CBI) scales (Kristensen, Borritz, Villadsen, & Christensen, 2005) . The CBI is a 19-item survey with three dimensions: (1) personal burnout (six items), (2) work-related burnout (seven items), and (3) client-related burnout (six items). Scores range from 0 to 100 with 0 = never/almost never and 100 = always. Kristensen et al. (2005) calculated the Cronbach alphas for the CBI scales as 0.85-0.87 (Kristensen et al., 2005) , whereas the corresponding values for this study were found to be 0.870 for the CBI-Personal burnout, 0.867 for the CBI-Work related burnout, and 0.786 for the CBI-Client related burnout. The scales were translated into Arabic for this study with the permission of the creators.",
+            "cite_spans": [
+                {
+                    "start": 228,
+                    "end": 251,
+                    "text": "Connor & Davidson, 2003",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 490,
+                    "end": 515,
+                    "text": "(Connor & Davidson, 2003)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 646,
+                    "end": 696,
+                    "text": "(Toma, Guetterman, Yaqub, Talaat, & Fetters, 2017)",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 848,
+                    "end": 901,
+                    "text": "(Kristensen, Borritz, Villadsen, & Christensen, 2005)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1146,
+                    "end": 1170,
+                    "text": "Kristensen et al. (2005)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1234,
+                    "end": 1259,
+                    "text": "(Kristensen et al., 2005)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Survey Instruments"
+        },
+        {
+            "text": "Intention to quit was assessed by asking the question, \"How likely are you to quit your current job in the next 1-3 years?\" Responses were measured on a 5-point Likert scale: 0 = Very unlikely, 1 = unlikely, 2 = not sure, 3 = likely, 4 = very likely. Nurses' perception of risk was determined by asking nurses about their work-related risk level for COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Survey Instruments"
+        },
+        {
+            "text": "To ensure suitability to the local context, a draft questionnaire was reviewed by an expert panel comprised of a nursing expert and leader, a nursing faculty member, an Institutional Review Board (IRB) expert, a health management and policy expert, and a nursing system manager. The final version of the questionnaire was translated to Arabic and back translated to English by experts to ensure accuracy of the translation. The English and Arabic version of the questionnaire were pilot tested on 10-15 nurses each, and only minor language modifications were incorporated into the final version.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Survey Instruments"
+        },
+        {
+            "text": "The data were collected between July and October 2020. Using the email addresses provided by the ONL, nurses were sent an invitation along with a consent form to complete the online questionnaire on Lime Survey software (Jayasundara, Wickramasuriya, & Shakila, 2010) . For nurses to participate, they had to electronically sign the consent form prior to completing the questionnaire. The questionnaire was available in both English and Arabic. Three reminders were sent to nurses each 1 week apart.",
+            "cite_spans": [
+                {
+                    "start": 220,
+                    "end": 266,
+                    "text": "(Jayasundara, Wickramasuriya, & Shakila, 2010)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Collection"
+        },
+        {
+            "text": "Data collected from the surveys were analyzed using the Statistical Package for Social Sciences software (IBM SPSSv.24). Missing responses were not replaced in our study. The authors have opted not to carry out imputations in this study on any of the variables since the responses received far exceed the target sample size. Thus, the proportion of missing data would not threaten the power of this study. Descriptive statistics were generated to describe sample characteristics, nurses' level of resilience, degree of burnout, perception of risk, and turnover intention. Multiple logistic regression analysis was performed to identify the factors affecting resilience. The odds ratio (OR) values were presented in a 95% confidence interval (CI). All analyses were carried at .05 significance level.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Analysis"
+        },
+        {
+            "text": "For the analysis of the CD-RISC-25, respondents were grouped according to their resilience score: low resilience (scoring lower or equal to 25th percentile), moderate resilience (scoring above 25th percentile, but less than 75th percentile), and high resilience (scoring above 75th percentile; Davidson, 2015) .",
+            "cite_spans": [
+                {
+                    "start": 294,
+                    "end": 309,
+                    "text": "Davidson, 2015)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Analysis"
+        },
+        {
+            "text": "For the CBI, items were scored on a 5-point Likert scale and the average of items in each dimension was measured. The cut-off point for high burnout on all three scales is 50 (Kristensen et al., 2005) . The authors used quartile scores to differentiate levels of burnout in the sample. Burnout on each scale is measured as the average score for the scale items (range 0-100). For this study, the cut-off points used were low-moderate burnout (0 to 50), high burnout (>50 to 75), and very high burnout (>75 to 100; Creedy, Sidebotham, Gamble, Pallant, & Fenwick, 2017) .",
+            "cite_spans": [
+                {
+                    "start": 175,
+                    "end": 200,
+                    "text": "(Kristensen et al., 2005)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 514,
+                    "end": 567,
+                    "text": "Creedy, Sidebotham, Gamble, Pallant, & Fenwick, 2017)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Analysis"
+        },
+        {
+            "text": "Ethical approval was obtained from the IRB at the American University of Beirut (protocol number SBS-2020-0255) and the Lebanese American University (protocol number LAU.SON.MD1.29/Jun/2020). Administrative approval was also secured from the ONL. The consent form was on the first page of the questionnaire. Participants were assured that participation was entirely voluntary and there were no rewards or penalties for completing the questionnaire. Participants were free to skip questions or to exit the questionnaire at any time. Anonymity and confidentiality of the respondents were guaranteed, and no personal identifiers were recorded at any stage of the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethical Considerations"
+        },
+        {
+            "text": "A total of 511 nurses responded to the questionnaire. The sociodemographic characteristics of study respondents are presented in Table 1 . Most respondents were female (78.5%), 30-45 years old (42.8%), ever married (58.3%), held a university degree (66%), and had more than 5 years of experience (74.5%). These results were similar to the distribution of nurses as per the latest statistics reported by the ONL, suggesting that this sample is representative of the general nursing workforce. As for nurses' specialty, 31.7% worked in intensive care units,",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 129,
+                    "end": 136,
+                    "text": "Table 1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "18% in medical units, 15.4% in emergency departments, 14.7% in surgical units, and the remaining 20.2% worked in other units.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Original Article"
+        },
+        {
+            "text": "As displayed in Table 2 , the total score in CD-RISC ranged from 23 to 100, with M = 72 \u00b1 13.5. In this sample, nurses falling in the lowest quartile on the resilience scale had an overall score in the range 0-65. There was little variability in the mean CBI scores (Table 2) . Nurses scored higher on the personal burnout scale (M = 51.46), than on the work-related burnout scale (M = 49.10) and the clientrelated burnout scale (M = 47.49). The proportion of nurses falling into the very high level of burnout (highest quartile) was equivalent to 15.3%, 12.7%, and 10.4% for personal burnout, work-related burnout, and client-related burnout, respectively. Table 3 shows that, amid the extremely difficult circumstances, most nurses (56.9%) indicated that they were either very unlikely or unlikely to quit their job over the next 12 months. Two in five nurses indicated that nothing would make them give up nursing (40.6%). Troublingly, a comparable percentage (38.3%) indicated that they do not want to be a nurse anymore, but their families need their salary. A quarter of the respondents indicated that they are thinking of working outside the country (24.8%). Only a small proportion of nurses indicated that they do not want to be a nurse anymore (5.1%) or that they are thinking of resigning due to the COVID-19 pandemic (3.2%). Concerning perception of risk, most nurses indicated that they are exposed to a moderate level of risk at work (53.9%), while 17.6% indicated exposure to high risk at work. An additional 16.4% had a perception of no or low risk. Table 4 shows the association of sociodemographic and professional characteristics with resilience as derived from simple and multiple logistic regression. The multiple logistic regression results reveal that the difference between the average CD-RISC score of nurses by their gender and degree type was statistically significant (p = .006 for both; Table 5 displays the association between the burnout level, intention to quit, and the perception of risk with resilience in the study population as derived from the simple and adjusted multiple logistic regression. The table reveals an inverse statistically significant relationship between the scores of nurses for both the CBI subscale score and CD-RISC. As the level of nurse burnout increases, their resilience decreases. Multiple logistic regression showed, after adjusting for confounders, nurses who reported high and very high levels of personal burnout had lower odds of being resilient (OR = 0.20; 95% CI [0.07, 0.60]; p = .004) and (OR = 0.12; 95% CI [0.03, 0.435]; p = .001), respectively. High and very high levels of work-related burnout were also associated with lower odds of being resilient (OR = 0.26; 95% CI [0.09,7.29]; p = .010) and (OR = 0.14; 95% CI [0.04-0.46]; p = .001); respectively. Similarly, high and very high client-related burnout were associated with lower odds of resilience (OR = 0.23; 95% CI [0.08-0.68]; p = .008) and (OR = 0.09; 95% CI [0.03, 0.34]; p < .001); respectively. Additionally, nurses who indicated that it was very likely ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 16,
+                    "end": 23,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 266,
+                    "end": 275,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 658,
+                    "end": 665,
+                    "text": "Table 3",
+                    "ref_id": "TABREF6"
+                },
+                {
+                    "start": 1566,
+                    "end": 1573,
+                    "text": "Table 4",
+                    "ref_id": "TABREF8"
+                },
+                {
+                    "start": 1916,
+                    "end": 1923,
+                    "text": "Table 5",
+                    "ref_id": "TABREF10"
+                }
+            ],
+            "section": "Original Article"
+        },
+        {
+            "text": "The present study findings revealed that the surveyed nurses in Lebanon displayed a moderate level of resilience when compared to the frontline nurses caring for COVID-19 patients in other contexts (Connor & Davidson, 2003; K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020; Lin et al., 2020) . Most nurses indicated an intention to stay in their position and indicated a perception of a moderate level of COVID-19 risk at their workplace. Significant determinants of resilience included gender (males were more resilient when compared to females); degree type (master's level and technical nurses were more resilient when compared to Bachelor prepared nurses); degree of personal, work-related, and client-related burnout (nurses with medium and high levels of burnout were less resilient); and intention to quit (those very likely to quit were less resilient compared to the very unlikely to quit). The results showed that frontline nurses had moderate levels of resilience compared to healthcare workers and nurses in other contexts (Duarte et al., 2020; K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020; Lin et al., 2020) . Despite the multiple crises the country was witnessing at the time of the study's data collection, Lebanese nurses had higher resilience levels compared to nurses in Hubei, China (M = 64.86 \u00b1 13.46; Lin et al., 2020) , nurses in Sichuan Province, China (M = 62.16 \u00b1 18.21) , and nurses in Turkey (M = 64.28 \u00b1 15.99; K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020) . This could be partially attributed to the fact that many hospitals at the time of the study were receiving a limited number of COVID-19 patients while working on expanding their capacity. Another explanation for the relatively high resilience levels among Lebanese nurses, as compared to nurses in better resourced settings, relates to the fact that Lebanese nurses are part of the Lebanese societal fabric which was (Ghattas, 2020) . The same societal fabric enhances the role of spirituality in the life of people, especially those working under continued pressure, such as nurses (Doumit, Rahi, Saab, & Majdalani, 2019) . Studies from the Middle East Region showed that nurses' spirituality encompasses all dimensions of personhood, including their professional lives (Weathers, 2018) . In fact, an examination of the various constructs of resilience in this study revealed that the \"spiritual influence\" construct was the highest ranked among the constructs of resilience (Connor & Davidson, 2003) . Furthermore, Lebanon's social fabric and its varied religious composition enhances the role of spirituality in people's lives. Thus, the spirituality of nurses in Lebanon could be another important asset in their ability to cope with the pandemic. The moderate resilience levels may also reflect the moral and financial support that nurses have been receiving since the beginning of the pandemic (Badih, 2020) . Social support helps nurses in achieving positive emotional states, reduces nurses' stress and anxiety levels, and protects both their physical and mental health, and consequently improves their resilience levels K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020) . These results highlight the importance of developing interventions to increase the social support provided to nurses during these stressful periods to promote their psychological well-being and resilience.",
+            "cite_spans": [
+                {
+                    "start": 198,
+                    "end": 223,
+                    "text": "(Connor & Davidson, 2003;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 224,
+                    "end": 249,
+                    "text": "K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 250,
+                    "end": 267,
+                    "text": "Lin et al., 2020)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1011,
+                    "end": 1032,
+                    "text": "(Duarte et al., 2020;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1033,
+                    "end": 1058,
+                    "text": "K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1059,
+                    "end": 1076,
+                    "text": "Lin et al., 2020)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1278,
+                    "end": 1295,
+                    "text": "Lin et al., 2020)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1368,
+                    "end": 1394,
+                    "text": "Turkey (M = 64.28 \u00b1 15.99;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1395,
+                    "end": 1420,
+                    "text": "K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1840,
+                    "end": 1855,
+                    "text": "(Ghattas, 2020)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 2006,
+                    "end": 2045,
+                    "text": "(Doumit, Rahi, Saab, & Majdalani, 2019)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 2194,
+                    "end": 2210,
+                    "text": "(Weathers, 2018)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 2399,
+                    "end": 2424,
+                    "text": "(Connor & Davidson, 2003)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2823,
+                    "end": 2836,
+                    "text": "(Badih, 2020)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 3052,
+                    "end": 3077,
+                    "text": "K\u0131l\u0131n\u00e7 & Sis \u00c7elik, 2020)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The study revealed that gender was a statistically significant determinant of resilience among nurses. Specifically, the resilience of female nurses was significantly lower than that of their male counterparts. This could be attributed to the innate differences in coping strategies between (Bezek, 2010; Huang, Xing, & Gamble, 2019) . The root causes for this increased vulnerability could be attributed to cultural aspects since female professionals, especially in the Middle East region, find it very difficult to balance increased workloads and stressors with family and household demands (Chandra, 2012) . As such, female nurses must be provided with more organizational support and flexibility, and should have access to counseling services, especially at times of crisis. Such support promises a good return on investment as it enhances the productivity and retention of nurses at the institution and would eventually lead to an improved patient experience and outcomes (Hart et al., 2014; Huang et al., 2020) . It is yet to be determined whether the gender difference in resilience identified in this study is attributable to innate gender differences in coping strategies and in dealing with crises or if the differences are due to the above-mentioned cultural aspects. Future research should investigate this gender aspect in further details. Resilience in this study was also associated with degree type. Specifically, compared to bachelor prepared nurses, those with a Master of Nursing degree and with a technical degree were significantly more resilient. Literature reports a positive association between resilience and higher educational qualification (Roberts et al., 2020) . While this goes in synch with our findings regarding master-prepared nurses, it does not support the increased resilience of technical degree nurses. One possible explanation, within the Lebanese context, relates to the technical nurses being content with having a job at a time where more educated and experienced nurses are either receiving decreased earning or are being laid off across the country (Reuters Staff, 2020) .",
+            "cite_spans": [
+                {
+                    "start": 291,
+                    "end": 304,
+                    "text": "(Bezek, 2010;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 305,
+                    "end": 333,
+                    "text": "Huang, Xing, & Gamble, 2019)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 593,
+                    "end": 608,
+                    "text": "(Chandra, 2012)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 977,
+                    "end": 996,
+                    "text": "(Hart et al., 2014;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 997,
+                    "end": 1016,
+                    "text": "Huang et al., 2020)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1667,
+                    "end": 1689,
+                    "text": "(Roberts et al., 2020)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 2103,
+                    "end": 2115,
+                    "text": "Staff, 2020)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In this study, a negative correlation was observed between burnout perceived by the nurses and their resilience levels. The reduced burnout levels in nurses who had higher resilience scores may be attributable to the protective role of resilience. These results are consistent with those reported in previous studies (Duarte et al., 2020; Jose, Dhandapani, & Cyriac, 2020) . Resilience helps frontline nurses to recover better from trauma, and thus healthcare managers should implement effective strategies to measure and enhance the resilience of their nurses especially at times of crisis.",
+            "cite_spans": [
+                {
+                    "start": 317,
+                    "end": 338,
+                    "text": "(Duarte et al., 2020;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 339,
+                    "end": 372,
+                    "text": "Jose, Dhandapani, & Cyriac, 2020)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The findings revealed that nurses who were very likely to quit their workplace had significantly lower resilience levels. This further emphasizes the important role of resilience in mitigating workplace stressors and consequently, reducing nurses' turnover intentions (Yu & Lee, 2018) . The finding that a quarter of the surveyed nurses indicated that they were thinking of leaving to work overseas is quite worrying as it raises concerns regarding the sustainability of the nursing workforce in Lebanon with the reported global shortage of nurses (Al Thobaity & Alshammari, 2020) . This study also found that the COVID-19 outbreak did not affect nurses' turnover intention as only 3.2% wanted to resign due to the outbreak, a similar finding is reported in the literature (Jang, You, Lee, & Lee, 2020) .",
+            "cite_spans": [
+                {
+                    "start": 268,
+                    "end": 284,
+                    "text": "(Yu & Lee, 2018)",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 552,
+                    "end": 580,
+                    "text": "Thobaity & Alshammari, 2020)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 773,
+                    "end": 802,
+                    "text": "(Jang, You, Lee, & Lee, 2020)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Study findings showed a widespread pressure on nurses fighting against COVID-19 in Lebanon. At this breaking point, it is imperative that healthcare managers prioritize building personal resilience among frontline nurses. By promoting positive coping strategies and strengthening nurses' self-efficacy, nurse leaders can improve resilience among their frontline staff, which is vital during stressful work settings like disease outbreaks. Nurse leaders should also reduce the emotional distress of nurses through listening, acting on their concerns, and infusing flexibility at work, whenever possible (Raderstorf, Barr, Ackerman, & Melnyk, 2020) . These organizational practices are essential to support nurses in their service delivery, safeguard their mental and physical well-being and enhance their retention at the frontline.",
+            "cite_spans": [
+                {
+                    "start": 602,
+                    "end": 646,
+                    "text": "(Raderstorf, Barr, Ackerman, & Melnyk, 2020)",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Several limitations were identified in this study. First, establishing causality between variables was not possible due to the cross-sectional design of the study. Future studies could test the relationships between nurse resilience and other variables using longitudinal designs. Based on our contextual knowledge, we decided to focus on burnout, intention to quit, and perceived COVID-19 risk as factors associated with resilience. The authors acknowledge that this is not an all-inclusive list guided by a theoretical framework and recommend that future studies should be guided by a more comprehensive framework. Second, since questionnaires were filled electronically, we cannot exclude the possibility that their responses might have been affected by factors in the survey environment. There is also the possibility that the nurses responded to their global perceptions of resilience and burnout rather than to the wording of the survey items. Third, although an invitation was sent to all nurses and they all had an equal opportunity to participate in this study, we cannot ascertain whether respondents were different than non-respondents on the study variables. Finally, the study excluded the nurses who did not have an email address in the nursing registration database, and it cannot be ascertained whether those nurses would have responded to the questionnaire differently.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "\u2022 In times of crisis, nursing stakeholders must implement programs to enhance the resilience of nurses, which is pivotal to mitigating the effects of job dissatisfaction, enhancing productivity, and reducing turnover among nurses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "LINKING EVIDENCE TO ACTION"
+        },
+        {
+            "text": "\u2022 Nursing stakeholders at all levels need to work collaboratively and creatively to improve the wellbeing of the nursing workforce as well as the quality of care.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "LINKING EVIDENCE TO ACTION"
+        },
+        {
+            "text": "A significant inverse relationship was observed between the resilience of nurses and personal, work-related, and client-related burnout, as well as their intention to quit. Results highlight the importance of personal resilience in mitigating the effects of burnout and turnover, especially at Original Article times of crisis. Nursing stakeholders at the system and organizational levels must work collaboratively and creatively to assess and enhance the resilience of nurses at times of crisis, with particular attention to female nurses. This will not only improve nurses' productivity, retention, and quality of patient care, but also the ethical and principled thing to do for the largest and most valuable professional group in the healthcare system. WVN",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Nurses on the frontline against the COVID-19 pandemic: An Integrative review",
+            "authors": [
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Thobaity",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Alshammari",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Dubai Medical Journal",
+            "volume": "3",
+            "issn": "3",
+            "pages": "87--92",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Coronavirus: Lebanese celebrities clap and cheer for the country's doctors and nurses. The National News",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Badih",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Gender differences in resilience in the emerging adulthood population (Thesis)",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bezek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Work-life balance: Eastern and western perspectives",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Chandra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "The International Journal of Human Resource Management",
+            "volume": "23",
+            "issn": "5",
+            "pages": "1040--1056",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Development of a new resilience scale: The Connor-Davidson resilience scale (CD-RISC)",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Connor",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Davidson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Depression and Anxiety",
+            "volume": "18",
+            "issn": "2",
+            "pages": "76--82",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Risk and resilience factors during the CoViD-19 pandemic: A snapshot of the experiences of Canadian workers early on in the crisis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Coulombe",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Pacheco",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Khalil",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Doucerain",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Auger",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Meunier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Frontiers in Psychology",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Prevalence of burnout, depression, anxiety and stress in Australian midwives: A cross-sectional survey",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Creedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sidebotham",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gamble",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pallant",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fenwick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMC Pregnancy and Childbirth",
+            "volume": "17",
+            "issn": "1",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Connor-Davidson Resilience Scale (CD-RISC) manual",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Davidson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Crisis upon crisis: Blast rocks a Lebanon already on its knees. The Guardian",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Doherty",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sullivan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Spirituality among parents of children with cancer in a Middle Eastern country",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Doumit",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Rahi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Saab",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Majdalani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "European Journal of Oncology Nursing",
+            "volume": "39",
+            "issn": "",
+            "pages": "21--27",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Burnout among Portuguese healthcare workers during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Duarte",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Teixeira",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Castro",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Marina",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ribeiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "J\u00e1come",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Serr\u00e3o",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMC Public Health",
+            "volume": "20",
+            "issn": "1",
+            "pages": "1--10",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12889-020-09980-z"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Lebanon: A nation brought to its knees",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Financial Times",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Lebanon is no stranger to disaster -but this is like nothing we've ever seen. The Guardian",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ghattas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Action steps toward a culture of moral resilience in the face of COVID-19",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gujral",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Rushton",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Rosa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Psychosocial Nursing and Mental Health Services",
+            "volume": "58",
+            "issn": "7",
+            "pages": "2--4",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Resilience in nurses: An integrative review",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hart",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Brannan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Chesnay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Journal of Nursing Management",
+            "volume": "22",
+            "issn": "6",
+            "pages": "720--734",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "A re-examination of the individual differences approach that explains occupational resilience and psychological adjustment among nurses",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Heritage",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rees",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Osseiran-Moisson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chamberlain",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cusack",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hegney",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of Nursing Management",
+            "volume": "27",
+            "issn": "7",
+            "pages": "1391--1399",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Frontline nurses' burnout, anxiety, depression, and fear statuses and their associated factors during the COVID-19 outbreak in Wuhan, China: A large-scale cross-sectional study",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Factors associated with resilience among medical staff in radiology departments during the outbreak of 2019 novel coronavirus disease (COVID-19): A crosssectional study",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ning",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Medical Science Monitor",
+            "volume": "26",
+            "issn": "",
+            "pages": "925669--925661",
+            "other_ids": {
+                "DOI": [
+                    "10.12659/MSM.925669"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Job demandsresources: a gender perspective on employee well-being and resilience in retail stores in China",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xing",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gamble",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "The International Journal of Human Resource Management",
+            "volume": "30",
+            "issn": "8",
+            "pages": "1323--1341",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Factors associated with the work intention of hospital workers in South Korea during the early stages of the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Jang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "You",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "15",
+            "issn": "",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Localisation of the LimeSurvey Software. Paper presented at the Conference on Localised Systems and Applications (CLSA)",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Jayasundara",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wickramasuriya",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Shakila",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Burnout and resilience among frontline nurses during COVID-19 pandemic: A cross-sectional study in the emergency department of a tertiary care center",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jose",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dhandapani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cyriac",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "North India. Indian Journal of Critical Care Medicine",
+            "volume": "24",
+            "issn": "11",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Clinician mental health and well-being during global healthcare crises: Evidence learned from prior epidemics for COVID-19",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jun",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tucker",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Melnyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Relationship between the social support and psychological resilience levels perceived by nurses during the COVID-19 pandemic: A study from Turkey",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "K\u0131l\u0131n\u00e7",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sis \u00c7elik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Perspectives in Psychiatric Care",
+            "volume": "57",
+            "issn": "3",
+            "pages": "1000--1008",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/ppc.12648"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "The Copenhagen Burnout Inventory: A new tool for the assessment of burnout",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kristensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Borritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Villadsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Christensen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "",
+            "volume": "19",
+            "issn": "",
+            "pages": "192--207",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "COVID-19 anxiety among front-line nurses: Predictive role of organisational support, personal resilience and social support",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Labrague",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "De Los",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A A"
+                    ],
+                    "last": "Santos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Nursing Management",
+            "volume": "28",
+            "issn": "7",
+            "pages": "1653--1661",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/jonm.13121"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Factors associated with mental health outcomes among health care workers exposed to coronavirus disease 2019",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA Network Open",
+            "volume": "3",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Factors associated with resilience among nonlocal medical workers sent to Wuhan, China during the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.-H",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.-J",
+                    "middle": [],
+                    "last": "Gan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.-F",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.-M",
+                    "middle": [],
+                    "last": "You",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMC Psychiatry",
+            "volume": "20",
+            "issn": "1",
+            "pages": "1--7",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Nurses' stressors and psychological distress during the COVID-19 pandemic: The mediating role of coping and resilience",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lorente",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vera",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Peir\u00f3",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Advanced Nursing",
+            "volume": "77",
+            "issn": "3",
+            "pages": "1335--1344",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "The relationship among organizational identity, psychological resilience and work engagement of the first-line nurses in the prevention and control of COVID-19 based on Structural Equation Model",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lyu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Risk Management and Healthcare Policy",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Resilience in nursing: The role of internal and external factors",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Manomenidis",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Panagopoulou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Montgomery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of Nursing Management",
+            "volume": "27",
+            "issn": "1",
+            "pages": "172--178",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Work stress among Chinese nurses to support Wuhan in fighting against COVID-19 epidemic",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Nursing Management",
+            "volume": "28",
+            "issn": "5",
+            "pages": "1002--1009",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Action collaborative on clinician well-being and resilience",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Statistics issued by the Order",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "A guide to empowering frontline nurses and healthcare clinicians through evidence-based innovation leadership during COVID-19 and beyond",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Raderstorf",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Barr",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ackerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Melnyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Worldviews on Evidence-Based Nursing",
+            "volume": "17",
+            "issn": "4",
+            "pages": "254--257",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Levels of resilience, anxiety and depression in nurses working in respiratory clinical areas during the COVID pandemic",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mcaloney-Kocaman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lippiett",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ray",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Welch",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kelly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Respiratory Medicine",
+            "volume": "176",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Psychological resilience, burnout syndrome, and stress-related psychiatric disorders among healthcare professionals during the COVID-19 crisis",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Segers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Psychosociological Issues in Human Resource Management",
+            "volume": "8",
+            "issn": "1",
+            "pages": "7--12",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Major Beirut medical centre lays off hundreds as crisis bites. Reuters",
+            "authors": [
+                {
+                    "first": "Reuters",
+                    "middle": [],
+                    "last": "Staff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "A systematic approach for accurate translation of instruments: Experience with translating the Connor-Davidson Resilience Scale into Arabic",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Toma",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Guetterman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yaqub",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Talaat",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Fetters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Methodological Innovations",
+            "volume": "10",
+            "issn": "3",
+            "pages": "1--10",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/2059799117741406"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Retrieved from https://tradi ngeco nomics.com/leban on/popul ation United Nations High Commissioner for Refugees",
+            "authors": [],
+            "year": 2020,
+            "venue": "Trading Economics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Refugee protection Lebanon country report. UNHCR Lebanon factsheet",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Spirituality and health: A Middle Eastern perspective",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Weathers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Religions",
+            "volume": "9",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Perceived risk and mental health problems among healthcare professionals during COVID-19 pandemic: Exploring the mediating effects of resilience and coronavirus fear",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Y\u0131ld\u0131r\u0131m",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Arslan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "\u00d6zaslan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "International Journal of Mental Health and Addiction",
+            "volume": "",
+            "issn": "",
+            "pages": "1--11",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11469-020-00424-8"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "The relationship between psychological resilience, burnout, stress, and sociodemographic factors with depression in nurses and midwives during the COVID-19 pandemic: A cross-sectional study in",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Y\u00f6r\u00fck",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "G\u00fcler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Impact of resilience and job involvement on turnover intention of new graduate nurses using structural equation modeling",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Japan Journal of Nursing Science",
+            "volume": "15",
+            "issn": "4",
+            "pages": "351--362",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "The psychological change process of frontline nurses caring for patients with COVID-19 during its outbreak",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Issues in Mental Health Nursing",
+            "volume": "41",
+            "issn": "6",
+            "pages": "320--331",
+            "other_ids": {
+                "DOI": [
+                    "525-530.10.1111/wvn.12544WVN2021"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "TABREF1": {
+            "text": "Demographic and Professional Characteristics of the Study Population",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": ". Specifically, being a male nurse was associated with higher resilience (OR = 3.67; 95% CI [1.46, 9.22]; p = .006). Compared to nurses with a Bachelor of Science in Nursing (BSN), nurses with a Master of Science in Nursing (MSN) degree or a technical degree were associated with higher resilience (OR = 4.082; 95% CI [1.49, 11.20]; p = .006) and (OR = 3.593; 95% CI [1.45, 8.90]; p = .006), respectively. No significant association was detected between resilience and the other sociodemographic variables.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Analysis Resilience and Burnout Levels in the Study Population",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Analysis of Intention to Quit Job and Perception of Risk in the Study Population",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "The Association of Sociodemographic and Professional Characteristics With Resilience in the Study Population as Derived From the Simple and Multiple Logistic Regression",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF10": {
+            "text": "The Association Between Burnout Level, Intention to Quit, and Perception of Risk With Resilience in the Study Population as Derived From the Simple and Adjusted Multiple Logistic Regression",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

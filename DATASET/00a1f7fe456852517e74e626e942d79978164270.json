@@ -1,0 +1,3864 @@
+{
+    "paper_id": "00a1f7fe456852517e74e626e942d79978164270",
+    "metadata": {
+        "title": "0123456789) 1 3 Journal of Clinical Psychology in Medical Settings",
+        "authors": [
+            {
+                "first": "M",
+                "middle": [
+                    "Lindsey"
+                ],
+                "last": "Jacobs",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tuscaloosa VA Medical Center",
+                    "location": {
+                        "addrLine": "3701 Loop Road",
+                        "postCode": "35404",
+                        "settlement": "Tuscaloosa",
+                        "region": "AL",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Michelle",
+                "middle": [
+                    "E"
+                ],
+                "last": "Mlinac",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Boston Healthcare System",
+                    "location": {
+                        "settlement": "Jamaica Plain",
+                        "region": "VA, MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [],
+                "last": "Lindsey",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jacobs",
+                "middle": [],
+                "last": "Mary",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Jacobsdodson2@va",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Alabama",
+                    "location": {
+                        "settlement": "Tuscaloosa",
+                        "region": "AL",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Gov",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Quality improvement (QI) work is increasingly necessary to ensure healthcare is delivered safely, efficiently, and equitably. As geropsychologists play an increasingly vital role in healthcare service delivery for older adults, it is imperative that they develop professional competence in QI, yet there is little formal QI training aimed at geropsychologists or to graduate students pursuing geropsychology. This article aims to elucidate the importance of QI education and training in geropsychology. In line with the Pikes Peak model for training in professional geropsychology, we outline QI knowledge and skills competencies for geropsychology training and suggest a rubric for integrating QI education into academic and clinical training from graduate school to professional practice. We provide recommended readings that geropsychology educators can read to become familiar with QI or use as part of a syllabus. Finally, we offer some recommendations for how current and future geropsychologists can be leaders in quality improvement work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Keywords Quality Improvement \u00b7 Competency \u00b7 Training \u00b7 Geropsychology Quality improvement (QI) is a systematic approach to the collection and analysis of healthcare data on practices and processes (e.g., wait times, screening measures, workflow, safety measures) for the purpose of improving healthcare. As shown in Table 1 , QI differs from both research and program evaluation (PE) in several significant ways. QI differs in its immediate utility to affect change within the healthcare context to meet specific patient care aims, whereas PE is often used to determine effectiveness of individual programs to best determine where resources should be allocated, and research aims to advance what is scientifically understood. The Institute of Medicine (IOM) (2001) outlined a framework for QI that includes six dimensions of healthcare performance: safety, effectiveness, patient-centeredness, timeliness, efficiency, and equity. QI occurs within an interprofessional context and focuses on quality indicators that measure performance in one or more of the six dimensions. For example, a falls prevention program implemented in a skilled nursing facility could be evaluated in terms of increasing safety and improving timeliness of staff response to bed alarms. In order to create meaningful, substantial, and lasting changes for the betterment of healthcare systems, it is vital that all healthcare professionals partake in QI initiatives (Batalden & Davidoff, 2007) .",
+            "cite_spans": [
+                {
+                    "start": 1440,
+                    "end": 1467,
+                    "text": "(Batalden & Davidoff, 2007)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 316,
+                    "end": 323,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The American Psychological Association (APA) (2009) developed an initial set of criteria for psychologists to consider when deciding whether to engage in QI initiatives, and the APA's Health Service Psychology Education Collaborative (2013) included QI knowledge and skills as core competencies for psychologists working in healthcare. Despite these foundational efforts to promote health-service psychologists participating in QI work, the field of clinical psychology has not been at the forefront of QI efforts in healthcare more broadly (Bonin, 2018) . Moreover, education and training in QI within health-service psychology is lacking. A recent analysis of psychology postdoctoral fellowships listed in the Association of Psychology Postdoctoral and Internship Centers (APPIC) database found that less than half of programs required participation in a scholarly inquiry project, which was defined as research (i.e., original research and analyses of existing data) and PE or QI (McQuaid et al., 2018) . The authors recommend practical ways to integrate QI, PE, and research into fellowship curriculum to build facility with these techniques. There have been no similar efforts made to investigate if or how QI is taught at the predoctoral or internship levels in clinical psychology training programs.",
+            "cite_spans": [
+                {
+                    "start": 541,
+                    "end": 554,
+                    "text": "(Bonin, 2018)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 983,
+                    "end": 1005,
+                    "text": "(McQuaid et al., 2018)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Recognized as a specialty in professional psychology in 2010 by the American Psychological Association, geropsychology focuses on assessment and intervention with older adults, caregivers, and family members, as well as consultation within interprofessional teams and complex care systems that serve older adults (Knight et al., 2009) . Because of geropsychologists' focus on care with vulnerable populations and their integration in interprofessional care, they should have exposure to and training in QI to better serve their patients and improve clinical processes within their interprofessional teams and organizations. In this article, we describe how QI is relevant to geropsychologists and review what is known about QI training in geropsychology. We provide guidance to clinical geropsychologists, geropsychologists-in-training, and other psychologists who work in geriatric healthcare settings, encouraging them to be leaders at the table of QI initiatives. In order to drive training in QI, we offer suggested QI knowledge, skills, and abilities for geropsychologists and geropsychology trainees. We next describe suggested QI learning and experiential activities across stages of professional development, with the aim of seeding the path to QI competence earlier in training in order to make the learning curve less steep. We provide teaching resources and readings for clinical educators to help them implement QI training. Finally, we offer recommendations and future directions for fostering improvement work within geropsychology. A detailed overview of how to conduct QI is beyond the scope of this paper; for a thorough description of QI processes and the role psychologists can play in QI work, see Bonin (2018) and other resources described later in this paper.",
+            "cite_spans": [
+                {
+                    "start": 313,
+                    "end": 334,
+                    "text": "(Knight et al., 2009)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1718,
+                    "end": 1730,
+                    "text": "Bonin (2018)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "QI is relevant to the field of geropsychology for several reasons. A large subset of the population that geropsychologists serve includes the most ill, frail, and vulnerable individuals in the healthcare system. Compared to other age groups, older adults are high utilizers of healthcare and spend the most on it (Dieleman et al., 2016) . The prevalence of medical multimorbidity is high (e.g., 77% of study sample in B\u00e4hler et al., 2015) , directly impacting the rate of hospitalization, healthcare spending, and polypharmacy (B\u00e4hler et al., 2015; Dieleman et al., 2016) . Thus, QI initiatives focused on one or more of the six IOM dimensions are likely to make a significant impact on healthcare provision and utilization in the older adult population. In 2018, the International Consortium for Health Outcomes Measurement (ICHOM) identified specific outcome measures, including autonomy, emotional health, and caregiver burden to improve healthcare for older adults in the ways that matter most to them (Akpan et al., 2018) . Geropsychologists should build knowledge and skills in QI because improvement work is fundamental to settings that employ them, including long-term care (LTC), hospice and palliative care, home care, and primary care. QI has driven improvements in nursing homes since the Nursing Home Reform Act of the Omnibus Reconciliation Act of 1987 (OBRA), leading to advances in collecting and monitoring valid and reliable outcome data (Wiener et al., 2007) , reduction in the use of physical and chemical restraints (Fashaw et al., 2020) , enhanced nursing staffing policies and practices (Fashaw et al., 2020) , and implementation of person-centered care practices and culture change (Duan et al., 2020; Poey et al., 2017) . With the recent COVID-19 pandemic, rapidly implemented QI has been necessary for infection control, testing, and treatment for this LTC population (D'Adamo et al., 2020) . The Minimum Data Set (MDS), a federally-mandated comprehensive biopsychosocial assessment of nursing home residents, is part of LTC facilities' QI process. This data allows the public to compare care across different nursing homes (www. medic are. gov/ nursi nghom ecomp are). Though they may often work in a consultation role, psychologists working in LTC settings should understand how the MDS is used to inform resident care (Molinari et al., 2020) . In addition to LTC, QI occurs across the spectrum of geriatric care settings and is often driven by the six dimensions of the IOM QI framework. QI has been instrumental in improving hospice and palliative care services. End of life care QI initiatives has focused on, among others, timely assessment and management of symptoms, and tailored patient-centered assessment and intervention for spiritual and existential distress (Kamal et al., 2015) . In primary care, QI work often focuses on improving equity in population health and more effectively tracking and preventing disease or dysfunction (e.g., regular depression screening) (https:// www. ahrq. gov/ resea rch/ findi ngs/ facts heets/ quali ty/ qipc/ index. html), as well as promoting patient satisfaction and choice (Drain, 2001) . QI efforts specific to age-related concerns have targeted delivery of patientcentered integrated care for frail older adults (Vestjens et al., 2018) and improvement in documentation of advance care planning so that the care provided is effective and patientcentered (Lum et al., 2017) .",
+            "cite_spans": [
+                {
+                    "start": 313,
+                    "end": 336,
+                    "text": "(Dieleman et al., 2016)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 418,
+                    "end": 438,
+                    "text": "B\u00e4hler et al., 2015)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 527,
+                    "end": 548,
+                    "text": "(B\u00e4hler et al., 2015;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 549,
+                    "end": 571,
+                    "text": "Dieleman et al., 2016)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1006,
+                    "end": 1026,
+                    "text": "(Akpan et al., 2018)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1456,
+                    "end": 1477,
+                    "text": "(Wiener et al., 2007)",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 1537,
+                    "end": 1558,
+                    "text": "(Fashaw et al., 2020)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1610,
+                    "end": 1631,
+                    "text": "(Fashaw et al., 2020)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1706,
+                    "end": 1725,
+                    "text": "(Duan et al., 2020;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1726,
+                    "end": 1744,
+                    "text": "Poey et al., 2017)",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 1894,
+                    "end": 1916,
+                    "text": "(D'Adamo et al., 2020)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 2347,
+                    "end": 2370,
+                    "text": "(Molinari et al., 2020)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 2798,
+                    "end": 2818,
+                    "text": "(Kamal et al., 2015)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 3150,
+                    "end": 3163,
+                    "text": "(Drain, 2001)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 3291,
+                    "end": 3314,
+                    "text": "(Vestjens et al., 2018)",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 3432,
+                    "end": 3450,
+                    "text": "(Lum et al., 2017)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Why Should Geropsychologists Engage in QI?"
+        },
+        {
+            "text": "Geriatric-specific quality indicators are abundant and useful to be aware of, both to understand how quality care is being measured for older adults, and because there are ramifications for psychologists' billing and reimbursement for care. Geropsychologists billing Medicare or other insurance should consider how Medicare quality indicators can affect their billing and reimbursement, particularly because of the monetary incentive for documenting and monitoring these quality indicators (e.g., percent of patients with a neurocognitive disorder diagnosis who received a cognitive assessment within a 12-month period) and the impact on care quality. Merit-Based Incentive Payment System (MIPS) is the current payment model used by Medicare with a focus on reimbursement for quality care. In 2021, MIPS participation will help maximize reimbursement for services. APA Service Organization has resources for practitioners seeking maximum reimbursement on their website https:// www. apase rvices. org/ pract ice/ reimb ursem ent/ value-based.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Why Should Geropsychologists Engage in QI?"
+        },
+        {
+            "text": "We highlight a small but growing literature base of QI initiatives that geropsychologists have recently disseminated. Geropsychologists have led QI efforts focused on behavioral and mental health in a range of care settings. Published examples of geropsychologist-led QI work have targeted primary care settings to improve patient education and patient-provider communication in depression management (see Woodhead et al., 2013) , home-based primary care to evaluate the process and outcomes of capacity evaluations for at-risk patients (see Feng et al., 2017) , geriatric mental health settings to enhance and tailor group psychotherapy (see Jacobs et al., 2018) , and across settings during care transitions to improve suicide prevention (see Luci et al., 2020) . Geropsychologists are also driving important QI work in LTC settings both in direct QI projects and development of QI models for use in nursing homes (e.g., Hartmann et al., 2019; Mills et al., 2019; Snow et al., 2018) .",
+            "cite_spans": [
+                {
+                    "start": 406,
+                    "end": 428,
+                    "text": "Woodhead et al., 2013)",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 542,
+                    "end": 560,
+                    "text": "Feng et al., 2017)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 643,
+                    "end": 663,
+                    "text": "Jacobs et al., 2018)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 745,
+                    "end": 763,
+                    "text": "Luci et al., 2020)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 923,
+                    "end": 945,
+                    "text": "Hartmann et al., 2019;",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 946,
+                    "end": 965,
+                    "text": "Mills et al., 2019;",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 966,
+                    "end": 984,
+                    "text": "Snow et al., 2018)",
+                    "ref_id": "BIBREF53"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Why Should Geropsychologists Engage in QI?"
+        },
+        {
+            "text": "Psychologists and trainees working in integrated healthcare settings are encouraged to participate in local QI efforts as part of their clinical care and training (Beacham et al., 2017) . QI training and publication efforts are becoming prominent within pediatric psychology (Kotagal & Nolan, 2010) , another specialty like geropsychology that serves vulnerable complex patients in healthcare settings. Geropsychologists in integrated healthcare settings are well positioned to participate in and lead clinically-focused QI projects, but many of them may not have received QI training in their graduate, internship, or fellowship programs, and they may not have access to QI training at their home institutions. Notably, the Veterans Health Administration, which employs a large number of psychologists to work with older adults, has QI training available to front-line clinicians.",
+            "cite_spans": [
+                {
+                    "start": 163,
+                    "end": 185,
+                    "text": "(Beacham et al., 2017)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 275,
+                    "end": 298,
+                    "text": "(Kotagal & Nolan, 2010)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Why Should Geropsychologists Engage in QI?"
+        },
+        {
+            "text": "Geropsychologists are often tasked with learning QI on the job, but, unfortunately, they do not routinely publish clinical QI work. Based on literature findings from other fields and disciplines, barriers to publishing QI work include a lack of formal QI training (Gleeson et al., 2016) , lack of time (Srinivasan et al., 2014) , journals' requirements for rigorous traditional research (Kanter & Courneya, 2017) , and concerns about validity (Van Cleave et al., 2011) . Although there may be perceived barriers to publishing QI work, QI may be a more feasible alternative than traditional research for clinical geropsychologists who wish to remain active in conducting and publishing works of scholarly inquiry. Clinical geropsychologists, as well as clinical psychologists in other specialties, generally experience low research productivity due to clinical demands (Merz et al., 2017; Smith & Thew, 2017) . QI offers clinical geropsychologists an opportunity to not only use their clinical skills but also their knowledge and skills in scholarly inquiry and scholarly writing.",
+            "cite_spans": [
+                {
+                    "start": 264,
+                    "end": 286,
+                    "text": "(Gleeson et al., 2016)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 302,
+                    "end": 327,
+                    "text": "(Srinivasan et al., 2014)",
+                    "ref_id": null
+                },
+                {
+                    "start": 387,
+                    "end": 412,
+                    "text": "(Kanter & Courneya, 2017)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 443,
+                    "end": 468,
+                    "text": "(Van Cleave et al., 2011)",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 868,
+                    "end": 887,
+                    "text": "(Merz et al., 2017;",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 888,
+                    "end": 907,
+                    "text": "Smith & Thew, 2017)",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Why Should Geropsychologists Engage in QI?"
+        },
+        {
+            "text": "It should also be noted that the American Board of Geropsychology (ABGERO) recognizes the importance of QI work in clinical geropsychology. In fact, clinical geropsychologists interested in obtaining board certification in professional geropsychology may submit a QI project as a work sample as part of the written portion of board certification. More information about the requirements of board certification in professional geropsychology can be found on the ABGERO website at https:// abgero. org/.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Why Should Geropsychologists Engage in QI?"
+        },
+        {
+            "text": "The Pikes Peak model for training in professional geropsychology outlines specific competencies required for practicing geropsychologists (Knight et al., 2009) , and the Pikes Peak Geropsychology Knowledge and Skill Assessment Tool (Karel et al., 2010) was created to facilitate self-reflection and identification of strengths and areas for growth in geropsychology attitudes, knowledge, and skills. QI work is not directly mentioned in the Pikes Peak model, but it is indirectly alluded to in the assessment tool (i.e., \"Demonstrate understanding of quality indicators for the care of older adults with mental disorders;\" \"Advocate for quality care for older adults with their families, professionals, programs, health care facilities, legal systems, and other agencies or organizations;\" and \"implement organizational change\" through needs assessments, policy and procedure development, and evaluating the \"effectiveness of service delivery model or program\"), indicating a gap in professional development for geropsychologists.",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 159,
+                    "text": "(Knight et al., 2009)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 232,
+                    "end": 252,
+                    "text": "(Karel et al., 2010)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "QI Training in Geropsychology"
+        },
+        {
+            "text": "Scholarship on geropsychology training competencies continues to grow (Hinrichsen et al., 2018; Karel et al., 2016; Molinari, 2012) , but there is little evaluating how training in QI may be taking place across training levels. A survey of graduates from geropsychology graduate and postdoctoral training programs found that training in scholarly inquiry was primarily in research or PE (i.e., did not include QI) . Among the 38% of respondents who were engaged in research, 34% said they were actively engaged in PE (see Moye, 2017 , for examples of PE in clinical geropsychology). Engagement in QI work was not directly evaluated. Using investigation to improve clinical care for older adults was the most common reason respondents gave for participating in research. Conversely, barriers to research included challenges balancing clinical activities with research, having writing support, and having an interdisciplinary team or other collaborators help share the work. These results suggest that QI work may help to meet some of the applied research needs of both the geriatric workforce as a whole and for individual geropsychologists' professional development, provided they have the skills they need to engage in QI.",
+            "cite_spans": [
+                {
+                    "start": 70,
+                    "end": 95,
+                    "text": "(Hinrichsen et al., 2018;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 96,
+                    "end": 115,
+                    "text": "Karel et al., 2016;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 116,
+                    "end": 131,
+                    "text": "Molinari, 2012)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 522,
+                    "end": 532,
+                    "text": "Moye, 2017",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "QI Training in Geropsychology"
+        },
+        {
+            "text": "To our knowledge, only one paper has been published describing QI training in a geropsychology-focused education program (Huh et al., 2018) . The VHA's Geriatric Scholars Program (Psychology Track) was developed as part of a larger initiative (Kramer et al., 2016) to provide geriatric education to generalist VA clinicians to increase their competence and improve the quality of care they deliver to older Veterans and their caregivers (Huh et al., 2018) . Of note, the Psychology Track is specifically for clinical psychologists who work at least in part with older adults but who do not have formal training in geropsychology. The program consists of a four-day intensive workshop, with three days devoted to geriatric education and the last day focused on QI training, and six months of consultation with a QI coach. This program is noteworthy because it emphasizes the importance of QI when working with older adults. In fact, a requirement of the program is that participants must complete a QI project in their work setting. The workshop's QI curriculum and methods could potentially serve as a foundation for future education and training efforts in geropsychology training programs.",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 139,
+                    "text": "(Huh et al., 2018)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 243,
+                    "end": 264,
+                    "text": "(Kramer et al., 2016)",
+                    "ref_id": null
+                },
+                {
+                    "start": 437,
+                    "end": 455,
+                    "text": "(Huh et al., 2018)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "QI Training in Geropsychology"
+        },
+        {
+            "text": "A recent publication by Dulay and colleagues (2020) describes an interprofessional QI training program implemented in primary care at the San Francisco VA Health Care System. Although the training project is not specific to geriatric care, its focus on interprofessional training within a setting that has older adult patients warrants attention in the area of QI training in geropsychology. Participants in the program included medicine and pharmacy residents, gerontology nursing students, and postdoctoral psychology fellows across two non-consecutive training years. The training program consisted of multiple hour-long trainings during the first month to provide participants with foundational QI knowledge and tools. Participants then developed project ideas, formed teams, and met with their teams and assigned QI mentor twice per month to work on their projects. The training program concluded with teams presenting their work, gathering feedback from their peers and mentors, and presenting a plan for sustainability of improvement processes. In addition to describing the QI training program, Dulay and colleagues (2020) detail the resources that are needed to execute such a program, and they provide excellent examples of how to measure the success of a QI training program.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "QI Training in Geropsychology"
+        },
+        {
+            "text": "The knowledge and skills recommended for geropsychologists to build competence in QI are listed in Table 2 . These QI competencies were reviewed by leaders in the field of geropsychology (i.e., past and present Board Members of the Council of Professional Geropsychology Training Programs [CoPGTP] and geropsychologists publishing QI work), and their feedback was incorporated into the final version we present in this paper. An understanding of how QI is used in healthcare is vital, even for those who do not engage in QI work themselves. Appreciating the role of interprofessional QI work and the role that geropsychologists may play on these teams is also key. With an overall aim to improve health outcomes for an aging population, geropsychologists should be aware of important stakeholders, relevant ethical and legal standards, and the fundamental skills of carrying out QI work. These elements are meant to be in harmony with, and as a possible expansion of, the Pikes Peak Geropsychology Knowledge and Skill Assessment Tool (see Karel et al., 2010) .",
+            "cite_spans": [
+                {
+                    "start": 1039,
+                    "end": 1058,
+                    "text": "Karel et al., 2010)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 99,
+                    "end": 106,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Suggested QI Competencies for Geropsychologists"
+        },
+        {
+            "text": "Opportunities to build competence in QI training across the clinical geropsychology professional development spectrum using both didactic and experiential learning are outlined in Table 3 . Ideally, opportunities for some type of QI engagement occur across training levels, so that geropsychology trainees are prepared to engage in QI when they become autonomous practitioners in healthservice settings. Students and trainees in both PsyD and PhD programs who are on a path to a practitioner-scientist career will find QI education and training helpful because it will equip them with the knowledge and skills to improve patient care in geriatric settings. Students and trainees in PhD programs who are on a research scientist career path may find QI training to be a valuable addition to their repertoire of research methodology. At the graduate level, educators should aim to expose students to the basics of what QI is, how it compares with research and PE, and why geropsychologists might implement it. This exposure may occur as a small portion of a larger geropsychology research methods course or within a course focusing on health issues of older adults. Graduate students who have clinical practica within a healthcare setting may have an opportunity to understand what types of QI work are being done at that setting. Internship may provide the first immersive exposure to interdisciplinary QI work, though the time demands during that training year may necessitate the intern to take more of an observatory role than one in which they are an active participant. Nevertheless, internships with major rotations in geropsychology under the supervision of a geropsychologist may allow for more structured mentoring in QI work. During clinical fellowship, the postdoctoral geropsychologist-in-training can participate in interdisciplinary QI and perhaps lead a small project.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 180,
+                    "end": 187,
+                    "text": "Table 3",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "QI Skill Development in Geropsychology Training"
+        },
+        {
+            "text": "Practicing psychologists who are working toward competence in geropsychology may benefit from setting up their own learning plan to develop QI skills. At this level, they may access QI training courses at their institution, at workshops (e.g., APA convention), or from online sources (e.g., ihi.org; https:// www. ahrq. gov/ ncepcr/ tools/ pf-handb ook/ index. html; https:// www. ahrq. gov/ ncepcr/ tools/ trans form-qi/ index. html); find QI mentorship from other geropsychologists; or seek informal training and mentoring from psychologists outside of geropsychology, and from nurses and other professionals who have experience in this area. Virtual training may also be useful for geropsychologists in academic settings who want brief structured training in QI so that they can teach their students. Within VHA, the Geriatric Scholars Program provides an excellent example of how providers wishing to gain competence in geropsychology or geriatrics can undergo didactic training and mentorship, including the opportunity to complete a QI project within aging (Kramer et al., 2016) . A fully competent geropsychologist may then be a regular, active participant on QI projects, lead committee work, track processes and outcomes relevant to older adult patients, and provide training to psychologists and other professionals on QI work. Current geropsychology educators may be unfamiliar with QI and will, thus, require education for themselves as they prepare to teach students and trainees at the graduate, internship, and fellowship training levels. Recognizing this is likely a new area for many faculty and clinical supervisors, we compiled a list of recommended readings, as shown in Table 4 . Educators can use this reading list for a variety of purposes. First, it can serve as a primer on QI in clinical psychology and geropsychology in order to feel prepared to teach the topic to students and trainees. Second, the articles describing QI training models may help educators identify how they might teach QI to students and trainees. Third, it can serve as a reading list to be included in a syllabus, a seminar, or other meeting (e.g., journal club or group supervision). Finally, this reading list, particularly the articles describing QI examples in geropsychology, may serve as a starting point for students or trainees who are planning their own projects. Geropsychology training programs should ensure training goals align with the Blueprint for Training and Education (Health Service Psychology Education The psychologist/trainee has knowledge of:",
+            "cite_spans": [
+                {
+                    "start": 1063,
+                    "end": 1084,
+                    "text": "(Kramer et al., 2016)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1691,
+                    "end": 1698,
+                    "text": "Table 4",
+                    "ref_id": null
+                }
+            ],
+            "section": "QI Skill Development in Geropsychology Training"
+        },
+        {
+            "text": "1. Quality improvement in healthcare a. Background and evolution of QI in healthcare b. Importance of QI in healthcare (e.g., quality hospital ratings, financial incentives, patient care) and how it relates to person-centered, safe, effective, timely, efficient, and equitable healthcare c. Systemic inequalities in healthcare due to racism, ageism, stigma, and other social injustices (e.g., what may be an effective intervention for one group of older adults may not be so for another) (Institute for Healthcare Improvement, 2020) d. Recognition that systems are built to resist change. QI work requires persistence, compassion, and partnership to avoid provider burnout e. Impact of organizational culture on QI efforts and expectations f. Flexible, process-oriented nature of QI g. Specific quality improvement approaches, such as LEAN and PDSA, and tools, such as process mapping/flow chart, cause and effect/fishbone diagram, and SMART goals (see www. ihi. org for descriptions and tools) h. Benefits and limitations of data that are collected for QI purposes i. Societal, organizational, team, and individual barriers and facilitators to QI 2. Team-based approach to quality improvement a. Importance of interprofessional teams in the success of QI processes in geriatric settings b. Role, value, and diversity in QI-related knowledge, skills, and attitudes that each member brings to QI initiatives, recognizing disciplinespecific and person-specific strengths from front-line staff through administration c. Shared responsibility of ensuring quality care d. Best-practice person-centered frameworks for older adults (e.g., Geriatric 5 M's, Tinetti et al., 2017) 3. Role of geropsychologist a. Strengths and values that geropsychologists bring to QI initiatives (e.g., geropsychologists understand the process of change, have training in scientific scholarly inquiry, and are positioned to advocate for older adults and systems-level change) b. Importance of geropsychologists leading QI as part of routine practice in geriatric settings c. Diversity in the execution of QI across a variety of geriatric healthcare settings (e.g., nursing homes, home care, mental health outpatient clinics, etc.) with vulnerable populations (i.e., older adults, especially those who have complex medical, neurological, and/or psychiatric presentations, with limited resources, low social and/or instrumental support, low SES) 4. Stakeholders relevant to older adults' quality of life and healthcare experience a. Importance and value of including older adults and their families and caregivers in all stages of the quality improvement process b. Within the organization, stakeholders' missions, goals, and roles in quality improvement c. Outside of the organization, agencies' (e.g., local elder services) and organizations' (e.g., churches, tribal councils, Alzheimer's Associations) missions, goals, and services The psychologist/trainee is able to: 1. Apply ethical and legal standards during the application of quality improvement initiatives a. Distinguish between quality improvement and research, and seek approval from an Institutional Review Board when appropriate b. Recognize one's own biases and blind spots, speak up when collective biases emerge in group QI projects, explicitly acknowledge inadequate resource allocation or disproportionate impact of current healthcare, social, and legal systems on communities of color and all marginalized people, and intentionally work to correct them (e.g., seek resources and consultation) c. Recognize the potential for dual and conflicting roles in quality improvement (e.g., serving as both the clinician on a team and the leader of a quality improvement initiative) and resolve conflicts as they arise d. Assure ethical oversight of quality improvement initiatives e. Maintain confidentiality of patient and staff data f. Identify ethical dilemmas during quality improvement initiatives and use a decision-making framework as well as state and organizational laws and policies to address dilemmas (i.e., elder abuse, neglect, undue influence, diminished capacity, etc.) g. When applicable, obtain informed consent from older patients and families, or assent when capacity to provide informed consent is diminished 2. Identify gaps in patient care as opportunities for improvement (i.e., conduct a needs assessment) a. Identify and clearly state the problem, describing how it impacts patient care, health equity, workflow, or safety, and relate it to the organization's mission b. Identify stakeholders, including team members, patients, families, leadership, and/or other individuals, clinics, or organizations who may have a vested interest in the problem and potential solutions c. In collaboration with stakeholders, determine measurable indicators and data sources d. Use tools, such as flow charts and cause-effect diagrams, to illustrate the current processes of care e. Analyze data, summarize findings, and generate creative solutions to present to stakeholders and decide on an action plan to implement Collaborative, 2013). Those developing QI courses may utilize existing toolkits and instruction available through organizations focused on healthcare quality (e.g., ihi.org).",
+            "cite_spans": [
+                {
+                    "start": 1649,
+                    "end": 1670,
+                    "text": "Tinetti et al., 2017)",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [],
+            "section": "QI Skill Development in Geropsychology Training"
+        },
+        {
+            "text": "We encourage development of a capable and innovative geropsychology workforce that is prepared to partner with interprofessional colleagues, innovate for improvement processes and quality in geriatric care settings, and reduce health disparities for older adults. A large-scale assessment of geropsychologists' QI training needs should be conducted in order to develop training materials (e.g., toolkits or webinars) specifically relevant to the profession. Training materials would ideally be tailored to geriatric care settings (e.g., hospice or LTC) and geriatric care needs or issues (e.g., falls, cognitive screening, polypharmacy, and mood and alcohol screening) and should emphasize the inclusion of family members and caregivers as stakeholders. The VHA's Geriatric Scholars Program and the American Geriatrics Society Geriatrics Evaluation and Management Tools offer exceptional, comprehensive, and succinct clinical tools and toolkits that could serve as a starting point for development of QI training materials.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations and Future Directions"
+        },
+        {
+            "text": "In addition to developing geriatric-specific QI training materials, a tool to evaluate geropsychologists' QI competencies would benefit students, trainees, and geropsychologists as they learn and apply QI knowledge. Competency assessment methods that may be useful for evaluating QI knowledge and skills include self-assessment (similar to the Pikes Peak Geropsychology Knowledge and Skill Assessment Tool), case presentation reviews (i.e., present an ongoing or completed QI project), structured oral or written examination (e.g., present a scenario and follow-up with a structured interview or worksheet), and a 360-degree evaluation (i.e., incorporate feedback from interprofessional team members involved in the trainees' QI projects) (see Kaslow The psychologist/trainee has knowledge of: 3. Design, implement, and/or evaluate service delivery or programs that serve older adults a. Identify a best care practice to be used as a model for system redesign, if available, or if none are, create innovative practice models or processes b. Use input from stakeholders to design action plan and use flow charts to outline proposed changes c. Select a QI approach to use as a framework to guide the implementation and evaluation of the project d. Ask patients what is important to them about the healthcare they receive, and how that healthcare impacts their quality of life. Use this information to identify relevant person-centered quality measures e. Identify and use quality measures for formative and summative assessments (i.e., process measures and outcome measures) at the microsystem and macrosystem levels f. Identify and use appropriate quality improvement tools to illustrate the project g. Identify and utilize measures appropriate for older adults' abilities and strengths (i.e., considering cognitive, physical, and/or sensory issues) h. Address barriers to participation in assessment, such as health literacy, social factors, stigma, beliefs, and access to transportation, internet, or other methods of data collection i. Utilize APA's \"Criteria for the Evaluation of Quality Improvement Programs and the Use of Quality Improvement Data\" (2009) when assessing or designing quality improvement programs 4. Disseminate quality improvement findings a. Develop policies and procedures for service delivery in collaboration with the care team and stakeholders b. Foster interprofessional collaboration during the process of dissemination at micro (i.e., within the interprofessional team, practice setting, or facility/organization) and macro levels (i.e., within practice organizations and at the state or national level) c. Present findings to identified stakeholders, using meaningful jargon-free language, tailoring method of feedback to the needs of each stakeholder (e.g., translating into non-English languages, providing synopses of improvements in waiting-room brochures) d. Share quality improvement initiatives and findings within professional organizations (e.g., conference presentation, newsletters, listservs, etc.) to advocate for quality improvement and healthcare access and equity more broadly and informing policy (e.g., disseminating to and advocating within geropsychological and interdisciplinary conferences, journals) e. Publish findings in relevant journals that welcome manuscripts describing quality improvement initiatives and findings 5. Advocate for and foster geropsychologists' role in quality improvement a. Participate in quality improvement training b. Participate in broader quality efforts such as APA's Integrated Healthcare Alliance or Mental and Behavioral Health Registry as applicable, and support other geropsychologists in these efforts c. Apply for available funding for quality improvement initiatives d. Provide training in quality improvement to local staff and/or trainees, recognizing the varying levels/backgrounds in quality improvement education as well as geriatric education e. Recognize the role of leadership within one's organization as it relates to QI culture, and participate or lead local organizational committees (e.g., ethics committee) to positively influence leadership's beliefs and attitudes as it relates to continuous improvement practices f. Use your power and privilege as a geropsychologist to lead local, national, and international advocacy efforts toward healthcare justice and equity (2004) developed a self-assessment measure of proficiency in practice-based learning and improvement (i.e., ability to investigate, evaluate, and intervene to improve quality of patient care). This 10-item questionnaire was created to measure medical residents' confidence in applying QI-related skills to improve care for patients and could potentially serve as template or foundation for a geropsychology-specific QI self-assessment tool. The Quality Improvement Knowledge Application Tool (QIKAT) is a written examination tool that uses a case-based approach to measure medical residents' QI competencies (Singh et al., 2014) . The tool contains hypothetical clinical scenarios in which QI is needed to address an issue related to patient care. Examinees answer three questions that correspond to QI elements (i.e., aim of the improvement/identified goal and appropriate measurement that is linked to the aim and can detect change). The QIKAT has been successfully adapted for psychiatry residents and other medical specialty residents and, thus, could be adapted for clinical geropsychologists (Reardon et al., 2011; Singh et al., 2014) . Highlighting existing QI training opportunities, developing new QI programs, and expanding QI-related continuing education offerings may also serve to ensure geropsychologists meet competencies in QI. Existing workplace structures, such as the Yellow/Green/Black Belt Certifications as part of the LEAN Six Sigma system (www. iassc. org) and local hospital preventive ethics committees, provide a solid foundation for QI skills. Further investigation into existing QI training models for geropsychologists and geropsychology trainees could also assist training leadership with designing QI training within existing programs. Given the dearth of publications on QI training in geropsychology, an investigation of internship and fellowship training brochures would likely be the most feasible and fruitful way to gather this information, and graduate course syllabi may also provide that information.",
+            "cite_spans": [
+                {
+                    "start": 2980,
+                    "end": 3041,
+                    "text": "(e.g., conference presentation, newsletters, listservs, etc.)",
+                    "ref_id": null
+                },
+                {
+                    "start": 4982,
+                    "end": 5002,
+                    "text": "(Singh et al., 2014)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 5472,
+                    "end": 5494,
+                    "text": "(Reardon et al., 2011;",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 5495,
+                    "end": 5514,
+                    "text": "Singh et al., 2014)",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations and Future Directions"
+        },
+        {
+            "text": "Dissemination of QI work conducted in geriatric care settings, including geriatric mental health, is also valuable to the field, given the gaps in research in this population. Publication bias against QI may exist in psychology as has been documented in medicine (Jesus et al., 2018; Tumin et al., 2020) . We recommend identifying journals that may be interested in publishing QI projects, including cross-disciplinary and interprofessional journals that may be an excellent fit for this type of work. Guidance for how to write QI manuscripts for publication can be found in Ogrinc et al. (2016) , Stark (2010) , and Schondelmeyer et al. (2018) . Geropsychologists acting as reviewers for these journals should also be fluent in QI methods. Similarly, to promote dissemination QI work, grant reviewers and abstract reviewers for conferences should be knowledgeable about the importance and conduct of QI. Of note, two geropsychology organizations (namely, Psychologists in Long-Term Care and the Council of Professional Geropsychology Training Programs) that offer student and trainee awards expanded the application criteria in the past few years to promote submissions of QI work.",
+            "cite_spans": [
+                {
+                    "start": 263,
+                    "end": 283,
+                    "text": "(Jesus et al., 2018;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 284,
+                    "end": 303,
+                    "text": "Tumin et al., 2020)",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 575,
+                    "end": 595,
+                    "text": "Ogrinc et al. (2016)",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 598,
+                    "end": 610,
+                    "text": "Stark (2010)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 613,
+                    "end": 644,
+                    "text": "and Schondelmeyer et al. (2018)",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations and Future Directions"
+        },
+        {
+            "text": "Understanding how geropsychologists can be effective in doing QI work should also be examined. We appreciate the work of counterparts in pediatric psychology and integrated health psychology who have made QI central to their academic and scholarly work and have advocated for QI integration into psychological practice (see for example Beehler et al., 2017; Bobbitt et al., 2012; and Kotagal & Nolan, 2010) . In addition to improving clinical care, utilizing QI can help drive advances in research, advocacy, and policy for older adults by directly influencing scholarly efforts (i.e., bridging the gap between research and practice) and systemic changes that are guided by geropsychologists and interprofessional teams in the trenches. Geropsychologists should continue to be at the forefront of APA's advocacy efforts for elder care with CMS and other healthcare quality organizations.",
+            "cite_spans": [
+                {
+                    "start": 336,
+                    "end": 357,
+                    "text": "Beehler et al., 2017;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 358,
+                    "end": 379,
+                    "text": "Bobbitt et al., 2012;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 380,
+                    "end": 406,
+                    "text": "and Kotagal & Nolan, 2010)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations and Future Directions"
+        },
+        {
+            "text": "Finally, it is important to note the impact QI can make in the healthcare arena regarding the COVID-19 pandemic and longstanding inequalities. The world is currently facing a major public health threat that is hitting older people the hardest. In the USA, COVID-19 has disproportionately impacted older Americans, particularly older Black Americans and other marginalized aging communities throughout most of the pandemic, accounting for 80% of all COVIDrelated deaths (Centers for Disease Control, 2021a, 2021b). The unprecedented public health crisis brought about by the coronavirus, followed by a deeper collective understanding of racism as a public health crisis, highlights the imperative for psychologists working in geriatric care to further the cause for safer, more equitable healthcare for older adults. QI can drive these necessary healthcare changes during the upheaval of the COVID pandemic (Mondoux et al., 2020) and can capitalize on anti-racist strategies being deployed by healthcare organizations to address inequity (Institute for Healthcare Improvement, 2020). We encourage viewing QI work as being one way to improve health equities and injustices, but acknowledge that without a critical lens, it can also have the potential to perpetuate unequal systems. The time for clinical geropsychologists to engage in QI work is now.",
+            "cite_spans": [
+                {
+                    "start": 906,
+                    "end": 928,
+                    "text": "(Mondoux et al., 2020)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations and Future Directions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Standard set of health outcome measures for older persons",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Akpan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bandeen-Roche",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Batty",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bausewein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bell",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bramley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bynum",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Cameron",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ekdahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fertig",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gentry",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Harkes",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Haslehurst",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hope",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Hurtado",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lyndon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lynn",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Geriatrics",
+            "volume": "18",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12877-0170701-3"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Criteria for the evaluation of quality improvement programs and the use of quality improvement data",
+            "authors": [],
+            "year": 2009,
+            "venue": "American Psychologist",
+            "volume": "64",
+            "issn": "6",
+            "pages": "551--557",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/a0016744"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Multimorbidity, health care utilization and costs in an elderly communitydwelling population: A claims data based observational study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "B\u00e4hler",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Huber",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Br\u00fcngger",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Reich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "BioMed Central",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "What is \"quality improvement\" and how can it transform healthcare? Quality & Safety in Healthcare",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Batalden",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Davidoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "16",
+            "issn": "",
+            "pages": "2--3",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/qshc.2006.022046"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Meeting evolving workforce needs: Preparing psychologists for leadership in the patientcentered medical home",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Beacham",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Van Sickle",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Khatri",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ali",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Reimer",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Farber",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kaslow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "American Psychologist",
+            "volume": "72",
+            "issn": "1",
+            "pages": "42--54",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/a0040458"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Narrative review of provider behavior in primary care behavioral health: How process data can inform quality improvement",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Beehler",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Lilienthal",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Possemato",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Shepardson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Vair",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Funderburk",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Maisto",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Wray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Systems, & Health",
+            "volume": "35",
+            "issn": "3",
+            "pages": "257--270",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/fsh0000263"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Quality improvement and outcomes in the future of professional psychology: Opportunities and challenges",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bobbitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cate",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Beardsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Azocar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mcculloch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Professional Psychology: Research and Practice",
+            "volume": "43",
+            "issn": "6",
+            "pages": "551--559",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/a0028899"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Quality improvement in health care: The role of psychologists and psychology",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bonin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Clinical Psychology in Medical Settings",
+            "volume": "25",
+            "issn": "3",
+            "pages": "278--294",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10880-018-9542-2"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "A longitudinal, experiential quality improvement curriculum meeting ACGME competencies for geriatrics fellows: Lessons learned",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Callahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lovato",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Fernandez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Gerontology & Geriatrics Education",
+            "volume": "34",
+            "issn": "4",
+            "pages": "372--392",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/02701960.2013.815179"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Training for research and teaching in geropsychology: Preparing the next generation of scholars and educators. Gerontology and Geriatrics Education",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Carpenter",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Sakai",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Karel",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Molinari",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Moye",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Centers for Disease Control",
+            "volume": "37",
+            "issn": "1",
+            "pages": "43--61",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "SAFE-QI-a framework to overcome the challenges of implementing a quality improvement curriculum into a residency program",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Advances in Medical Education and Practice",
+            "volume": "8",
+            "issn": "",
+            "pages": "779--784",
+            "other_ids": {
+                "DOI": [
+                    "10.2147/AMEP.S150718"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Coronavirus disease 2019 in geriatrics and long-term care: The ABCDs of COVID-19",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "D&apos;adamo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ouslander",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of the American Geriatrics Society",
+            "volume": "68",
+            "issn": "",
+            "pages": "912--917",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "US spending on personal health care and public health",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Dieleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Baral",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Birger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bui",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bulchis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chapin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hamavid",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Horst",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Joseph",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lavado",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lomsadze",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reynolds",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Squires",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Decenso",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Dicker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Flaxman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gabert",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J L"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Journal of the American Medical Association",
+            "volume": "316",
+            "issn": "24",
+            "pages": "2627--2646",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2016.16885"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Quality improvement in primary care and the importance of patient perceptions",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Drain",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Journal of Ambulatory Care Management",
+            "volume": "14",
+            "issn": "2",
+            "pages": "30--46",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "An empirical typology of nursing home culture change implementation",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mueller",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Talley",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Shippee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Applied Gerontology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0733464820912365"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Promoting quality improvement in primary care through a longitudinal, project-based, interprofessional curriculum",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dulay",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Saxe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Odden",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Strewler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "O&apos;brien",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Shunk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MedEdPORTAL: Journal of Teaching and Learning Resources",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.15766/mep_2374-8265.10932"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Thirtyyear trends in nursing home composition and quality since the passage of the omnibus reconciliation act",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fashaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mccreedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMDA",
+            "volume": "21",
+            "issn": "",
+            "pages": "233--239",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jamda.2019.07.004"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Independent living capacity evaluation in home-based primary care: Considerations and outcomes of a quality improvement project",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Murphy",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mlinac",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Clinical Gerontologist",
+            "volume": "40",
+            "issn": "1",
+            "pages": "51--62",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/07317115.2016.1210272"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Systematic review of approaches to using patient experience data for quality improvement in healthcare settings",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gleeson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Calderon",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Swami",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Deighton",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wolpert",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Edbrooke-Childs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "British Medical Journal Open",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmjopen-2016-011907"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Development of a program to support VA community living centers' quality improvement",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hartmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Minor",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Snow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Federal Practitioner",
+            "volume": "36",
+            "issn": "5",
+            "pages": "228--231",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Professional psychology in health care services: A blueprint for education and training",
+            "authors": [],
+            "year": 2013,
+            "venue": "Health Service Psychology Education Collaborative",
+            "volume": "68",
+            "issn": "6",
+            "pages": "411--426",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/a0033265"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Building foundational knowledge competencies in professional geropsychology: Council of Professional Geropsychology Training Programs (CoPGTP) recommendations",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hinrichsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Emery-Tiburcio",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gooblar",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Molinari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Clinical Psychology: Science and Practice",
+            "volume": "25",
+            "issn": "2",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Developing a program to increase geropsychology competencies of Veterans Health Administration (VHA) psychologists. Gerontology and Geriatrics Education",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W T"
+                    ],
+                    "last": "Huh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gould",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Brunskill",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Melendez",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kramer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/02701960.2018.1491402"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Crossing the quality chasm: A new health system for the 21st century",
+            "authors": [],
+            "year": 2001,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Group-based acceptance and commitment therapy (ACT) for older veterans: Findings from a quality improvement project",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Jacobs",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Luci",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hagemann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Clinical Gerontologist",
+            "volume": "",
+            "issn": "5",
+            "pages": "458--467",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/07317115.2017.1391917"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Key characteristics of rehabilitation quality improvement publications: Scoping review from",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Jesus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Papadimitriou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Pinho",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hoenig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Archives of Physical Medicine and Rehabilitation",
+            "volume": "99",
+            "issn": "",
+            "pages": "1141--1148",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.apmr.2017.08.491"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Institute for Healthcare Improvement",
+            "authors": [],
+            "year": 2020,
+            "venue": "Statement from IHI: IHI Speaks Out on Recent Racial Injustices",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Improving the quality of palliative care through national and regional collaboration efforts",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kamal",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Harrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bakitas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Dionne-Odom",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zubkoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Akyar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Pantilat",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "O&apos;riordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Bragg",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bischoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cancer Control",
+            "volume": "22",
+            "issn": "4",
+            "pages": "396--402",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Perspective on publishing quality improvement efforts",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kanter",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Courneya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "The Permanente Journal",
+            "volume": "21",
+            "issn": "",
+            "pages": "17--140",
+            "other_ids": {
+                "DOI": [
+                    "10.7812/TPP/17-140"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Training for geropsychology supervision and practice: Perspectives of geropsychology program graduates",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Karel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Sakai",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Molinari",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moye",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Carpenter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Training and Education in Professional Psychology",
+            "volume": "10",
+            "issn": "1",
+            "pages": "37--44",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/tep0000101"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Development of a tool to evaluate geropsychology knowledge and skill competencies",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Karel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Emery",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Molinari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "CoPGTP Task Force on the Assessment of Geropsychology Competencies",
+            "volume": "22",
+            "issn": "6",
+            "pages": "886--896",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Competency Assessment Toolkit for professional psychology",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kaslow",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Grus",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouad",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hatcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Rodolfa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Training and Education in Professional Psychology",
+            "volume": "3",
+            "issn": "",
+            "pages": "27--45",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Pikes Peak Model for training in professional geropsychology",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Knight",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Karel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hinrichsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Qualls",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Duffy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "American Psychologist",
+            "volume": "64",
+            "issn": "3",
+            "pages": "205--214",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Combining quality improvement and geriatrics training: The nursing home polypharmacy outcomes project",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kojima",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bell",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Inaba",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lorenzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Blanchette",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Iwasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Masaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Gerontology and Geriatrics Education",
+            "volume": "35",
+            "issn": "4",
+            "pages": "395--408",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/02701960.2014.907159"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Commentary: The application of quality improvement in pediatric psychology: Observations and applications",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Kotagal",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nolan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Journal of Pediatric Psychology",
+            "volume": "35",
+            "issn": "1",
+            "pages": "42--44",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jpepsy/jsp092"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Veterans Affairs Geriatric Scholars Program: Enhancing existing primary care clinician skills in caring for older veterans",
+            "authors": [],
+            "year": null,
+            "venue": "Journal of the American Geriatrics Society",
+            "volume": "64",
+            "issn": "",
+            "pages": "2343--2348",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/jgs.14382"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "SAVE-CLC: An intervention to reduce suicide risk in older veterans following discharge from VA nursing facilities",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Luci",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Simons",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hagemann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Jacobs",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Bower",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Eichorst",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hilgeman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clinical Gerontologist",
+            "volume": "43",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/07317115.2019.1666444"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "A group visit initiative improves advance care planning documentation among older adults in primary care",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lum",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sudore",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Matlock",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Juarez-Colunga",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nowels",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kutner",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Levy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "The Journal of the American Board of Family Medicine",
+            "volume": "30",
+            "issn": "4",
+            "pages": "480--490",
+            "other_ids": {
+                "DOI": [
+                    "10.3122/jabfm.2017.04.170036"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Integrating research into postdoctoral training in health service psychology: Challenges and opportunities. Training and Education in Professional",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mcquaid",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Aosved",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Belanger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Psychology",
+            "volume": "12",
+            "issn": "2",
+            "pages": "82--89",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "The big shortage: Geropsychologists discuss facilitators and barriers to working in the field of aging",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Merz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Koh",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Sakai",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Molinari",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Karel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moye",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Carpenter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Translational Issues in Psychological Science",
+            "volume": "3",
+            "issn": "4",
+            "pages": "388--399",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Nursing home staff perceptions of barriers and facilitators to implementing a quality improvement intervention",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mills",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Pimentel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Snow",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wewiorski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Palmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Roland",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mcdannold",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hartmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of the American Medical Directors Association",
+            "volume": "20",
+            "issn": "",
+            "pages": "810--815",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jamda.2019.01.139"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Psychologists in Long-Term Care (PLTC) guidelines for psychological and behavioral health services in long-term care settings",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Molinari",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Edelstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gibson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lind",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Norris",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Carney",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Bush",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Heck",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moye",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hiroto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Professional Psychology: Research and Practice",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/pro0000298"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Application of the competency model to geropsychology",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Molinari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Professional Psychology: Research and Practice",
+            "volume": "43",
+            "issn": "5",
+            "pages": "403--409",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/a0026548"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Quality improvement in the time of COVID-19-a change strategy well suited to pandemic response",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mondoux",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Thull-Freedman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dowling",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Taher",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Trivedi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lindsay",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Finlayson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Berthelot",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kwok",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Chartier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Canadian Journal of Emergency Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/cem.2020.386"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Are we doing a good job? In praise of program evaluation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moye",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Clinical Gerontologist",
+            "volume": "40",
+            "issn": "2",
+            "pages": "75--76",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/07317115.2016.1268864"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "SQUIRE 2.0 (standards for quality improvement reporting excellence): revised publication guidelines from a detailed consensus process",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ogrinc",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Davies",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Goodman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Batalden",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Davidoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stevens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Journal of Continuing Education in Nursing",
+            "volume": "46",
+            "issn": "11",
+            "pages": "501--507",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmjqs-2015-004411"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Teaching and assessing resident competence in practice-based learning and improvement",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ogrinc",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Headrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Morrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Foster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Journal of General Internal Medicine",
+            "volume": "19",
+            "issn": "",
+            "pages": "496--500",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Does person-centered care improve residents' satisfaction with nursing home quality",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poey",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hermer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cornelison",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kaup",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Drake",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Stone",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Doll",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of the American Medical Directors Association",
+            "volume": "18",
+            "issn": "11",
+            "pages": "974--979",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jamda.2017.06.007"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "A didactic and experiential quality improvement curriculum for psychiatry residents",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Reardon",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ogrinc",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Walaszek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of Graduate Medical Education",
+            "volume": "3",
+            "issn": "4",
+            "pages": "562--565",
+            "other_ids": {
+                "DOI": [
+                    "10.4300/JGME-D-11-0008.1"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Quality improvement feature series article 3: Writing and reviewing quality improvement manuscripts",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Schondelmeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Brower",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Statile",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Brady",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of the Pediatric Infectious Diseases Society",
+            "volume": "7",
+            "issn": "",
+            "pages": "188--190",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jpids/pix078"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "The Quality Improvement Knowledge Application Tool Revised (QIKAT-R)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ogrinc",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dolansky",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Brandt",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Morrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Harwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Petroski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "West",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Headrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Academic Medicine",
+            "volume": "89",
+            "issn": "10",
+            "pages": "1386--1391",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Conducting research in clinical psychology practice: Barriers, facilitators, and recommendations",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Thew",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "British Journal of Clinical Psychology",
+            "volume": "56",
+            "issn": "3",
+            "pages": "347--356",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Development of a new tool for systematic observation of nursing home resident and staff engagement and relationship",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Snow",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Jacobs",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Palmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Parmelee",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wewiorski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hilgeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Vinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Berlowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Halli-Tierney",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hartmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "The Gerontologist",
+            "volume": "58",
+            "issn": "2",
+            "pages": "15--24",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/geront/gnw255"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Introduction to the special issue: Quality improvement in pediatric psychology",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Stark",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Journal of Pediatric Psychology",
+            "volume": "35",
+            "issn": "1",
+            "pages": "1--5",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jpepsy/jsp088"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Engaging learners through modules in quality improvement and patient safety",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lye",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lopez",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mothner",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Camp",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vachaini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "MedEdPORTAL",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.15766/mep_2374-8265.10482"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Capacity assessment training in geropsychology: Creating and evaluating an outpatient capacity clinic to fill a training gap",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Strong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bamonti",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Jacobs",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moye",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Gerontology & Geriatrics Education",
+            "volume": "42",
+            "issn": "2",
+            "pages": "268--276",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/02701960.2019.1624258"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "The Geriatrics 5M's: A new way of communicating what we do",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tinetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Molnar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of the American Geriatrics Society",
+            "volume": "65",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Publication bias among conference abstracts reporting on pediatric quality improvement projects",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Tumin",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Akpan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kohler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Uffman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "American Journal of Medical Quality",
+            "volume": "35",
+            "issn": "3",
+            "pages": "274--280",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1062860619873716"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Strategies for addressing barriers to publishing pediatric quality improvement research",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Van Cleave",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Dougherty",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Perrin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Pediatrics",
+            "volume": "128",
+            "issn": "3",
+            "pages": "678--686",
+            "other_ids": {
+                "DOI": [
+                    "10.1542/peds.2010-0809"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "An integrated primary care approach for frail community-dwelling older persons: A step forward in improving the quality of care",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vestjens",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cramm",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Nieboer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Health Services Research",
+            "volume": "18",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12913-017-2827-6"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Nursing home care quality: Twenty years after the Omnibus Reconciliation Act of 1987. The Henry J. Kaiser Family Foundation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wiener",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Freiman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Teaching quality improvement and patient safety to trainees: A systematic review",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Etchells",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kuper",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Levinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Shojania",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Academic Medicine",
+            "volume": "85",
+            "issn": "",
+            "pages": "1425--1439",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/ACM.0b013e3181e2d0c6"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Faculty-resident \"co-learning\": A longitudinal exploration of an innovative model for faculty development in quality improvement",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Goldman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Goguen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Base",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rotteau",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Van Melle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kuper",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Shojania",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Academic Medicine",
+            "volume": "92",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/ACM.0000000000001505"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "Improving patient-centered care: Personal models of depression among older male veterans",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Woodhead",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Brunskill",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Tenover",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W T"
+                    ],
+                    "last": "Huh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Federal Practitioner",
+            "volume": "30",
+            "issn": "7",
+            "pages": "12--17",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Differences and similarities in research, program evaluation, and quality improvement Any activity that involves human subjects, including quality improvement efforts, may be subject to regulations for the protection of subjects.To determine if an activity should be reviewed by an institutional review board (IRB), read local IRB policies as well as current regulations on the Health and Human Services Office for Human Research Protections webpage at https:// www. hhs. gov/ ohrp/ regul ations-and-policy/ guida nce/",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Quality improvement (QI) knowledge and skills in geropsychology",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Recommendations for quality improvement training in geropsychology by training levels Present QI work (submit conference abstracts, organize a local QI presentation day, etc.) Demonstrate ability to function as the geropsychologist on a QI workgroup by engaging team members, and addressing resistance as needed, and developing aims and methodology Practicing Psychologist new to Geropsychology (i.e., on path to competence) OR Geropsychologist new to QI Develop one's own learning plan. Seek out QI training relevant to geropsychology such as Continuing education courses or workshops on QI or other related topics, such as safety, person-centered care, and innovative prac-The practicing geropsychologist functions independently and collaboratively as local QI expert and may train psychology/other professions on QI Initiate and manage multiple QI projects Continue hands on learning with organizational QI trainings such as the LEAN White/ Yellow/Green Belt Publish QI Projects Related to Healthcare of Older Adults Collaborate and lead interdisciplinary QI projects Effectively incorporate QI into teaching/training for geropsychology trainees et al., 2009, for a comprehensive review of competency assessment methods in professional psychology). Ogrinc and colleagues",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Examples of QI curricula, education frameworks, and training implementation in medicine, psychiatry, and geriatric care",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        }
+    ]
+}

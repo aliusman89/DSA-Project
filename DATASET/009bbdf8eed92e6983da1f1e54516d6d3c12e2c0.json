@@ -1,0 +1,875 @@
+{
+    "paper_id": "009bbdf8eed92e6983da1f1e54516d6d3c12e2c0",
+    "metadata": {
+        "title": "The Technium-Plus, Redux",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "We see the direct and consequential impact of accelerating change in the technium (technology as a whole system), the exponentially expanding noosphere (the total information available to humanity), and in our increasing knowledge of people, who are the ultimate target of this conflict. Accelerating change is likely to contain both good and bad elements and elements that are too rapid to quickly assimilate and socialize. Figure 5 .1 suffers from one problem: the arrow of change and the axes give the impression of smooth change. The changes in humans, the noosphere and the technium are expected to be anything but smooth. There will be increases in each, but also increases in the number and types of categories in each. These axes each therefore represent a multiplicity of dimensions, meaning that the arrow of change will actually be a jagged path through multiple dimensions. Accompanying the changes will be changes in scale, connectivity, complexity, and the impact of randomness. As the changes grow, multiple paradigm shifts can be expected.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 425,
+                    "end": 433,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Our inchoate cognified world"
+        },
+        {
+            "text": "Some of this change is the predictable change of observable trends such as described in the \"Trends\" sections in Chaps. 2, 3 and 4. Theoretically, predictable changes can be addressed and mitigated (if appropriate). It should be noted, however, that there is no guarantee that predictable changes actually will be addressed and mitigated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Our inchoate cognified world"
+        },
+        {
+            "text": "Some change is not clearly predictable. The nature of a Complex Adaptive System (CAS) is that it generates emergent behaviors-unexpected behaviors given what is initially known about the CAS itself.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Our inchoate cognified world"
+        },
+        {
+            "text": "physical property, worthy of study. However, this physical property governs how atoms bind together. A new set of \"rules\" emerge that creates the field of chemistry. It is hard to see how the behaviors of organic chemistry could be predicted from knowing about electron energy levels, yet these behaviors nevertheless emerge.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Our inchoate cognified world"
+        },
+        {
+            "text": "Emergent properties are evident when they are full blown. For example, chemistry emerges from physics and biology emerges from chemistry. In particular, living beings emerge from organic (carbon-based) chemistry ( Fig. 5.2 ). With each step in the figure there is more connectivity, more complexity and more information. There are those who argue that we may need another step, labeled \"AI Superbeings.\" For now, we will just leave \"Augmented Humans\" to include augmentation by AI. -No single centralized control mechanism -The interrelationships among elements produce coherence -The overall behavior is not simply the sum of the parts \u2022 Connectivity (complexity) -The elements are inter-related, interact, and are interconnected within the system -And have similar connections between the system and its environment \u2022 Co-evolution (adaptivity) -Elements can change based on interactions with each other and the environment -Patterns of behavior can change over time \u2022 Critically sensitive to initial conditions -Outcomes are not linearly correlated with inputs -Long-term prediction and control are believed to be impossible to predict \u2022 Emergent order -Individual interactions lead to global properties or patterns -This is anentropic \u2022 Far from equilibrium -When pushed from equilibrium, the CAS may survive and thrive -Combine order and chaos in an appropriate measure \u2022 State of paradox -Stability and instability -Competition and cooperation -Order and disorder Tyler Volk supplied a list of emergences that roughly parallels this figure and supplies more information (Table 5 .4). Each item emerges from the previous one and comprises increased connectivity and complexity (Volk, 2017).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 214,
+                    "end": 222,
+                    "text": "Fig. 5.2",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1575,
+                    "end": 1583,
+                    "text": "(Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Our inchoate cognified world"
+        },
+        {
+            "text": "However, not all change that is \"not clearly predictable\" has to be as a result of emergence from a CAS. The explosion of personal computers was not clearly predictable from the existence of mainframe computers. In fact, one of the authors (a professional user of computers) thought the Apple II was a fun toy, but did not see any major uses for it or its ilk. (Society is a CAS and thus changes in activities in society can be emergent phenomena; however, the normal view of a society as a CAS would discuss such things as the development of hierarchical societies or democratic societies as the direct emergent phenomena related to the CAS.) While the ; and -CASs often show elements of symmetry. \u2022 The higher in the hierarchy the responses, the less prescriptive and more predictive they are (decentralized, distributed control). \u2022 CASs exhibit non-equilibrium order and can demonstrate un-computability. \u2022 CASs are involved in manifold competition and cooperation. They -Show continuous adaptive learning improvement; -Undergo progressive adaptive revisions and evolve; and -Generally, have robust failure tolerance. \u2022 CASs demonstrate self-organization and selection:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Our inchoate cognified world"
+        },
+        {
+            "text": "-E.g., flocks of birds, schools of fish, human organizations, cities, all with no central control; -Self-organized, collective phenomena that are not present in the individual parts (emergence), e.g., human consciousness; -Can exhibit cooperation and competition (co-evolution) with other CASs; -Can result in self-replication; -Frequently use microstates; and \u2022 With CASs more is different. creation of personal computers may not represent emergence, the development of uses for them may.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Our inchoate cognified world"
+        },
+        {
+            "text": "Novelty, the quality of being new or original can exist within or outside of complex adaptive systems. Early detection or favored access to a novelty, with sufficient sagacity, can bring competitive advantage in commerce, science, education, homeland security, or defense when the advances are germane to the domain's field of action. The accelerating frontier of science and technology is likely where Archimedes would place the fulcrum to change the world. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Our inchoate cognified world"
+        },
+        {
+            "text": "Emergence is unpredictable. James Moffat quoted the Chief Analyst of the UK Defence Science and Technology Laboratory (Dstl), Roger Forder, concerning the need to understand complexity and emergence in the domain of defense analysis (Moffat, 2003) .",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 247,
+                    "text": "(Moffat, 2003)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Early Detection of Emergence and Novelty"
+        },
+        {
+            "text": "One effect of the human element in conflict situations is to bring a degree of complexity into the situation such that the emergent behaviour of the system as a whole is extremely difficult to predict from the characteristics and relationships of the system elements. Detailed simulation, using agent-based approaches, is always possible but the highly situation-specific results that it provides may offer little general understanding for carrying forward into robust conclusions of practical significance. Usable theories of complexity, which would allow understanding of emergent behaviour rather than merely its observation, would therefore have a great deal to offer to some of the central problems facing defence analysis. Indeed they might well be the single most desirable theoretical development that we should seek over the next few years.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Early Detection of Emergence and Novelty"
+        },
+        {
+            "text": "\"Emergence can be both beneficial and harmful to the system and the constituent agents.\" Emergence though unpredictable, its early detection is possible and can be critically important. Nascent awareness of emergence must be decentralized, utilizing augmented, distributed detection (O'Toole, 2015).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Early Detection of Emergence and Novelty"
+        },
+        {
+            "text": "The process by which emergent properties emerge is not understood; however, their existence is evident. Suppose one were observing the earth as living creatures were just emerging. How would we detect this? Especially, how would we detect this emergence if we had no idea that this was the event we wished to detect or had no good definition of what a living creature might be? In Eamonn O'Toole's thesis, he exploited the feedback from emergence that \"constrains the agents at the microlevel of the system. This thesis demonstrates that this feedback results in a different statistical relationship between the agent and its environment when emergence is present compared to when there is no emergence in the system.\" (O'Toole, 2015) .",
+            "cite_spans": [
+                {
+                    "start": 719,
+                    "end": 734,
+                    "text": "(O'Toole, 2015)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Early Detection of Emergence and Novelty"
+        },
+        {
+            "text": "How can we organize to systematically detect a novelty when it is first conceived or first introduced? We must have sufficient discernment and sagacity to see its potential. The brain's first neurophysiologic topic of attention is toward novelty. The brain utilizes multiple types of sensors and its wetware features massive connectivity with flickering microstates (Jobson, Hartley, & Martin, 2011). A grand wish for such an early detection of emergence will require multiple polythetic optics. From the individual point of view, it requires a mind prepared to meet the unexpected with discernment. From the technical vantage point, the work of O'Toole with multiple distributed detectors is a helpful start. The most problematic prospect may entail the vortices combining human and machines (man and his matrix). Here we offer Eratosthenes (see the sections on creating a team in Chaps. 7 and 8) and on a larger scale, the imperative of cognitive superiority.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Early Detection of Emergence and Novelty"
+        },
+        {
+            "text": "The definition of complex adaptive systems includes a requirement that emergent properties are generated. This implies that there are complicated systems that are not complex systems. What is it that converts a complicated system into a complex system? If a complicated system becomes a complex system, how would one detect the emergent properties? Can the nature of the emergent properties be predicted beforehand?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Early Detection of Emergence and Novelty"
+        },
+        {
+            "text": "It is conjectured the AI systems might become self-aware under some conditions (Tegmark, 2017). This would be an emergent property. How would one detect this event? It would certainly help if we had a good definition of \"self-awareness.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Early Detection of Emergence and Novelty"
+        },
+        {
+            "text": "The ascension of artificial intelligence/machine learning (AI/ML) is the \"story behind all stories (Kelly, 2016)\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AI and the Human Brain"
+        },
+        {
+            "text": "Kai-Fu Lee spoke of two broad approaches to artificial intelligence: rule-based and neural networks (Lee, 2018). The rule-based approach set out to list if-thenelse-type rules to describe the behavior that the AI system should exhibit. At one point, these rules were created by asking experts in a domain what the situations of interest were and what would they do in those situations. Hence this approach is often called the expert systems approach. This approach has had intermittent successes, but no real commercial applications.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AI and the Human Brain"
+        },
+        {
+            "text": "John Launchbury of DARPA called this the \"first wave\" of AI (J-Wave 1). He described this as \"handcrafted knowledge\" and characterized it as being poor at perceiving the outside world, learning and abstracting, but is able to reason over narrowly defined problem spaces. Recently, it succeeded at the Cyber Grand Challenge by identifying code characteristics related to flaws (Launchbury, 2017).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AI and the Human Brain"
+        },
+        {
+            "text": "The neural net approach was defined by creating artificial neural nets that were supposed to mimic the neural networks in the human brain. This approach has had some successes, but has undergone periods of disfavor. However, recently, it has had great commercial successes due to sufficient computing power to handle large networks and very large data sets, especially with the development of deep learning (Lee, 2018). Seabrook reported that the \"compute\" (the complete ability to do computing) is growing faster than the \"rate suggested by Moore's Law, which holds that the processing power of computers doubles every two years. Innovations in chip design, network architecture, and cloud-based resources are making the total available compute ten times larger each year (Seabrook, 2019).\" Figure 5 .3 illustrates the construction of one type of artificial neural net. The intent is to replicate the ability of humans to recognize something, given an input set. The input set entries are fed to a series of nodes in the first layer, here labeled 01 through 09. Each of these nodes passes its data to each of the nodes in the second layer (sometimes called the hidden layer), here labeled 11 through 19. Each node in the second layer applies a weight to the input it receives, potentially different for each source and combines the inputs using some function, such as the weighted average. Each node of the second layer passes its results to the third layer, here labeled 21 through 29. Each node in the third layer applies a weight to the input it receives, potentially different for each source and combines the inputs using some function, such as the weighted average. The results from the third layer comprise the output of the artificial neural net, weighted by source. (Note that the connections in the figure are only partially illustrated. Note also, that the outputs from a node in one layer need not connect to all the nodes in the next layer or might have a zero weighting.)",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 792,
+                    "end": 800,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Neural Nets"
+        },
+        {
+            "text": "Suppose the goal is to determine whether a given picture is a picture of a tiger and the output is a yes or no answer. The input data consist of some set of information about the picture. With arbitrary weights, the system is unlikely to be able to discriminate among a set of pictures. However, such a system can be \"trained.\" Each time a picture is \"shown\" to the system, the output is \"graded\" and the weights are allowed to change. It has been shown that, with sufficient training and a methodology for changing the weights applied, such a system can correctly identify the pictures that contain a tiger as the subject. Further, such systems can be built and trained that correctly identify each of several animals, not just a single type of animal. Not only can such a system correctly identify the animals in the pictures from the training set of pictures, but also it can correctly identify these same animals from pictures not in the training set, with some probability of success. This is simple machine learning.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Neural Nets"
+        },
+        {
+            "text": "Simple machine learning works; however, it didn't work well enough. The deep learning Lee talks about works much better. A digression into how the human brain works will be informative.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Neural Nets"
+        },
+        {
+            "text": "The human brain uses sensing, abstraction, hierarchy, heuristic search, individual and collective learning, and the construction of cognitive artifacts for adaptation. AI is not there yet. Hawkins and Blakeslee wrote On Intelligence, with a chapter on how the cortex works (Hawkins & Blakeslee, 2004). Several points are directly pertinent to our discussion here. First, the brain uses similar internal structures (generally in different parts of the brain) to classify sensory input of all types. For example, the pixel-like inputs from the eyes are classified into images and the letters of words and the frequency-based inputs from the ears are classified into phonemes and words using the same hardware (well, wetware) and algorithms. It also uses the same structures to learn how to do the classification. The primitive hierarchical structure is the neural net with real neurons. However, as Hawkins and Blakeslee explained, the actual neural processing is more sophisticated, hierarchical in fact. The layers are critical in subdividing the work. Early layers do things like detecting edges. Later layers identify letters. Final layers work on putting things together. There are many complexities, such as using feedback from upper layers to lower layers to supply predictions for what may be coming next. However, the point is that the structure of the brain works. Deep learning has added more hierarchical processing. Moreover, the evidence of the brain's use of the same structure for multiple things implies that deep learning will have many applications. In fact, Lee described many commercially important applications.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Brain"
+        },
+        {
+            "text": "Despite the successes of some AI systems, we haven't discovered the emergent capacity for broad contextualized adaptation. Both simple machine learning and AI deep learning (neural net) suffer from bounded reality. The first set of bounds is defined by the domain of interest: the system is only defined for that domain. The second set of bounds is defined in the rule-based approach by the creativity of the authors in defining situations and the completeness of the rule sets. For the neural net approach, the second set of bounds is defined by the training data used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AI Systems' Bounded Reality"
+        },
+        {
+            "text": "The concept of training an AI system is similar to that of this example: a training set is used to set the system parameters so that it generates the appropriate responses. \"Curve fitting\" or fitting a curve to a data set provides the example. Consider the data in Table 5 .5.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 265,
+                    "end": 272,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "AI Systems' Bounded Reality"
+        },
+        {
+            "text": "For each x value, there is one proper y value. Suppose only the first five pairs are known when the system is created. Thus, only the first five pairs are used to train the system. These data were fit with a linear equation: y = 0.9x + .03, R 2 = 0.9529. This is a very good fit for data that probably has measurement error in it. However, in \"training\" an AI system, there will be a search for a better fit. The equation in Fig. 5 .4 is found that has R 2 = 1, a perfect fit! When new input data are submitted to the system (x = 6, 7, 8, and 9), the green curve results. It fits the training data perfectly and yields a curve growing dramatically as the x value increases. However, the remainder of the data from Table 5 .5 is now discovered, showing that the \"perfect\" curve is seriously flawed. (In fact, the original \"imperfect\" curve fits the new data very well.) AI systems that are created through a training regimen can suffer from bounded reality, just as humans can.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 425,
+                    "end": 431,
+                    "text": "Fig. 5",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 714,
+                    "end": 721,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "AI Systems' Bounded Reality"
+        },
+        {
+            "text": "This example is contrived to make its point; however, it illustrates a truth for the general case: if the training data do not cover the entire domain of intended use of the AI system, the system can fail spectacularly for situations outside of the domain. A similar case can be created for interpolated situations, although the failures will (in most cases) not be as dramatic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AI Systems' Bounded Reality"
+        },
+        {
+            "text": "John Launchbury called this \"statistical learning\" and labeled it the second wave of AI (J-Wave 2). For a given problem domain it is good at perceiving and learning, but not so good at abstracting or reasoning. As mentioned by Hutson below, it can be spoofed and if it undergoes continuous learning as it is used it can become unusable. Launchbury described a system that was designed to be a chat bot that began to take on the hateful characteristics of the users with whom it was chatting (Launchbury, 2017). ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AI Systems' Bounded Reality"
+        },
+        {
+            "text": "Matthew Hutson described some problems with AI learning (Hutson, 2018b). There are known problems with AI learning algorithms, such as reproducibility of results \"because of inconsistent experimental and publication practices,\" and interpretability, \"the difficulty of explaining how a particular AI has come to its conclusions.\" However, Hutson described work by Ali Rahimi and his collaborators in which they argued that many AIs are created without \"deep understanding of the basic tools needed to build and train new algorithms.\" Researchers often do not know which parts of the algorithm yield which benefits and thus do not know which parts are superfluous or counterproductive. The potential unintended consequences of using AI which is not understood range from nil to catastrophic, depending on the application.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Other AI Limits"
+        },
+        {
+            "text": "In another article, Hutson described alterations to physical objects that fool AI figure recognition (Hutson, 2018a). One example is pictured in which a stop sign appears to have the words \"love\" and \"hate\" added; however, \"a common type of image recognition AI\" thought \"it was a 45-mile-per-hour speed limit sign.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Other AI Limits"
+        },
+        {
+            "text": "Hernandez and Greenwald reported in The Wall Street Journal about problems with IBM's famous Watson AI system. They said, \"Big Blue promised its AI platform would be a big step forward in treating cancer. But after pouring billions into the project, the diagnosis is gloomy (Hernandez & Greenwald, 2018).\" This article is about AI and cancer; however, it generalizes to AI and any other complex problem.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Other AI Limits"
+        },
+        {
+            "text": "This discussion seems to be one about flaws in AI; however, it is really about flaws in the humans who create the AI and about the vast unmeasured complexity of human nature. Absent flaws in the underlying computer system, AI and other computer programs do exactly what they are told to do, no more and no less. It is a human responsibility to decide what to tell them to do. On the other hand, Rodrick Wallace argued that ambitious plans for AI dominated systems will face problems having levels of subtlety and ubiquity unimagined by the purveyors of the plans. His title, Carl von Clausewitz, the Fog-of-War, and the AI Revolution: The Real World Is Not A Game Of Go, expressed his thesis (Wallace, 2018). The problem of defeating human masters at chess was difficult. Winning at Go was regarded as much more difficult, yet an AI system was built that did just that. However, Wallace argued that the real world is so much more complex than Go that this achievement, while real, is not dispositive. As he saw it, the Fog-of-War problem described by Clausewitz has not been solved by humans and will afflict AI systems as well. In fact, he said, \"We argue here that, in the real world, Artificial Intelligence will face similar challenges with similar or greater ineptitude.\" Wallace discussed this in mathematical terms in the body of the book, showing why he drew such an extraordinary conclusion. He might describe the AI bounded reality problem as the difficulty for AI to see reality at all.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Other AI Limits"
+        },
+        {
+            "text": "John Launchbury of DARPA categorized AI capabilities in terms of \"waves.\" Two of these were mentioned above. Kai-Fu Lee also described AI in terms of waves, based on functionality. Kai-Fu Lee described his view of the coming AI revolution in his book AI Super-Powers (Lee, 2018). (Lee's view is more optimistic than that of Wallace, above.) For clarity, we will henceforward label Launchbury's waves, J-waves, and Lee's waves, K-waves, using their first initials to distinguish the referent. Table 5 .6 describes Launchbury's J-waves (Launchbury, 2017). Table 5 .7 describes Lee's K-waves (Lee, 2018).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 492,
+                    "end": 499,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 554,
+                    "end": 561,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "What Can AI Do?"
+        },
+        {
+            "text": "Launchbury's first wave consists of rule-based, expert systems. He described this as \"handcrafted knowledge\" and characterized it as being poor at perceiving the outside world, learning and abstracting, but is able to reason over narrowly defined problem spaces.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "J-Wave 1: Rule-Based"
+        },
+        {
+            "text": "John Launchbury called his second wave \"statistical learning.\" The second wave consists of neural nets with training. For a given problem domain it is good at perceiving and learning, but not so good at abstracting or reasoning.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "J-Wave 2: Statistical Learning"
+        },
+        {
+            "text": "Launchbury described a developing third wave of AI that he called contextual adaptation. This type of AI is meant to \"construct explanatory models for classes of realworld phenomena,\" adding to its classification ability the ability to explain why it gets the results it displays. The desire is to train it from very few examples, rather than the thousands or hundreds of thousands required for second wave AI. It should be good a perceiving, learning, and reasoning and better at abstracting than either of the previous waves of AI. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "J-Wave 3: Contextual Adaptation"
+        },
+        {
+            "text": "Internet AI is already here. It includes recommendation engines that use simple profiles to recommend products and simple AI products to curate news stories that fit a user's preferences, such as the Chinese Toutiao. Toutiao created an AI system to \"sniff out 'fake news.'\" It also created an AI system to create fake news and pitted the two against each other, allowing each to learn and get better (co-evolution).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "K-Wave 1: Internet AI"
+        },
+        {
+            "text": "These are referred to as generative adversarial networks (GAN) because the two adversarial networks generate outputs used in the competition.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "K-Wave 1: Internet AI"
+        },
+        {
+            "text": "Business AI is concerned with using the data already collected by a business to figure out how the business can be operated more efficiently. Conventional optimization methods concentrate on strong features; whereas AI optimization using deep learning can analyze massive amounts of data and discover weak features that will produce superior results. Having the data in structured formats helps this process greatly. [One concern that Lee omitted is the problem of significance or lack thereof of weak features. If the quantity of data is not sufficient, the AI produced results will be good predictors of the training data, but poor predictors of data going forwardthe problem illustrated in Fig. 5 ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 693,
+                    "end": 699,
+                    "text": "Fig. 5",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "K-Wave 2: Business AI"
+        },
+        {
+            "text": "Business AI includes more than just industrial operations. Financial services, such as credit-worthiness for lending money, provide an example. The Chinese Smart Finance is using the massive amounts of financial transaction data available on Chinese systems to make small loans to individuals. Algorithms are being built for providing medical diagnoses and advice to judges on evidence and sentencing (in China).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ".4.]"
+        },
+        {
+            "text": "Seabrook added some AI skills that belong in this wave. These range from spell check and translation software, to predictive texts, to code completion, to Smart Compose, which is an optional feature of Google's Gmail that will fill in a predicted sentence to complete what the user has already written. GPT (generative pretrained transformers), by OpenAI, has more ambitious goals. It is being designed to \"write prose as well as, or better than, most people can (Seabrook, 2019).\" Seabrook tested the current version, GPT-2, and found that it can, indeed, write prose. However, in its current state, it creates grammatical prose with \"gaps in the kind of commonsense knowledge that tells you overcoats aren't shaped like the body of a ship.\" The output of GPT-2 had a consistent tone, but no causal structure in the flow of the contents; however, it would do fine for producing fake Tweets or fake reviews on Yelp (Seabrook, 2019).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ".4.]"
+        },
+        {
+            "text": "Perception AI connects AI to the real world by allowing an AI system to perceive the real world. \"Amazon Echo is digitizing the audio environment of people's homes. Alibaba's City Brain is digitizing urban traffic flows through cameras and objectrecognition AI. Apple's iPhone X and Face++ cameras perform that same digitization for faces, using the perception data to safeguard your phone or digital wallet.\" This is where the cognified refrigerator will not only know what is in it, but can order something when it gets low. A cognified shopping cart can identify you when you arrive at the grocery store, connect to the refrigerator's information on what has been ordered already, connect to your buying profile, and recommend things you should buy-including specials on things that you might be tempted to buy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "K-Wave 3: Perception AI"
+        },
+        {
+            "text": "Commercial applications are just the start. Education can be transformed into private tutoring in a classroom environment. AI can monitor every step of the education process and ensure that each student learns at his or her own pace, even providing advice to procure extra tutoring where necessary. A Wall Street Journal article described the Chinese efforts to employ headbands with electrodes to monitor student focus (Wang, Hong, & Tai, 2019).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "K-Wave 3: Perception AI"
+        },
+        {
+            "text": "Previous K-waves depend heavily on software applications, with little hardware dependence. Perception AI will depend heavily on hardware to provide the interfaces to the real-world-the sensors and output interfaces that are customized for the refrigerators, police eyeglasses or shopping carts. At some point, the Panopticon will have arrived, with every home, office and public space filled with cognified, Internet-connected sensors and output interfaces.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "K-Wave 3: Perception AI"
+        },
+        {
+            "text": "Autonomous AI is the last wave; however, that doesn't mean it hasn't already started. Amazon has autonomous vehicles that bring items to humans to scan and box. California-based Traptic has created a robot that can find strawberries in the field, check the color for ripeness, and pluck the ripe ones. Self-driving cars are being tested and are the subject of numerous news articles. Lee mentioned two approaches to their development: the \"Google\" and \"Tesla\" approaches. He characterized the Google approach as cautious-test extensively, build the perfect product, and jump straight to full autonomy. The Tesla approach is to build incrementally, test through use by customers, and add on features as they become available.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "K-Wave 4: Autonomous AI"
+        },
+        {
+            "text": "In earlier descriptions of profiles, machine learning is described as determining which things a person is more likely to be willing to buy (simple profile) and which types of persuasion are more likely to be effective for a person (persuasion profile). Those discussions were couched in a way that implies rule-based AI implementations. For example, \"if this is person X and persuasion technique Y is used, then a high level of persuasion is expected\" and \"if this is person X and persuasion technique Z is used, then a low level of persuasion is expected.\" Such a profile is based on examination of strong features, that is, labeled data with high correlations to the desired outcome. Persuasion profiles built this way are easily understood.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Profiles"
+        },
+        {
+            "text": "However, in Lee's discussions of deep learning, he made clear that deep learning also uses weak features, attributes that appear unrelated to the outcome but with some predictive power. Algorithms that contain both weak and strong features may be indecipherable to humans. Such an algorithm might skip past any decision on which of Cialdini's (for example) persuasion techniques should be used and produce uniquely tailored techniques of persuasion.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Profiles"
+        },
+        {
+            "text": "Can AI take over the world? We don't worry about that in this book; however, there are serious AI researchers who are thinking about this. This topic is considered in ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Take Over the World?"
+        },
+        {
+            "text": "Networks are vital parts of the human condition and communication within society. The human nervous system is a system of networks (partially described in the section on the brain, above). Networks are also critical elements in computer usage.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Network Science"
+        },
+        {
+            "text": "Niall Ferguson discussed human social networks, contrasting them to human hierarchies in the history of human power structures (Ferguson, 2018). As an historian, he said that most accounts of history concentrate on the hierarchies (typically housed in high towers), omitting the social networks (typically in the town square below the towers), which he said are the true drivers of change. He made the case that networks are just as important as hierarchies in understanding human history, and by implication, the human future.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Human Social Networks"
+        },
+        {
+            "text": "Networks are a central part of all human endeavors. Networks consist of signals, boundaries, nodes, and links. Not surprisingly, with human networks all aspects are dazzlingly complex. The science of networks \"cuts across fields \u2026 from sociology, economics, mathematics, physics, computer science, anthropology\" as well as war, psychology and data science (Holland, 2012). \"How networks form and why they exhibit certain key patterns, and how those patterns determine our power, opinion, opportunities, behaviors, and accomplishments\" is part of the cannon of cognitive superiority (Jackson, 2019).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Human Social Networks"
+        },
+        {
+            "text": "Matthew O. Jackson in his book, The Human Network, described the impact of networks on human society and its members (Jackson, 2019). In particular, there are certain positions in a network that provide greater influence for the person occupying the position than for people in other positions. The person occupying such a position may have achieved the position through talent or random factors. Through successful individual behavioral adaptation, the individual's position may be enhanced, creating the position of influence. This, in turn, allows the person to build an even stronger network.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Human Social Networks"
+        },
+        {
+            "text": "Network science has been useful in identifying positions of influence. Jackson defined four centrality (connectedness) measures, shown in Table 5 .8 (Jackson, 2019). Positions with a high score in any of these measures have greater influence than positions with lower scores; however, each measure correlates with a different type of influence.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 138,
+                    "end": 145,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Human Social Networks"
+        },
+        {
+            "text": "Network science requires a polythetic, multiordinal approach. An example is the concept of \"externalities.\" All signals are context dependent. One person's behavior affects the well-being of others. Externalities are fundamental to network understanding. The hierarchical and modular feature of networks, the human bias toward getting into groups for affiliation and affirmation, and the ease of induction of usthem-ism has produced stringent and fragile markers of social (network) membership. These markers are among many surfaces of vulnerability to persuasion (Moffett, 2018).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Human Social Networks"
+        },
+        {
+            "text": "Christakis and Fowler's book, Connected, discussed network science, particularly as applied to social networks (Christakis & Fowler, 2009). They emphasized the many types of connections and the fact that these connections carry influence and spread information, with an obvious relationship to the spread of contagious Table 5 ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 319,
+                    "end": 326,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Human Social Networks"
+        },
+        {
+            "text": "Degree centrality measures the number of connections of a node. \"Being able to get a message out to millions of followers on a social medium gives a person the potential to influence what many people think or know.\" Eigenvector centrality measures the quality of the connections in terms of their connections. \"Having many friends can be useful, but it can be equally or even more important to have a few well-positioned friends.\" Diffusion centrality measures the ability to reach many others through a small number of intermediaries. \"How well positioned is a person to spread information and to be one of the first to hear it?\" Betweenness centrality measures the number of others who must communicate through a node to reach a large number of others. \"Is someone a powerful broker, essential intermediary, or in a unique position to coordinate others?\" diseases. It is important to note the fundamental difference in the spread dynamics of information versus behavior, which is discussed below.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ".8 Jackson's network centrality measures"
+        },
+        {
+            "text": "Damon Centola explained the distinction between the diffusion of simple things like information (simple diffusion) and the diffusion of complex things like behavior (complex diffusion) and their significance in his book, How Behavior Spreads (Centola, 2018b). In this sense, a simple thing is something that is immediately contagious. That doesn't mean 100% contagious, only that one contact may be sufficient. Generally, diseases such as measles or the common cold only require exposure from one person for another person to contract it, although any particular contact may not transmit the disease. Complex things, like behavioral change, require contact from multiple sources. In general, the adoption of a new technology may require exposure to more than one other person who has adopted it. (Technology adoption is also influenced by ease of use and usefulness in addition to network dynamics.)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Networks of Individuals"
+        },
+        {
+            "text": "If you think of society as a set of nodes (people), connected by their associations, you will perceive that these connections are not all the same. Some are strong bonds between closely associated people and some are weak bonds of acquaintance. In a non-mobile society, almost all of the strong bonds will connect people who are geographically close. Even in a mobile society, a large fraction of the strong bonds will connect geographically close people. However, weak bonds can span continents (think of your Facebook connections). The presence of these weak bonds is what creates the \"six degrees of separation\" effect, in which almost anyone is connected to every other person (say Kevin Bacon) by a very few links.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Networks of Individuals"
+        },
+        {
+            "text": "As Centola explained it, simple things, like information, can diffuse through both strong connections and weak connections; however, it is the weak connections that allow for explosive contagion (going viral). A local diffusion is passed on through the weak connections to different areas (Fig. 5.5 ), allowing simultaneous growth throughout the society. In the figure, node 22 starts the contagion (the solo \"1\" identifier); its neighbors (the area marked \"2\") and the weakly connected node 18 (the solo \"2\" identifier) contracts it next; and then their neighbors contract it (the areas marked \"3\"). The figure shows that in four stages almost all of the nodes have embraced the idea (or contracted the disease).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 289,
+                    "end": 298,
+                    "text": "(Fig. 5.5",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Networks of Individuals"
+        },
+        {
+            "text": "On the other hand, complex things, like behavior, require reinforcement from multiple sources, which weak connections don't generally provide. The distant person doesn't generally have other connections that receive the message at the same (or nearly the same) time and so does not receive reinforcement, resulting in no conversion. Complex things spread (mostly) through the strong connections, often in geographically contiguous areas, because the people connected by strong connections are connected to others who have strong connections to multiple sources (Fig. 5.6) . In this example, two sources are required for a node to embrace the behavior (or contract the disease). Nodes 22 and 23 are the initial sources (marked with the \"1\" identifier). Because the network connections do not connect all nearest neighbors in this network, node 13 is infected in stage 2, but other close nodes, like node 14 are not infected. However, in stage 3, node 14 has two infected neighbors (node 13 and node 23) and is infected. Similarly, node 24 is not infected until stage 4. After four stages, less than half the network is infected. Note that node 18 has not been infected, despite its connection to node 22-node 18 has only one infected connection through stage 4. This is the reason that behavior changes spread more slowly than ideas and generally diffuse as if they were tied to the geography. (One pocket can affect another pocket if there is a \"wide\" connection between the pockets. That is, there are strong connections between multiple members in each pocket.)",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 561,
+                    "end": 571,
+                    "text": "(Fig. 5.6)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Networks of Individuals"
+        },
+        {
+            "text": "Atkinson and Moffat discussed the impact complexity and networks have on the agility of social organizations in their book, The Agile Organization (Atkinson & Moffat, 2005b). They reviewed complexity theory and the types of networks (useful to any reader). Their purpose, however, was to provide a basis for defining the characteristics of an agile organization.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Organizational Networks"
+        },
+        {
+            "text": "They defined a tightly coupled management style as having control by the top as a high priority, which leads to the hierarchical organization described by Ferguson above. On the other hand, a loosely coupled management style is one that tolerates and encourages self-organizing informal networks, similar to the social networks of Ferguson. Atkinson and Moffat compared the effectiveness of the two management styles in times of stability and in times of turbulence: the tightly coupled style provides better results in the first and the more loosely coupled style works better in the second. In either case, the styles can be described by choice of network type (a traditional hierarchy being a particular type of network). Note, ours is certainly not an age of stability! In describing agility, Atkinson and Moffat concentrated on times of lesser stability because in times of high stability, agility is not required-it may even be a negative, frictional factor. They started by defining one measure of system agility as the number of states or condition available in a system. Clearly, the management agility should correspond to the system agility. Management agility will be determined by the range of management actions that are available. As they saw it, the Information Age recommends increases in agility-and generally requires it. They saw a need for both the formal structures of a flexible hierarchy and the self-organized informal networks and the need for both to work together (Atkinson & Moffat, 2005b).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Organizational Networks"
+        },
+        {
+            "text": "The Internet is a network of networks. It uses a set of protocols to support messages between computers, including addressing protocols and domain servers to route the messages.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Computer Networks"
+        },
+        {
+            "text": "Internet Protocol version 4 (IPv4) defines slightly more than four billion addresses (2 32 ). When you enter a URL for a website, you normally type something like \"www.drdeanhartley.com,\" a set of characters. However, the machinery of the Internet converts this into a numerical address, such as \"nnn.nnn.nnn.nnn,\" where the numbers between the periods range from 0 to 256, giving the four billion + addresses. A new version of the protocol, IPv6, will have 2 128 addresses, approximately 3.4 \u00d7 10 38 or about 340,000,000,000,000,000,000,000,000,000,000,000,000 addresses. This huge number of addresses will allow almost everything to be connected-an internet of things.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Computer Networks"
+        },
+        {
+            "text": "Some computers and devices are connected directly to a network (hard-wired). These may be connected by coaxial cables, fiber optics or copper wires. The connection method determines (in part) the speed of the connection. Actually, speed is something of a misnomer. The signals all travel near the speed of light; however, the bandwidth differs. That is, the capacity for parallel signals can vary dramatically. Thus, the total amount of information that is transferred per second varies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Computer Networks"
+        },
+        {
+            "text": "Devices may also be connected by cellular telephone technology. The new fifth generation (5G) networks provides higher speed connections than previous generations. It will also allow for direct connections between all of those (almost) innumerable things in the internet of things). The implications and emergent properties are still being pondered as 6G is being envisioned (Davis, 2020).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Computer Networks"
+        },
+        {
+            "text": "Quantum physics requires deep mathematics for its description. It includes counterintuitive results because our intuition is based on our experiences in the \"classical\" world, which is distinctly different from the quantum world. Table 5 .9, comparing the two worlds, is derived from Crease and Goldhaber's book, The Quantum Moment (Crease & Goldhaber, 2015).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 230,
+                    "end": 237,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Quantum Technologies"
+        },
+        {
+            "text": "\u2022 The first entry in the table declares that different laws of physics apply at different scales. The macroworld has no concept that corresponds to the identicality of all electrons. They can be in different states, but otherwise they are all the same! \"For an electron bound in an atom these states are specified by a set of numbers, called 'quantum numbers.' Four quantum numbers specify a state, and that's it-nothing else.\" The four quantum numbers are energy, angular momentum, magnetic moment, and spin. Each quantum number can take on only discrete sets of integers or half-integers. There are two categories of identical particles. Fermions obey the Pauli Exclusion Principle, which says that no two identical fermions (such as electrons) can occupy the same quantum state. Fermions can't be \"mashed together.\" (Pauli was given the Nobel Prize for this result.) Bosons (e.g., photons) can be \"mashed together.\" In fact, a sufficient number mashed together become a Bose-Einstein condensate-a classical wave. Liquid helium, with its strange properties, provides a visible example in which helium atoms act like bosons. \u2022 The second entry refers to the concept that in the classical world, each thing has a \"definite identity and is located at a specific place at a specific time\"-ghosts and phantoms to not appear do not \"pop up and disappear unpredictably.\" In the quantum world, pairs of particles and anti-particles do pop up and disappear unpredictably and things can act like waves or particles and thus must be regarded as having dual natures. \u2022 The classical world is imagined to be constructed of or described by three physical dimensions and a single time dimension, each continuous. In a continuous dimension, between any two points there is always another point-there are no gaps. The quantum world is defined by gaps: electrons jump (or fall) from one energy level to another, with nothing in between. [At this point there is no evidence that time or space is quantized, fundamentally discontinuous; however, many variables that can be expressed as being continuous in the classical world are discrete in the quantum world.] \u2022 In the classical world, uncertainty is \"epistemological uncertainty-uncertainty in what we know about the objects of study.\" In the quantum world, \"ontological uncertainty or uncertainty in nature itself\" is added. Thus, things are deterministic in the classical world, even though we cannot precisely measure them. But in the quantum world there exist things that cannot be determined, such as simultaneous exact knowledge of position and momentum-Heisenberg uncertainty. \u2022 One of the clearest breaks between the classical world and the quantum world lies in the realm of causality. The classical world is based on causality-if something happens, something caused it. In the quantum world, some things just happen-a radioactive atom decays or not; a light wave reflects or refracts. The best you can do is determine a probability of occurrence. \u2022 The most disturbing difference lies in the significance of the observer. In the classical world, an observer can interfere with an effect-the measuring instrument might be too obtrusive. However, successively finer instruments would reduce the interference and measuring the successive changes might allow for accounting for the interference. In the quantum world, the effect may not occur until it is observed! Schroedinger's cat provides the familiar example. The cat is neither dead nor alive, but is has the two states superposed until the box is opened and the state observed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantum Technologies"
+        },
+        {
+            "text": "An ordinary (classical) computer is based on bits with two possible states, \"on\" and \"off\" or \"1\" and \"0,\" instantiated in hardware. A quantum computer is based on qubits, in which both states are superposed (a possibility described in quantum theory). The qubits of a quantum computer are also instantiated in hardware (to date using superconducting technologies, see below). Computations in both types of computers are performed by algorithms in computer programs. However, the algorithms for quantum computers depend on probabilistic logic based in quantum theory. Theory says that quantum computers can outperform ordinary computers for certain tasks (quantum supremacy). Recent tests of a quantum processer were compared with the (currently) fastest supercomputer in the world, showing that this theory is correct (Cho, 2019; Jones, 2019). For our purposes, the technical details are not relevant. However, the known and possible impacts of this coming technology on information are relevant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantum Technologies"
+        },
+        {
+            "text": "Experimental, small scale quantum computers have been built and work has been done on algorithms that will use the nature of quantum computing to solve problems (Waliden & Kashefi, 2019). At this time, it is known that IBM, Google AI and Honeywell are working to build quantum computers. Working computers are expected to be available in late 2020 (Lang, 2020).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantum Technologies"
+        },
+        {
+            "text": "Currently, we are in the Noisy Intermediate-Scale Quantum (NISQ) era (Preskill, 2018). The \"intermediate-scale\" modifier refers to the number of qubits-large enough to demonstrated proof-of-principle, but not large enough to perform the envisaged, valuable tasks. \"Noisy\" refers to the impact of having too few qubitsthere are not enough qubits to perform adequate error correction. Insufficient error correction is referred to as noise. In any case, quantum computers will use classical computers as front-ends and back-ends to prepare the problems for the quantum computer and to interpret the results.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantum Technologies"
+        },
+        {
+            "text": "One of the areas that quantum computing will disrupt is encryption/decryption. Secure communication and storage of data currently depends on the difficulty involved in finding the factors of very large numbers (on the order of 300 digits). Conventional computers, even large super computers are incapable of doing this in reasonable amounts of time. Full scale quantum computers will be able to do this easily.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantum Technologies"
+        },
+        {
+            "text": "Experts are working on different encryption schemes that will be unbreakable by quantum computers (or conventional computers). However, there have been and continue to be thefts of massive amounts of stored data from computer systems. Where these data are encrypted, the thefts seem to be senseless-until one accounts for future quantum computer capabilities. In the future, these data can and will be easily decrypted. This is called retrospective decryption. In that future, some of the data will have been rendered useless by the passage of time. However, some will retain tremendous value, such as social security numbers tied to identities, financial transactions, and identities of spies (Mims, 2019b).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantum Technologies"
+        },
+        {
+            "text": "Beyond the threat to data security, the ability of quantum computers to break current encryption methods threatens economic security. The authors of a 2018 article in Nature said, \"By 2025, up to 10% of global gross domestic product is likely to be stored on blockchains. A blockchain is a digital tool that uses cryptography techniques to protect information from unauthorized changes. It lies at the root of the Bitcoin cryptocurrency. Blockchain-related products are used everywhere from finance and manufacturing to health care, in a market worth more than US$150 billion.\" The authors continued, \"within a decade, quantum computers will be able to break a blockchain's cryptographic codes.\" They included recommendation for making blockchains more secure, such as tightening the encryption techniques and ultimately using quantum communications to ensure security (Fedorov, Kiktenko, & Lvovsky, 2018) .",
+            "cite_spans": [
+                {
+                    "start": 869,
+                    "end": 905,
+                    "text": "(Fedorov, Kiktenko, & Lvovsky, 2018)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Quantum Technologies"
+        },
+        {
+            "text": "Beyond the limits of our \"rational\" bounded reality, beyond our inability to predict emergence in our manifold complex adaptive systems, faintly aware of randomness, passing through our limits, defaults, preconceptions, and the systematic predictably irrational aspects of our cognition, we have evolved and mathematically described a Newtonian world-view. The Newtonian world-view is as deterministic and dependable as a game of billiards. Unfortunately, we have also evolved and mathematically described an unpredictable and discontinuous quantum world-view that underlies the Newtonian world. Its effects exist, but the \"effects are not directly noticeable (Crease & Goldhaber, 2015) .\" Rapidly unfolding quantum understanding is likely to become a more central part of cognitive superiority.",
+            "cite_spans": [
+                {
+                    "start": 660,
+                    "end": 686,
+                    "text": "(Crease & Goldhaber, 2015)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Quantum Technologies"
+        },
+        {
+            "text": "Extended Reality (xR) stands for a collection of software and hardware technologies that provides a combination of digital and biological realities. It can contain augmented reality (AR) by including wearable \"intelligence,\" virtual reality (VR), now with the potential for avatars, and 360\u00b0 video. AR is spreading to most corners of society, including commerce, education, entertainment, and warfare. The augmented warrior is extant. The Stanford University Virtual Human Interaction Lab is a pioneer in VR (Stanford University VHIL, 2019). There is minimal knowledge of the effects and potentials of xR. What will be the persuasive potential of a companion avatar?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "xR-Immersive Technologies"
+        },
+        {
+            "text": "Advanced genetic engineering and synthetic biology are extant. Genetic engineering includes adding sections of genetic code to confer desirable properties (e.g., disease resistant plants) and replacing errors in genes that cause diseases (gene therapy). The idea is to replace sections of DNA or RNA with corrected sections. Synthetic biology includes this and goes farther. The idea is to create new biological systems or redesign those found in nature. The use of these technologies for purposeful attacks requires a vastly increased commitment to biosecurity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Genetic Engineering and Synthetic Biology"
+        },
+        {
+            "text": "The modified CRISPR plus gene-drive technology cuts and splices large segments of the genome, not just short contiguous segments, and spreads them more rapidly than the traditional genetic transmission dynamics (Service, 2019). The 'prime' gene-editing system could surpass first generation CRISPR. David Liu, a chemist at the Broad Institute in Cambridge, Massachusetts, said \"Prime editors offer more targeting flexibility and greater editing precision (Champer, Bushman, & Akbari, 2016; Cohen, 2019).\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Genetic Engineering and Synthetic Biology"
+        },
+        {
+            "text": "The uses for biological technology include: improved treatments for disease and medical impairments; possible human augmentations, such as nootropics and physical enhancements (consider the various kinds of athletic \"doping\"); and biological war. Whether the biological agents are feral diseases, come from unintended releases, or are purposefully released, they can produce massive health and economic effects, as evidenced by the COVID-19 pandemic of 2020. A low barrier to entry into the bio-war domain, the potentially problematic attribution, and the ability to scale an attack make this an area of essential and increased focus, needing best-in-class expertise and ability. Genomic science, advanced genetic engineering, synthetic biology, and augmented computational biology contribute to the problem. They, together with big data analytics, network science, persuasion science, logistical and communication expertise, must be coordinated for security and defense (Desai, 2020). Further, no knowledgeable adversary will miss the opportunity to superimpose an \"infodemic\" [coined by the World Health Organization (WHO) (World Health Organization (WHO), 2020)] on an epidemic. With purposeful biosecurity threats we must consider multiple releases (vectors) in form, location and timing in parallel with infodemics and hybrid, multi-domain attacks. Synthetic DNA and RNA can make many diseases, including new forms, into software problems or opportunities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Genetic Engineering and Synthetic Biology"
+        },
+        {
+            "text": "AI and quantum technologies are six-hundred-pound gorillas. Kahn says AI \"will be the most important technology developed in human history (Kahn, 2020).\" Quantum technologies are based in an area of physics that is literally incomprehensible to most people today. The impacts may include things currently thought of as impossible. Three other technologies have the prospect of revolutionizing society: superconductivity, nuclear thermal propulsion, and 3D printing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Other Possibly Transformative Technologies"
+        },
+        {
+            "text": "Some materials conduct electricity so poorly that they are used as insulators to prevent electrical flows in undesired directions. Some materials, such as silver, copper, and aluminum are very good conductors and are used for wires. Other materials, when cooled to near absolute zero (0 Kelvin), have no resistance at all and are termed superconductors. The first superconductors required cooling by liquid helium (around 4 Kelvin). Later high-temperature superconductors were produced that only needed the cooling provided by liquid nitrogen (around 77 Kelvin) (Wikipedia, 2019a).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Superconductivity"
+        },
+        {
+            "text": "Superconducting magnets are like electro-magnets, but much stronger and have a persistent magnetic field. The strength of these superconducting magnets is sufficient to levitate very large masses, resulting in the term Maglev. Numerous applications have been proposed in the book, Maglev America, such as transportation, energy storage, and space launch (Danby, Powell, & Jordan, 2013).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Superconductivity"
+        },
+        {
+            "text": "James R. Powell and Gordon T. Danby created and patented a number of inventions in the field of superconducting magnetic levitation. Powell and Danby presented their original concepts in 1966 and received a patent in 1968. This concept has been implemented in Japan in an ultra-high-speed train (up to 360 miles per hour) (Powell & Danby, 2013).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Superconducting Enabled Transportation"
+        },
+        {
+            "text": "The same Maglev technology used in transportation can be used to store power. The mass that is raised to a higher level and then returned to a lower level can be water, as in pumped hydro systems, or it can be any other substance. A given mass of water requires a large storage area compared to a denser substance like concrete. A Maglev system can move large amounts of mass to great heights and recover the energy with 90% efficiency (a 10% loss), with cheaper infrastructure costs and greater efficiency than pumped hydro systems (70% efficiency) (Powell, Danby, & Coullahan, 2013; Rather, 2013; Rather & Hartley, 2017).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Superconducting Enabled Energy Storage"
+        },
+        {
+            "text": "The superconducting technology of Maglev can also be used to launch payloads, including manned vehicles, into space-and do it at a fraction of the cost of chemical rocket launches. Chapter 13 of the Maglev America book introduced the technology and cost estimates (Powell, Maise, & Jordan, 2013).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Superconducting Enabled Space Launch"
+        },
+        {
+            "text": "The book, StarTram: The New Race to Space, by James Powell, George Maise, and Charles Pellegrino, expanded the description and discussion (Powell, Maise, & Pellegrino, 2013). This book goes beyond the launch system to discuss technologies for exploring and colonizing the solar system.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Superconducting Enabled Space Launch"
+        },
+        {
+            "text": "In the 1980s, a team of nuclear engineers, led by James Powell, at Brookhaven National Laboratory began work on a particle bed reactor. This design consisted of 400-micron diameter nuclear fuel particles packed in an annular bed. Hydrogen flowing through the center was heated by the nuclear fuel and expelled as the propelling gas. Later this project transitioned to the classified Space Nuclear Thermal Propulsion program. In 1992, the Cold War ended and the program was discontinued (Powell, Maise, & Pellegrino, 2013).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Nuclear Thermal Propulsion"
+        },
+        {
+            "text": "Recently, work on nuclear thermal propulsion has been revived by NASA (NASA, 2018). Vehicles using this type of propulsion would be extremely useful both in providing cislunar travel (avoiding any possible venting of radioactive material on the Earth's surface) and to reduce the time required for travel to Mars by a very large factor (Rather & Hartley, 2018b).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Nuclear Thermal Propulsion"
+        },
+        {
+            "text": "Additive manufacturing (known as 3D printing) consists of building an artifact by adding material to form specified shapes. Traditional techniques involve subtractive manufacturing in which the shape is milled from a block, removing unwanted material. Carving a sculpture from marble is an example of subtractive \"manufacturing,\" whereas molding a sculpture from clay is an example of additive \"manufacturing.\" 3D printing gets all of the attention, although most commercial applications will require both additive and subtractive manufacturing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "3D Printing"
+        },
+        {
+            "text": "The Oak Ridge National Laboratory (ORNL) has one of the most advanced 3D printing facility in the world. This facility has printers for manufacturing the familiar plastic (polymer) articles. However, metal artifacts can also be formed using metal powders and wires. An extremely important advantage of 3D printing lies in the ability to characterize the desired nature of the artifact (composition, heat history, etc., by 3D boxel [cf., pixel in 2D images]) and to ensure the actual artifact meets that characterization. The facility has produced an entire car (including engine) (Peter, 2019). It is possible that asteroidal and lunar regolith materials can be used as the material to be used in 3D printing (Rather & Hartley, 2018b).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "3D Printing"
+        },
+        {
+            "text": "The National Aeronautics and Space Administration (NASA) needed a \"method for estimating the maturity of technologies during the acquisition phase of a program (Wikipedia, 2019b).\" NASA developed the concept of technology readiness levels (TRLs) during the 1970s to meet this need. Since that time, the concept has been adapted and adopted by the U.S. Department of Defense, the European Space Agency, and finally established as an ISO standard in 2013.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Technology Readiness"
+        },
+        {
+            "text": "The TRL scale ranges from 1 to 9, with 9 representing the most mature technology. Although the definitions may vary with the organization, the NASA definitions provide a solid basis for understanding the definitions of the levels (Table 5 .10).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 230,
+                    "end": 238,
+                    "text": "(Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Technology Readiness"
+        },
+        {
+            "text": "Conceptually, a technology concept moves through the levels from basic principles to commercial (or government) implementation. However, not all technology concepts actually reach commercial implementation. Some prove to be impractical or too costly. A Government Accountability Office (GAO) forum on nanomanufacturing identified another reason for some failures-a systemic funding gap, called the Valley of Death (U.S. Government Accountability Office, 2014). Figure 5 .7, adapted from the forum report, shows the funding gap in the Valley of Death in terms TRLs. Essentially the problem is that early stages of research and development of concepts can often find funding from the government or universities and late stage implementation funding of some technologies is provided by the private sector.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 461,
+                    "end": 469,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Technology Readiness"
+        },
+        {
+            "text": "However, there is no general system in place to provide funding for technologies to carry them from the laboratory environment to systems development in the relevant environment. The figure shows why this gap is called the Valley of Death. Many promising technology concepts die from lack of funding. Some may have been doomed in any case; however, some may have died that would have proved to be immensely valuable. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Technology Readiness"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Basic principles observed and reported",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Technology concept and/or application formulated",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Analytical and experimental critical function and/or characteristic proof-of concept",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Component and/or breadboard validation in laboratory environment",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Component and/or breadboard validation in relevant environment",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "System/subsystem model or prototype demonstration in a relevant environment (ground or space)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "System prototype demonstration in a space environment",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Actual system completed and \"flight qualified\" through test and demonstration (ground or space); and 9. Actual system",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Emergence",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Neural net layers",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Results with extrapolation",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "The Singularity is Near by Ray Kurzweil (Kurzweil, 2005) and James Barrat's Our Final Invention: Artificial Intelligence and the End of the Human Era (Barrat, 2013). Max Tegmark's book Life 3.0 presented an interesting discussion of thinking on this topic as of 2017 (Tegmark, 2017).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Simple diffusion",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Fig. 5.6 Complex diffusion",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "2 CAS characteristics from other sources \u2022 CASs have hierarchical organization with subsystems constructed of subsystems:",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Volk's list of emergences",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Contextual adaptation: construct explanatory models, explain results, train from few examples Perceiving: good Learning: good Abstracting: not good, but better than previous waves Reasoning: good Table 5.7 Lee's AI waves",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "10 NASA's technology readiness levels",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

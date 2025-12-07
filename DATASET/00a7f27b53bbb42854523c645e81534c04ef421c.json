@@ -1,0 +1,1602 @@
+{
+    "paper_id": "00a7f27b53bbb42854523c645e81534c04ef421c",
+    "metadata": {
+        "title": "Distributed under Creative Commons CC-BY 4.0 Impact of dialysis modality conversion on the health-related quality of life of peritoneal dialysis patients: a retrospective cohort study in China",
+        "authors": [
+            {
+                "first": "Heqi",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Fudan University",
+                    "location": {
+                        "settlement": "Shanghai",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ye",
+                "middle": [],
+                "last": "Zhuang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Fudan University",
+                    "location": {
+                        "settlement": "Shanghai",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lanying",
+                "middle": [],
+                "last": "Gao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The First People's Hospital of Kunshan",
+                    "location": {
+                        "settlement": "Suzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ningze",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Fudan University",
+                    "location": {
+                        "settlement": "Shanghai",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Xiong",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The First People's Hospital of Kunshan",
+                    "location": {
+                        "settlement": "Suzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Min",
+                "middle": [],
+                "last": "Yuan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Fudan University",
+                    "location": {
+                        "settlement": "Shanghai",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jun",
+                "middle": [],
+                "last": "Lu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Fudan University",
+                    "location": {
+                        "settlement": "Shanghai",
+                        "country": "China"
+                    }
+                },
+                "email": "lujun@shmu.edu.cnjianmingye"
+            },
+            {
+                "first": "Jianming",
+                "middle": [],
+                "last": "Ye",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The First People's Hospital of Kunshan",
+                    "location": {
+                        "settlement": "Suzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "To analyze the health-related quality of life associated with the conversion of dialysis modality among end-stage renal disease patients in China. Methods. Patients were recruited from hospitals and a dialysis center in Kunshan, China. Patients converting from continuous ambulatory peritoneal dialysis to automated peritoneal dialysis were recruited as the observation group (n = 64), and patients continuing with continuous ambulatory peritoneal dialysis treatment were included in the control group (n = 64) after matching in this retrospective cohort study. Their health-related quality of life was measured using the kidney disease quality of life instrument in 2019 and 2020, respectively. Baseline socio-demographic characteristics and clinical data were collected in 2019. The before-and-after cross-group comparisons of subscale scores of two groups were conducted using a Student's t-test. Multiple linear regression models were fitted to identify the factors associated with the change of each scale.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": ". The health-related quality of life scores of the two groups was comparable in baseline, while the observation group had higher scores in Physical Component Summary (51.92 \u00b1 7.50), Kidney Disease Component Summary (81.21 \u00b1 8.41), Symptoms (90.76 \u00b1 6.30), Effects (82.86 \u00b1 11.42), and Burden (69.04 \u00b1 15.69) subscales after one year. In multivariate regression analysis, the change of Physical Component Summary was significantly associated with conversion to APD (\u03b2 = 11.54, 95% CI [7.26-15.82]); the change of Mental Component Summary with higher education (\u03b2 = \u22125.96, 95% CI [\u221210.18-\u22121.74]) and CCI (>2) (\u03b2 = 5.39, 95% CI [1.05-9.73]); the change of Kidney Disease Component Summary with conversion to APD (\u03b2 = 15.95, 95% CI [10.19-21.7]) and age (>60 years) (\u03b2 = \u22127.36, 95% CI [\u221214.11-\u22120.61]); the change of Symptoms with CCI (>2) (\u03b2 = 7.96, 95% CI [1.49-14.44]); the change of Effects with conversion to APD (\u03b2 = 19.23, 95% CI [11.57-26.88]); and the change of Burden with conversion to APD (\u03b2 = 22.40, 95% CI [13.46-31.34]), age (>60 years) (\u03b2 = \u221212.12, 95% CI [\u221222.59-\u22121.65]), and higher education (\u03b2 = \u221210.38, 95% CI [\u221219.79-\u22120.98]). Conclusions. The conversion of dialysis modality had a significant impact on the scores of most subscales. Patients converting from continuous ambulatory peritoneal dialysis How to cite this article Sun H, Zhuang Y, Gao L, Xu N, Xiong Y, Yuan M, Lu J, Ye J. 2022. Impact of dialysis modality conversion on the health-related quality of life of peritoneal dialysis patients: a retrospective cohort study in China. PeerJ 10:e12793 http://doi.org/10.7717/peerj.12793",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "to automated peritoneal dialysis generally had improved health-related quality of life scores.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Renal transplantation, hemodialysis (HD) and peritoneal dialysis (PD) are three common renal replacement therapy (RRT) options for patients with end-stage renal disease (ESRD). As the clinical concept of ''PD First'' has been widely recognized globally, many countries have increasingly practiced PD instead of HD in clinical settings mainly because it has less impact on patients' daily life routines (Rabindranath et al., 2007) and saves their healthcare costs (Vaccaro & Sopranzi, 2017; Juli\u00e1n et al., 2013) .",
+            "cite_spans": [
+                {
+                    "start": 402,
+                    "end": 429,
+                    "text": "(Rabindranath et al., 2007)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 463,
+                    "end": 489,
+                    "text": "(Vaccaro & Sopranzi, 2017;",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 490,
+                    "end": 510,
+                    "text": "Juli\u00e1n et al., 2013)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Among major modalities of PD, ambulatory peritoneal dialysis (CAPD) and automated peritoneal dialysis (APD) are the most one. CAPD is performed manually, whereas APD is performed with the assistance of mechanical device and has been associated with better patient compliance (Bernardini, Nagy & Piraino, 2000) . Since many systematic reviews found that the safety and clinical outcomes of CAPD and APD are largely comparable (Rabindranath et al., 2007; Athanasios et al., 2020; Tang, Chen & Fang, 2016) , evidence on health-related quality of life (HRQOL) is important when nephrologists and patients choose PD modality in practice (Wright & Wilson, 2015) . To the best of our knowledge, studies conducted in other countries showed that the HRQOL was largely equivalent between patients treated with CAPD and APD (Guney et al., 2010; Michels et al., 2011; Yang et al., 2018; Mpharm et al., 2020) . Since these studies were mainly cross-sectional designs that could not analyze the impact of converting PD modalities on ESRD patients, current knowledge of this topic remains little. Besides, some Chinese studies have targeted the HRQOL of HD and PD patients (Zhang et al., 2007; Bieber et al., 2014) , but they did not conclude on the HRQOL of CAPD and APD patients. Therefore, this study fills the gaps of knowledge and would provide real-world evidence for the selection of dialysis modalities in clinical settings.",
+            "cite_spans": [
+                {
+                    "start": 275,
+                    "end": 309,
+                    "text": "(Bernardini, Nagy & Piraino, 2000)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 425,
+                    "end": 452,
+                    "text": "(Rabindranath et al., 2007;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 453,
+                    "end": 477,
+                    "text": "Athanasios et al., 2020;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 478,
+                    "end": 502,
+                    "text": "Tang, Chen & Fang, 2016)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 632,
+                    "end": 655,
+                    "text": "(Wright & Wilson, 2015)",
+                    "ref_id": null
+                },
+                {
+                    "start": 813,
+                    "end": 833,
+                    "text": "(Guney et al., 2010;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 834,
+                    "end": 855,
+                    "text": "Michels et al., 2011;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 856,
+                    "end": 874,
+                    "text": "Yang et al., 2018;",
+                    "ref_id": null
+                },
+                {
+                    "start": 875,
+                    "end": 895,
+                    "text": "Mpharm et al., 2020)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1158,
+                    "end": 1178,
+                    "text": "(Zhang et al., 2007;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1179,
+                    "end": 1199,
+                    "text": "Bieber et al., 2014)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "In mainland China, it was estimated that about 1.5 million patients need dialysis. However, PD accounts for less than 15%, of which CAPD is the main modality (Chinese National Renal Data System, 2021) . Research regarding APD remains to be almost blank. Fortunately, health insurance authorities and healthcare facilities in Kunshan, Jiangsu, China have tried to promote the use of APD since 2019. Kunshan is a highly developed city in China with a GDP per capita that is equivalent to a city in a developed country. To control the impact of socio-economic status on HRQOL, Kunshan was selected as the sample city while ensuring the comparability of our findings with international literature. Therefore, this study is the first publication comparing the one-year change in HRQOL of CAPD and APD patients in China and identifying its influencing factors.",
+            "cite_spans": [
+                {
+                    "start": 158,
+                    "end": 200,
+                    "text": "(Chinese National Renal Data System, 2021)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "This observational cohort study was designed to investigate the association between the conversion of dialysis modality and health-related quality of life among the Chinese end-stage renal disease patients. All procedures performed in this study involving human participants were in accordance with the Declaration of Helsinki (as revised in 2013). The study was approved by the Medical Research Ethics Committee of School of Public Health, Fudan University (IRB approval number 2020-08-0844). Written informed consent was obtained from all participants at the recruitment stage of the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Design and ethical statement"
+        },
+        {
+            "text": "Patients were recruited from the hospitals and a dialysis center in Kunshan approached by trained interviewers. The inclusion criteria were: (1) a clinical diagnosis of ESRD; (2) aged 18 years or older; (3) received CAPD/APD for more than 3 months; (4) able to communicate verbally; (5) provide informed consent.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study setting and subjects"
+        },
+        {
+            "text": "Kunshan has introduced home-based APD services since 2019, with supporting medical insurance reimbursement policies. Through interviews with patients and medical staff, the research team learned that most patients who chose to convert from CAPD to APD were mainly in the consideration of social and economic reasons: Socially, APD helps patients with daily activities, work, and study throughout the day; Economically, the individual payment proportion of choosing APD is lower, and the economic burden of dialysis was alleviated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study setting and subjects"
+        },
+        {
+            "text": "This study included all 67 eligible ESRD patients converting from CAPD to APD as the observation group (hereinafter referred to as APD group), of which 64 patients completely responded to the interviews, resulting in a response rate of 95.52%. Meanwhile, we also interviewed 135 ESRD patients continuing with CAPD treatment, of which 125 patients completely responded, and the response rate was 92.59%.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study setting and subjects"
+        },
+        {
+            "text": "After matching was conducted based on dialysis vintage, age, and gender, 64 ESRD patients continuing with CAPD treatment were included in the control group (hereinafter referred to as CAPD group). During the matching process, completely matched patients were included first. Incompletely matched patients were included by the order of dialysis vintage, age, and gender. If more than one patient met the matching criteria, the first patient on the matching list was included. We estimated that this sample size of 128 (64 in each group) would provide 99% power at a two-tailed 5% significance level by using G*Power analysis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study setting and subjects"
+        },
+        {
+            "text": "In this retrospective study, we collected baseline data of the observation group and control group in August 2019 and then remeasured the HRQOL of two groups in August 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures and assessment methods"
+        },
+        {
+            "text": "HRQOL data were collected using the Kidney Disease and Quality of Life-36 (KDQOL-36) (Rand, 2021) . KDQOL-36 contains a Short Form-12 (SF-12) and three kidney diseasespecific subscales, in which there are four items for the burden of kidney disease, 12 items for symptoms/problems, and eight items for effects of kidney disease. The kidney disease component summary (KDCS) is scored by averaging the three disease-specific subscales (i.e., symptoms, effects, and burden). The Physical Component Summary (PCS) and Mental Component Summary (MCS) can be calculated from SF-12. All scores range from 0 to 100, with higher scores representing better HRQOL.",
+            "cite_spans": [
+                {
+                    "start": 85,
+                    "end": 97,
+                    "text": "(Rand, 2021)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "HRQOL instruments"
+        },
+        {
+            "text": "KDQOL-36 has been validated and proved reliable for the measurement of HRQOL in Chinese ESRD patients (Tao, Chow & Wong, 2014) . Pan et al. (2018) also employed KDQOL-36 to measure the HRQOL of ESRD patients in Eastern China, proving the effectiveness of KDQOL-36 in the sample population.",
+            "cite_spans": [
+                {
+                    "start": 102,
+                    "end": 126,
+                    "text": "(Tao, Chow & Wong, 2014)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 129,
+                    "end": 146,
+                    "text": "Pan et al. (2018)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "HRQOL instruments"
+        },
+        {
+            "text": "To measure and compare the one-year differences between two groups in 6 subscales (i.e., PCS, MCS, KDCS, symptoms, effects, and burden), we defined these differences as PCS, MCS, KDCS, symptoms, effects, and burden, respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "HRQOL instruments"
+        },
+        {
+            "text": "In this study, sociodemographic and clinical data were also collected. Socio-demographic characteristics were self-reported, including age, gender, marital status, education level, employment status, and dependency status. Clinical factors were retrieved from medical records, containing dialysis characteristics (dialysis vintage and Kt/V), Charlson Comorbidity Index (CCI), body mass index (BMI), and biochemical data (blood albumin and hemoglobin).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sociodemographic and clinical data"
+        },
+        {
+            "text": "The socio-demographic and clinical characteristics were compared between CAPD and APD groups using chi-square tests. The before-and-after cross-group comparisons of the changes in scores of six HRQOL subscales were conducted using a T -test. In univariate linear regression and the subsequent multivariate linear regression, we assessed the associations between sociodemographic and clinical characteristics and the changes in HRQOL scores. The continuous dependent variables were the changes in 6 subscales ( PCS, MCS, KDCS, symptoms, effects, and burden). All continuous independent variables were coded into categorical variables based on their clinically meaningful values (Jia et al., 2015) or means/medians concerning that the associations may not be linear. The categorical variables were PD modality (continue with CAPD/convert to APD), age (\u226460 years />60 years), gender (male/female), marital status (with spouse/without spouse), education level (lower (no formal/primary/secondary school)/higher(high school/above)), employment status (employed/unemployed (including retired)), dependency status (self-care/assisted), dialysis vintage (<4 years/ \u22654 years), Kt/V(\u22641.7/>1.7), CCI(\u22642/>2), BMI level (low (\u226425 kg/m2)/ high (>25 kg/m2)), albumin level (low (<37 g/l)/high (\u226537 g/l)), hemoglobin level (low (<11 g/dl)/high (\u226511 g/dl)).",
+            "cite_spans": [
+                {
+                    "start": 677,
+                    "end": 695,
+                    "text": "(Jia et al., 2015)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "Dialysis-related variables were included with references to previous literature (Yang et al., 2018; Pan et al., 2018) . All categorical variables were entered into six different multiple linear regression analyses to explore their associations with the changes in HRQOL subscale scores independently, regardless of their statistical significances in the univariate analyses, to assess the impact of dialysis modality conversion on the changes in HRQOL scores after adjusting for socio-demographic characteristics and clinical indicators. All analyses were performed using SPSS 25.0, with a p-value of less than 0.05 being considered as statistically significant.",
+            "cite_spans": [
+                {
+                    "start": 80,
+                    "end": 99,
+                    "text": "(Yang et al., 2018;",
+                    "ref_id": null
+                },
+                {
+                    "start": 100,
+                    "end": 117,
+                    "text": "Pan et al., 2018)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "A total of 128 PD patients were included in this study, with 64 of the patients continuing with CAPD and 64 of whom converting to APD. Their characteristics are displayed in Table 1 . The mean (SD) age was 52.95(13.48) years, with 53.13% male and the mean (SD) dialysis vintage was 4.10(3.34) years. There were significant differences in dependency status between the two groups. Other characteristics related to PD technique, such as residual diuresis and daily ultrafiltration, were not different between the two studied groups.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 174,
+                    "end": 181,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Mean (SD) PCS, MCS, KDCS, symptoms, effects, and burden scores for the CAPD and APD groups in two years are shown in Table 2 respectively. There were no significant differences between the CAPD group and APD group in the baseline. However, by the year 2020, PCS, KDCS, Symptoms, Effects, and Burden scores of the APD group were significantly higher than the CAPD group. Table 3 shows the results of the univariate analysis. In univariate analysis, we found that many factors associated with the changes in HRQOL scores were statistically significant.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 117,
+                    "end": 124,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 370,
+                    "end": 377,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "In multivariate analysis (Table 4) , after adjusting for the effects of socio-demographic and clinical factors in six models, the following factors were significantly associated with increasing the of HRQOL scores: conversion to APD with PCS; higher education and CCI (>2) with MCS; conversion to APD and age (>60 years) with KDCS; CCI (>2) with Symptoms; conversion to APD with Effects; and conversion to APD, age (>60 years), and higher education with Burden.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 25,
+                    "end": 34,
+                    "text": "(Table 4)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "In this study, ESRD patients had higher scores in PCS, KDCS, Symptoms, Effects, and Burden subscales after converting to APD. In multivariate regression analysis, factors significantly associated with the improvement of HRQOL scores were: conversion to APD, \u226460 years of age, lower education, and higher hemoglobin. These results suggest evidence for the effectiveness of APD among Chinese ESRD patients and guide the strategy of selecting appropriate dialysis techniques.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "HRQOL was compared between the APD group and CAPD group, and no statistical difference was found at baseline. However, after one year of treatment, the physiological and disease-specific subscale scores of APD patients were significantly higher than those of CAPD patients in 2020. Similar results were also reported in Singapore (Yang et al., 2018) and Mexico (Cort\u00e9s-Sanabria et al., 2013) . Yet Wit et al. found no significant differences in physical health between APD and CAPD patients (Wit et al., 2001) . This difference in results may be due to the fact that Wit et al. used SF-36 and EQ-5D instead of KDQOL-36. In addition to the fact that APD operated at night can liberate patients during the day, other reasons for higher HRQOL in APD patients in this study include remote monitoring and management of dialysis indicators conducted by specialized doctors and timely guidance from the family doctor during follow-up, which means that the technological advantages and professional supports of APD could improve the physiological and diseasespecific component. This study did not find differences in MCS subscale scores, which was inconsistent with earlier cross-sectional studies that suggested that APD patients performed better in psychological states (Mpharm et al., 2020; Cort\u00e9s-Sanabria et al., 2013; Wit et al., 2001; Diaz-Buxo et al., 2000) . This may be due to the short observation time of this study, and the cognition and feeling of patients with chronic diseases do not change significantly within one year. Overall, it is reasonable to recommend CAPD patients convert to APD if the indications and financial circumstances permit.",
+            "cite_spans": [
+                {
+                    "start": 330,
+                    "end": 349,
+                    "text": "(Yang et al., 2018)",
+                    "ref_id": null
+                },
+                {
+                    "start": 361,
+                    "end": 391,
+                    "text": "(Cort\u00e9s-Sanabria et al., 2013)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 491,
+                    "end": 509,
+                    "text": "(Wit et al., 2001)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1264,
+                    "end": 1285,
+                    "text": "(Mpharm et al., 2020;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1286,
+                    "end": 1315,
+                    "text": "Cort\u00e9s-Sanabria et al., 2013;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1316,
+                    "end": 1333,
+                    "text": "Wit et al., 2001;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1334,
+                    "end": 1357,
+                    "text": "Diaz-Buxo et al., 2000)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "We also observed the impacts of demographic, clinical, and dialysis-related characteristics on HRQOL. First, age of more than 60 years was associated with the decrease of KDCS and Burden. Age as a predictor of quality of life scores, especially in physical aspects, was also confirmed by several previous studies (Yang et al., 2018; Pan et al., 2018; Balasubramanian, McKitty & Fan, 2010) . Second, higher education level was associated with the decrease of MCS and Burden, which means that patients who were more educated and actively learned more about the disease might be worried about the negative outcomes. Though Yang et al. did not observe the impact of education level on the HRQOL of APD and CAPD patients (Yang et al., 2018) , it may be caused by the well-established education system and social welfare policy in Singapore, and the fact that HRQOL is a subjective evaluation deeply influenced by social culture. Third, CCI(>2) was associated with the changes of MCS and Symptoms respectively. Previous studies explored the impact of CCI but no statistical correlation was found (Bilgic et al., 2011; Yang et al., 2018) . Diseases are not mutually exclusive. Our results suggest comorbidities might have an influence on the HRQOL of ESRD patients.",
+            "cite_spans": [
+                {
+                    "start": 313,
+                    "end": 332,
+                    "text": "(Yang et al., 2018;",
+                    "ref_id": null
+                },
+                {
+                    "start": 333,
+                    "end": 350,
+                    "text": "Pan et al., 2018;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 351,
+                    "end": 388,
+                    "text": "Balasubramanian, McKitty & Fan, 2010)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 716,
+                    "end": 735,
+                    "text": "(Yang et al., 2018)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1090,
+                    "end": 1111,
+                    "text": "(Bilgic et al., 2011;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1112,
+                    "end": 1130,
+                    "text": "Yang et al., 2018)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "There are some noteworthy implications for patients, clinical practice and health administration. For patients, this study showed that conversion to APD significantly improves HRQOL, which suggests that APD is a dialysis method worth choosing. More HRQOL evaluations should be conducted to enhance patient engagement in decisionmaking. For clinical practice, in addition to the objective physiological indicators, the subjective feelings of patients should also be considered during dialysis treatment. Patientoriented medical services are worth recommending, which include involving family members and caregivers in dialysis treatment for ESRD patients, especially the older patients, and strengthening psychological support for well-educated patients. As for health administration, APD is mainly used at clinical rescue and ICU and lacks large-scale application in China. Especially in the context of COVID-19, home-based APD treatment has shown its great advantages. Priority should be given to promoting APD in the allocation of healthcare resources in China.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Some of the previously published papers found no impact of PD modality on HRQOL because the study design and the subjects' characteristics were different from our study. Former studies were mostly cross-sectional studies, and compared HRQOL between independent APD and CAPD groups. This study is a retrospective cohort study, subjects came from the same CAPD sample group at baseline, and considered the conversion of dialysis modality as an influencing factor. To the best of our knowledge, this study is the first publication reporting the impact of PD modality conversion on the HRQOL of ESRD patients. What is more, existing Asian studies mainly focus on Taiwan and Singapore patients (Tang, Chen & Fang, 2016; Yang et al., 2018) . This study takes mainland China residents as the research subject. It may be that different regional, social, and cultural backgrounds will also bring differences to the quality of life. This study suggest the effectiveness of home-based APD treatment in Chinese patients using real-world data, which is an innovative approach in current Chinese literature because APD has not been widely used in mainland China.",
+            "cite_spans": [
+                {
+                    "start": 689,
+                    "end": 714,
+                    "text": "(Tang, Chen & Fang, 2016;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 715,
+                    "end": 733,
+                    "text": "Yang et al., 2018)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "This study also had several limitations and should be acknowledged. First, the socioeconomic status of Kunshan city is close to that of a city in a developed countries. China is a vast country with areas of different socioeconomic development, therefore the results of this study cannot be extrapolated to less developed areas in China. Second, although we started data collection when the APD project was launched in Kunshan, the one-year follow-up might not be long enough to observe the significant changes in MCS subscale scores. Besides, even though the sample size in this study was sufficient enough to detect the effects, HRQOL is a subjective evaluation which closely related to the social and cultural background, thus, the conclusion needs further validation in other regions. Third, factors influencing the conversion of dialysis modality might also contribute to confounding bias, such as cognition and acceptance of new technology, economic level, clinical indications, etc.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In summary, this study analyzed the impact of converting PD modalities on the one-year changes in HRQOL of ESRD patients in mainland China. It suggested that conversion to APD had a positive influence on the improvement of HRQOL. With the increasing use of APD in China, further studies should focus on the HRQOL of APD patients in other regions to expand the sample size and improve representativeness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "APD or CAPD: one glove does not fit all",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Athanasios",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Stefanos",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Konstantinos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Marios",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Theodoros",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vassilios",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "International Urology and Nephrology",
+            "volume": "53",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11255-020-02678-6"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Comparing automated peritoneal dialysis with continuous ambulatory peritoneal dialysis: survival and quality of life differences?",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Balasubramanian",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mckitty",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sls",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nephrology Dialysis Transplantation",
+            "volume": "26",
+            "issn": "5",
+            "pages": "1702--1708",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Pattern of noncompliance with dialysis exchanges in peritoneal dialysis patients",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bernardini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nagy",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Piraino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "American Journal of Kidney Diseases",
+            "volume": "35",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0272-6386(00)70047-3"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Two-times weekly Hemodialysis in China: frequency, associated patient and treatment characteristics and Quality of Life in the China Dialysis Outcomes and Practice Patterns study",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bieber",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Qian",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pisoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Spb",
+                    "middle": [],
+                    "last": "Ramirez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nephrology Dialysis Transplantation",
+            "volume": "29",
+            "issn": "9",
+            "pages": "1770--1777",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ndt/gft472"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Daytime sleepiness and quality of life in peritoneal dialysis patients",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bilgic",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Akman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sezer",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Arat",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ozelsancak",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ozdemir",
+                    "middle": [],
+                    "last": "Nurhan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Therapeutic Apheresis and Dialysis",
+            "volume": "15",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1744-9987.2011.00987.x"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Chinese National Renal Data System database",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Comparison of cost-utility between automated peritoneal dialysis and continuous ambulatory peritoneal dialysis",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cort\u00e9s-Sanabria",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Paredes-Cese\u00f1a",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Herrera-Llamas",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cruz-Bueno",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Soto-Molina",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pazar\u00edn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cort\u00e9s",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mart\u00ednez-Ram\u00edrez",
+                    "middle": [],
+                    "last": "Hr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Archives of Medical Research",
+            "volume": "44",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.arcmed.2013.10.017"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Quality-oflife evaluation using Short Form 36: comparison in hemodialysis and peritoneal dialysis patients",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Diaz-Buxo",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Lowrie",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lew",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lazarus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "American Journal of Kidney Diseases",
+            "volume": "35",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0272-6386(00)70339-8"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Comparison of effects of automated peritoneal dialysis and continuous ambulatory peritoneal dialysis on health-related quality of life, sleep quality, and depression",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Guney",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Solak",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Atalay",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yazici",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Altintepe",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Kara",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yeksan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Turk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Hemodialysis International Symposium on Home Hemodialysis",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1542-4758.2010.00465"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Reference intervals of serum sodium, potassium, and chlorine in chinese han population and comparison of two ISE methods",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Mu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Journal of Clinical Laboratory Analysis",
+            "volume": "29",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jcla.21755"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Employment status and indirect costs in patients with renal failure: differences between different modalities of renal replacement therapy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Juli\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Juan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cuervo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rebollo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nefrologia",
+            "volume": "33",
+            "issn": "3",
+            "pages": "333--341",
+            "other_ids": {
+                "DOI": [
+                    "10.3265/Nefrologia.pre2012.Dec.11767"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Quality of life in automated and continuous ambulatory peritoneal dialysis",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Michels",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Dijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Verduijn",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Cessie",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Boeschoten",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Dekker",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Krediet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Peritoneal Dialysis International Journal of the International Society for Peritoneal Dialysis",
+            "volume": "31",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3747/pdi.2010.00063"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Kidney disease-specific scores and health utility of continuous ambulatory peritoneal dialysis and automated peritoneal dialysis patients and their caregivers -sciencedirect",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mpharm",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Bpharm",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sritippayawan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bsc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Value in Health Regional Issues",
+            "volume": "21",
+            "issn": "",
+            "pages": "194--200",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vhri.2019.12.001"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Health-related quality of life and its factors of hemodialysis patients in Suzhou, China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Blood Purification",
+            "volume": "45",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1159/000485962"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Automated vs continuous ambulatory peritoneal dialysis: a systematic review of randomized controlled trials",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rabindranath",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Ali",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Daly",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vale",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Macleod",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nephrology Dialysis Transplantation",
+            "volume": "22",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ndt/gfm515"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Kidney Disease Quality of Life Instrument (KDQOL)",
+            "authors": [
+                {
+                    "first": "Rand",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Do automated peritoneal dialysis and continuous ambulatory peritoneal dialysis have the same clinical outcomes? A ten-year cohort study in Taiwan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Scientific Reports",
+            "volume": "6",
+            "issn": "",
+            "pages": "29276--29286",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/srep29276"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Determining the validity and reliability of the Chinese version of the kidney disease quality of life questionnaire (KDQOL-36 TM )",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chow",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BMC Nephrology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2369-15-115"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "A comparison between the costs of dialysis treatments in Marche Region, Italy: macerata and Tolentino hospitals",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Vaccaro",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sopranzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Istituto Superiore Di Sanita. Annali",
+            "volume": "53",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.4415/ANN_17_04_12"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Baseline characteristics of sample participants.Notes.Values in bold indicate P < 0.05. CAPD, continuous ambulatory peritoneal dialysis; APD, automated peritoneal dialysis; CCI, Charlson Comorbidity Index; BMI, body mass index. Residual diuresis and daily ultrafiltration were not reported in the table because they were not significantly different between two groups.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "HRQOL scores in different group.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Univariate linear regression analysis of the change of HRQOL scores. Residual diuresis and daily ultrafiltration were not reported in the table because they were not correlated in univariate analysis with the HRQOL scores.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Multiple linear regression analysis of the change of HRQOL scores.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We are grateful to all the participants who took part in this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "text": "This work was supported by the National Social Science Fund of China (17ZDA078) and the Scientific Research Project of Jiangsu Provincial Health Commission (H2017073). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "The following grant information was disclosed by the authors: The National Social Science Fund of China: 17ZDA078. The Scientific Research Project of Jiangsu Provincial Health Commission: H2017073.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Grant Disclosures"
+        },
+        {
+            "text": "The authors declare there are no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing Interests"
+        },
+        {
+            "text": "\u2022 Heqi Sun and Ye Zhuang conceived and designed the experiments, analyzed the data, prepared figures and/or tables, and approved the final draft.\u2022 Lanying Gao and Yan Xiong performed the experiments, prepared figures and/or tables, and approved the final draft.\u2022 Ningze Xu analyzed the data, authored or reviewed drafts of the paper, and approved the final draft.\u2022 Min Yuan analyzed the data, prepared figures and/or tables, and approved the final draft. \u2022 Jun Lu and Jianming Ye conceived and designed the experiments, authored or reviewed drafts of the paper, and approved the final draft.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author Contributions"
+        },
+        {
+            "text": "The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):The study was approved by the Medical Research Ethics Committee of School of Public Health, Fudan University (Ethical Application Ref: IRB00002408 & FWA00002399).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Human Ethics"
+        },
+        {
+            "text": "The following information was supplied regarding data availability:The raw data contains the personal information of residents. The ethical agreement permits us to use it for research, analysis and publication of the analysis and results but access to the raw data is only available upon request.Please contact the China Research Center on Disability (cdifdu@fudan.edu.cn) to request access.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Availability"
+        }
+    ]
+}

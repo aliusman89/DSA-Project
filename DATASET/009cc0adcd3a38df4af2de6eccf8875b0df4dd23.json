@@ -1,0 +1,2764 @@
+{
+    "paper_id": "009cc0adcd3a38df4af2de6eccf8875b0df4dd23",
+    "metadata": {
+        "title": "Contemporary Clinical Trials Communications Evidence of the medical and economic benefits of implementing hygiene measures by a prevention link physician in trauma surgery: Study protocol for a biphasic multicenter prospective interventional pre-post cohort study using a structured intervention bundle development and tools of behavior change management",
+        "authors": [
+            {
+                "first": "Meike",
+                "middle": [
+                    "M"
+                ],
+                "last": "Neuwirth",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Hospital Witten/Herdecke Cologne",
+                    "location": {
+                        "addrLine": "Ostmerheimer Str. 200",
+                        "postCode": "51109",
+                        "settlement": "Germany, Cologne",
+                        "country": "Germany"
+                    }
+                },
+                "email": "es:neuwirthm@kliniken-koeln.dem.m.neuwirth"
+            },
+            {
+                "first": "Benedikt",
+                "middle": [],
+                "last": "Marche",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Hospital Witten/Herdecke Cologne",
+                    "location": {
+                        "addrLine": "Ostmerheimer Str. 200",
+                        "postCode": "51109",
+                        "settlement": "Cologne",
+                        "country": "Germany"
+                    }
+                },
+                "email": "marcheb@kliniken-koeln.deb.marche"
+            },
+            {
+                "first": "Christiane",
+                "middle": [],
+                "last": "Kugler",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Albert-Ludwigs-Universit\u00e4t Freiburg",
+                    "location": {
+                        "addrLine": "Breisacher Stra\u00dfe 153",
+                        "postCode": "79110",
+                        "settlement": "Freiburg",
+                        "country": "Germany"
+                    }
+                },
+                "email": "christiane.kugler@uniklinik-freiburg.de"
+            },
+            {
+                "first": "Dominik",
+                "middle": [],
+                "last": "Bures",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Herdecke University",
+                    "location": {
+                        "addrLine": "Alfred-Herrhausen-Stra\u00dfe 50",
+                        "postCode": "58448",
+                        "settlement": "Witten, Witten, Witten",
+                        "country": "Germany"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dirk",
+                "middle": [],
+                "last": "Sauerland",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Herdecke University",
+                    "location": {
+                        "addrLine": "Alfred-Herrhausen-Stra\u00dfe 50",
+                        "postCode": "58448",
+                        "settlement": "Witten, Witten, Witten",
+                        "country": "Germany"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Swetlana",
+                "middle": [],
+                "last": "Herbrandt",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Hospital Witten/Herdecke Cologne",
+                    "location": {
+                        "addrLine": "Vogelpothsweg 87, Vogelpothsweg 87, Ostmerheimer Str.200",
+                        "postCode": "44227, 44227, 51109",
+                        "settlement": "Dortmund, Dortmund, Cologne",
+                        "country": "Germany, Germany"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Uwe",
+                "middle": [],
+                "last": "Ligges",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Hospital Witten/Herdecke Cologne",
+                    "location": {
+                        "addrLine": "Vogelpothsweg 87, Vogelpothsweg 87, Ostmerheimer Str.200",
+                        "postCode": "44227, 44227, 51109",
+                        "settlement": "Dortmund, Dortmund, Cologne",
+                        "country": "Germany, Germany"
+                    }
+                },
+                "email": "ligges@statistik.tu-dortmund.deu.ligges"
+            },
+            {
+                "first": "Frauke",
+                "middle": [],
+                "last": "Mattner",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Hospital Witten/Herdecke Cologne",
+                    "location": {
+                        "addrLine": "Ostmerheimer Str. 200",
+                        "postCode": "51109",
+                        "settlement": "Germany, Cologne",
+                        "country": "Germany"
+                    }
+                },
+                "email": "mattnerf@kliniken-koeln.def.mattner"
+            },
+            {
+                "first": "Robin",
+                "middle": [],
+                "last": "Otchwemah",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Hospital Witten/Herdecke Cologne",
+                    "location": {
+                        "addrLine": "Ostmerheimer Str. 200",
+                        "postCode": "51109",
+                        "settlement": "Germany, Cologne",
+                        "country": "Germany"
+                    }
+                },
+                "email": "otchwemahr@kliniken-koeln.der.otchwemah."
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Introduction: The German Commission for Hospital Hygiene and Infection Prevention recommends nominating one authorized medical specialist in every medical department as an infection prevention link physician (PLP). It has been roughly described that a PLP serves as a link between the infection prevention team and the respective clinical departments. No detailed evidence about the contribution made by PLPs to the decrease of infection rates is available in Germany. The \"HygArzt\" project aims to demonstrate the medical and economic benefits of the implementation of hygiene measures by PLP in trauma surgery/orthopedics. Methods: A multicenter interventional pre/post cohort study design was chosen. The study will run for a threeyear period, including a pre-, post-, and an intervention phase, in four different hospitals, one of which will serve as pilot. A complex intervention containing evidence-based infection control measures will be developed and implemented by a PLP to proof efficacy. After the successful implementation of the preventive measures in the pilot hospital, the concept will be transposed to the three remaining trauma and orthopedic departments to confirm the transferability and generalizability. To enable the PLPs of the non-pilot departments, a subjectspecific training program will be developed based on the study results of the pilot hospital and offered to the PLPs. Discussion: Data are intended to provide evidence that and, if so, to which extent the implementation of specific preventive measures by a medical department-specific PLP is possible and results in a reduction of nosocomial infections in orthopedic surgery and traumatology. Contribution to the literature: The present study describes a novel complex study design to prove the effectiveness of intervention measures for infection prevention. The study design and newly developed methodological approach could serve as a model for similar studies on infection prevention in the future. For the first time, the presented research project \"HygArzt\" focuses on the implementation of hygiene measures by an infection prevention link physician (PLP) and investigates whether nosocomial infections, especially surgical site infections, can be reduced by the measures implemented.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "www.drks.de/drks_web/navigate.do?navigationId=trial.HTML&TRIAL_ID=DRKS00013296.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Nosocomial infections, especially surgical site infections (SSI), pose a high economic burden to national health care systems by leading to prolonged hospital stays, more surgeries, higher treatment costs [1] , a reduction of the quality of life of the affected patients, and increased mortality rates. The most prevalent nosocomial infections were SSI, accounting for 22 .4%, and resulting in a point prevalence of 1.08% [2] . Therefore, effective infection prevention measures (IPM) are needed. As the number of surgical procedures performed continues to increase [3, 4] , it is even more important to implement effective SSI prevention measures to minimize the patient's suffering and economic damage [3] [4] [5] . Although effective individual measures to reduce SSI are already been implemented, the prevention of infections is often underestimated, such that the number of SSIs has hardly decreased in recent decades [6, 7] .",
+            "cite_spans": [
+                {
+                    "start": 205,
+                    "end": 208,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 369,
+                    "end": 371,
+                    "text": "22",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 422,
+                    "end": 425,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 566,
+                    "end": 569,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 570,
+                    "end": 572,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 704,
+                    "end": 707,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 708,
+                    "end": 711,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 712,
+                    "end": 715,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 923,
+                    "end": 926,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 927,
+                    "end": 929,
+                    "text": "7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Previous studies have shown that antiseptic washing, antibiotic prophylaxis, the use of nasal ointment containing the active ingredient mupirocin as recommended by the KRINKO and WHO, and adherence to hand hygiene are effective individual measures [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] .",
+            "cite_spans": [
+                {
+                    "start": 248,
+                    "end": 251,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 252,
+                    "end": 255,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 256,
+                    "end": 260,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 261,
+                    "end": 265,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 266,
+                    "end": 270,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 271,
+                    "end": 275,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 276,
+                    "end": 280,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 281,
+                    "end": 285,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 286,
+                    "end": 290,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 291,
+                    "end": 295,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The introduction of IPM bundles appears to be more effective than the introduction of individual measures, as several effective evidencebased measures are combined [18] . However, only a few infection prevention bundles to reduce SSI exist [11, 13, 14, [18] [19] [20] .",
+            "cite_spans": [
+                {
+                    "start": 164,
+                    "end": 168,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 240,
+                    "end": 244,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 245,
+                    "end": 248,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 249,
+                    "end": 252,
+                    "text": "14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 253,
+                    "end": 257,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 258,
+                    "end": 262,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 263,
+                    "end": 267,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "A big challenge is the implementation of IPM [10, 21, 22] . For a successful implementation, many steps are involved, such as conducting discussions with the superiors, theoretical and practical training of medical staff, and monitoring of the implementation.",
+            "cite_spans": [
+                {
+                    "start": 45,
+                    "end": 49,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 50,
+                    "end": 53,
+                    "text": "21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 54,
+                    "end": 57,
+                    "text": "22]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The tailoring of IPM to a specific department particularly helps in its implementation. Being part of the department, the infection prevention link physician (PLP) has special knowledge and is therefore in a key position to implement the IPM. According to the German infection protection law and the German Commission for Hospital Hygiene and Infection Prevention (KRINKO) recommendations, a PLP should be in a leading position and must be present in every medical department as a link between the department and the infection prevention team trained in a 40-h prevention course. Their tasks include cooperation with the infection control department for surveillance, transmission, detection, and outbreak management [23] . In addition, the PLP should ensure compliance with hygiene and infection prevention rules, improve hygiene plans and functional procedures, and participate in trainings and further education on hygiene topics. The PLP's core tasks are the promotion of interdisciplinary cooperation in infection prevention and the implementation of IPM. She or he should see her-or himself as an intermediary between the departments [23] . Although the effectiveness of the implementation of IPM in hospital departments by nursing staff was described for infection control link nurses [24, 25] , no study has investigated the effectiveness of PLP to date. Our study has as aim to evaluate the effects of PLP to optimize medical processes and reduce the number of nosocomial infections. The associated medical and economic benefits as well as the implementation of IPM by PLP in trauma surgery/orthopedics should be evaluated.",
+            "cite_spans": [
+                {
+                    "start": 717,
+                    "end": 721,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1140,
+                    "end": 1144,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1292,
+                    "end": 1296,
+                    "text": "[24,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1297,
+                    "end": 1300,
+                    "text": "25]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The planned multicenter prospective interventional cohort study would evaluate whether a PLP is able to implement an infection control bundle, which should be developed in collaboration with the infection control department.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Aims and objectives"
+        },
+        {
+            "text": "It will also be investigated whether the tailored bundle of infection control measures has an influence on nosocomial infections (NI) and multi-resistant pathogens in the orthopedic and trauma surgery department, and whether this is economically detectable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Aims and objectives"
+        },
+        {
+            "text": "Furthermore, the development of a specific training program (Train the Trainer) for PLPs based on the data of a previously determined best practice approach in a pilot hospital should be conducted, with the aim of a better implementation of hygiene measures.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Aims and objectives"
+        },
+        {
+            "text": "The employees' attitudes and knowledge of hygiene measures and other obstacles to adherence with hygiene measures before and after implementation of the bundle of measures will also be examined.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Aims and objectives"
+        },
+        {
+            "text": "The multicenter prospective interventional pre-post cohort study is planned for a period of 3 years, divided into a pilot phase in one pilot hospital and a study phase in three additional study hospitals. The details of the study design are shown in Fig. 1.   Fig. 1 . Study overview. The study consists of two study phases (pilot and study phases), each with pre-, intervention-, and post phases.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 250,
+                    "end": 266,
+                    "text": "Fig. 1.   Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Study design"
+        },
+        {
+            "text": "The pilot phase is divided into the preparation, pre-intervention, intervention, and post-intervention phases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pilot phase"
+        },
+        {
+            "text": "In the pre-preparation phase, the following standard care is defined as the starting point for interventions in the pilot and study clinics:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pre-preparation phase (pilot)"
+        },
+        {
+            "text": "Preoperative standards:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pre-preparation phase (pilot)"
+        },
+        {
+            "text": "\u2022 Inclusion of blood glucose and albumin in the laboratory profile \u2022 Hair removal using a clipper.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pre-preparation phase (pilot)"
+        },
+        {
+            "text": "Intraoperative standards:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pre-preparation phase (pilot)"
+        },
+        {
+            "text": "\u2022 Single gloves for arthroscopy without implants \u2022 Pre-/intraoperatively placed bladder catheter removed after <48 h \u2022 First dressing change after 48 h; short-term change only in the case of blood-drenched patches.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pre-preparation phase (pilot)"
+        },
+        {
+            "text": "In the pre-intervention phase, the current actual states of the outcomes for the primary endpoint and process parameters are recorded. The primary endpoint is the occurrence of subsequent NI or death as a result of a nosocomial infection:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes for the primary endpoint"
+        },
+        {
+            "text": "The following data are collected for the monitoring (surveillance) of these infections:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes for the primary endpoint"
+        },
+        {
+            "text": "\u2022 NI according to KISS and CDC definitions [26, 27] .",
+            "cite_spans": [
+                {
+                    "start": 43,
+                    "end": 47,
+                    "text": "[26,",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 48,
+                    "end": 51,
+                    "text": "27]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Outcomes for the primary endpoint"
+        },
+        {
+            "text": "\u2022 Microbiological, clinical, and radiological patient data.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes for the primary endpoint"
+        },
+        {
+            "text": "The project team defined infection according to the German nosocomial infection surveillance systems (KISS) and the US centers for Disease Control and Prevention (CDC) definitions inclusive NHSN risk index. Diagnostically or therapeutically introduced foreign objects of non-human origin are defined as implants.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes for the primary endpoint"
+        },
+        {
+            "text": "The process parameters should first determine where exactly in the specialist discipline a possible potential influence of the PLP on NI and SSI rates lies. Likewise, possible risk factors for the occurrence of NI or SSI are to be determined. In doing so, direct observations data (general hand hygiene adherence, hand hygiene during the dressing change process and process parameters during dressing change measurements, and hand hygiene adherence in the operating theater) of various activities and processes at the bedside and in the operating rooms will be reviewed for application of current recommendations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Process parameters"
+        },
+        {
+            "text": "The IPM that will be introduced in the intervention phase are aimed at reducing SSIs, as these are the most common NIs in the trauma surgery and orthopedic departments. Similarly, it is believed that by improving process parameters such as hand hygiene adherence rates and introducing decolonization measures for the patient, the number of other common NI in the hospital can also be reduced. For this reason, the infection rates of primary sepsis, thrombophlebitis, urinary tract infections, pneumonia, and C. difficile infections will also be considered.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Process parameters"
+        },
+        {
+            "text": "Possible obstacles to adherence with hygiene measures (The survey will include nursing staff on the ward and in the operating theater as well as physicians):",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Process parameters"
+        },
+        {
+            "text": "\u2022 Employees' attitudes, knowledge, expectations, affects, and adherence of IPM",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Process parameters"
+        },
+        {
+            "text": "\u2022 Subjective norm supervisor \u2022 Subjective norm department \u2022 Working environment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Process parameters"
+        },
+        {
+            "text": "In the 3-month intervention phase, tailor-made hygiene measures (preoperative washing/decolonization, universal screening for MRSA/ MSSA, correct antibiotic prophylaxis [30 min before incision with an adequate 1st generation dose of cephalosporin, adaptation to the body mass index and redosing if operation lasting more than 180 min], behavioral change in the operating theater, closed incision negative pressure wound Therapy [CiNPWT], standardized wound, and fixator care) are to be introduced in the pilot hospital.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention phase (pilot)"
+        },
+        {
+            "text": "The components of the infection prevention bundle to be implemented in the intervention phase were selected on the basis of a literature review [28] .",
+            "cite_spans": [
+                {
+                    "start": 144,
+                    "end": 148,
+                    "text": "[28]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Intervention phase (pilot)"
+        },
+        {
+            "text": "In the post-intervention phase of the pilot phase, the effectiveness of the measures is evaluated. For this purpose, the outcome parameters and the implementation of the process parameters are recorded. Furthermore, a training module for PLP will be developed to train their staff and introduce IPM in their departments. The concept developed in the pilot department will subsequently be transferred to three other study departments in the study phase.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Post-intervention phase (pilot)"
+        },
+        {
+            "text": "In the study phase, we examined the transmissibility of the infection prevention, implemented in the pilot phase, concept to three study hospitals of different sizes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study phase"
+        },
+        {
+            "text": "In the pre-intervention phase, the same outcome parameters are recorded as in the pre-intervention phase of the pilot phase.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pre-intervention phase (study)"
+        },
+        {
+            "text": "In the intervention phase of the study phase, the PLPs of the study hospitals are trained with the newly developed training concept in order to introduce hygiene measures in their departments and to train their staff. The next step is to analyze whether the PLP or his subsequent instructions of the staff has led to a reduction in NI by the implemented hygiene measures.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention phase (study)"
+        },
+        {
+            "text": "In the post-intervention phase, the realization of the newly introduced measures is evaluated, and first results are reported back to the employees.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Post-intervention phase (study)"
+        },
+        {
+            "text": "An overview of the outcome measurement at different time points is shown in Fig. 2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 76,
+                    "end": 82,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Post-intervention phase (study)"
+        },
+        {
+            "text": "In order to be able to measure sufficiently reliable results or statements about the effect of the intervention on infection rates and to generalize the results found, a classic a priori calculation of the required number of cases based on two patient cohorts and infection types was performed with G \u00d7 Power, in which the required sample size was inferred by assuming the size of the difference or association (Fisher test for one-sided hypothesis [alternative: reduction in infection rate] at a ratio of 1:2 [pre-intervention: post-intervention]).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sample size calculation of number of to be included patients"
+        },
+        {
+            "text": "As a basis for calculation, the following assumptions were made during the pre-intervention phase: In the study, an overall infection rate for the orthopedics/trauma surgery department will be determined for the first time. Until now, there are only few reference values about an overall SSI infection rate but only infection rates for indicator surgeries like hip and knee endoprostheses. Since these infection rates do not reflect the reality on a standard trauma surgery ward and most postoperative wound infections are related to metal implants and their removal, an infection rate of 6.8% for metal removal or osteosynthesis material was used for the sample size calculation [29] . With an expected reduction of at least 50% for an infection rate of 3.4%, a power of 80% and a significance level alpha = 0.05, the number of patients required was: Preintervention n = 415, and post-intervention n = 830.",
+            "cite_spans": [
+                {
+                    "start": 680,
+                    "end": 684,
+                    "text": "[29]",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sample size calculation of number of to be included patients"
+        },
+        {
+            "text": "Next to postoperative wound infections, nosocomial urinary tract infections are the most frequent NI in Germany [2, 30] . Since the interventions also aim to improve process parameters, such as increasing hand hygiene, it is assumed that the infection rate of nosocomial urinary tract infections will also be reduced.",
+            "cite_spans": [
+                {
+                    "start": 112,
+                    "end": 115,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 116,
+                    "end": 119,
+                    "text": "30]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sample size calculation of number of to be included patients"
+        },
+        {
+            "text": "We assume an infection rate in the pre-intervention phase of 4.42% for urinary tract infections from the reference data of the NRZ's ward KISS module for NI [31] . With an expected reduction of at least 50% for infection rate of 2.21%, a power of 80% and a significance level al-pha = 0.05, the required number of patients was: pre-intervention n = 652, and post-intervention n = 1304.",
+            "cite_spans": [
+                {
+                    "start": 157,
+                    "end": 161,
+                    "text": "[31]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sample size calculation of number of to be included patients"
+        },
+        {
+            "text": "This can be achieved in the two large hospital departments -each considered individually -and combining them increases the power.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sample size calculation of number of to be included patients"
+        },
+        {
+            "text": "By combining the study hospitals with a power of 80% and a reduction of only 25%, an infection rate of 3.3% can be achieved with the following case numbers:Pre-intervention n = 2954 and post-intervention n = 5908.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sample size calculation of number of to be included patients"
+        },
+        {
+            "text": "All wound infections, pneumonia and catheter-associated sepsis, and all other quantitatively relevant surgical interventions are also considered and evaluated descriptively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sample size calculation of number of to be included patients"
+        },
+        {
+            "text": "We included patients based on the surgery for trauma surgery/orthopedic diagnosis and inpatient admission to one of the trauma surgery/orthopedic normal wards.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Inclusion criteria for patients"
+        },
+        {
+            "text": "Infections are evaluated for the last surgery performed on a certain site.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Inclusion criteria for patients"
+        },
+        {
+            "text": "If an infection occurs within 90 days of surgery, it is considered nosocomial according to the KISS definitions [26] . For consecutive procedures, the 90-day period begins after the last operation on this site, according to the KISS definitions for implants.",
+            "cite_spans": [
+                {
+                    "start": 112,
+                    "end": 116,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Inclusion criteria for patients"
+        },
+        {
+            "text": "In case of polytraumas or other patients who temporary stay in the intensive care unit, only infections following the trauma surgery/orthopedics surgery (SSI) or which developed during their stay in the trauma surgery/orthopedics ward are considered. Infections will be considered to have developed in the normal ward if they appear more than 48 h after admission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Inclusion criteria for patients"
+        },
+        {
+            "text": "Only patients admitted to the normal ward were considered.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Inclusion criteria for patients"
+        },
+        {
+            "text": "Patients who leave the hospital prematurely against medical advice are excluded from the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exclusion criteria"
+        },
+        {
+            "text": "SSIs which develop during a stay in an intensive care unit or less than 48 h afterwards will not be considered. Infections brought along, and infections acquired before the time of study were also excluded. Nosocomial acquired infections of the same type are only recorded once, even if they occur repeatedly. Exceptions are cases in which the infection occurs after a free clinical interval and a blocking period of 14 days from the beginning of the previous infection [26] . ",
+            "cite_spans": [
+                {
+                    "start": 470,
+                    "end": 474,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Exclusion criteria"
+        },
+        {
+            "text": "The analysis of the routine DRG (Diagnosis Related Groups) depended on the hospital data and the infection surveillance data of the year 2016 in the pilot hospital. The interdisciplinary project team decided to include SSI, urinary tract infections, pneumonia, catheter sepsis, secondary sepsis, C. difficile infections, mortality, and antibiotic consumption as the outcome of NIs. The economic effects of NI prevention will be analyzed (i) from a hospital perspective and (ii) from a societal perspective. We used hospital routine accounting data to build our evaluation model. As direct variable costs (cost of materials used for treatment and cost of drugs) cannot be assigned per patient, the analysis focuses on indirect costs (i.e. opportunity costs of bed-days blocked by NI patients). Available routine data covers patient data (age, sex), ICD coding, OPS coding, data on ward capacity, DRG revenue per patient, and intervention costs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic outcome"
+        },
+        {
+            "text": "To analyze the economic effects, different matching strategies are used. Based on the data available, a \"core sample\" for the evaluation will be established, covering all NI cases in the dataset. These NI cases are matched with patients without NI (normal cases) who were identical in the variable's main diagnosis, sex and age ( \u00b12 years). The average length of stay and the average DRG revenue per day will be calculated. In addition, linear regressions will be performed to analyze additional LOS.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic outcome"
+        },
+        {
+            "text": "Evaluating the data from a hospitals perspective, special emphasis will lay on the of (indirect) opportunity costs which play a major role for hospitals [32] .",
+            "cite_spans": [
+                {
+                    "start": 153,
+                    "end": 157,
+                    "text": "[32]",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Economic outcome"
+        },
+        {
+            "text": "The opportunity costs are defined as the difference between Revenues Realized treating NI patients and Revenues Foregone for not using the bed capacity blocked by NI patients for the treatment of normal cases. The determinants of the bed-day opportunity costs are the length of stay of the NI patients, the daily revenues received for the normal cases, the occupation rate of the relevant hospital or department respectively, and the daily revenues received for NI patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic outcome"
+        },
+        {
+            "text": "Opportunity costs are calculated according to the following equation:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic outcome"
+        },
+        {
+            "text": "Opportunity Costs = Length of Stay NI x Daily Revenues Realized normal x Occupancy Rate -Length of Stay NI x Daily Revenues Realized NI.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic outcome"
+        },
+        {
+            "text": "If NIs prolong the average length of stay of the affected patients, the infection \"blocks\" beds, which are then no longer available for the treatment of \"normal patients.\" Thereby, the hospital loses revenue.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic outcome"
+        },
+        {
+            "text": "Evaluating the economic effects of NI prevention from societal perspective, additional LOS of NI patients becomes relevant. The corresponding data is valued with the productivity losses of NI patients affected.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic outcome"
+        },
+        {
+            "text": "In addition to the outcome parameters, the following literaturebased packages of measures were defined for the intervention study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic outcome"
+        },
+        {
+            "text": "The structured development of an intervention bundle containing a complex intervention but no further details on team play and measure selection has been described so far. Therefore, a structured process for developing an intervention bundle is described here.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention measures"
+        },
+        {
+            "text": "Schematic workflow of the intervention measures selection procedure:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention measures"
+        },
+        {
+            "text": "1. Building an interdisciplinary team, which aims at reducing infection rates and organizing the selection process 2. Collecting basic information a. Establishment of a local infection rate surveillance system b. Systematic literature review c. Process analysis of currently performed IPM and adherence 3. Compilation of a provisional, evidence-based infection prevention measure bundle based on the results of No. 2 4. Anticipation of needed economic resources (materials, infrastructure, staff) and human factors (reactance and possible counter measures) needed for the bundle 5. Modification of the provisional bundle taking into account the considerations in No. 4 to create a highly efficient, but at the same time feasible approach under local conditions 6 Assembling smaller work groups for detailed planning of implementation 7. Discussion of the work groups' proposals and adoption by the interdisciplinary team 8 Implementation of the bundle",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention measures"
+        },
+        {
+            "text": "The data was routinely collected in accordance with Hygmed-VoNRW \u00a78 and the Infection Protection law \u00a723, and recorded in a newly created database [23, 33] . An ethics vote was obtained for the conduct of the study and data collection. The same data was collected for pre-and post-observation.",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 151,
+                    "text": "[23,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 152,
+                    "end": 155,
+                    "text": "33]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Outcome measures and data collection 4.3.1. Data management and data safety"
+        },
+        {
+            "text": "In order to simplify data collection, some result parameters such as ASA scores, wound contamination class according to CDC, surgical urgency, preoperative antibiotic interval, and blood supply were recorded routinely.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcome measures and data collection 4.3.1. Data management and data safety"
+        },
+        {
+            "text": "Data originates from clinical CCP, Ixserve, IMP, Hybase Statistics Program 2018 (epiNET AG) and recordings of the anesthesia department.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data sources"
+        },
+        {
+            "text": "The data collected in this non-experimental study are mainly routinely generated patient and process data, which are collected exclusively within the framework of current medical practice in accordance with HygmedVoNRW \u00a78 and the Infection Protection law \u00a723, and are protected and evaluated anonymously in accordance with the Federal Data Protection Act (BDSG) and the General Data Protection Regulation (GDPR) and according to \u00a715 of the professional code of conduct for physicians of the Medical Association of North Rhine [23, 33, 34] .",
+            "cite_spans": [
+                {
+                    "start": 526,
+                    "end": 530,
+                    "text": "[23,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 531,
+                    "end": 534,
+                    "text": "33,",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 535,
+                    "end": 538,
+                    "text": "34]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data safety"
+        },
+        {
+            "text": "The analysis is performed anonymously in a separate database. The data of the other test centers are encrypted and passed on via an external data carrier.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data safety"
+        },
+        {
+            "text": "No written consent of the employees is required for open adherence analyses, as this is common infection prevention practice under the German Infection Protection Act, as is also the case with the \"Clean Hands Campaign (ASH)\" of the National Reference Center for Surveillance of NI is supported by the German Federal Ministry of Health.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data safety"
+        },
+        {
+            "text": "The employees involved are verbally informed before the start of adherence monitoring and their consent is obtained. The observations focus on the implemented interventions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data safety"
+        },
+        {
+            "text": "The employee surveys are carried out voluntarily and anonymously with prior clarification of content, purpose, voluntary participation, and the possibility of termination at any time without giving reasons.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data safety"
+        },
+        {
+            "text": "Data from the different sources (laboratory data, anesthesia data, and surgical data) will be joined patient-wise into a single data table that allows for various analyses:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Planned statistical analysis"
+        },
+        {
+            "text": "The risk of developing a nosocomial infection/surgical site infection will be modeled by a generalized linear model with logit link (logistic regression), eventually including random effects for the patient (if we measure patients more than once), staff and location [35, 36] . Predictors in the model are pre-and post-phase, common covariates such as gender and age, as well as other variables such as the ASA score. Note that we may have to reduce the number of predictors if the number of NI is rather small. Given the model, we will generate well interpretable coefficients that describe the odds ratios for the predictors along with associated p-values calculated via Wald-type tests.",
+            "cite_spans": [
+                {
+                    "start": 267,
+                    "end": 271,
+                    "text": "[35,",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 272,
+                    "end": 275,
+                    "text": "36]",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Planned statistical analysis"
+        },
+        {
+            "text": "The adherence for hand hygiene and for various processes in the operating theater, and adherence for processing dressing changes is measured by checklists. Scores are derived from the checklists and modeled by linear mixed effect models or Tobit models [36, 37] depending on the distribution of the residuals. Predictors in the models are pre and postphase, staff level, and sex of staff members.",
+            "cite_spans": [
+                {
+                    "start": 253,
+                    "end": 257,
+                    "text": "[36,",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 258,
+                    "end": 261,
+                    "text": "37]",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Planned statistical analysis"
+        },
+        {
+            "text": "Pairwise comparisons of separate single items from hand hygiene, processes in the operating theater, and processes for dressing changes will be analyzed by Welch tests and permutations tests, if applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Planned statistical analysis"
+        },
+        {
+            "text": "Statistical calculations will be performed by the statistical software R and corresponding contributed packages coin, lme4, mgcv and VGAM [37] [38] [39] [40] [41] .",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 142,
+                    "text": "[37]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 143,
+                    "end": 147,
+                    "text": "[38]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 148,
+                    "end": 152,
+                    "text": "[39]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 153,
+                    "end": 157,
+                    "text": "[40]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 158,
+                    "end": 162,
+                    "text": "[41]",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Planned statistical analysis"
+        },
+        {
+            "text": "The ethics vote (Application No 215/2017 of February 08, 2018) of the ethics commission of the University of Witten/Herdecke is informed about the following procedure and has agreed to it:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "The data collected in this non-experimental study are mainly routinely generated patient and process data, which are collected exclusively within the framework of current medical practice in accordance with HygmedVoNRW \u00a78 and the German Protection against Infection Act ( \u00a723 IfSG), and are protected and evaluated anonymously in accordance with the Federal Data Protection Act (BDSG) and the General Data Protection Regulation (GDPR) and according to \u00a715 of the professional code of conduct for physicians of the Medical Association of North Rhine [23, 33, 34] .",
+            "cite_spans": [
+                {
+                    "start": 549,
+                    "end": 553,
+                    "text": "[23,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 554,
+                    "end": 557,
+                    "text": "33,",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 558,
+                    "end": 561,
+                    "text": "34]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "The compliance observation is an open observation and is only carried out on persons who agree with the observation. No written consent of the employees is required for the performance of open adherence analyses, as this is common infection prevention practice under the German Infection Protection Act, as is also the case with the ASH of the National Reference Center for Surveillance of NI is supported by the German Federal Ministry of Health [21] .",
+            "cite_spans": [
+                {
+                    "start": 447,
+                    "end": 451,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "The employees involved were verbally informed before the start of adherence monitoring and their consent is obtained. The observations focus on the implemented interventions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "The employee surveys were carried out voluntarily and anonymously with prior clarification of content, purpose, voluntary participation, and the possibility of termination at any time without giving reasons.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "First, the results of the respective study phases are reflected to the employees and flow into the development of the modular training program and internal further training. In addition, the results are presented at national and international congresses and published in leading professional journals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "In the HygArzt study, we will investigate the possibilities for intervention and sustainable introduction as well as for the implementation of hygiene measures in orthopedics and trauma surgery by the PLP. The aim is to reduce the rates of NI with special regard to postoperative wound infections by successful implementation and the increased adherence with the IPM introduced and adjusted.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Routinely generated clinical, laboratory chemical and microbiological findings are used for processing analyses during patient care in or-der to optimize the nursing care and therapy of frequent clinical procedures in trauma surgery/orthopedics.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The \"HygPFLEG\" project (Development, implementation and evaluation of a modular Continuing education curricula for nursing staff responsible for hygiene by hygiene specialists) [42] has already shown that the implementation of hygiene measures by internal employees might be more successful. During this study a curriculum according to the train the trainer approach was developed that combined the contents of hospital hygiene with didactic and psychological methods. With this training program, the nursing staff was trained as hygiene nurses. It proved to be advantageous within the training program to implement hygiene measures together with the staff during every day clinical processes [29, 43] . Based on the results of the \"HygPFLEG\" project, the staff at stations in the \"HygArzt\" study are also involved in the implementation of hygiene measures.",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 181,
+                    "text": "[42]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 693,
+                    "end": 697,
+                    "text": "[29,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 698,
+                    "end": 701,
+                    "text": "43]",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Despite precise planning, several limitations can occur at the level of the patients, the nursing, and medical staff as well as during the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "On the one hand, an insufficient number of cases, patients, or observed employees could limit the study, so that the result parameters evaluated would have to be reduced in order to maintain the statistical quality criteria sufficiently.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "A low adherence of employees with the interventions to be introduced could also be another limiting factor. However, these possible difficulties should be reduced by accompanying the intervention implementation, the adherence control as well as the direct behavioral feedback.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Likewise, the presence of an observer and the knowledge of the employees that are being observed could lead to the Hawthorne effect [44] [45] [46] and to social desirability, thus falsifying internal validity and results.",
+            "cite_spans": [
+                {
+                    "start": 132,
+                    "end": 136,
+                    "text": "[44]",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 137,
+                    "end": 141,
+                    "text": "[45]",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 142,
+                    "end": 146,
+                    "text": "[46]",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "However, it is assumed that recurring observations lead to habituation and decrease the effect of social desirability.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The repeated observation of the small sample of nursing and medical employees could lead to distortions due to individual deviations in the form of under-or above-average adherence of individual employees.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In order to reduce possible distortions due to different assessment by the observers, standardized observation sheets are used, and the observers are trained in advance. During trial runs, the interrater reliability is checked in advance and the classification of the situation observations is reflected and discussed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Possible effects on hygiene behavior due to the SARS-CoV-2 pandemic from March 2020 until the end of the study are taken into account in the evaluation of the observed data. The collected data should provide evidence that the action of a PLP could lead to a reduction in NI and adherence show the potential of this position. The PLP will be placed at the center of the implementation of hygienic prevention measures. Through the train the trainer approach, he himself becomes a trainer for his department. This approach is intended to achieve rapid implementation of preventive measures. In addition, a general best practice model will be developed, focusing on adherence-based hygiene measures in order to make them available to other hospitals or medical disciplines.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The inclusion of patients started in March 2018 and ended in July 2020. Follow-up of included patients to see if they develop a postoperative wound infection will end in July 2021. The included departments treat mostly emergency patients. This number has not decreased despite SARS-CoV-2 pandemic situation. Only the number of elective patients might have decreased, as these surgeries were not performed during the acute phases of the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Current status of the project"
+        },
+        {
+            "text": "Since the study is divided into a pilot phase and study phase, only the post-phase of the study phase is affected by the pandemic and the majority of the included patients were scheduled from the beginning purely emergency trauma surgery patients. For these two reasons, the pandemic number will not adversely affect the study results.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Current status of the project"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "The ethics vote (Application No 215/2017 of February 08, 2018) of the ethics commission of the University of Witten/Herdecke is informed about the following procedure and has agreed to it:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "The data collected in this non-experimental study are mainly routinely generated patient and process data, which are collected exclusively within the framework of current medical practice in accordance with HygmedVoNRW \u00a78 and the German Protection against Infection Act ( \u00a723 IfSG), and are protected and evaluated anonymously in accordance with the Federal Data Protection Act (BDSG) and the General Data Protection Regulation (GDPR) and according to \u00a715 of the professional code of conduct for physicians of the Medical Association of North Rhine.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "The compliance observation is an open observation and is only carried out on persons who agree with the observation. No written consent of the employees is required for the performance of open adherence analyses, as this is common infection prevention practice under the German Infection Protection Act, as is also the case with the ASH of the National Reference Center for Surveillance of NI is supported by the German Federal Ministry of Health.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "The employees involved were verbally informed before the start of adherence monitoring and their consent is obtained. The observations focus on the implemented interventions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and dissemination"
+        },
+        {
+            "text": "This work was supported by the Federal Ministry of Health Germany grant number (ZMVI1-2516FSB111). The Federal Ministry of Health Germany has exclusively provided funding for personnel and material resources for the research project. The funding is a state sponsorship.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "MN is the corresponding author, elaborated this article and developed tools for data acquisition of the study data and will collect them.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "BM conducted an extensive literature research to prepare a literature review on which the selection of the infection prevention measure for the study bundle was based.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "CK helped to design the study. DB analyzed the patient data for economic outcome parameters. DS developed the economic outcome parameters of the study. SW conducted the sample size calculation and will support the statistical analysis of the study results.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "UW conducted the sample size calculation and will support the statistical analysis of the study results.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "FM created and designed the study, critically revised this manuscript and is scientific supervisor. FM and RO have the same contribution as scientific supervisor.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "RO created and designed the study, critically revised this manuscript and is scientific supervisor and he is the head of the study. RO and FM have the same contribution as scientific supervisor.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "All authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declaration of competing interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Surgical site infection: incidence and impact on hospital utilization and treatment costs",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "De Lissovoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Fraeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Hutchins",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Vaughn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Am. J. Infect. Contr",
+            "volume": "37",
+            "issn": "5",
+            "pages": "387--397",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Nosocomial infection and antibiotic use",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Behnke",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Leistner",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A P"
+                    ],
+                    "last": "Diaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gropmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Dtsch \u00c4rztebl Int",
+            "volume": "110",
+            "issn": "38",
+            "pages": "627--633",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "NQF: Surgery 2015-2017 Final Report",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Operationen und Prozeduren an vollstation\u00e4ren Patienten: Deutschland, Jahre, Operationen und Prozeduren",
+            "authors": [
+                {
+                    "first": "Statistisches",
+                    "middle": [],
+                    "last": "Bundesamt",
+                    "suffix": ""
+                },
+                {
+                    "first": ";",
+                    "middle": [],
+                    "last": "Destatis",
+                    "suffix": ""
+                },
+                {
+                    "first": ")",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Statistisches",
+                    "middle": [],
+                    "last": "Bundesamt Deutschland",
+                    "suffix": ""
+                },
+                {
+                    "first": "-Genesis-Online",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Ambulatory surgery in the United States",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cullen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Golosinskiy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Natl Health Stat Report",
+            "volume": "",
+            "issn": "11",
+            "pages": "1--25",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Pr\u00e4vention postoperativer Infektionen: risikofaktoren und aktuelle WHO-Guidelines in der muskuloskelettalen Chirurgie",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Willy",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Rieger",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Stichling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "120",
+            "issn": "",
+            "pages": "472--485",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Surveillance of Surgical Site Infections in NHS Hospitals in England",
+            "authors": [
+                {
+                    "first": "Public",
+                    "middle": [],
+                    "last": "Health England",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Public Health England",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Chlorhexidine versus routine bathing to prevent multidrug-resistant organisms and all-cause bloodstream infections in general medical and surgical units (ABATE Infection trial): a cluster-randomised trial",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Septimus",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kleinman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moody",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hickok",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Heim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Lancet",
+            "volume": "393",
+            "issn": "",
+            "pages": "1205--1215",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Reduction of nosocomial bloodstream infections and nosocomial vancomycin-resistant Enterococcus faecium on an intensive care unit after introduction of antiseptic octenidine-based bathing",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Messler",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Klare",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wappler",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Werner",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Ligges",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Sakka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J. Hosp. Infect",
+            "volume": "101",
+            "issn": "3",
+            "pages": "264--271",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Targeted versus universal decolonization to prevent ICU infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Septimus",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kleinman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moody",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hickok",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Avery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N. Engl. J. Med",
+            "volume": "368",
+            "issn": "24",
+            "pages": "2255--2265",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The effect of care bundle development on surgical site infection after hemiarthroplasty: an 8-year review",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Starks",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bancroft",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Roberts",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Trauma Acute Care Surg",
+            "volume": "72",
+            "issn": "5",
+            "pages": "1375--1379",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Chlorhexidine body washing to control antimicrobial-resistant bacteria in intensive care units: a systematic review",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "P G"
+                    ],
+                    "last": "Derde",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J D"
+                    ],
+                    "last": "Dautzenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J M"
+                    ],
+                    "last": "Bonten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Intensive Care Med",
+            "volume": "38",
+            "issn": "6",
+            "pages": "931--939",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Oral antibiotic bowel preparation significantly reduces surgical site infection rates and readmission rates in elective colorectal surgery",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cannon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Hawn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Ann. Surg",
+            "volume": "261",
+            "issn": "6",
+            "pages": "1034--1040",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Preventing surgical-site infections in nasal carriers of Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "G M"
+                    ],
+                    "last": "Bode",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A J W"
+                    ],
+                    "last": "Kluytmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "F L"
+                    ],
+                    "last": "Wertheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bogaers",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M J E"
+                    ],
+                    "last": "Vandenbroucke-Grauls",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Roosendaal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "N. Engl. J. Med",
+            "volume": "362",
+            "issn": "1",
+            "pages": "9--17",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Pr\u00e4vention postoperativer Wundinfektionen\": aktualisierte Empfehlung der Kommission f\u00fcr Krankenhaushygiene und Infektionspr\u00e4vention (KRINKO)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mielke",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hansis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Bundesgesundheitsblatt -Gesundheitsforsch. -Gesundheitsschutz",
+            "volume": "61",
+            "issn": "4",
+            "pages": "371--373",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "World Health Organization, Global Guidelines for the Prevention of Surgical Site Infection, World Health Organization",
+            "authors": [],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Infectious diseases society of America. Hand hygiene task force. Guideline for hand hygiene in health-care settings: recommendations of the healthcare infection control practices advisory committee and the HICPAC/SHEA/ APIC/IDSA hand hygiene task force",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Boyce",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Pittet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Infect. Control Hosp. Epidemiol. Suppl",
+            "volume": "12",
+            "issn": "",
+            "pages": "3--40",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Association of a bundled intervention with surgical site infections among patients undergoing cardiac, hip, or knee surgery",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Schweizer",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.-Y",
+                    "middle": [],
+                    "last": "Chiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Septimus",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moody",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Braun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hafner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Am. Med. Assoc",
+            "volume": "313",
+            "issn": "21",
+            "pages": "2162--2171",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "A bundle that includes active surveillance, contact precaution for carriers, and cefazolin-based antimicrobial prophylaxis prevents methicillin-resistant Staphylococcus aureus infections in clean orthopedic surgery",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kawamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Matsumoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Shigemi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Orita",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nakagawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nozima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Am. J. Infect. Contr",
+            "volume": "44",
+            "issn": "2",
+            "pages": "210--214",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "A standardized protocol to reduce pediatric spine surgery infection: a quality improvement initiative: clinical article",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ryan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Staggers",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Luerssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jea",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Neurosurg. Pediatr",
+            "volume": "14",
+            "issn": "3",
+            "pages": "259--265",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Aktion Saubere H\u00e4nde",
+            "authors": [
+                {
+                    "first": "Aktion",
+                    "middle": [],
+                    "last": "Saubere H\u00e4nde",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Compliance Beobachtungen -Referenzdaten Berechnungszeitraum",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Adherence to surgical antibiotic prophylaxis remains a challenge despite multifaceted interventions",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Putnam",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Podolnick",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sakhuja",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Matusczcak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Surgery",
+            "volume": "158",
+            "issn": "2",
+            "pages": "413--419",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Verordnung \u00fcber die Hygiene und Infektionspr\u00e4vention in medizinischen Einrichtungen (HygMedVO) Vom",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Nrw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "The role of the infection control link nurse",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Dawson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Hosp. Infect",
+            "volume": "54",
+            "issn": "4",
+            "pages": "251--257",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Strategies to promote infection prevention and control in acute care hospitals with the help of infection control link nurses: a systematic literature review",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Peter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kugler",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mattner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am. J. Infect. Contr",
+            "volume": "46",
+            "issn": "2",
+            "pages": "207--216",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Nationales Referenzzentrum f\u00fcr Surveillance von nosokomialen Infektionen, Robert Koch-Institut. Definitionen nosokomialer Infektionen f\u00fcr die Surveillance im Krankenhaus-Infektions-Surveillance-System (KISS-Definitionen)",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "National Healthcare Safety Network Surveillance for Surgical Site Infection (SSI) Events. 30",
+            "authors": [],
+            "year": 2017,
+            "venue": "Centers for Disease Control and Prevention",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Correction to: Implementation methods of infection prevention measures in orthopedics and traumatology -a systematic review, Eur",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Marche",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Neuwirth",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kugler",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bouillon",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mattner",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Otchwemah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "J Trauma Emerg. Surg",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00068-021-01610-6"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "O2109 indication, timing and complications of plate removal after forearm fractures: results of a metanalysis including 635 cases",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Evers",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Habelt",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gerngro\u00df",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Orthop Proc",
+            "volume": "86",
+            "issn": "3",
+            "pages": "289--289",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00068-021-01610-6"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "The prevalence of nosocomial infection and antibiotic use in German hospitals",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Behnke",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Aghdassi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A P"
+                    ],
+                    "last": "Diaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gastmeier",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Piening",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Dtsch Arztebl Int",
+            "volume": "114",
+            "issn": "50",
+            "pages": "851--857",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Nationales Referenzzentrum f\u00fcr Surveillance von nosokomialen Infektionen, Infektionssurveillance im Modul STATIONS-KISS Referenzdaten Berechnungszeitraum: Januar 2011 bis Dezember",
+            "authors": [],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Medicare Program; hospital inpatient prospective payment systems for acute care hospitals and the long-term care hospital prospective payment system changes and FY2011 rates; provider agreements and supplier approvals; and hospital conditions of participation for rehabilitation and respiratory care services; Medicaid program: accreditation for providers of inpatient psychiatric services. Final rules and interim final rule with comment period",
+            "authors": [
+                {
+                    "first": "Medicaid",
+                    "middle": [],
+                    "last": "Centers For Medicare",
+                    "suffix": ""
+                },
+                {
+                    "first": ";",
+                    "middle": [],
+                    "last": "Services",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hhs",
+                    "middle": [],
+                    "last": "Cms)",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Fed. Regist",
+            "volume": "75",
+            "issn": "157",
+            "pages": "50041--50681",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "\u00a7 23 IfSG -Einzelnorm",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Berufsrechtliche Beratung nach \u00a7 15 Berufsordnung",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Generalized Linear Models",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Mccullagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Nelder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Mixed-Effects Models in S and S-PLUS",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pinheiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bates",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Regression Models: Censored, Sample Selected or Truncated Data",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Breen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Implementing a class of permutation tests: the coin package",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hothorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hornik",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Van De Zeileis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Stat. Software",
+            "volume": "28",
+            "issn": "8",
+            "pages": "1--23",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Fitting linear mixed-effects models using lme4",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bates",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "M\u00e4chler",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bolker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Stat. Software",
+            "volume": "67",
+            "issn": "1",
+            "pages": "1--48",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Generalized Additive Models: an Introduction with R, second ed",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Wood",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1201/9781315370279"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Vector Generalized Linear and Additive Models: with an Implementation in R",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Yee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-1-4939-2818-7"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Development and psychometric pilot-testing of a questionnaire for the evaluation of satisfaction with continuing education in infection control nurses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Peter",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mattner",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Igel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kugler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nurse Educ. Pract",
+            "volume": "31",
+            "issn": "",
+            "pages": "77--82",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-1-4939-2818-7"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "The development of an infection control link-nurse programme in a district general hospital",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Teare",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Peacock",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Hosp. Infect",
+            "volume": "34",
+            "issn": "4",
+            "pages": "267--278",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "The Hawthorne dogma",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sommer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1968,
+            "venue": "Psychol. Bull",
+            "volume": "70",
+            "issn": "6",
+            "pages": "592--595",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "What Happened at Hawthorne? New evidence suggests the Hawthorne effect resulted from operant reinforcement contingencies",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Parsons",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Science",
+            "volume": "183",
+            "issn": "4128",
+            "pages": "922--932",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Hawthorne effect -what did the original Hawthorne studies actually show?",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wickstr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bendix",
+                    "suffix": ""
+                },
+                {
+                    "first": "The",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Scand. J. Work. Environ. Health",
+            "volume": "26",
+            "issn": "4",
+            "pages": "363--367",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Double gloves for all other procedures \u2022 Glove change before implant insertion \u2022 Vancomycin soaking of transplant tendons in joint surgery \u2022 Gentamycin-containing cement for endoprosthesis implantation \u2022 No routine drainage in endoprosthetics \u2022 If drainage inserts removal is done <48 h post-surgery, no extension of antibiotic prophylaxis is required \u2022 Both seam and staple seam can be used Postoperative standards:",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Spirit-Figure with allocations, interventions, and outcomes at different time points.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgement"
+        }
+    ]
+}

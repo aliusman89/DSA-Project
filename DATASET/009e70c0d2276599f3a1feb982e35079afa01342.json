@@ -1,0 +1,2031 @@
+{
+    "paper_id": "009e70c0d2276599f3a1feb982e35079afa01342",
+    "metadata": {
+        "title": "Knowledge, Attitudes, and Practices Concerning COVID-19 in Bangladesh: A Qualitative Study of Patients With Chronic Illnesses",
+        "authors": [
+            {
+                "first": "Joao",
+                "middle": [
+                    "Soares"
+                ],
+                "last": "Martins",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rano",
+                "middle": [
+                    "Mal"
+                ],
+                "last": "Piryani",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sreekanth",
+                "middle": [
+                    "Kumar"
+                ],
+                "last": "Mallineni",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Shaharior",
+                "middle": [],
+                "last": "Rahman",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Razu",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Shaharior",
+                "middle": [],
+                "last": "Rahman Razu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Khulna University",
+                    "location": {
+                        "settlement": "Khulna",
+                        "country": "Bangladesh"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nishana",
+                "middle": [
+                    "Afrin"
+                ],
+                "last": "Nishu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Khulna University",
+                    "location": {
+                        "settlement": "Khulna",
+                        "country": "Bangladesh"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Md",
+                "middle": [],
+                "last": "Fajlay Rabbi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Khulna University",
+                    "location": {
+                        "settlement": "Khulna",
+                        "country": "Bangladesh"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ashis",
+                "middle": [],
+                "last": "Talukder",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Khulna University",
+                    "location": {
+                        "settlement": "Khulna",
+                        "country": "Bangladesh"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Paul",
+                "middle": [
+                    "R"
+                ],
+                "last": "Ward",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Flinders University",
+                    "location": {
+                        "settlement": "Adelaide",
+                        "region": "SA",
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The coronavirus disease-2019 (COVID-19) pandemic has disrupted every aspect of human life making people vulnerable to the disease (1) . To curb the spread of the coronavirus infection, national and partial closures have already been implemented in most countries around the world. At the same time, countries are following protective safety measures, such as hygiene practices and social distancing, suggested by health experts. Bangladesh, one of the most densely populated countries of the world with a population of 165.2 million, has been highly susceptible to COVID-19 since no proven vaccine or medicine is available for the disease right now (2, 3) . There have been 417,475 confirmed COVID-19 cases and 6,036 confirmed deaths owing to the disease in this country so far, and the number is still counting (4) . The pandemic can have a serious impact on the country due to its large population size, vulnerable economy, and weak healthcare system. The healthcare system of Bangladesh is still not well-prepared to face this health emergency (5) .",
+            "cite_spans": [
+                {
+                    "start": 130,
+                    "end": 133,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 649,
+                    "end": 652,
+                    "text": "(2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 653,
+                    "end": 655,
+                    "text": "3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 812,
+                    "end": 815,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1047,
+                    "end": 1050,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Due to the high transmissibility and unavailability of vaccines at this moment, COVID-19 has become a serious concern for people with chronic illness (3, 4) . Under the lockdown situation, these people are facing difficulties in taking regular checkups and emergency services making them more vulnerable. Chronic illnesses, such as heart diseases, diabetes, asthma, hypertension, cancer, and HIV, are the major leading causes of death in almost all countries around the world (6) . Although these diseases are common worldwide, the burden of such diseases is much higher in developing countries than the developed ones (7) .",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 153,
+                    "text": "(3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 154,
+                    "end": 156,
+                    "text": "4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 476,
+                    "end": 479,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 619,
+                    "end": 622,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Knowledge regarding the disease, attitude toward it, and the practices concerning COVID-19 can play a significant role under the circumstance. Knowledge regarding the disease refers to the belief of an individual about the symptoms, treatments, causes, and prevention of the disease (8) . While knowledge may control diseases and save lives (9), in many cases, wrong knowledge or misconceptions may endanger the lives of people. Attitudes are also important in handling diseases as positive attitudes make relaxation among people while negative attitudes create anxiety, depression, insomnia, and irritability (10) . Practices, on the other hand, are built on knowledge and attitudes ought to be evaluated during pandemics as this will enable policymakers to find out the real scenario during the COVID-19 pandemic (11) .",
+            "cite_spans": [
+                {
+                    "start": 283,
+                    "end": 286,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 610,
+                    "end": 614,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 815,
+                    "end": 819,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "It is evident that the study of knowledge, attitude, and practices concerning the disease among at-risk populations is useful to prevent, control, and mitigate infections during epidemics (5, 12) . Most of the existing literature shows the scenario of different communities from the general population, but there is very limited knowledge on the patients with chronic illnesses despite their high vulnerability to COVID-19 (6) . Considering this knowledge gap, the main aim of the present study was to identify the knowledge, attitude, and practices concerning COVID-19 among patients with chronic illnesses in Bangladesh through a qualitative study. The findings of this study will help to formulate and revise, and policies concerning interventions aimed at reducing transmission, spread, and contracting COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 188,
+                    "end": 191,
+                    "text": "(5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 192,
+                    "end": 195,
+                    "text": "12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 423,
+                    "end": 426,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "For analyzing the knowledge, attitudes, and practices of patients with chronic illnesses regarding COVID-19 in Bangladesh, we used the knowledge, attitudes, and practices (KAP) model in our study. The theory was first introduced in the 1960's to explain human health change behavior (13) . The model has been classified into three consecutive processes, i.e., knowledge, general attitudes, and adoption (practices) of behaviors called KAP theory. According to this theory, there is a progressive relationship among knowledge, attitudes, and behavior as follows: knowledge is the foundation of behavioral change, while belief and attitudes are the driving force of behavioral change. The basic presumption is that one's health promotion and effective illness management are linked with KAP level. On the other hand, poor health and maladaptive disease preventive behavior are associated with KAP deficiency (14) . This way we assume that the knowledge, attitudes, and practices of patients with chronic illnesses concerning COVID-19 can effectively increase or decrease their awareness, positive attitudes, and behaviors influencing the disease outcome. We, therefore, took KAP as the analytical model considering its relevance to the assessment of the knowledge, attitudes, and practices of patients with chronic illnesses concerning COVID-19 in Bangladesh.",
+            "cite_spans": [
+                {
+                    "start": 283,
+                    "end": 287,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 906,
+                    "end": 910,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "ANALYTICAL FRAMEWORK"
+        },
+        {
+            "text": "We conducted a qualitative study focusing on the narrative of patients with pre-existing chronic illnesses to bring out rich information on the topic of our study (15) . The research was performed in Khulna city of Bangladesh from May 2020 to September 2020. Given the risks of contacting COVID-19 with face-to-face interviews, we chose telephone interviews to collect data from our participants. Instead of population statistics, our sampling involved the particularly vulnerable group of patients with chronic illnesses during the pandemic as we selected the respondents purposively. The contact details of the participants were collected from the registration records of different clinics and health centers. We called the patients with chronic illnesses who visited medical practitioners in those clinics and health centers previously over the phone and briefed them about our research initially. Those who agreed to participate in our study were contacted further for data collection.",
+            "cite_spans": [
+                {
+                    "start": 163,
+                    "end": 167,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "METHODS AND MATERIALS"
+        },
+        {
+            "text": "We interviewed a total of 40 patients with four types of common chronic illnesses (diabetes, hypertension, asthma, and heart disease). Ten participants with each of these chronic illnesses were selected for interviews in this study. We used a semi-structured interview guide developed through a rigorous analysis of the previous literature on similar topics. Starting from the age of 18, we included patients from each of the four chronic illness categories where respondents of different ages, sex, religion, residence, marital status, and social classes participated to ensure maximum diversification of information ( Table 1) . While conducting qualitative research, telephone interviews can often be difficult to bring out narrative data. So we employed effective strategies based on lessons learned from previous studies that followed the same technique (16, 17) . We cultivated rapport, maintained regular connection, incorporated concerns, and acknowledged the contribution of our participants to ensure maximum effort and overcome the adversities that might limit the scope of this study during the 4-month of data collection. The duration of each interview varied based on the convenience of the respondents and the data collectors through an average session would last between 30 and 40 min. As it is often difficult to take the interview over the phone for a very long time and to enter into a deep conversation within a very short time, we carefully maneuvered this issue throughout data collection. Potential inquisitive questions and probes were used for further understanding of the reality experienced by the participants. We included a set of questions for our interviews in this study and provided this as Supplementary Material along with this manuscript. Authors, SRR, NAN, and MFR, conducted the interviews and collected data through multiple sessions and with the convenience of the participants.",
+            "cite_spans": [
+                {
+                    "start": 859,
+                    "end": 863,
+                    "text": "(16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 864,
+                    "end": 867,
+                    "text": "17)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 620,
+                    "end": 628,
+                    "text": "Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "METHODS AND MATERIALS"
+        },
+        {
+            "text": "All the data collected were recorded in information sheets, and audio has taped simultaneously for analyses. The transcribed data were coded and subsequently categorized for thematic analysis. SRR and NAN independently coded the data from the transcript developing a code structure initially, which was later finalized with the consent of the other authors. Level of knowledge, the pattern of attitude, and practices of the participants were measured focusing on accuracy, meaning, phrase, context, clause or concept, and frequency and intensity of comments as we ranked them into high/positive, moderate, and low/negative, categories for reference. Apart from using a qualitative data analysis software QDA Miner, we went through the records line-by-line as well. We selected the most important and repetitive quotes to represent the selected themes as five overarching themes emerged from our analyses-level of knowledge, sources of information, attitude and beliefs, hygiene practices and the use of protective equipment, and social distancing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Analysis"
+        },
+        {
+            "text": "We maintained strict ethical standards for conducting this study. We took informed consent from the participants before data collection as they were briefed about the subject matter of the study. The participants were assured that all the information they have provided will be kept confidential and that their responses will be used only for academic purposes. We used pseudonyms to keep the anonymity of all the participants in our study. We also obtained approval from the Ethical Clearance Committee of Khulna University for conducting this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethical Considerations"
+        },
+        {
+            "text": "We found that the level of knowledge among people about COVID-19 was moderate in our study. However, literate participants had sophisticated knowledge about COVID-19 as they had access to different sources, such as television, radio, and the internet. On the other hand, people who did not have sufficient education or had no access to media developed their knowledge from their surroundings, such as friends, family, or other contacts. One of the participants with asthma with relatively higher education expressed, \"COVID-19 is not a serious disease. We may control this virus by following the instructions of the government. Nevertheless, I have known that high temperature can kill the COVID-19 virus though I'm confused about it. There is mixed literature about the link between temperature and the spread. I hope, the outbreak of this virus will decrease after the availability of the Corona vaccine as most of the countries are not going for herd immunity.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Level of Knowledge"
+        },
+        {
+            "text": "Such statements imply a sophisticated knowledge of participants with higher education under the context although not all participants had so that much knowledge regarding the disease. We also observed that COVID-19 was regarded as a major threat at the beginning of the pandemic, but as time passed, the fear of COVID-19 decreased significantly. By the end of our data collection period, most of the participants were not worried about the disease anymore and were ready to deal with the implications of the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Level of Knowledge"
+        },
+        {
+            "text": "Another male participant with diabetes stated that \"I am not worried at all! Coronavirus is a serious disease. but not everyone dies from it. Since COVID-19 is transmitted through respiratory droplets, maintain social distances and wearing protective equipment can help us prevent the spread of this disease.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Level of Knowledge"
+        },
+        {
+            "text": "However, there were also misconceptions about the virus and its remedies. Though participants from an urban background, with a higher level of education and upper social class, had good knowledge about the disease and those who have not adequate education, lived in rural areas and from lower social class had a certain misunderstanding about the disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Level of Knowledge"
+        },
+        {
+            "text": "One of the participants with hypertension and a low-level education stated, \"Why should I bother about coronavirus! The medicine (vaccine) is available now. Now we should go back to our normal life.\" Another participant with heart disease expressed, \"I have seen different types of information in the social media. While some say the disease has symptoms, the others say it doesn't have any. Some people are saying high temperature kills the virus, while others nullified it. It's difficult to understand what is right and what is wrong these days.\" These participants highlighted the difficulties of \"understanding\" the risk factors for COVID-19 and optimal strategies for preventing transmission due to the confusing and often mixed messages they received from different information sources.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Level of Knowledge"
+        },
+        {
+            "text": "Under the lockdown situation, most of the participants with a higher level of education and higher social classes informed that they would stay indoors and gathered information regarding COVID-19 from various sources, such as national and international dailies, TV channels, and the internet.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sources of Information"
+        },
+        {
+            "text": "One of our participants shared, \"One day I was listening to the news on television. I suddenly got informed about COVID-19 then I asked my friends about it. Gradually I developed some knowledge about it.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sources of Information"
+        },
+        {
+            "text": "However, sources varied for people from different backgrounds. When we asked a female garment worker with a hypertension condition, the 33-year-old replied, \"I do not have time to watch television. I heard of it for the first time when my fellow workers shared this news (COVID- 19) sharing the news about COVID-19. I remember our manager ordered us to maintain social distancing and ordered that we should wash our hands frequently and we must have to use a face mask while working in the industry.\"",
+            "cite_spans": [
+                {
+                    "start": 279,
+                    "end": 282,
+                    "text": "19)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sources of Information"
+        },
+        {
+            "text": "The source of knowledge for the participants also differed based on geography. Participants who lived in city areas had access to the internet while participants who lived in rural areas did not have that. One of our participants from the city area shared, \"I came to know about COVID-19 from Facebook first. At first, I did not realize that it was that fatal and contagious. But after some time, I came to know about further details that it is so far the most contagious disease where the death rate is not very alarming but the rate of infection is very much shocking.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sources of Information"
+        },
+        {
+            "text": "Although a large number of people in Bangladesh have a low level of education and awareness regarding health matters, to our surprise, we observed that overall, the participants had a positive attitude toward COVID-19 in general. For example, they were supportive to people who contracted the disease or would not generally stigmatize someone for being COVID-19 positive at this stage. This may be due to various factors, such as widespread media circulation and awareness programs from the government during the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Attitudes and Beliefs"
+        },
+        {
+            "text": "A female participant with hypertension explained, \"People need to be more supportive during the lockdowns. Mental health is equally important as it affects our immunity system. I am ready to help to maintain social distancing.\" While another male participant with asthma from a rural background opined, \"Although COVID-19 is a contagious disease, a patient infected with it cannot be blamed. We should work together and support him/her during this distress.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Attitudes and Beliefs"
+        },
+        {
+            "text": "However, things were not the same in the initial phase of the pandemic, when people were obviously frightened and were unwilling to take the risk of contracting COVID-19. As months passed, they started to accept the risk of contracting COVID-19, partly to enable \"normal\" functioning in life and partly because of their perceptions of low mortality risks associated with COVID-19. Even there is still some prejudice against diseases, such as HIV, jaundice, cholera, malaria, and typhoid, in Bangladesh as some people consider these diseases as a curse. They often explain the epidemics and infectious diseases from their own supernatural beliefs. Such explanations are more common in rural areas.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Attitudes and Beliefs"
+        },
+        {
+            "text": "There was also a religious element to the perceived risks of contracting COVID-19, which seemed to also be linked to participants with lower education and in lower social classes, \"Real Muslims are not affected by COVID-19. Because they perform ablution during the five daily prayers according to Islamic law. The persons who strictly follow the rules of Islam, can't be affected by this virus.\" Another respondent expressed similarly, \"I think it is a course from God because of our wrong deeds. When the amount of evil deeds increases, such wraths from Allah is inevitable.\" Participants who believed that COVID-19 would not affect \"real Muslims\"and was an act of God would be less likely to adhere to Government guidelines about social distancing, social isolation, and other risk mitigation strategies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Attitudes and Beliefs"
+        },
+        {
+            "text": "Proper hygiene practices are extremely important to control the transmission of COVID-19. However, our participants reported that they followed hygiene practices concerning COVID-19 strictly initially when the pandemic started. As time passed, they started to care less and were less rigid in following practices, such as frequent hand-washing or using sanitizers regularly. This scenario was more common among participants from rural areas. One of our respondents from rural background said, \"is extremely difficult to follow each instruction they (government) give. I don't think it's that much necessary to cleanse my hands with sanitizer every single time I touch any object.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Hygiene Practices and the Use of Protective Equipment"
+        },
+        {
+            "text": "Aside from following these practices, the use of protective equipment is strongly recommended to keep COVID-19 away. Some participants also reported that though they had the willingness to buy sanitizers, masks, and gloves for protection but they could not pay for them. One of our male participants with diabetes mentioned, \"Sanitizer companies have raised the price of sanitizers and hand-wash products. A one-time mask costs 20 takas (Bangladeshi currency) these days. Is it logical to spare 20 takas for a one-time usable mask? I am not going to do it.\" Many participants expressed that they were unwilling to use protective equipment due to lack of willingness and discomfort. One of our participants with asthma condition narrated, \"I think it's impossible to wear a mask all the time. Many of these are cheap in quality and the premium ones block so much air that it makes it difficult for me to breathe properly. That's why I have decided to wear a mask only when it's an emergency.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Hygiene Practices and the Use of Protective Equipment"
+        },
+        {
+            "text": "A few participants, however, expressed that they are cautious about hygiene maintenance and wearing protective equipment due to their previous experiences. \"I became seriously ill when I had this coronavirus a few weeks back. Since then, I use mask whenever I go outside and avoid touching my eyes, nose, and mouth. I try to cover my nose and mouth with a tissue whenever coughing or sneezing and throw the tissue in the trash after using it. At the same time, frequently I wash my hands with hand sanitizer and soaps. I am trying to pay more attention to my hygiene than usual as I know I am weak (immunocompromised).\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Hygiene Practices and the Use of Protective Equipment"
+        },
+        {
+            "text": "Most of our participants shared that they have become less interested in taking nutritious foods or vitamin supplements to keep themselves healthy as days passed during the pandemic. They would not exercise or monitor their health regularly although the scenario was quite different at the beginning.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Hygiene Practices and the Use of Protective Equipment"
+        },
+        {
+            "text": "The WHO recommends the social distancing of 1 m from one person to another to prevent transmission of the COVID-19 (18) . This is why countries have imposed nationwide lockdowns and closed many institutions to avoid public gatherings. From our study, it was revealed that almost all the participants had some knowledge about social distancing, but none would follow the instructions. The reason they mentioned was either obligation or unwillingness as one of our young male participants with hypertension condition shared, \"I have to go to my factory every day. Otherwise, I will lose my job. I know that everyone should keep some distance from one another, but it is quite impossible for me because I have to use public transport each day. No one is following social distancing in this country. Why should and how can I do that alone!\"",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 119,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Social Distancing"
+        },
+        {
+            "text": "Most of the participants agreed to this statement that maintaining social distances was almost impossible for them when a majority in the society is careless about it as narrated by one of our respondents with heart disease, \"I don't think it is possible to maintain social distancing in the country. Look at this huge population! Most of them are unwilling to stay home for a long time. It is impossible to stay home for a long time.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Social Distancing"
+        },
+        {
+            "text": "Some also pointed the inability of the government to maintain social distancing, as a participant opined, \"The government failed to implement social distancing. You cannot make things work this way. Look at these poor people. They have many dependents in their family and our government simply cannot provide them with daily necessities for even 1 month.\" Another female participant with diabetes expressed her concern saying, \"I have been living in fear of contracting COVID-19 these days. Though I am staying home, the other members of my family are frequently visiting outdoors. People do not even care about social distancing these days. Who knows what they (family members) are bringing home!\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Social Distancing"
+        },
+        {
+            "text": "The objective of this study was to investigate the knowledge, attitude, and practice concerning COVID-19 among the patients with chronic illnesses in Bangladesh. To the best of our knowledge, this is the very first qualitative study using KAP theory in the country, and one of the very few over the globe. While conducting this study, we tried to get the most detailed information from patients with chronic illnesses regarding their experiences, beliefs, and concerns during the pandemic. Corresponding to some of the existing literature, we observed that most of the participants had a moderate level of knowledge about the transmission, symptoms, and prevention of COVID-19 (19) (20) (21) (22) . Even though the participants had decent knowledge about COVID-19, they practiced less in accordance with their knowledge level. Besides, although the attitude toward COVID-19 was positive in general, misconceptions regarding the disease were also reported by some participants. However, contrary to our findings, some other studies have reported positive attitudes and good practices concerning COVID-19 (18) (19) (20) (21) (22) .",
+            "cite_spans": [
+                {
+                    "start": 677,
+                    "end": 681,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 682,
+                    "end": 686,
+                    "text": "(20)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 687,
+                    "end": 691,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 692,
+                    "end": 696,
+                    "text": "(22)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1103,
+                    "end": 1107,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1108,
+                    "end": 1112,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1113,
+                    "end": 1117,
+                    "text": "(20)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1118,
+                    "end": 1122,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1123,
+                    "end": 1127,
+                    "text": "(22)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "We found that patients with chronic asthma and heart disease were generally more concerned about COVID-19 compared to the other risk groups in our study. This might be due to the fear of the increased risk of severity for heart and lung conditions (23) . Besides, almost all the participants in our study faced treatment difficulties during the COVID-19 period as many doctors would not visit patients during the pandemic. While epidemic outbreaks can cause psychological trauma and negative emotions, such as fear, anxiety, and helplessness, the unavailability of doctors during the COVID-19 pandemic affected the mental state of patients with chronic illnesses (5, 24) . We noted that all the participants in our study were more careful about their health during the initial COVID period than pre-COVID time. As time passed, the majority of the respondents started practicing safety behaviors less and would rarely wash their hands with soap or sanitizer. After a few months of the inception of the pandemic, touching face with unwashed hands, shaking, moving outside became very common (6) . To maintain risk mitigation behaviors, more regular Government mass-media messaging may be required.",
+            "cite_spans": [
+                {
+                    "start": 248,
+                    "end": 252,
+                    "text": "(23)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 663,
+                    "end": 666,
+                    "text": "(5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 667,
+                    "end": 670,
+                    "text": "24)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1089,
+                    "end": 1092,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Previous studies also mentioned that to control infectious diseases such as the H1N1 flu outbreak, the assessment of the knowledge, attitude, and practice of people has played a significant role (8, (25) (26) (27) . Knowledge, attitudes, and practices regarding COVID-19 among the patients with chronic illnesses might play an important role to combat the transmission, especially in countries, such as Bangladesh, where health facilities are poor (1, 28) .",
+            "cite_spans": [
+                {
+                    "start": 195,
+                    "end": 198,
+                    "text": "(8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 199,
+                    "end": 203,
+                    "text": "(25)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 204,
+                    "end": 208,
+                    "text": "(26)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 209,
+                    "end": 213,
+                    "text": "(27)",
+                    "ref_id": null
+                },
+                {
+                    "start": 448,
+                    "end": 451,
+                    "text": "(1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 452,
+                    "end": 455,
+                    "text": "28)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The KAP theory suggests that knowledge of people is often derived from their education. Corresponding to this theory, we also observed that the education and knowledge of our participants are interrelated (22) . We found that participants with higher social status and living in urban areas had higher knowledge levels and followed the safety instructions recommended by the Ministry of Health and Family Welfare of Bangladesh and WHO more accurately than the others. Around two-thirds of the total population in Bangladesh live in rural areas while most of them are poor (2, 24) . While these people had some basic knowledge, they were often unwilling to practice the health instructions properly due to work-related and financial reasons (6) . Besides financial issues, we also recorded that religion was linked with knowledge, attitude, and practices concerning COVID-19. We observed that many orthodox followers of Islam were unwilling to practice social distancing and believed that the COVID-19 pandemic is a curse from God and will not affect the believers (15) . Research is required to understand if this is similar in other predominantly Muslim countries, and indeed, in other orthodox followers of other religions around the world. Targeted public health information is required to work with religious communities to reduce the risks of transmission of COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 205,
+                    "end": 209,
+                    "text": "(22)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 572,
+                    "end": 575,
+                    "text": "(2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 576,
+                    "end": 579,
+                    "text": "24)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 740,
+                    "end": 743,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1064,
+                    "end": 1068,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Knowledge, attitude, and practices of people concerning any health behavior are largely dependent on their sources of information. In line with some existing literature, our study showed that the majority of the participants with a higher level of educated obtained information regarding COVID-19 from mass media such as television, radio, and the internet (6, 15, 19, 22, 29) . It is interesting that, more than surrounding people like friends and family or healthcare professionals, mass media played a more important role in spreading awareness on COVID-19 and helped to curb the transmission of the disease (30, 31) . In contrast, the participants with low education have reported learning about the virus mostly from people around them (29, 31) . We found a majority of the participants to hold an optimistic attitude toward COVID-19 patients and expressed positive ideas to overcome the pandemic in line with some of the previous research (20, 22) . We also observed that safe practices were significantly higher among the women, married, educated, and those who live in urban areas (6, 19) while safety practices and use of protective equipment were less common among the unmarried, illiterate, and rural men (19, 22) .",
+            "cite_spans": [
+                {
+                    "start": 357,
+                    "end": 360,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 361,
+                    "end": 364,
+                    "text": "15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 365,
+                    "end": 368,
+                    "text": "19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 369,
+                    "end": 372,
+                    "text": "22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 373,
+                    "end": 376,
+                    "text": "29)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 611,
+                    "end": 615,
+                    "text": "(30,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 616,
+                    "end": 619,
+                    "text": "31)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 741,
+                    "end": 745,
+                    "text": "(29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 746,
+                    "end": 749,
+                    "text": "31)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 945,
+                    "end": 949,
+                    "text": "(20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 950,
+                    "end": 953,
+                    "text": "22)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1089,
+                    "end": 1092,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1093,
+                    "end": 1096,
+                    "text": "19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1216,
+                    "end": 1220,
+                    "text": "(19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1221,
+                    "end": 1224,
+                    "text": "22)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "We acknowledge that our study has certain limitations as we had to conduct the research during the pandemic situation. It was not possible for us to collect data through face-to-face interviews during the series of nationwide lockdowns. We also admit that it is difficult to conduct research using this technique. However, we employed effective interviewing strategies, such as maintenance of regular contacts and recording concerns of the interviewees, over a significant time to overcome the odds. Besides, there may be questions regarding the simplification of results with a few numbers of participants, but we strengthened the rigor of information by the quality of the data in our study. The main strength of this study, however, was its novelty that we employed KAP theory from the qualitative perspective in Bangladesh for the first time in this study. We believe that the findings of this study can provide important insights for policymakers to formulate and improvise awareness programs and strategies to manage the pandemic or similar events in the future.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "STRENGTHS AND LIMITATIONS"
+        },
+        {
+            "text": "Patients with chronic illnesses in Bangladesh have become vulnerable during the COVID-19 pandemic. The findings of this study revealed that the patients with chronic illnesses had moderate knowledge and a positive attitude toward COVID-19, but their safety practices were weak. Although the government has already taken several steps to mitigate the spread of the diseases, it has been difficult to ensure proper safety practices due to different socioeconomic issues. Applying the KAP theory, we tried to how the participants' knowledge, attitude, and practices depend on their level of awareness. Owing to these facts, health education programs and policy interventions are necessary to ensure the health and well-being of patients with chronic illnesses right now. Under this circumstance, the above findings have some important policy implications. First, awareness programs on mass media should be emphasized more under the lockdown situation. Second, specialized and emergency medical services should be ensured for the patients with chronic illnesses. Third, the government needs to impose safety practices more strictly. Special subsidies on hygiene products and personal protective equipment can be provided to make it more available for people. Finally, we suggest that patients with chronic illnesses be prioritized when the vaccines are available. Preferably, it should be provided free of charge to the vulnerable groups who are at high risk at present. While implications of this study will help policymakers and researchers, we recommend further research on this topic to get a comprehensive idea of the knowledge, attitude, and practices concerning COVID-19 in Bangladesh.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        },
+        {
+            "text": "The original contributions presented in the study are included in the article/Supplementary Material, further inquiries can be directed to the corresponding author.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DATA AVAILABILITY STATEMENT"
+        },
+        {
+            "text": "The studies involving human participants were reviewed and approved by Ethical Clearance Committee, Khulna University. Written informed consent for participation was not required for this study in accordance with the national legislation and the institutional requirements.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ETHICS STATEMENT"
+        },
+        {
+            "text": "All authors listed have made a substantial, direct, and intellectual contribution to the work and approved it for publication.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AUTHOR CONTRIBUTIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Knowledge, attitude, practice and perception regarding COVID-19 among students in Bangladesh: survey in Rajshahi University. medRxiv",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wadood",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mamun",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rafi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Islam",
+                    "middle": [],
+                    "last": "Mk",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mohd",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.21.20074757"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "National Preparedness and Response Plan for COVID-19",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Azad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Knowledge, attitude, and preventive practices toward COVID-19 among Bangladeshi internet users",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rahman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sathi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Electron J Gen Med",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.29333/ejgm/8223"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "An interactive web-based dashboard to track COVID-19 in real time",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "533--537",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30120-1"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "COVID-19 and Bangladesh: challenges and how to address them. Front Public Health",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Anwar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nasrullah",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hosen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fpubh.2020.00154"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Knowledge, attitude and practice towards COVID-19 among chronic disease patients at addis zemen hospital, Northwest Ethiopia",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Akalu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ayelign",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Molla",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Infect Drug Resist",
+            "volume": "13",
+            "issn": "",
+            "pages": "1949--60",
+            "other_ids": {
+                "DOI": [
+                    "10.2147/IDR.S258736"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "World Health Organization. The Impact of Chronic Diseases in Bangladesh",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "How much can a KAP survey tell us about people's knowledge, attitudes and practices? Some observations from medical anthropology research on malaria in pregnancy in Malawi",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Launiala",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Anthropol Matters",
+            "volume": "11",
+            "issn": "",
+            "pages": "1--13",
+            "other_ids": {
+                "DOI": [
+                    "10.22582/am.v11i1.31"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Center for Chronic Diseases Prevention and Promotion. About Chronic Diseases",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The COVID-19 outbreak: crucial role the psychiatrists can play",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Asian J Psychiatr",
+            "volume": "50",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ajp.2020.102014"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Knowledge and practices towards COVID-19 during its outbreak: a multinational cross-sectional study. medRxiv",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Naser",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Dahmash",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Alwafi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Alsairafi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rajeh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.13.20063560"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Knowledge and attitude towards COVID-19 in Bangladesh: population-level estimation and a comparison of data obtained by phone and online survey methods. medRxiv",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Karim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Akter",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mazid",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Pulock",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Aziz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hayee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.05.26.20104497"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Development and psychometric testing of the Knowledge, Attitudes and Practices (KAP) questionnaire among student Tuberculosis (TB) Patients (STBP-KAPQ) in China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Infect Dis",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12879-018-3122-9"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Pain management practices by nurses: an application of the Knowledge, Attitude and Practices (KAP) model",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Alzghoul",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nac",
+                    "middle": [],
+                    "last": "Abdullah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Glob J Health Sci",
+            "volume": "8",
+            "issn": "",
+            "pages": "154--60",
+            "other_ids": {
+                "DOI": [
+                    "10.5539/gjhs.v8n6p154"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Qualitative research: the importance of conducting research that doesn't count",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Watkins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Health Promot Pract",
+            "volume": "13",
+            "issn": "",
+            "pages": "153--161",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1524839912437370"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Conducting qualitative interviews by telephone: lessons learned from a study of alcohol use among sexual minority and heterosexual women",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Drabble",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Trocki",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Salcedo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Korcha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Qual Soc Work",
+            "volume": "15",
+            "issn": "",
+            "pages": "118--151",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1473325015585613"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "The telephone medium and semi-structured interviews: a complementary fit",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cachia",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Millward",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Qual Res Org Manag Int J",
+            "volume": "6",
+            "issn": "",
+            "pages": "265--77",
+            "other_ids": {
+                "DOI": [
+                    "10.1108/17465641111188420"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Awareness, attitudes, and practices related to coronavirus pandemic among public in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Almutairi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ema",
+                    "middle": [],
+                    "last": "Helih",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moussa",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Boshaiqah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Alajilan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Vinluan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Fam Community Health",
+            "volume": "38",
+            "issn": "",
+            "pages": "332--372",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/FCH.0000000000000082"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Knowledge, attitude and practice toward the novel coronavirus (COVID-19) outbreak: a population based survey in Iran",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Erfani",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Shahriarirad",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ranjbar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mirahmadizadeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moghadami",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Bull World Health Organ",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2471/BLT.20.256651"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Knowledge, attitudes, and practices (KAP) towards COVID-19: a quick online crosssectional survey among Tanzanian residents. medRxiv",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rugarabamu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ibrahim",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Byanaku",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.26.20080820"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "attitudes and practices of syrian refugee mothers towards sexually transmitted infections",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Al-Maharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Safadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ahmad",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Halasa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nabolsi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dohrn",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Knowledge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Int J Womens Health",
+            "volume": "11",
+            "issn": "",
+            "pages": "607--622",
+            "other_ids": {
+                "DOI": [
+                    "10.2147/IJWH.S221605"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Knowledge, attitudes, and practices towards COVID-19 among Chinese residents during the rapid rise period of the COVID-19 outbreak: a quick online crosssectional survey",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Biol Sci",
+            "volume": "16",
+            "issn": "",
+            "pages": "1745--52",
+            "other_ids": {
+                "DOI": [
+                    "10.7150/ijbs.45221"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Risk factors of critical & mortal COVID-19 cases: a systematic literature review and meta-analysis",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J infect",
+            "volume": "81",
+            "issn": "",
+            "pages": "16--25",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jinf.2020.04.021"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Available online at",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ahmad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The COVID-19 outbreak: a testing time for NGOs in Bangladesh. E-IR",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "National survey of Ebola-related knowledge, attitudes and practices before the outbreak peak in Sierra Leone",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Jalloh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sengeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Monasch",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Jalloh",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Deluca",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dyson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BMJ Glob Health",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmjgh-2017-000285"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Knowledge, attitude, practice about malaria in south-western Saudi Arabia: a household-based cross-sectional survey",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Khairy",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Al-Surimi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ali",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Shubily",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Walaane",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Househ",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Infect Public Health",
+            "volume": "10",
+            "issn": "",
+            "pages": "499--506",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jiph.2016.09.021"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Attitudes and Practices (KAP) related to the pandemic (H1N1) 2009 among Chinese general population: a telephone survey",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "BMC Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2334-11-128"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "A systematic review on the KAP-O framework for diabetes",
+            "authors": [
+                {
+                    "first": "Tth",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rav-Marathe",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Marathe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "MRA",
+            "volume": "3",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Knowledge, attitudes and practices towards avian influenza A (H5N1) among Cambodian women: a cross-sectional study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Khun",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Heng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Rashid",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kasuya",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sakamoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Asian Pac J Trop Med",
+            "volume": "5",
+            "issn": "",
+            "pages": "727--761",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1995-7645(12)60115-1"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Effects of media reporting on mitigating spread of COVID-19 in the early phase of the outbreak",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Math Biosci Eng",
+            "volume": "17",
+            "issn": "",
+            "pages": "2693--707",
+            "other_ids": {
+                "DOI": [
+                    "10.3934/mbe.2020147"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Knowledge, attitudes and practices (KAP) relating to avian influenza in urban and rural areas of China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "BMC Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2334-10-34"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Sociodemographic profile of the participants.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors are grateful to all the participants and clinic/health center officials for their cooperation during the data collection of the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        },
+        {
+            "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fpubh. 2021.628623/full#supplementary-material Conflict of Interest: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.Publisher's Note: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.Copyright \u00a9 2021 Razu, Nishu, Rabbi, Talukder and Ward. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SUPPLEMENTARY MATERIAL"
+        }
+    ]
+}
