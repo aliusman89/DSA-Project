@@ -1,0 +1,1030 @@
+{
+    "paper_id": "0010d989cfae87853f2351a37e002edb03bf397f",
+    "metadata": {
+        "title": "Journal Pre-proof Late-onset rapidly progressive MRI-negative-myelitis after COVID-19 illness Late-onset rapidly progressive MRI-negative-myelitis after COVID-19 illness Corresponding Author",
+        "authors": [
+            {
+                "first": "Anza",
+                "middle": [
+                    "B"
+                ],
+                "last": "Memon",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Henry Ford Hospital",
+                    "location": {
+                        "settlement": "Detroit",
+                        "region": "Michigan",
+                        "country": "USA"
+                    }
+                },
+                "email": "amemon2@hfhs.orgphone:800-436-7936"
+            },
+            {
+                "first": "Rami",
+                "middle": [],
+                "last": "Al-Hader",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Henry Ford Hospital",
+                    "location": {
+                        "settlement": "Detroit",
+                        "region": "Michigan",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Suresh",
+                "middle": [],
+                "last": "Patel",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Henry Ford Hospital",
+                    "location": {
+                        "settlement": "Detroit",
+                        "region": "Michigan",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shaneela",
+                "middle": [],
+                "last": "Malik",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Henry Ford Hospital",
+                    "location": {
+                        "settlement": "Detroit",
+                        "region": "Michigan",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mary",
+                "middle": [],
+                "last": "Megally",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Henry Ford Hospital",
+                    "location": {
+                        "settlement": "Detroit",
+                        "region": "Michigan",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kara",
+                "middle": [],
+                "last": "Steijlen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Henry Ford Hospital",
+                    "location": {
+                        "settlement": "Detroit",
+                        "region": "Michigan",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ritika",
+                "middle": [
+                    "R"
+                ],
+                "last": "Suri",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Henry Ford Hospital",
+                    "location": {
+                        "settlement": "Detroit",
+                        "region": "Michigan",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "John",
+                "middle": [],
+                "last": "Corrigan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Henry Ford Hospital",
+                    "location": {
+                        "settlement": "Detroit",
+                        "region": "Michigan",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Anza",
+                "middle": [
+                    "Bilal"
+                ],
+                "last": "Memon",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Henry",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Several neurological manifestations in association with the coronavirus disease 2019 (COVID-19) 1 ,2 have been reported. Cases of post-infectious transverse myelitis (TM) and para-infectious TM associated with COVID-19 have been published, and longitudinally extensive 3, 4 , acute necrotizing 5 , and multifocal TM cases have also been reported 6 . Other viral pathogens that can be causative of TM include herpes simplex, Epstein-Barr, varicella-zoster, cytomegalovirus, hepatitis B, Zika, dengue, and chikungunya viruses 7 . Flaviviruses (yellow fever, tick-borne encephalitis, Japanese encephalitis, West Nile, dengue, and Zika viruses) and coronaviruses (Middle East respiratory syndrome, SARS-CoV-1, and SARS-CoV-2 viruses) are RNA based respiratory viruses with neurotropic properties that allow them to bypass or alter the immune mechanisms, which can lead to viral-induced neurological manifestations. 8 The host-virus interaction triggers the immune mechanisms, and genetics may play an important role too. Therefore, it is interesting that only some individuals develop neurological manifestations after infection with potentially neurotropic pathogens.",
+            "cite_spans": [
+                {
+                    "start": 96,
+                    "end": 97,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 269,
+                    "end": 271,
+                    "text": "3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 272,
+                    "end": 273,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 346,
+                    "end": 347,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 524,
+                    "end": 525,
+                    "text": "7",
+                    "ref_id": null
+                },
+                {
+                    "start": 911,
+                    "end": 912,
+                    "text": "8",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction:"
+        },
+        {
+            "text": "Here, we report a case of late-onset rapidly progressive MRI-negative-myelitis after infection. This case is compelling, as the patient presented with myelopathic symptoms 9 weeks after COVID-19 illness, which was unrecognized for 3 months due to negative results from an extensive neurological workup for myelitis, which led to diagnostic uncertainty. This case highlights the need for physician vigilance in recognizing post-COVID-19 myelitis even months after initial infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction:"
+        },
+        {
+            "text": "J o u r n a l P r e -p r o o f A 65-year-old woman with a history of borderline diabetes and obesity (BMI 45.6) was referred to the neuroimmunology clinic to evaluate idiopathic magnetic resonance imaging (MRI) negative TM.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case Report:"
+        },
+        {
+            "text": "In early April 2020, the patient became sick with symptoms concerning for COVID-19 illness. She had chills, headache, cough, shortness of breath, fever, anorexia, and taste loss. She was prescribed prednisone and antibiotics for one week and was recommended by her primary care physician to self-quarantine. She was advised to go to the emergency department (ED) for care after her symptoms worsened. SARS-CoV-2 testing was not done at that time. The patient made a full recovery after 2 weeks and did not require hospitalization.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case Report:"
+        },
+        {
+            "text": "The patient remained in good health until June 12, 2020, when she started having numbness in her feet that gradually ascended to her trunk. Simultaneously, she noticed strange vibrations inside her body upon neck flexion (Lhermitte's phenomena). She had an imbalance and weakness in her legs that led to falls. The patient also reported bladder (urinary incontinence) and bowel dysfunction (constipation) and saddle anesthesia. She had a televideo-visit with a neurologist on July 15, 2020 and she was recommended to seek an urgent ED visit to evaluate myelopathy. The patient presented to the ED the same day, and the Neurology Department was consulted.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case Report:"
+        },
+        {
+            "text": "Neurologists noted upon examination that the patient had normal upper and lower extremity strength with diffusely brisk reflexes and positive Hoffman's sign bilaterally. She had a sensory level at T10 with diminished pinprick sensation. Temperature sensation was normal with loss of vibratory sensation and impaired proprioception distally at her toes. The patient had a wide-based cautious gait with a positive Romberg's sign. She was admitted to the observation unit for 24 hours.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case Report:"
+        },
+        {
+            "text": "The patient had magnetic resonance imaging (MRI) of the cervical, thoracic, and lumbar spine (1. The patient reported no family history of cancer, and computed tomography (CT) imaging of the abdomen and pelvis was done to assess possible malignancy, which was negative.Shortly after discharge from the hospital, the patient started using a cane. Brain MRI (1.5 tesla) completed 5 days after her discharge from the hospital showed a small lacunar infarct in the right lateral pontine region (Figure1 E), which did not explain her worsening symptoms. Spinal fluid analysis was recommended, but the patient elected not to undergo this procedure per clinical documentation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case Report:"
+        },
+        {
+            "text": "The patient presented to the ED again 6 days after her first hospitalization for lower extremity pain, swelling, and progressive motor weakness. On neurological examination during this visit, she was noted to have 4/5 weakness with the right lower extremity hip flexion; the rest of the examination was stable. She had a repeat SARS-CoV-2 nasopharyngeal PCR test, which was negative. In the ED, the patient had pre-syncope (dizziness), tachycardia, chest pain, and acute The patient received catheter-directed, low-dose fibrinolysis via the EKOS catheter for submassive pulmonary embolism and was later started on intravenous heparin. The patient was admitted to the medical intensive care unit for 2 days and transferred to the stepdown unit, where she was observed for an additional 2 days. Her shortness of breath and chest pain improved, and she was discharged home on apixaban 5 mg twice a day. Her pulmonary embolism was thought to have been provoked by limited mobility. After discharge from the hospital, the patient started using a walker. She had an outpatient EMG study done 11 days after discharge from her second hospitalization, which did not indicate peripheral nerve disorders suchneuropathy or myopathy (supplementary table) . The lumbar puncture was on hold because the patient was on anticoagulation therapy. She was prescribed prednisone 60 mg daily for 5 days, followed by a slow taper over one month with no improvement in her symptoms. The patient received outpatient physical therapy but made no progress. The patient then presented to an outside hospital where she had a repeat MRI of the cervical and thoracic spine, which was again reported as normal (we do not have access to the imaging). She was discharged to inpatient rehabilitation, where the patient's condition continued to decline and she became wheelchair-bound by September. Given the lack of abnormal enhancement and restricted diffusion, a demyelinating process was not suspected. Given progressive clinical worsening and abnormal neuroimaging findings, inpatient admission to neurology service was recommended to expedite the lumbar puncture and treatment.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1220,
+                    "end": 1241,
+                    "text": "(supplementary table)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Case Report:"
+        },
+        {
+            "text": "The patient underwent lumbar puncture after apixaban was withheld for 48 hours (medication was (supplementary table) . Follow-up MRI of the brain and cervical spine with and without contrast after PLEX was unchanged to slightly improved due to differences in MR magnets and motion suggest stability (Figure, K-M) . MRI thoracic and lumbar spine remained normal.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 95,
+                    "end": 116,
+                    "text": "(supplementary table)",
+                    "ref_id": null
+                },
+                {
+                    "start": 299,
+                    "end": 312,
+                    "text": "(Figure, K-M)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Case Report:"
+        },
+        {
+            "text": "The patient was discharged to inpatient rehabilitation with outpatient neurology follow-up. Per the last conversation with the patient over the phone, she reported that she could move her feet and kick her legs further out, which she could not do before treatment. She can now slowly pull her J o u r n a l P r e -p r o o f legs back and she can stand with bilateral assistance for about one minute. The patient believes that she is very slowly making progress.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case Report:"
+        },
+        {
+            "text": "Our patient presented with late-onset partial myelitis that progressed to complete myelitis over 3 months, which was preceded by the COVID-19 illness 9 weeks before her neurological manifestation. Extensive infectious, inflammatory autoimmune, neoplastic, and paraneoplastic investigations were negative. CSF was positive for West Nile IgG antibody; however, the patient's clinical presentation and EMG results were not suggestive of lower motor neuron illness seen in West Nile virus infection. This could be due to SARS-CoV-2 antibody cross-reactivity with the West Nile Virus, also seen in antibody-induced by other flavivirus infections (e.g. Dengue virus,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Although she had positive initial serum mycoplasma IgG test, the repeat antibody tests (IgM and IgG) and a CSF mycoplasma PCR test were negative, which suggests an initial false positive result.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "St. Louis encephalitis virus)."
+        },
+        {
+            "text": "This elucidates a possible post-infectious or immune-mediated myelitis after COVID-19 illness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "St. Louis encephalitis virus)."
+        },
+        {
+            "text": "About 30%-60% of idiopathic TM cases are preceded by a gastrointestinal, respiratory, or systemic disease. The onset of infectious myelitis symptoms is typically hours to days, but can be months to years after infection, as seen with human T cell lymphotropic virus-1 (HTLV-1) associated myelopathy. 9 Several mechanisms are involved in TM's microbial pathogenesis: bystander effects, molecular mimicry, immune complex deposition, and microbial super-antigen mediated inflammation and humoral response. 10 In bystander effects, the pathogen directly invades the CSF or causes indirect damage through an immune-mediated process, as can happen in para-infectious TM. Molecular mimicry is when there J o u r n a l P r e -p r o o f is antigenic similarity between pathogen antigens and the human tissue. 10 Molecular mimicry and immune complex deposition have been elucidated as one of the immunopathogenic processes involved in Mycoplasma pneumoniae post-infectious TM. Another interesting mechanism is the activation of lymphocytes by microbial superantigens that can initiate immunopathogenesis and lead to autoimmune diseases. 11 This has been reported in association with COVID-19 in a 15-year old male patient who was diagnosed with anti-MOG IgG associated bilateral optic neuritis a few weeks after COVID-19 illness. 12 The interesting feature in that case was the patient's normal MRI scans (1.5 tesla magnet) on at least 2 occasions, which was a misleading factor that delayed immunotherapy. MRI-negative myelitis is reported to be associated with anti-MOG autoantibodies, 13 and our patient tested negative for the MOG-IgG antibody. Her repeat MRI scans performed on 3-tesla magnet showed multifocal myelitis affecting the cervical cord. High T2 signal intensity involving the bilateral cortical spinal tracts affecting the posterior limbs of internal capsules extending to the cerebral peduncles, and faintly extending to the pons without associated enhancement. These results raise concern for possible Wallerian degeneration, as the patient did not manifest any features of encephalitis or cranial neuropathies from the brainstem involvement throughout her disease course. We speculate that these results indicate an intense axonal degeneration without demyelination that can be seen in severe viral-induced pathogenesis and therefore was not seen on the MRI scan earlier in our patient's disease course. Pathological processes that extensively affect the corticospinal tracts could raise a concern for rapidly progressive motor neuron disease, such as amyotrophic lateral sclerosis. But our patient's history of ascending sensory paresthesia followed by motor weakness and negative EMG on 2 occasions does not support the diagnosis of motor neuron disease.",
+            "cite_spans": [
+                {
+                    "start": 300,
+                    "end": 301,
+                    "text": "9",
+                    "ref_id": null
+                },
+                {
+                    "start": 503,
+                    "end": 505,
+                    "text": "10",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 800,
+                    "end": 802,
+                    "text": "10",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1127,
+                    "end": 1129,
+                    "text": "11",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1320,
+                    "end": 1322,
+                    "text": "12",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1578,
+                    "end": 1580,
+                    "text": "13",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "St. Louis encephalitis virus)."
+        },
+        {
+            "text": "A similar brain abnormality was reported in another COVID-19 patient, where bilateral corticospinal tract lesions in internal capsules extending to the cerebral peduncles and pons associated with evidence of longitudinally extensive transverse myelitis were seen on spinal neuroimaging. 14 Clinically, this patient behaved differently compared to our patient, as she manifested mild encephalopathy, acute onset of TM 2 weeks after COVID-19 illness, and had a good response to immunotherapy (PLEX). 14 Perhaps one might argue that early initiation of immunotherapy could have changed our patient's clinical outcome. SARS-CoV-1 studies have shown that viral replication can delay the self-reactive T-cell suppression, leading to central nervous system neuroinflammation, demyelination, and axonal damage. 15, 16 Our patient's case highlights several interesting aspects of post-COVID-19 myelitis, including late manifestation of myelitis months after the viral illness, rapidly progressive disease, and MRInegative spinal imaging at the onset of disease that led to diagnostic uncertainty, which dissuaded early initiation of immunotherapy. This atypical presentation of myelitis raises concern for a slow or delayed immune-mediated pathogenesis that happened in response to the SARS-CoV-2 virus or its antibodies. ",
+            "cite_spans": [
+                {
+                    "start": 803,
+                    "end": 806,
+                    "text": "15,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 807,
+                    "end": 809,
+                    "text": "16",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "J o u r n a l P r e -p r o o f"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Neurologic Features in Severe SARS-CoV-2 Infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Helms",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kremer",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Merdji",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Clere-Jehl",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schenck",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kummerlen",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Collange",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Boulay",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fafi-Kremer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ohana",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Anheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Meziani",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Engl",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Med",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "382",
+            "issn": "",
+            "pages": "2268--2270",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Neurologic complications of coronavirus infections",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Neurology",
+            "volume": "94",
+            "issn": "",
+            "pages": "1--2",
+            "other_ids": {
+                "DOI": [
+                    "10.1212/WNL.0000000000009455"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Post COVID-19 longitudinally extensive transverse myelitis (LETM)-a case report",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Baghbanian",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Namazi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Acta Neurol Belg",
+            "volume": "18",
+            "issn": "",
+            "pages": "1--2",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s13760-020-01497-x"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "A case of possible atypical demyelinating event of the central nervous system following COVID-19",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zoghi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ramezani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Roozbeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Darazam",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sahraian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mult Scler Relat Disord",
+            "volume": "44",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.msard.2020.102324"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "COVID-19-associated acute necrotizing myelitis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sotoca",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Rodr\u00edguez-\u00c1lvarez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Neurol Neuroimmunol Neuroinflamm",
+            "volume": "7",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1212/NXI.0000000000000803"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Acute myelitis as a neurological complication of Covid-19: A case report and MRI findings. Radiol Case Rep",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Alketbi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alnuaimi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Almulla",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Altalai",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Samir",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Albastaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "15",
+            "issn": "",
+            "pages": "1591--1595",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.radcr.2020.06.001"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Guillain Barre syndrome, transverse myelitis and infectious diseases",
+            "authors": [],
+            "year": 2018,
+            "venue": "Cell Mol Immunol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Neuroinvasion, neurotropic, and neuroinflammatory events of SARS-CoV-2: understanding the neurological manifestations in COVID-19 patients",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yachou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Idrissi",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Belapasov",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Benali",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Neurological Sciences",
+            "volume": "41",
+            "issn": "",
+            "pages": "2657--2669",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Diagnosis and management of acute myelopathies",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Kaplin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Krishnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Deshpande",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pardo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kerr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Neurologist",
+            "volume": "11",
+            "issn": "",
+            "pages": "2--18",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Antibodies against the myelin oligodendrocyte glycoprotein and the myelin basic protein in multiple sclerosis and other neurological diseases: a comparative study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Reindl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Linington",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Brehm",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Egg",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Dilitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Deisenhammer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Brain",
+            "volume": "122",
+            "issn": "",
+            "pages": "2047--2056",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Neuromyelitis optica spectrum disorder after presumed coronavirus (COVID-19) infection: A case report. Multiple Sclerosis and Related Disorders",
+            "authors": [
+                {
+                    "first": "Naomi",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "De Ruijter",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gerrit",
+                    "middle": [],
+                    "last": "Kramer",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rob",
+                    "middle": [
+                        "A R"
+                    ],
+                    "last": "Gons",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gerald",
+                    "middle": [
+                        "J D"
+                    ],
+                    "last": "Hengstman",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "46",
+            "issn": "",
+            "pages": "2020--2031",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Frequency and characteristics of MRInegative myelitis associated with MOG autoantibodies",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Sechi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Krecke",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Pittock",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Dubey",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lopez-Chiriboga",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kunchok",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Weinshenker",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Zalewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Flanagan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mult Scler",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1352458520907900"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "A case of possible atypical demyelinating event of the central nervous system following COVID-19",
+            "authors": [
+                {
+                    "first": "Anahita",
+                    "middle": [],
+                    "last": "Zoghi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Multiple sclerosis and related disorders",
+            "volume": "44",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.msard.2020.102324"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Innate immune responses and Viral-Induced neurologic disease",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Skinner",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Lane",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Clin Med",
+            "volume": "8",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Viral-induced suppression of self-reactive T cells: lessons from neurotropic coronavirus-induced demyelination",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Savarin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bergmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Neuroimmunol",
+            "volume": "308",
+            "issn": "",
+            "pages": "12--16",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "5 tesla) with and without contrast (Figure A-D), which did not reveal any cord signal abnormality J o u r n a l P r e -p r o o f or evidence of compressive myelopathy. No abnormal intramedullary or leptomeningeal enhancement was present within the spine. A SARS-CoV-2 nasopharyngeal PCR test done at this time was negative. Myeloneuropathy laboratory results such as copper, B12, zinc, and lead levels were checked and were within the reference range. Autoimmune laboratory tests were mostly negative except for positive antinuclear antibodies (1:320 speckled), rheumatoid factor 45 IU/ml (<14IU/ml), and cardiolipin antibody IgM 14.1 MPL (<12.5 MPL). The patient had no clinical features of rheumatoid arthritis. Infectious testing for Lyme disease, syphilis, HIV, and HTLV I/II were all negative (supplementary table). Given negative neuroimaging, outpatient neurology follow-up and electromyography (EMG) was recommended to evaluate peripheral nervous system diseases. She tested negative for serum aquaporin-4 IgG and MOG-IgG (myelin oligodendrocyte glycoprotein) antibodies. The serum paraneoplastic panel assessed at the Mayo clinic and serum angiotensin converting enzyme levels were normal.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "reference<0.60 ug/mL FEU) levels were elevated. CT of the chest with pulmonary embolism protocol revealed multiple bilateral pulmonary emboli with right ventricular strain. CT chest did not reveal mediastinal or hilar lymphadenopathy to suggest sarcoidosis. Lower extremity venous doppler showed right totally occluding acute deep vein thrombosis of the popliteal vein, soleal vein, and peroneal vein, and left partially occluding acute deep vein thrombosis of the soleal vein.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "2020, the patient was seen in the neuroimmunology clinic for idiopathic MRInegative TM. On neurological examination, she showed increased tone in her lower extremities and was paraplegic with 3/5 strength on knee extension. Upper extremity proximal strength was normal 5/5 with deltoid, triceps, and biceps muscles. However, distally, she had mild weakness4/5 with finger extension, flexion, and abduction. She had pathologically brisk reflexes in the upper and lower extremities, with positive Hoffman's sign, finger flexors signs bilaterally, and nonsustained clonus at the ankles. Plantar responses were equivocal. She had diminished sensation to light touch and pinprick up to the groin, reduced vibratory sensation to 3 seconds up to knees with absent position sense distally in her toes. She manifested features of complete myelitis. SARS-CoV-2 IgG and mycoplasma IgG antibody tests both were positive. The patient had repeat MRI of brain, cervical, thoracic, and lumbar spine with and without contrast done on 3 Tesla machines. Brain MRI showed high T2 signal intensity on fluid attenuated inverted recovery sequence (FLAIR) involving the bilateral cortical spinal tracts affecting the posterior limbs of internal capsules extending to the cerebral peduncles and faintly extending to the pons without associated enhancement (Figure F-G). MRI of the cervical spine revealed multifocal signal abnormality present on sagittal FLAIR images of the cervical cord, from skull base to C2-C3, C3-C4, and C5-C6. There was no abnormal intramedullary or leptomeningeal enhancement. (Figure H-J). There was no evidence for edema, expansion, or volume loss within the cervical. MRI of thoracic spine was normal.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "viral PCR studies for cytomegalovirus, varicella zoster, Epstein-Barr, herpes simplex, human herpesvirus-6, and enterovirus were all negative. CSF Gram stain and cultures were also negative. CSF venereal disease research laboratory (VDRL), cytology, mycoplasma PCR, and HTLV-1 and 2 antibody tests were negative. CSF was positive for the West Nile IgG antibody but West Nile IgM antibody was negative. CSF paraneoplastic panel (Mayo clinic), serum NMDA-receptor antibody, and ILG1-antibody tests were also negative. SARS-CoV-2 IgM and repeat IgG tests were both reactive. Mycoplasma IgM and repeat IgG tests were both negative at this time (supplementary table). The patient received high dose pulse intravenous steroid, methylprednisolone 1 gram for 5 days, with no improvement in her symptoms. She then received 5 rounds of plasma exchange (PLEX) every other day and reported subjective improvement in her sensory symptoms only. She had a repeat EMG during hospitalization, which did not show any peripheral etiology for her symptoms",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Spinal MRI-evolution of myelitis and brain corticospinal tract changes Saggital T2-weighted initial MRI cervical, thoracic and lumbar spine (A-D). Initial Brain MRI DWI showing diffusion restriction in the right lateral pontine region (red arrow, E). Repeat brain MRI axial-FLAIR showing T2-signal changes involving the bilateral cortical spinal tracts affecting the posterior limbs of internal capsules extending to the cerebral peduncles (red arrows, F) and pons (red arrows, G). Repeat MRI cervical spine show multifocal T2-signal changes in the cervical cord (C2-C6) on sagittal-STIR (red arrows, I) without associated enhancement (J) confirmed on the axial T2-weighted sequence (red arrows, H). Post-treatment repeat MRI C shows faint patchy T2 signal changes on sagittal FLAIR (red arrows, L) confirmed on axial T2weighted sequence (red arrows, K). Post treatment repeat brain MRI axial FLAIR is unchanged (M). DWI=diffusion weighted images, FLAIR= fluid-attenuated inversion recovery, STIR=short TI inversion recovery.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors thank the patient and all the physicians and health personnel involved in the care of this patient. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgment"
+        }
+    ]
+}

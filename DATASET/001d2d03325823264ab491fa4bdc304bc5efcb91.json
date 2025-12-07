@@ -1,0 +1,656 @@
+{
+    "paper_id": "001d2d03325823264ab491fa4bdc304bc5efcb91",
+    "metadata": {
+        "title": "Periprocedural use of avatrombopag for neurosurgical interventions: a strategy to avoid platelet utilization",
+        "authors": [
+            {
+                "first": "Ming",
+                "middle": [
+                    "Y"
+                ],
+                "last": "Lim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jeffrey",
+                "middle": [
+                    "A"
+                ],
+                "last": "Gilreath",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "6 and a Model for End-Stage Liver Disease (MELD) score of 13. While undergoing evaluation, his platelet count further declined to 47 3 10 9 /L.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "A platelet threshold of 100 3 10 9 /L was requested preoperatively and for at least 2 weeks postoperatively while the patient was undergoing rehabilitation to minimize his perioperative bleeding risk. [4] [5] [6] [7] Platelet transfusions were initially discussed as an option to achieve the platelet threshold goal; however, there were concerns about the burden of platelet utilization, potential alloimmunization, as well as platelet availability as a result of the effects of the ongoing COVID-19 pandemic on blood supply. 8 Owing to these difficulties, and because orally administered TPO-RAs are relatively easy to store and dispense and are typically less susceptible to supply chain issues, avatrombopag was chosen. Although approved by insurance, an exorbitant copay prevented the patient from initially filling the prescription. Application for patient assistance from the manufacturer was approved and avatrombopag was subsequently dispensed to our patient at no cost.",
+            "cite_spans": [
+                {
+                    "start": 201,
+                    "end": 204,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 205,
+                    "end": 208,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 209,
+                    "end": 212,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 213,
+                    "end": 216,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 526,
+                    "end": 527,
+                    "text": "8",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Our patient was started on 20 mg of avatrombopag daily at 28 days prior to his scheduled surgery (Figure 1 ). At day 214, the dose was increased to 40 mg 3 times per week and 20 mg on the 4 remaining days of each week as the platelet count was not at goal. On the day of surgery, his platelet count was 100 3 10 9 /L, with hemoglobin of 14.1 g/dL. Preoperatively, per the surgeon's request, the patient was transfused 2 U of fresh frozen plasma for coagulopathy of liver disease. Despite an estimated blood loss of 50 mL, the patient experienced severe hypotension (blood pressure dropped to 40/20 mm Hg) intraoperatively requiring vasopressor support, and received both aggressive fluid resuscitation and 1 U of apheresis platelets. Immediately postoperatively, his platelet count decreased to 72 3 10 9 /L, his hemoglobin decreased to 11.4 g/dL, and his white blood cell count decreased to 1.43 3 10 3 /mL, suggestive of hemodilution. The patient was transfused an additional unit of apheresis platelets. At 6 hours postoperatively, the platelet count and hemoglobin were 87 3 10 9 /L and 11.3 g/dL, respectively, and remained stable at 85 3 10 9 /L and 11.6 g/dL on day 11. Serial D-dimer levels, checked on days 11 and 12, were 1.4 mg/mL and 0.9 mg/mL, respectively (normal range, 0.0-0.4 mg/mL). Serial prothrombin time and partial thromboplastin time remained prolonged at his baseline levels throughout his hospitalization. Screening for asymptomatic deep venous thrombosis was not performed. The patient received sequential compression devices and no chemical thromboprophylaxis, per the surgeon's request. He started inpatient rehabilitation on day 12. Avatrombopag was continued throughout his hospitalization. On days 12 to 14, the platelet count was below 100 3 10 9 /L ( Figure 1 ), however no further platelet transfusion was required. Afterward, his platelet count remained consistently .100 3 10 9 /L. Hemoglobin levels continued to increase gradually and were at his admission baseline of 14 g/dL on day 18. Overall, there were no bleeding, thrombotic, or neurological complications during the perioperative setting. On discharge at day 112, the dose of avatrombopag was decreased to 20 mg daily for 1 week, then reduced to 20 mg 3 times per week for 1 additional week. Platelet count checks continued once weekly and were stopped shortly after avatrombopag was discontinued ( Figure 1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 97,
+                    "end": 106,
+                    "text": "(Figure 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1784,
+                    "end": 1792,
+                    "text": "Figure 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 2394,
+                    "end": 2402,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results and discussion"
+        },
+        {
+            "text": "To our knowledge, we present the first reported case of periprocedural use of avatrombopag for a neurosurgical procedure that required a platelet threshold of 100 3 10 9 /L. For invasive neurosurgical procedures, the absence of evidence-based literature to guide clinicians on the appropriate perioperative platelet threshold is largely due to a lack of clinical equipoise and ethical concerns that would arise from a clinical trial. A review of the literature consisting mainly of case series and retrospective cohort studies found that platelet counts ,100 3 10 9 /L were associated with increased risk of hemorrhagic complications. 5 Given these limitations, and the inability to easily achieve hemostasis during neurosurgical procedures, a platelet threshold of 100 3 10 9 /L has become the widely accepted standard of practice based on expert opinion. [4] [5] [6] [7] To reduce the demand for blood components and to avoid large undulations in the platelet count postoperatively when bleeding risk is greatest, we opted to use an oral TPO-RA. In the randomized clinical trials examining use of avatrombopag, lusutrombopag, and eltrombopag in patients with CLD, venous thromboembolism (VTE) was reported in 0.4% (1 of 277), 1% (2 of 171), and 4.2% (6 of 143) of treated patients, respectively. 3, 9, 10 Although not a head-tohead comparison, we decided to use avatrombopag due to the lower prevalence of VTE and the availability of a patient-assistance program from the drug manufacturer. Starting avatrombopag 10 to 13 days prior to the scheduled procedure is recommended, continuing for 5 consecutive days. The procedure should then occur within 5 to 8 days after the last dose (Table 1) . Clinical trial data (pooled data of 277 patients) suggest that platelets typically increase by day 4, peak at days 10 to 13, and return to baseline by day 35. 3 Over 90% of patients with baseline platelet counts of 40 to 49 3 10 9 /L who took avatrombopag according to manufacturer recommendations achieved a platelet count of .50 3 10 9 /L on procedure day. 3 However, available data to guide dosing and duration when targeting an initial preoperative platelet threshold of 100 3 10 9 /L, and, importantly, to maintain this platelet count for a period of time afterward, are lacking. In the absence of data, we elected to start therapy earlier, allowing us to titrate the dose to ensure that the goal threshold would be met, and to avoid late cancellation of surgery. As avatrombopag is also approved for the indication for chronic immune thrombocytopenia, we decided to follow initial dosing recommendations for chronic immune thrombocytopenia per the package insert. We began with the recommended starting dose of 20 mg daily (dose level 4). Avatrombopag was started 4 weeks prior to surgery to allow for cautious titration of dosing based on platelet response. When the platelet count did not achieve the target goal at 2 weeks (estimated peak period), we increased the dose to 40 mg 3 times a week and 20 mg on the 4 remaining days of each week (dose level 5). This dose level achieved the platelet target preoperatively. Yet, due to complications intraoperatively, the patient received aggressive fluid resuscitation that resulted in a subthreshold platelet count postoperatively, requiring the transfusion of 2 U of apheresis platelets. It is possible that a higher platelet target could be considered in the future to account for intraoperative complications, but further studies to balance whether the higher target justifies a possible increased risk of thrombosis would be required. At the time of hospital discharge, avatrombopag was tapered to 20 mg daily (dose level 4) for 1 week, then 20 mg 3 times a week (dose level 3) for 1 week, then discontinued. Surprisingly, the platelet count returned to baseline despite being on avatrombopag every other day, suggesting that a tapering regimen may not be helpful or may not be required when used for similar future indications.",
+            "cite_spans": [
+                {
+                    "start": 635,
+                    "end": 636,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 857,
+                    "end": 860,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 861,
+                    "end": 864,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 865,
+                    "end": 868,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 869,
+                    "end": 872,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1298,
+                    "end": 1300,
+                    "text": "3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1301,
+                    "end": 1303,
+                    "text": "9,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1304,
+                    "end": 1306,
+                    "text": "10",
+                    "ref_id": null
+                },
+                {
+                    "start": 1855,
+                    "end": 1856,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 2055,
+                    "end": 2056,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1684,
+                    "end": 1693,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results and discussion"
+        },
+        {
+            "text": "Our patient did not receive pharmacologic thromboprophylaxis throughout his hospitalization due to concern for increased risk of bleeding by the neurosurgeons. Whether to use pharmacologic thromboprophylaxis in neurosurgical patients remains debatable. A recent systematic review conducted as part of the American Society of Hematology clinical practice guidelines on VTE found that there was low certainty of evidence suggesting that pharmacologic thromboprophylaxis confers benefit for preventing asymptomatic proximal deep vein thrombosis. 11 The panel recommended further research evaluating the benefit and potential harm of pharmacologic thromboprophylaxis. 11 As such, the decision to use pharmacologic thromboprophylaxis in this patient population needs to be individualized based on VTE risk stratification. Factors that increase the risk of VTE such as prolonged hospitalization or surgery for malignancy may benefit from pharmacologic thromboprophylaxis whereas those at lower risk of VTE can be managed with mechanical thromboprophylaxis alone. Although our patient had CLD, he had no prior history or family history of VTE, and started mobilizing by day 12. The decision was made by the neurosurgeon to use mechanical thromboprophylaxis alone.",
+            "cite_spans": [
+                {
+                    "start": 543,
+                    "end": 545,
+                    "text": "11",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 664,
+                    "end": 666,
+                    "text": "11",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results and discussion"
+        },
+        {
+            "text": "On a global level, it is estimated that .10 million people per year would benefit from neurosurgical procedures to correct issues related to trauma (traumatic brain or spinal cord injury), stroke-related conditions such as hemorrhage, central nervous system tumors, hydrocephalus, and epilepsy. 12 Owing to increasing trends in obesity, nonalcoholic fatty liver disease (NAFLD), and nonalcoholic steatohepatitis (a subtype of NAFLD), are now the most prominent causes of CLD worldwide, outpacing liver dysfunction due to excessive alcohol consumption. 13 Additionally, because obesity is ubiquitous, it is now estimated that 1 in 4 people have NAFLD globally and the overall incidence of CLD is also predicted to increase. 14 Henceforth, it is expected that thrombocytopenic patients requiring neurosurgical procedures will become a relatively common scenario encountered by neurosurgeons and the consultant hematologist. As a result, safe and effective resource-conserving strategies such as the one presented herein are needed to prevent perioperative bleeding in this growing population. ",
+            "cite_spans": [
+                {
+                    "start": 295,
+                    "end": 297,
+                    "text": "12",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 552,
+                    "end": 554,
+                    "text": "13",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results and discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Lusutrombopag reduces need for platelet transfusion in patients with thrombocytopenia undergoing invasive procedures",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hidaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kurosaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Gastroenterol Hepatol",
+            "volume": "17",
+            "issn": "6",
+            "pages": "1192--1200",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Lusutrombopag for the treatment of thrombocytopenia in patients with chronic liver disease undergoing invasive procedures (L-PLUS 2)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peck-Radosavljevic",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Iacobellis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Hepatology",
+            "volume": "70",
+            "issn": "4",
+            "pages": "1336--1348",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Avatrombopag before procedures reduces need for platelet transfusion in patients with chronic liver disease and thrombocytopenia",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Terrault",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Izumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Gastroenterology",
+            "volume": "155",
+            "issn": "3",
+            "pages": "705--718",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Evidence review: periprocedural use of blood products",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Hogshire",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Rivera",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Carson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Hosp Med",
+            "volume": "8",
+            "issn": "11",
+            "pages": "647--652",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Thrombocytopenia and neurosurgery: a literature review",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Glor",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "World Neurosurg",
+            "volume": "106",
+            "issn": "",
+            "pages": "277--280",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "How low can you go?",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Mitchell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Bussel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Blood",
+            "volume": "121",
+            "issn": "24",
+            "pages": "4817--4818",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Evidence-based platelet transfusion guidelines",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Slichter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Hematology Am Soc Hematol Educ Program",
+            "volume": "",
+            "issn": "",
+            "pages": "172--178",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Effects of the COVID-19 pandemic on supply and use of blood for transfusion",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Stanworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "New",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Apelseth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "ELEVATE Study Group. Eltrombopag before procedures in patients with cirrhosis and thrombocytopenia",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Afdhal",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Giannini",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tayyab",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "8",
+            "pages": "716--724",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Pharmacologic thromboprophylaxis in adult patients undergoing neurosurgical interventions for preventing venous thromboembolism",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yepes-Nu\u00f1ez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rajasekhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rahman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Blood Adv",
+            "volume": "4",
+            "issn": "12",
+            "pages": "2798--2809",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Global neurosurgery: the current capacity and deficit in the provision of essential neurosurgical care. Executive Summary of the Global Neurosurgery Initiative at the Program in Global Surgery and Social Change",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Dewan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rattani",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fieggen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Global perspectives on nonalcoholic fatty liver disease and nonalcoholic steatohepatitis",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Younossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tacke",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Arrese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Hepatology",
+            "volume": "69",
+            "issn": "6",
+            "pages": "2672--2682",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Global epidemiology of nonalcoholic fatty liver disease-meta-analytic assessment of prevalence, incidence, and outcomes",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Younossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Koenig",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Abdelatif",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fazel",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Henry",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wymer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Hepatology",
+            "volume": "64",
+            "issn": "1",
+            "pages": "73--84",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Contribution: M.Y.L. and J.A.G. were involved in the clinical management of the reported patient, contributed to the writing of the manuscript, and approved the final version. Conflict-of-interest disclosure: The authors declare no competing financial interests. ORCID profiles: M.Y.L., 0000-0001-5208-3387; J.A.G., 0000-0002-4566-8448.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Correspondence: Ming Y. Lim, University of Utah, 2000 Circle Hope Dr, Room 4126, Salt Lake City, UT 84112; e-mail: ming.lim@ hsc.utah.edu.Figure 1. Avatrombopag-stimulated platelet count prior to and after neurosurgical procedure. Ava, avatrombopag; po, by mouth; qMon/Wed/Fri, every Monday, Wednesday, and Friday; qSun/Tues/Thurs/Sat, every Sunday, Tuesday, Thursday, and Saturday.Table 1. Approved periprocedural dosing recommendations for TPO-RAs in patients with CLD",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

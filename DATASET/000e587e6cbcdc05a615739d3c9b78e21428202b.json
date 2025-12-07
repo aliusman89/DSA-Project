@@ -1,0 +1,2540 @@
+{
+    "paper_id": "000e587e6cbcdc05a615739d3c9b78e21428202b",
+    "metadata": {
+        "title": "Intricate scientometric analysis and citation trend of COVID-19-related publications in Indian Journal of Ophthalmology during COVID-19 pandemic PMID: ***** Quick Response Code",
+        "authors": [
+            {
+                "first": "Kirandeep",
+                "middle": [],
+                "last": "Kaur",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Bharat",
+                "middle": [],
+                "last": "Gurnani",
+                "suffix": "",
+                "affiliation": {},
+                "email": "drgurnanibharat25@gmail.com"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "published during the study period. The maximum articles were [82 (35.49%)] letters to the editor, followed by [51 (22.08%)] original articles, [30 (12.99%)] commentaries, and [20 (8.66%)] editorials. The least were perspectives, consensus, images, and photo assay with [1 (0.43%)] each. The maximum publications were in July [44 (19.05%)] and least in April [1 (0.43%)]. Considering specialty, the maximum articles were related to general ophthalmology [124 (53.68%)] and least were in refractive surgery and community ophthalmology with [1 (0.43%)] each. The maximum citations were for original articles [352 (34.65%)], which was 2.3 times higher than review articles and letters to editor [150 (14.76%)]. General ophthalmology had 740 (72.83%) citations, which were nearly five times that of cornea [140 (13.78%)]. Conclusion: The IJO showed a trough and crest pattern of COVID-19 publications month wise. Letter to editor and general ophthalmology COVID-19 articles had maximum publications with maximum citations for general ophthalmology owing to practice patterns and COVID-19 challenges.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Last year the world saw the emergence of a novel deadly infectious virus called coronavirus disease caused by the severe acute respiratory syndrome coronavirus 2 (SARSCoV2). [1] On December 31, 2019, China reported the first cases of pneumonia of unknown aetiology detected in Wuhan city, Hubei province of China. [2] Due to an unprecedented and exponential surge in COVID-19 cases, the World Health Organization (WHO) recognized it as a health emergency and declared it a global pandemic on March 11, 2020 . [3] The Indian government announced a nation-wide lockdown on March 24, 2020 with around 500 positive cases, limiting the movement of people to control the infection. [4] The COVID-19 pandemic saw a tremendous increase in submission and publication rate in all ophthalmology journals. [5] The pandemic can be labelled as \"infodemic of publications.\" There was a huge upsurge in COVID-19 articles throughout the year [6] and Indian Journal of Ophthalmology (IJO) was not far behind to meet the challenge of quick and expedited quality COVID-19 publications. The IJO is open access, indexed, peer-reviewed monthly published journal by the All India Ophthalmic Society (AIOS). [7] It publishes scientific and clinical articles in the field of ophthalmology under the terms of Creative Commons Attribution NonCommercial Share Alike 4.0 licenses. [8] The field of study that concerns with measuring and analyzing scholarly literature is labelled as scientometrics. [9] Scientometrics is a subfield of bibliometrics. It deals with the impact of scholarly research manuscripts and academic journals, in-depth analysis of scientific citations, and the utilization of such measurements in policy and management contexts. [10] Yu et al. [9] in their analysis highlighted that the number of ophthalmology papers increased from 7450 to 9089 during 2007-2017 with an annual increase of 2.2%. Mansour et al. [11] in their literature analysis highlighted that the journal impact factor rose steadily around 10% annually in ophthalmic journals and was well correlated with recent bibliometric indicators like 5-year impact, H index, and SCImago factor but not with eigenfactor. During the course of time, a large numbers of manuscripts have been published detailing the scientometrics of published literature in various specialities including ophthalmology. The Scientometrics analysis related to specific ocular pathologies like glaucoma, [12] cornea and refractive surgery, [13] age-related macular disease, [14] vitreoretinal diseases, [15] and published literature in IJO [8] is already available. After a detailed literature review and to the best of our knowledge, none of the previously published articles have done an intricate scientometric analysis of COVID-19 literature published in IJO during the pandemic. Through this article, we have aimed to highlight the comprehensive scientometric analysis and citation trend of COVID-19 literature published in IJO during the pandemic from April 2020 (post lockdown) to May 2021. This article also highlights the total number of COVID-19 articles published, speciality-wise contribution and correlation, month-wise split-up of COVID-19 articles, citation analysis, and percentage growth rate.",
+            "cite_spans": [
+                {
+                    "start": 174,
+                    "end": 177,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 314,
+                    "end": 317,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 492,
+                    "end": 506,
+                    "text": "March 11, 2020",
+                    "ref_id": null
+                },
+                {
+                    "start": 509,
+                    "end": 512,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 676,
+                    "end": 679,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 794,
+                    "end": 797,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 925,
+                    "end": 928,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1183,
+                    "end": 1186,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1351,
+                    "end": 1354,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1469,
+                    "end": 1472,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1721,
+                    "end": 1725,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1736,
+                    "end": 1739,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1903,
+                    "end": 1907,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 2433,
+                    "end": 2437,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 2469,
+                    "end": 2473,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 2503,
+                    "end": 2507,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 2532,
+                    "end": 2536,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 2569,
+                    "end": 2572,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A retrospective analysis of all COVID-19-related articles published in IJO was performed month-wise from April 2020 to May 2021. The study complied with the tenets of the Declaration of Helsinki. The study did not involve the study participants; hence, the study approval was not obtained from the Institutional Review Board of the Institutional Ethical Committee. The bibliographic records were obtained from the official website of IJO and were reconfirmed from Editor IJO's personal monthly email and PubMed search engine. The data collected was then exported as XML into Microsoft access for scientometric analysis. The articles were segregated as Original articles, Review articles, Case Report/Series, Letter to the Editor/Commentary, Guest Editorial, PointCounterpoint, Consensus Criteria, Ophthalmic Images, Photo Essay, Surgical Techniques, and AIOS Meeting Papers. The data was comprehensively analyzed for specialty wise correlations, distribution, citation trend, and reasons for the same. All major articles with a heading of a clinical study or trial, comparative study, brief communication, controlled clinical trial, journal article, and randomized controlled trial were categorized as original articles. The total data was listed in tabular format. Table 1 depicts all related articles published monthwise during the study period. Table 2 is a comprehensive analysis of the subspecialty-wise distribution of COVID-19 articles during the pandemic. Table 3 describes the subject-wise distribution of COVID-19-related articles during the pandemic. Further, Table 4 is an in-depth subject-wise citation count of COVID-19 articles during the pandemic. Table 4 and Fig. 3 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1266,
+                    "end": 1273,
+                    "text": "Table 1",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 1348,
+                    "end": 1355,
+                    "text": "Table 2",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 1464,
+                    "end": 1471,
+                    "text": "Table 3",
+                    "ref_id": "TABREF6"
+                },
+                {
+                    "start": 1571,
+                    "end": 1578,
+                    "text": "Table 4",
+                    "ref_id": "TABREF9"
+                },
+                {
+                    "start": 1664,
+                    "end": 1671,
+                    "text": "Table 4",
+                    "ref_id": "TABREF9"
+                },
+                {
+                    "start": 1676,
+                    "end": 1682,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Methods"
+        },
+        {
+            "text": "The percentage growth pattern showed a trough and crest pattern with peaks and dips from April 2020 to August 2020, again from September to December 2020, and then January to May 2021. The growth rate was highest in May 2020 with a jump of 1300% due to an increase in 13 articles. This was followed by a 100% increase in July 2020, 78.57% in March 2021, and 62.5% in May 2021 with a negative dip of 75% in Aug 2020, and 36% each in February and April 2021. A detailed analysis is depicted in Table 5 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 492,
+                    "end": 499,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Methods"
+        },
+        {
+            "text": "The COVID-19 publications during the pandemic have attracted the attention of the global scientific community. [16] Apart from scientific publications, biomedical research on the COVID-19 and measures for managing the global crisis from an epidemiological and healthcare point of view has been given full priority. [17] Furthermore, many research experts, communities, agencies, and pharma companies are taking action to support the fight against the pandemic with their own expertise and resources. [18] This paved the way for multidisciplinary open research collaborations which proved instrumental in fighting the current pandemic. [19] Scientometrics has always been the cornerstone for identifying and studying the research growth, global development, and dissemination of research in a particular area and also for identifying centers of excellence, authors influence, etc., which is frequently used by research experts, health and policy makers and clinician-scientists, and by the heads of departments/institutions. [10] This worldwide COVID-19 pandemic has certainly stretched the available human resources to meet the research needs. [6] The same trend was observed for COVID-19 publications in IJO in 2020.",
+            "cite_spans": [
+                {
+                    "start": 111,
+                    "end": 115,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 315,
+                    "end": 319,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 500,
+                    "end": 504,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 635,
+                    "end": 639,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1024,
+                    "end": 1028,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1144,
+                    "end": 1147,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "A total of 231 COVID-19 articles were published during the last year from April 2020 to May 2021 during the study period. The maximum articles were [83 (35.93%)] letters to the editor, [20] followed by [51 (22.07%)] original articles, [21] [30 (12.91%)] commentaries, [22] and [20 (8.65%)] editorials. [23] The letters to editors were nearly double of original articles and triple of commentaries and editorials. This was probably due to the shorter format, expedited review by expert editors, sprint for publications, and more information in minimal words by senior researchers. Original articles also maintained pace with publication being the second-highest and adding value to core ",
+            "cite_spans": [
+                {
+                    "start": 185,
+                    "end": 189,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 235,
+                    "end": 239,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 268,
+                    "end": 272,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 302,
+                    "end": 306,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "One minute Ophthalmology 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Current Ophthalmology 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 2 (7.69%) 5 (2.44%) Preferred Practices 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 13 (6.34%) ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Letter to the Editor 0 (0%) 6 (42.86%) 9 (40.91%) 13 (29.55%) 6 (54.55%) 0 (0%) 7 (50%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "COVID-19 research. Despite lockdown, COVID-19 challenges, multiple hurdles, and reduction in potential volume, the Indian authors never looked back and contributed evidence-based original articles to the global world. The commentaries and editorials published by the respected Editor IJO, and stalwarts of Indian Ophthalmology opened channels for deeper insight and a better understanding of the impact of COVID-19 on clinical ophthalmology with their expert inputs. The least were perspectives, [24] consensus criteria, [25] ophthalmic images, [26] and photo assay [27] with 1 (0.43%) each. The main reasons behind this could be a lack of definitive corelating evidence with COVID-19 or a chance finding. The images and photoassay contribution was least probably due to fear of transmission of COVID-19, while evaluating and capturing images and also because most of the ophthalmology centers were not dealing with diagnosed or suspected COVID-19 patients directly.",
+            "cite_spans": [
+                {
+                    "start": 496,
+                    "end": 500,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 521,
+                    "end": 525,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 545,
+                    "end": 549,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 566,
+                    "end": 570,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The first COVID-19-related publication in April 2020 by the respected editor [28] served as a boost for COVID-19-related ",
+            "cite_spans": [
+                {
+                    "start": 77,
+                    "end": 81,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Letter to the Editor 0 (0%) 14 (40%) 4 (57.14%) 9 (34.65%) 0 (0%) 7 (43.75%) 1 (33.33%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Consensus Criteria 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (33.33%) One min Ophthalmology 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Current Ophthalmology 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 3 (2.41%) 5 (2.16%) Preferred Practices 2 (33.33%) 1 (25%) 1 (100%) 1 (100%) 1 (50%) 2 (1.61%) 13 (5.62%) Perspective 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Point-Counterpoint 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Consensus Criteria 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (0.43%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "AIOS Meeting Papers 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Table 1 and Fig. 1 ].",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 69,
+                    "end": 76,
+                    "text": "Table 1",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 81,
+                    "end": 87,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "In the subspecialty-wise publications, maximum articles were related to general ophthalmology [29] [124 (53.68%)], followed by cornea and ocular surface [30] [35 (15.15%)], retina and uvea [31] [26 (11.26%)], and pediatric ophthalmology and squint [32] [16 (6.92%)]. The ratio of general ophthalmology to cornea was 3.5:1, and general ophthalmology to retina was 4.8:1, and general ophthalmology to pediatrics was 7.7:1. Teleophthalmology was a new renaissance and great boon owing to COVID-19 practices and challenges. All the teleophthalmology [33] related articles have been listed under general ophthalmology. The probable reasons for maximum general ophthalmology publications were sharing of general consensus guidelines by AIOS, sanitization and safe practices, sterilization and operation theater surgical protocols, teleconsultation, and standard operating COVID-19 practices at various centers. The least number of publications were in cataract and IOL [34] and oncology [27] with 3 (1.30%) and 2 (0.86%), respectively, and refractive surgery [35] and community ophthalmology [36] with 1 (0.43%) each. The reason being that elective surgeries and community screening in form of camps were at halt for the major part of the year. Surprisingly, two articles were published related to oncology in the form of practice patterns [37] and a case report of COVID-19 related to chronic myeloid leukaemia. [27] A detailed subspecialty-wise distribution of COVID-19 articles during the pandemic is shown in Table 2 and Fig. 2 .",
+            "cite_spans": [
+                {
+                    "start": 94,
+                    "end": 98,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 153,
+                    "end": 157,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 189,
+                    "end": 193,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 248,
+                    "end": 252,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 546,
+                    "end": 550,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 963,
+                    "end": 967,
+                    "text": "[34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 981,
+                    "end": 985,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1053,
+                    "end": 1057,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1086,
+                    "end": 1090,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1334,
+                    "end": 1338,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1407,
+                    "end": 1411,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1507,
+                    "end": 1514,
+                    "text": "Table 2",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 1519,
+                    "end": 1525,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Analyzing month-wise subspecialty distribution of publications, maximum COVID-19 articles were published in July 2020 [44 (19. 05%)], out of which 25 (10.82%) were related to general ophthalmology. This was followed by Glaucoma 0 (0%) 0 (0%) 1 (4.54%) 2 (4.54%) 0 (0%) 0 (0%) 2 (14.28%)",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 126,
+                    "text": "[44 (19.",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Retina and Uvea 0 (0%) 0 (0%) 2 (9.09%) 1 (2.27%) 0 (0%) 0 (0%) 3 (21.43%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Neuro-Opthal 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Pediatric Ophthal and Squint 0 (0%) 0 (0%) 0 (0%) 3 (6.82%) 2 (18.18%) 0 (0%) 0 (0%) Trauma 0 (0%) 0 (0%) 1 (4.54%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Orbit 0 (0%) 0 (0%) 1 (4.54%) 1 (2.27%) 0 (0%) 0 (0%) 0 (0%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Optics and Refraction 0 (0%) 0 (0%) 0 (0%) 1 (2.27%) 1 (9.09%) 0 (0%) 0 (0%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Refractive Surgery 0 (0%) 0 (0%) 0 (0%) 1 (2.27%) 0 (0%) 0 (0%) 0 (0%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Community Ophthal 0 (0%) 0 (0%) 0 (0%) 1 (2.27%) 0 (0%) 0 (0%) 0 (0%) Oncology 0 (0%) 0 (0%) 0 (0%) 1 (2.27%) 0 (0%) 0 (0%) 0 (0%) ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Orbit 1 (4.54%) 0 (0%) 0 (0%) 0 (0%) 2 (8%) 1 (6.25%) 0 (0%) 6 (2.60%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Optics and Refraction 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (4%) 1 (6.25%) 0 (0%) 4 (1.73%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Refractive Surgery 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (0.43%) Community Ophthal 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (0.43%) Oncology 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (4%) 0 (0%) 0 (0%) 2 (0.86%) [38] revised eye banking guidelines by AIOS, challenges in procurement and storage of corneal tissues, and mask associated dry eyes. [39] This was followed by retina and uvea publications [26 (11.25%)] maximum being 10 (4.33%) in the month of May 2021, which included case report of COVID-19-related central retinal vein occlusion, [40] testing protocols before vitreous-retinal surgery, and antivascular endothelial growth factor [41] administration guidelines. There were 16 (6.92%) pediatric ophthalmology and squint publications with maximum in the month of July 2020, Jan, and Feb 2021 with 3 (1.30%) each. The eye-catching Review Article 0 (0%) 8 (5.71%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)",
+            "cite_spans": [
+                {
+                    "start": 223,
+                    "end": 227,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 356,
+                    "end": 360,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 555,
+                    "end": 559,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 654,
+                    "end": 658,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Case Report/ Short Case Series 0 (0%) 6 (4.28%) 0 (0%) 21 (39.63%) 1 (100%) 0 (0%) 0 (0%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Letter to the Editor 0 (0%) 17 (5%) 1 (25%) 8 (15.09%) 0 (0%) 13 (48.19%) 6 (75%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Commentary 0 (0%) 6 (4.28) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Editorial 0 (0%) 22 (15.71) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "One minute Ophthalmology 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Current Ophthalmology 0 (0%) 12 (8.57%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Preferred Practices 7 (77.78%) 5 (3.57%) 3 (75%) 15 (28.3%) 0 (0%) 3 (11.11%) 0 (0%) Perspective 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Point-Counterpoint 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Consensus Criteria 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 2 (25%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Innovations 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (3.71%) 0 (0%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Ophthalmic Images 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Photo Essay 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Surgical Techniques 0 (0%) 1 (0.71%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Erratum 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) AIOS Meeting Papers 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Total 9 (100%) 140 (100%) 4 (100%) 53 (100%) 1 (100%) 27 (100%) 8 (100%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specialty wise and Type of Article"
+        },
+        {
+            "text": "Refractive Surgery",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Optics and Refraction"
+        },
+        {
+            "text": "Original Article 1 (5.26%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 267 (36.08%) 352 (34.65%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "Review Article 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 142 (19.19%) 150 (14.76%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "Case Report/ Short Case Series 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 28 (2.76%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "Letter to the Editor 0 (0%) 4 (57.14%) 0 (0%) 0 (0%) 0 (0%) 101 (13.65%) 150 (14.76%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "Commentary 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 46 (6.22%) 52 (5.12%) Editorial 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 90 (12.16%) 112 (11.02%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "One minute Ophthalmology 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Current Ophthalmology 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 17 Perspective 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Point-Counterpoint 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Consensus Criteria 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 2 (0.19%) Innovations 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (0.14%) 2 (0.19%) Ophthalmic Images 1 (5.26%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (0.09%) Photo Essay 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Surgical Techniques 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 1 (0.09%)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "publications included innovations [42] and eureka moments [43] in pediatric ophthalmology department. Table 3 gives a comprehensive month-wise distribution of subspecialty COVID-19 articles.",
+            "cite_spans": [
+                {
+                    "start": 34,
+                    "end": 38,
+                    "text": "[42]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 58,
+                    "end": 62,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 102,
+                    "end": 109,
+                    "text": "Table 3",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "Considering citation trends, original articles received maximum citations of 352 (34.65%), which was 2.3 times higher than review articles and letter to editor, 150 (14.76%) each. This was due to high-quality and evidence-based COVID-19 research work, more number of original articles compared to review articles, practice patterns, and overall diversion of interest of clinicians and researchers toward COVID-19. A total of 82 (35.5%) Letters to the editor received 150 (14.76%) citations with an average of 1.8 per manuscript indicating the quality message delivered in a short frame of time. This was followed by 137 (13.48%) citations for 13 (5.63%) preferred practice patterns as these formed the base for ophthalmic practices during the testing COVID-19 times and similar experiences shared by the ophthalmic fraternity over time. There were a total of 112 (11.02%) citations received for 19 (8.23%) Editorials by the experts, sharing widespread knowledge and in-depth analysis, and global practice patterns regarding COVID-19 manifestations. The least were consensus criteria and innovation, 2 (0.19%) each due to the new format of publications, and fewer researchers were acquainted with it. A rare ophthalmic image of surgical emphysema [26] in a COVID-19 patient and surgical technique received 1 (0.09%) citation each, due to lesser publications in this category, halt of ophthalmic surgeries, and lesser patient load at hospitals.",
+            "cite_spans": [
+                {
+                    "start": 1246,
+                    "end": 1250,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "Speciality-wise analysis showed that general ophthalmology received 740 (72.83%) citations, which were nearly five times that of cornea [140 (13.78%)]. As expected, teleophthalmology and general COVID-19 articles received the maximum citations. This was because of easy replication and adaptation which lead to higher acceptance of these models by ophthalmologists worldwide. There were few articles that received maximum citations and deserve a special mention here. The article on the effect of lockdown on ophthalmic patient care and practice pattern by Nair et al. [44] till now has recievd maximum citations followed by review on lesson learnt and future direction during the pandemic by Khanna et al., [45] followed by Editorial in April 2020 on \"All eyes on Coronavirus-What do we need to know as ophthalmologists\" by Khanna and Honavar [28] and finally \"Therapeutic opportunities to manage COVID-19/SARS-CoV-2 infection: Present and future\" by Shetty et al. [46] As citation and impact factor go hand in hand, these quality articles were instrumental in attracting readers and scaling up the impact The detailed citation analysis is depicted in Table 4 and Fig. 3 .",
+            "cite_spans": [
+                {
+                    "start": 569,
+                    "end": 573,
+                    "text": "[44]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 708,
+                    "end": 712,
+                    "text": "[45]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 844,
+                    "end": 848,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 966,
+                    "end": 970,
+                    "text": "[46]",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1153,
+                    "end": 1160,
+                    "text": "Table 4",
+                    "ref_id": "TABREF9"
+                },
+                {
+                    "start": 1165,
+                    "end": 1171,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "The percentage growth pattern of the number of COVID-19 publications showed a trough and crest pattern with peaks and dips from April 2020 to August 2020, again from September to December 2020, and then January to May 2021. These zigzag patterns showed that there was not only a figurative jump in the number of COVID-19-related submissions, but at the same time, the journal editors and reviewers made sure to publish quality research at expedited rates than normal. [48] This was the need of the time and valuable timely research publications have been instrumental in guiding ophthalmologists worldwide in restarting and making appropriate modifications in their clinics and examination approaches to deal with the pandemic safely. The highest growth rate of publications was witnessed in May 2020 with a jump of 1300% due to a sudden hike by publications of 13 articles. This was obvious because of the lockdown and sudden shutdown of hospitals in late March, which triggered the senior ophthalmologists to lay guidelines and protocols for all the ophthalmologists countrywide. IJO being the highly reputed ophthalmic national journal was chosen as the way of reaching every ophthalmologists clinic/hospital, which did wonders in few days which can be evidenced by higher citations of the early published work not in national but international journals as well. A similar trend continued over subsequent months as we saw a 100% growth rate in July 2020, 78.57% in March 2021, and 62.5% in May 2021. A negative dip of 75% was seen in Aug 2020 and 36% each in February and April 2021. A detailed analysis is depicted in Table 5 .",
+            "cite_spans": [
+                {
+                    "start": 468,
+                    "end": 472,
+                    "text": "[48]",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1622,
+                    "end": 1629,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "Citations to any manuscript begin once it is published, and that is when the journey of the article starts. [13] Increased citations not only determine the quality of any article but also contributes toward increasing the impact factor of the journal. [49] Analysis of citations of COVID-19 articles showed that original articles were cited more frequently, followed by the letter to editors in IJO. The general ophthalmology and cornea articles were cited more frequently as compared to other specialties; this is related to the mode of transmission of the virus and the sharing of new experiences related to COVID-19 by ophthalmologists.",
+            "cite_spans": [
+                {
+                    "start": 108,
+                    "end": 112,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 252,
+                    "end": 256,
+                    "text": "[49]",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "To the best of our knowledge, this is the first paper describing scientometric data of COVID-19-related articles from the IJO and will help readers, researchers, and the editorial board get a better perspective of the direction in which the journal is headed in the future. The limitation of the study is that only the citation data available on Google Scholar as of April 10, 2021 was considered for all the calculations. The strengths of our study are the unique detailed analysis of published COVID-19 literature during the pandemic, comprehensive scientometric specialty wise analysis along with detailed citation analysis. We have not included citations from any pre prints or citations received after April 10, 2021. However, the total number of COVID-19 articles will remain static, but citation being a dynamic process is expected to increase in future. We hope that IJO will receive an exponential surge in citations under the leadership of intellectual leaders including the respected editor, especially for COVID-19 articles, and this will automatically enhance the impact factor of the only ophthalmic national journal.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Oncology Gen Ophthal Total"
+        },
+        {
+            "text": "To conclude, COVID-19 pandemic opened numerous gateways for research and publications with special inclination towards COVID-19 related publications. As majority of the Ophthalmology reputed journals were expediting COVID-19 publication, our own journal of Indian Ophthalmology was not far behind under the expert leadership of the Editor. The IJO showed a trough and crest pattern of COVID-19 publications month wise. A total of 231 COVID-19 article were published, out of which letter to editor and general ophthalmology COVID-19 articles had maximum publications with maximum citations for general ophthalmology owing to practice patterns and COVID-19 challenges. The maximum article were published in July 2020 and maximum citations were original article. General ophthalmology articles has 740 citations which was 5 times of that of cornea articles. This is first article analyzing scientometric and citations trend of COVID-19 related articles in Indian Journal of Ophthalmology and we believe this will be immensely helpful for all the Ophthalmologists focusing towards COVID-19 related publications in near future.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "The article has not been submitted elsewhere for consideration of publication. The article complies with the ethical standards of the Declaration of Helsinki.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Compliance with ethical standards"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease-2019 (COVID-19): The epidemic and the challenges",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Shih",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ko",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Antimicrob Agents",
+            "volume": "55",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "2019 novel coronavirus of pneumonia in Wuhan, China: Emerging attack and management strategies",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "She",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Transl Med",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "World Health Organization declares global emergency: A review of the 2019 novel coronavirus (COVID-19)",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sohrabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Alsafi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "O&apos;neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Khan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kerwan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Al-Jabir",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Surg",
+            "volume": "76",
+            "issn": "",
+            "pages": "71--77",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Lockdown of 1.3 billion people in India during Covid19 pandemic: A survey of its impact on mental health",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kochhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bhasin",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kochhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dadlani",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Mehta",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kaur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Asian J Psychiatr",
+            "volume": "54",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Ophthalmology-focused publications and findings on COVID-19: A systematic review",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Trope",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "El-Defrawy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Eur J Ophthalmol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1120672121992949"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Trends of publications during COVID19 pandemic",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Vaishya",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vaish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Injury",
+            "volume": "51",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Indian Journal of Ophthalmology-A new direction",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Honavar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "1237--1245",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "A scientometric analysis of literature published in Indian Journal of Ophthalmology from 2005 to 2017",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ramadoss",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Yadalla",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Scientometric analysis of published papers in global ophthalmology in the past ten years",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Int J Ophthalmol",
+            "volume": "10",
+            "issn": "",
+            "pages": "1898--901",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The bibliometric analysis of scholarly production: How great is the impact?",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Ellegaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wallin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Scientometrics",
+            "volume": "105",
+            "issn": "",
+            "pages": "1809--1840",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Bibliometric trends in ophthalmology 1997-2009",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mansour",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mollayess",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Habib",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Indian J Ophthalmol",
+            "volume": "63",
+            "issn": "",
+            "pages": "54--62",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Scientometric analysis and mapping of 20 years of glaucoma research",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ramin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pakravan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Habibi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Int J Ophthalmol",
+            "volume": "9",
+            "issn": "",
+            "pages": "1329--1364",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Citation analysis of the most influential authors and ophthalmology journals in the field of cataract and corneal refractive surgery",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Mcghee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Clin Exp Ophthalmol",
+            "volume": "36",
+            "issn": "",
+            "pages": "54--61",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Age-Related Macular Degeneration: A Scientometric Analysis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ramin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Soheilian",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Habibi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Med Hypothesis Discov Innov Ophthalmol",
+            "volume": "4",
+            "issn": "",
+            "pages": "39--49",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Scientometric analysis of literature output on retina",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kaliyaperumal",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Natarajan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "DESIDOC J Library Information",
+            "volume": "29",
+            "issn": "",
+            "pages": "33--39",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "The scientific literature on Coronaviruses, COVID-19 and its associated safety-related research dimensions: A scientometric analysis and scoping review",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Haghani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Bliemer",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Goerlandt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Saf Sci",
+            "volume": "129",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Bio-medical research in COVID-19 times",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sil",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Das",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Gangopadhyay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Dermatol",
+            "volume": "65",
+            "issn": "",
+            "pages": "337--377",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Using social and behavioural science to support COVID-19 pandemic response",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bavel",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Baicker",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Boggio",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Capraro",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cichocka",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cikara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Hum Behav",
+            "volume": "4",
+            "issn": "",
+            "pages": "460--71",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "A scientometric overview of CORD-19",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Colavizza",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Costas",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Traag",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "PLoS One",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "A simple solution to prevent microscope eyepiece fogging and spectacle fogging in COVID-19 era",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gurnani",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kaur",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "1712--1715",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Knowledge, attitude and practise toward COVID-19 among patients presenting to five tertiary eye care hospitals in South India-A multicentre questionnaire-based survey",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Christy",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kaur",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gurnani",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hess",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Narendran",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Venugopal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "2385--90",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Commentary: Impact of the COVID-19 pandemic on digital eye strain in children",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jayadev",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarbajna",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vinekar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "2383--2387",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Physical or virtual? Or is there a middle path?-Reimagining medical conferences in the COVID-19 era",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Honavar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Indian J Ophthalmol",
+            "volume": "69",
+            "issn": "",
+            "pages": "475--481",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Tele-health in pediatric ophthalmology: Promises and pitfalls",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chakrabarti",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Stevenson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Carden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Indian J Ophthalmol",
+            "volume": "69",
+            "issn": "",
+            "pages": "740--742",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Guidelines for the management of ocular trauma during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Natarajan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Nair",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hegde",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sundar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bapaye",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Mukherjee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "2483--2488",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Unilateral orbital emphysema in a COVID-19 patient",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Das",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Anwer",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kumari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Blurring of vision as the only symptom in an undiagnosed case of chronic myeloid leukemia in the COVID-19 era",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gumaste",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Vairagyam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Indian J Ophthalmol",
+            "volume": "69",
+            "issn": "",
+            "pages": "768--777",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "All eyes on Coronavirus-What do we need to know as ophthalmologists",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Khanna",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Honavar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "549--552",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Innovative application of ultraviolet rays and hydrogen peroxide vapor for decontamination of respirators during COVID-19 pandemic-An experience from a tertiary eye care hospital",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gurnani",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Venkatesh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kaur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "1714--1719",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Corneal transplantation and eye banking practices during COVID-19-related lockdown period in India from a network of tertiary eye care centers",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Das",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chaurasia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "2368--71",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Evolving consensus on managing vitreo-retina and uvea practice in post-COVID-19 pandemic era",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rajendran",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Narayanan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chawla",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Palanivelu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "962--73",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Pediatric ophthalmology, strabismus and neuro-ophthalmology practice in the COVID-19 era: All India Ophthalmological Society guidelines",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Saxena",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jethani",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sinha",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "1300--1305",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Tele-ophthalmology: Need of the hour",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ranganathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Honavar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "1328--1366",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "A new normal with cataract surgery during COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Reddy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Vaddavalli",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Sachdev",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rajashekar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sinha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "1269--76",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "All India Ophthalmological Society-Preferred practice in refractive surgery during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Khamar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Sachdev",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Maheshwari",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sinha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "1263--1271",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Community eye-health and vision center guidelines during COVID-19 pandemic in India",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Vashist",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Senjam",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Agrawal",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "1306--1317",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Ocular oncology practice guidelines during COVID-19 pandemic-An expert consensus",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Manjandavida",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Honavar",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Menon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Das",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "1281--91",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Comments on: Clinical profile and prevalence of conjunctivitis in mild COVID-19 patients in a tertiary care COVID-19 hospital: A retrospective cross-sectional study",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gurnani",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kaur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Indian J Ophthalmol",
+            "volume": "69",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Mask-associated dry eye disease and dry eye due to prolonged screen time: Are we heading towards a new dry eye epidemic during the COVID-19 era?",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Pandey",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Indian J Ophthalmol",
+            "volume": "69",
+            "issn": "",
+            "pages": "448--457",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Central retinal vein occlusion with COVID-19 infection as the presumptive etiology",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Walinjkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Makhija",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Sharma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "2572--2576",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Anti-vascular endothelial growth factor treatment regimens preference by choroidal neovascularization patients under COVID-19",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Au",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "2314--2319",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Incremental innovations in pediatric ophthalmology department during the COVID-19 pandemic: An experience from a tertiary eye care hospital",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kaur",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kannusamy",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gurnani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Indian J Ophthalmol",
+            "volume": "69",
+            "issn": "",
+            "pages": "1000--1001",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Eureka moments in pediatric cataract screening",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Khokhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dhull",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Effect of COVID-19 related lockdown on ophthalmic practice and patient care in India: Results of a survey",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Nair",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gandhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Natarajan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "725--755",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "COVID-19 pandemic: Lessons learned and future directions",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Khanna",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Cicinelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gilbert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "703--713",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Therapeutic opportunities to manage COVID-19/SARS-CoV-2 infection: Present and future",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Shetty",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ghosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Honavar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Indian J Ophthalmol",
+            "volume": "68",
+            "issn": "",
+            "pages": "693--702",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Adie-Holmes syndrome associated with COVID-19 infection: A case report",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kaya Tutar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Indian J Ophthalmol",
+            "volume": "69",
+            "issn": "",
+            "pages": "773--777",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Publication trend of COVID-19 and non-COVID-19 articles in the Indian Journal of Ophthalmology during the pandemic",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gurnani",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kaur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Indian J Ophthalmol",
+            "volume": "69",
+            "issn": "",
+            "pages": "1241--1249",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Ophthalmic clinicians, researchers, scientists and author profiles-A new window to explore",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gurnani",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kaur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Indian J Ophthalmol",
+            "volume": "69",
+            "issn": "",
+            "pages": "1330--1331",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "lockdown. The IJO was probably swamped with COVID-19 manuscripts in the months of April and May. The maximum publications [44 (19.05%)] were witnessed in July 2020 which were twice of [22 (9.52%)] articles each in June 2020, November 2020, and January 2021. The least publications were in August 2020 [11 (4.76%)] and April 2020 [1 (0.43%)]. The probable reasons were ample time for research during the lockdown, quick review, and expedited publications by IJO for COVID-19 articles. The trend continued toward the end of 2020 and the beginning of 2021 probably due to more literature and evidence on COVID-19-related ophthalmic manifestations from the global ophthalmic community [",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Line graph depicting the trough and crest pattern of COVID-19-related publications in Indian Journal of Ophthalmology during the COVID-19 pandemic",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Line diagram depicting the subspecialty-wise distribution of COVID-19-related publications in Indian Journal of Ophthalmology during the COVID-19 pandemic",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Image depicting the 3D bar graph of citation trend of COVID-19 publications of various speciality from Indian Journal of Ophthalmology during COVID-19 pandemic",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "depicts the total number of COVID-19 articles published in IJO during the period during the pandemic with the growth rate. Results A total of 231 COVID-19 related articles were published during the study period. The maximum articles were [82 (35.50%)] letters to the editor, followed by [51 (22.08%)] original articles, [30 (12.99%)] commentaries, and [20 (8.65%)] editorials. The least were perspectives, consensus, images, and photo assay with [1 (0.43%)] each. The maximum number of publications were in July 2020 [44 (19.05%)], which were double of [22 (9.52%)] articles each in June 2020, November 2020, and January 2021. The least publications were in August [11 (4.76%)] and April [1 (0.43%)]. A detailed analysis is depicted in Table 1 and Fig. 1. Considering the subspecialty-wise distribution of publications, maximum articles were related to general ophthalmology [124 (53.68%)], followed by cornea and ocular surface [35 (15.15%)], retina and uvea [26 (11.25%)], and pediatric ophthalmology and squint [16 (6.92%)]. The least number of publications were in cataract and IOL and oncology with [3 (1.30%)] each and refractive surgery and community ophthalmology with [1 (0.43%)] each. A detailed subspecialty-wise distribution of COVID-19 articles during the pandemic is shown in Table 2 and Fig. 2. Considering citation analysis, maximum citations were for original articles [352 (34.65%)] which was 2.3 times higher than review article [150 (14.76%)] and letter to editor [150 (14.76%)].",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Total number of COVID-19-related articles (post lockdown) published during the pandemic",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Subspecialty-wise distribution of COVID-19 articles during the pandemic Specialty wise and Type of Article",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Subject-wise distribution of COVID-19-related articles during the pandemic (month-wise distribution)",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF9": {
+            "text": "Subject-wise citation count of COVID-19 articles during the pandemic",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF11": {
+            "text": "Total number of COVID-19 articles published in IJO during the period during the pandemic with the growth rateSeptember 2020 was a special issue on uvea. December 2020 was a special issue on refractive surgery. Hence, the previous month value is taken for percentage growth rate calculation factor. This was followed by retina and uvea [52 (5.12%)] and pediatric ophthalmology and squint [27 (2.66%)]. The least number of citations were for refractive surgery [2 (0.19%)] and [1 (0.09%)] for neuro-ophthalmology.[47] The issue of April 2021 had three case reports in neuro-ophthalmology and one in cornea showing more evidence-based recent reports, which are expected to receive citations in near future, due to the high quality and continued research interest. Similarly, the May 2021 issue had three case reports in retina and one in uvea.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Aravind Eye Hospital and Post Graduate Institute of Ophthalmology, Pondicherry.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Nil.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Financial support and sponsorship"
+        },
+        {
+            "text": "There are no conflicts of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of interest"
+        }
+    ]
+}

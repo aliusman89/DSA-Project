@@ -1,0 +1,1252 @@
+{
+    "paper_id": "0010f32ac43ca5864983343672936b536431ae90",
+    "metadata": {
+        "title": "RESPIRATORY DISTRESS DETECTION FROM TELEPHONE SPEECH USING ACOUSTIC AND PROSODIC FEATURES",
+        "authors": [
+            {
+                "first": "Meemnur",
+                "middle": [],
+                "last": "Rashid",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "mHealth Lab",
+                    "institution": "BUET",
+                    "location": {
+                        "postCode": "Dhaka -1205",
+                        "country": "Bangladesh"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kaisar",
+                "middle": [
+                    "Ahmed"
+                ],
+                "last": "Alman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "mHealth Lab",
+                    "institution": "BUET",
+                    "location": {
+                        "postCode": "Dhaka -1205",
+                        "country": "Bangladesh"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Khaled",
+                "middle": [],
+                "last": "Hasan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "John",
+                "middle": [
+                    "H L"
+                ],
+                "last": "Hansen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Texas at Dallas",
+                    "location": {
+                        "postCode": "75080",
+                        "settlement": "Richardson",
+                        "region": "TX"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Taufiq",
+                "middle": [],
+                "last": "Hasan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "mHealth Lab",
+                    "institution": "BUET",
+                    "location": {
+                        "postCode": "Dhaka -1205",
+                        "country": "Bangladesh"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "With the widespread use of telemedicine services, automatic assessment of health conditions via telephone speech can significantly impact public health. This work summarizes our preliminary findings on automatic detection of respiratory distress using well-known acoustic and prosodic features. Speech samples are collected from de-identified telemedicine phonecalls from a healthcare provider in Bangladesh. The recordings include conversational speech samples of patients talking to doctors showing mild or severe respiratory distress or asthma symptoms. We hypothesize that respiratory distress may alter speech features such as voice quality, speaking pattern, loudness, and speech-pause duration. To capture these variations, we utilize a set of well-known acoustic and prosodic features with a Support Vector Machine (SVM) classifier for detecting the presence of respiratory distress. Experimental evaluations are performed using a 3-fold cross-validation scheme, ensuring patient-independent data splits. We obtained an overall accuracy of 86.4% in detecting respiratory distress from the speech recordings using the acoustic feature set. Correlation analysis reveals that the top-performing features include loudness, voice rate, voice duration, and pause duration.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Respiratory diseases, including asthma, chronic obstructive pulmonary disease (COPD), acute lower respiratory tract infection, and lung cancer [1] , are among the leading causes of death and disability worldwide. According to WHO, about 339 million people suffer from asthma [2] . COPD was responsible for about 3.17 million deaths in 2015, and in 2016, about 251 million people were affected by this disease [3] . Cystic fibrosis, another respiratory disease, also called Bronchiectasis, affects about 30,000 people in the US [4] . Shortness of breath, stubborn cough, wheezing, chest pain are typical symptoms of respiratory diseases [5] . The COVID-19 pandemic, first identified in late 2019, is also a respiratory disease [6] that has already claimed over 1 million lives worldwide. Early detection of symptoms such as respiratory distress can be vital in tracking various respiratory diseases, including the COVID-19 pandemic.",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 146,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 275,
+                    "end": 278,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 409,
+                    "end": 412,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 527,
+                    "end": 530,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 636,
+                    "end": 639,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 726,
+                    "end": 729,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Early diagnosis is critical in effectively treating most respiratory diseases, including COPD and asthma [7] . Spirometry is the most commonly used test for an initial respiratory assessment of a patient. Confirmatory diagnosis of various respiratory disorders may require additional examination such as a chest x-ray or other laboratory tests. It is well known that shortness of breathing affects the human speech production mechanism [8] and, in theory, respiratory distress should be detectable from the speech signal analysis alone. Thus, automatic initial assessment of respiratory function from speech can be valuable in low-resource settings where there is a lack of experienced general practitioners.",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 108,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 436,
+                    "end": 439,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Previous work on speech signal analysis for respiratory assessment has been minimal. Relevant research in this area includes the detection of breathing sound [9] , wheezing [10] and cough [11] . In [12] , methods are presented for estimating and visualizing the breathing pattern from speech recordings. Although the authors claim that the system can be used for detecting pathological conditions, only healthy volunteer data were used for evaluation. In [13] , the authors introduced \"Spirocall\", a method of performing spirometry using standard telephone calls. This method uses a 3D printed whistle and transmits the breathing effort's sound via the telephone channel. Although the method is promising, it still requires a 3D printed device and the presence of trained personnel to be effective.",
+            "cite_spans": [
+                {
+                    "start": 158,
+                    "end": 161,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 173,
+                    "end": 177,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 188,
+                    "end": 192,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 198,
+                    "end": 202,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 455,
+                    "end": 459,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "In this work, we present our preliminary findings on detecting respiratory distress (or shortness of breath) from conversational telephone speech. Voice recordings were collected from a telemedicine provider while the patient's personal identifying information was removed. We hypothesized that respiratory distress would affect the speech sound and rhythm and therefore utilized a set of acoustic and prosodic features for classification between patients having respiratory distress and healthy subjects. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Speech production involves airflow from the lungs through the larynx, vocal cord vibration, and resonance in the oral and nasal cavities. Since the lung is a vital organ for speech production, and respiratory disease is expected to cause physical changes in the speech production pathway and affect speech signal itself [14] . Previous research [15] shows that the lung volumes and breathing patterns during speech differ from quiet respiration, and alterations in speech breathing are disease and task-specific. Asthmatic patients tend to show an increased duration of silence between speech segments, lower syllable rates, and increased time in non-speech ventilatory activity [16] . Thus, we can assume that respiratory distress will affect the speaking rate and speech breathing pattern [8] . In [17] , a high degree of correlation was found between FEV1/FEV ratio obtained from spirometry and harmonicsto-noise ratio (HNR) obtained from human speech for asthma patients. This motivates us to consider traditional acoustic features to analyze speech signals to detect respiratory distress symptoms.",
+            "cite_spans": [
+                {
+                    "start": 320,
+                    "end": 324,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 345,
+                    "end": 349,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 679,
+                    "end": 683,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 791,
+                    "end": 794,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 800,
+                    "end": 804,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "BACKGROUND"
+        },
+        {
+            "text": "The speech recordings used for this study are collected from Digital Healthcare Solutions (DHS), a leading telemedicine service provider in Bangladesh 1 . The telemedicine service operates through direct phone calls between the patient and physicians. For this study, a total of 88 phone-call record- ings are collected. A patient's recordings were included if the patient called in to report suffering from respiratory distress. The speech recordings can be categorized into three classes: (i) patients reporting severe respiratory distress who are advised to visit a hospital urgently, (ii) patients reporting mild respiratory distress and generally have a history of breathing difficulty, (iii) healthy control subjects. The data is summarized in Table 1 . Patients included in (i) and (ii) may have a chronic condition such as asthma. However, our study's goal is to detect the condition of respiratory distress (or shortness of breath), not the actual disease. For this reason, the disease information is not used for our analysis even if it is available for some patients. The recordings are collected at a sampling rate of 44.1 kHz.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 750,
+                    "end": 757,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Telemedicine audio recordings"
+        },
+        {
+            "text": "Every telemedicine phonecall consists of the speech of the patient (or their representative, e.g., relative or guardian) and the physician. The recordings also contain occasional cough and wheezing sounds from the patient or other background noise. Accordingly, the audio recordings are annotated in these 6 categories: (i) patient, (ii) doctor, (iii) patient representative, (iv) cough sound, (v) wheezing sound, and (vi) background noise. A typical annotated phonecall recording is shown in Fig. 2 including some of these audio events. The total number of annotated recordings from all categories is 4522 as summarized in Table 2 . In this work, only male patients are considered. The age of the patients range between 25 -65. A total of 1957 utterances (Table 1 ) of different lengths were prepared for cross-validation experiments.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 493,
+                    "end": 499,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 624,
+                    "end": 631,
+                    "text": "Table 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 756,
+                    "end": 764,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Annotation of the recordings"
+        },
+        {
+            "text": "The entire 1957 segmented speech signals are distributed into 3 folds for cross-validation (Fig 3) . The train-test split for each fold is reserved to be approximately 70-30. We ensure that the same patient data is not used for both training and test so that the algorithms do not learn to recognize the speakers. The telephone calls typically include background noise and a static hum due to the recording instrument. Therefore, before feature extraction, we performed a speech enhancement operation to reduce the background noise.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 91,
+                    "end": 98,
+                    "text": "(Fig 3)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Data preparation for cross-validation"
+        },
+        {
+            "text": "The step is a pre-requisite for the extraction of the prosodic feature set. We use the VAD approach presented in [18] as provided in the MATLAB voicebox toolkit [19] .",
+            "cite_spans": [
+                {
+                    "start": 113,
+                    "end": 117,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 161,
+                    "end": 165,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Voice activity detection (VAD)"
+        },
+        {
+            "text": "We use the Interspeech 2010 Paralinguistic Challange feature set proposed in [20] . The feature set contains 38 lowlevel descriptors (LLDs) and 21 functionals yielding a total of 1582 acoustic features [21] as summarized in Table 3 . The LLDs are extracted at 100 frames per second with a diverse set of short-time windows and smoothed by simple moving average low-pass filtering with a window length of 3 frames. Afterward, the first-order regression coefficients are calculated followed by the 21 functionals for every instance in the dataset [21] . These features are extracted using the openS-MILE toolkit [22] .",
+            "cite_spans": [
+                {
+                    "start": 77,
+                    "end": 81,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 202,
+                    "end": 206,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 545,
+                    "end": 549,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 610,
+                    "end": 614,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 224,
+                    "end": 231,
+                    "text": "Table 3",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Acoustic features"
+        },
+        {
+            "text": "We only utilize speaking rhythm related features in this work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prosodic features"
+        },
+        {
+            "text": "The following four (4) LLDs are computed: (i) voice rate, (ii) voice duration, (iii) pause duration, and (iv) voice & pause ratio. A window size of 1 sec is used and 21 functionals (as in Sec. 4.3.1) are calculated to obtain an 84 dimensional feature set.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prosodic features"
+        },
+        {
+            "text": "The extracted features have a high dynamic range and thus a normalization step is necessary for effective classification [23] . In this study, we use standard mean and variance normalization for each feature. Normalization of both training and test features is done for each fold using the mean and variance calculated from the training data of the corresponding fold.",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 125,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Feature normalization"
+        },
+        {
+            "text": "The SVM classifer has been used for training the dataset with binary decision using the LIBSVM [24] tool. The two classes include (i) distressed, and (ii) normal. The \"Distress\" class contains data of patients who reported having mild or severe respiratory distress. The \"Normal\" class contains the speech segments of healthy control subjects. A linear kernel is used for the SVM model with a fixed seed for every fold to ensure the results are reproducible. ",
+            "cite_spans": [
+                {
+                    "start": 95,
+                    "end": 99,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Machine learning classifier"
+        },
+        {
+            "text": "The proposed method's performance is evaluated with respect to the accuracy, sensitivity, specificity, F1-score, and AUC (Area Under the Curve of ROC) for each fold. The mean and standard deviation of each performance metric is calculated from the folds. The acoustic and prosodic feature sets are first evaluated separately. In the final stage, the feature sets are fused by concatenation, and correlation-based feature reduction is performed to reduce the feature dimension to 251. The results are summarized in Table 4 . From the result, we observe that for acoustic features, the classifier shows a mean accuracy of 86.4 (\u00b12.1)% with the best sensitivity, specificity, F1 score, and AUC. The acoustic features have consistent performance across the 3 folds, including identical AUC values indicating the subject/patient invariance of the classifier. Compared to the acoustic features, the prosodic features performed were sub-par. This feature set resulted in an accuracy of only 56.5 (\u00b12.5)%, which slightly better than a random classifier. The fusion of the features and feature selection did not provide any significant improvement in the overall performance.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 514,
+                    "end": 521,
+                    "text": "Table 4",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "EXPERIMENTAL EVALUATION"
+        },
+        {
+            "text": "To correlate individual features' performance to the physiological aspects of speech production, we combined the acoustic and prosodic feature sets and performed a correlationbased feature ranking. The analysis returned 251 top-ranked features, including 242 acoustic features and 9 prosodic features. To simplify the study, we look at the LLD features included among the top 251 features and provide the rankings of the top 10 LLDs in Table 5 . We observe that features that can be physiologically connected to respiratory distress are included, such as loudness, voice rate, voice duration, pause duration. Loudness is the most prominent feature in detecting respiratory distress. Spectral and cepstral features are also found to be important in the ranking analysis, confirming our hypothesis that voice quality can be altered due to respiratory distress (e.g., increased hoarseness). ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 436,
+                    "end": 443,
+                    "text": "Table 5",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Analysis of feature ranking"
+        },
+        {
+            "text": "This study presented findings from our preliminary analysis on respiratory distress detection from telephone speech collected from real telemedicine phonecalls from actual patients reporting adverse health conditions. We have utilized a set of acoustic and prosodic features for binary classification between a patient reporting respiratory distress and a healthy control subject. Experimental results using the proposed feature set and an SVM classifier showed promising results achieving above 85% performance in all of the performance metrics, namely, accuracy, sensitivity, specificity, and F-1 score, on a 3-folds cross-validation experiment. The topranked features obtained by correlation analysis were found to be physiologically meaningful. The proposed method can significantly impact the automatic early detection of respiratory diseases through telemedicine phonecalls in low-resource settings. A further large-scale clinical study is required to confirm the diagnostic usability of the proposed approach.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The global impact of respiratory disease",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Darcy",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dean",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Marciniuk",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Schraufnagel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Chronic respiratory diseases",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Chronic obstructive pulmonary disease (COPD)",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The top 8 respiratory illnesses and diseases",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Symptoms and signs of respiratory disease",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Richard",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Leach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Medicine",
+            "volume": "36",
+            "issn": "3",
+            "pages": "119--125",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Human coronavirus nl63 infection and other coronavirus infections in children hospitalized with acute respiratory disease in hong kong, china",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Susan",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Chiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hung",
+                    "middle": [],
+                    "last": "Kwok",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ka",
+                    "middle": [
+                        "Wing"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "See",
+                    "middle": [
+                        "Wai"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yi",
+                    "middle": [],
+                    "last": "Kwan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Leo",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lit Man",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jsm",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clinical infectious diseases",
+            "volume": "40",
+            "issn": "12",
+            "pages": "1721--1729",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Detection of asthma and chronic obstructive pulmonary disease in primary care",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Cp Van Schayck",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Chavannes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "European respiratory journal",
+            "volume": "21",
+            "issn": "39",
+            "pages": "16--22",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Speech breathing patterns in health and chronic respiratory disease",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tehrany",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "An effective algorithm for automatic detection and exact demarcation of breath sounds in speech and song signals",
+            "authors": [
+                {
+                    "first": "Dima",
+                    "middle": [],
+                    "last": "Ruinskiy",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yizhar",
+                    "middle": [],
+                    "last": "Lavner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "IEEE trans. on audio, speech, and lang. proc",
+            "volume": "15",
+            "issn": "3",
+            "pages": "838--850",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Design of wearable breathing sound monitoring system for real-time wheeze detection",
+            "authors": [
+                {
+                    "first": "Shih-Hong",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bor-Shing",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chen-Han",
+                    "middle": [],
+                    "last": "Tsai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cheng-Ta",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bor-Shyh",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sensors",
+            "volume": "17",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Cough detection algorithm for monitoring patient recovery from pulmonary tuberculosis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Brian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Germ\u00e1n",
+                    "middle": [],
+                    "last": "Tracey",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sandra",
+                    "middle": [],
+                    "last": "Comina",
+                    "suffix": ""
+                },
+                {
+                    "first": "Marjory",
+                    "middle": [],
+                    "last": "Larson",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bravard",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Jos\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "Robert H",
+                    "middle": [],
+                    "last": "L\u00f3pez",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Gilman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Proc. IEEE EMBC",
+            "volume": "",
+            "issn": "",
+            "pages": "6017--6020",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Deep sensing of breathing signal during conversational speech",
+            "authors": [
+                {
+                    "first": "Srikanth",
+                    "middle": [],
+                    "last": "Venkata",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nallanthighal",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Strik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Spirocall: Measuring lung function over a phone call",
+            "authors": [
+                {
+                    "first": "Mayank",
+                    "middle": [],
+                    "last": "Goel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Elliot",
+                    "middle": [],
+                    "last": "Saba",
+                    "suffix": ""
+                },
+                {
+                    "first": "Maia",
+                    "middle": [],
+                    "last": "Stiber",
+                    "suffix": ""
+                },
+                {
+                    "first": "Eric",
+                    "middle": [],
+                    "last": "Whitmire",
+                    "suffix": ""
+                },
+                {
+                    "first": "Josh",
+                    "middle": [],
+                    "last": "Fromm",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Eric",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gaetano",
+                    "middle": [],
+                    "last": "Larson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shwetak N",
+                    "middle": [],
+                    "last": "Borriello",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Patel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Proc. CHI",
+            "volume": "",
+            "issn": "",
+            "pages": "5675--5685",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Voice changes in patients with chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "Mohamed",
+                    "middle": [],
+                    "last": "Enas Elsayed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Egyptian Journal of Chest Diseases and Tuberculosis",
+            "volume": "63",
+            "issn": "3",
+            "pages": "561--567",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Speech breathing in patients with lung disease",
+            "authors": [
+                {
+                    "first": "Linda",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Robert G Loudon",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Barbara",
+                    "suffix": ""
+                },
+                {
+                    "first": "Roger",
+                    "middle": [],
+                    "last": "Jacobson",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Stuebing",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "American Review of Respiratory Disease",
+            "volume": "147",
+            "issn": "",
+            "pages": "1199--1199",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Speech segment durations produced by healthy and asthmatic subjects",
+            "authors": [
+                {
+                    "first": "Linda",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lourdes",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Chamberlain",
+                    "suffix": ""
+                },
+                {
+                    "first": "Robert",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Loudon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Joseph",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Stemple",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Journal of Speech and Hearing Disorders",
+            "volume": "53",
+            "issn": "2",
+            "pages": "186--193",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Speech signal analysis as an alternative to spirometry in asthma diagnosis: investigating the linear and polynomial correlation coefficient",
+            "authors": [
+                {
+                    "first": "John",
+                    "middle": [],
+                    "last": "Kutor",
+                    "suffix": ""
+                },
+                {
+                    "first": "Srinivasan",
+                    "middle": [],
+                    "last": "Balapangu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jeromy",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Adofo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Albert",
+                    "middle": [
+                        "Atsu"
+                    ],
+                    "last": "Dellor",
+                    "suffix": ""
+                },
+                {
+                    "first": "Christopher",
+                    "middle": [],
+                    "last": "Nyakpo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Godfred Akwetey",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "International Journal of Speech Technology",
+            "volume": "22",
+            "issn": "3",
+            "pages": "611--620",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "A statistical model-based voice activity detection",
+            "authors": [
+                {
+                    "first": "Jongseo",
+                    "middle": [],
+                    "last": "Sohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nam",
+                    "middle": [
+                        "Soo"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wonyong",
+                    "middle": [],
+                    "last": "Sung",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "IEEE signal processing letters",
+            "volume": "6",
+            "issn": "1",
+            "pages": "1--3",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Voicebox is a matlab toolbox for speech processing",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Brookes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "The interspeech 2010 paralinguistic challenge",
+            "authors": [
+                {
+                    "first": "Bj\u00f6rn",
+                    "middle": [],
+                    "last": "Schuller",
+                    "suffix": ""
+                },
+                {
+                    "first": "Stefan",
+                    "middle": [],
+                    "last": "Steidl",
+                    "suffix": ""
+                },
+                {
+                    "first": "Anton",
+                    "middle": [],
+                    "last": "Batliner",
+                    "suffix": ""
+                },
+                {
+                    "first": "Felix",
+                    "middle": [],
+                    "last": "Burkhardt",
+                    "suffix": ""
+                },
+                {
+                    "first": "Laurence",
+                    "middle": [],
+                    "last": "Devillers",
+                    "suffix": ""
+                },
+                {
+                    "first": "Christian",
+                    "middle": [],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shrikanth",
+                    "middle": [],
+                    "last": "Narayanan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "2794--2797",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Computational Paralinguistics: Emotion, Affect and Personality in Speech and Language Processing",
+            "authors": [
+                {
+                    "first": "Bj\u00f6rn",
+                    "middle": [],
+                    "last": "Schuller",
+                    "suffix": ""
+                },
+                {
+                    "first": "Anton",
+                    "middle": [],
+                    "last": "Batliner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "01",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Recent developments in opensmile, the munich open-source multimedia feature extractor",
+            "authors": [
+                {
+                    "first": "Florian",
+                    "middle": [],
+                    "last": "Eyben",
+                    "suffix": ""
+                },
+                {
+                    "first": "Felix",
+                    "middle": [],
+                    "last": "Weninger",
+                    "suffix": ""
+                },
+                {
+                    "first": "Florian",
+                    "middle": [],
+                    "last": "Gross",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bj\u00f6rn",
+                    "middle": [],
+                    "last": "Schuller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Proc. ACM Multimedia",
+            "volume": "",
+            "issn": "",
+            "pages": "835--838",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Prediction of cognitive load from speech with the voqal voice quality toolbox for the interspeech 2014 computational paralinguistics challenge",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Huckvale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "01",
+            "issn": "",
+            "pages": "741--745",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "LIBSVM: A library for support vector machines",
+            "authors": [
+                {
+                    "first": "Chih-Chung",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chih-Jen",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "ACM Transactions on Intelligent Systems and Technology",
+            "volume": "2",
+            "issn": "",
+            "pages": "1--27",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Effect of different respiratory diseases affect the speech production system.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "The study was approved by the clinical advisory board of DHS on February 19, 2019 (Ref # CAB/DHS/GTT/1/2019/2/19).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "A typical telephone call from the dataset containing speech and cough sounds.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Summary of the dataset splits for the 3-fold cross validation experiments.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Receiver operating characteristics (ROC) curve for classification using acoustic features alone over the 3 folds.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Number of patients and healthy subjects and corresponding number of annotated speech segments.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Acoustic",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Experimental",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "LLD",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

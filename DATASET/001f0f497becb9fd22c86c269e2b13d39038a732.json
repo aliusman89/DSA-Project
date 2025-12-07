@@ -1,0 +1,3847 @@
+{
+    "paper_id": "001f0f497becb9fd22c86c269e2b13d39038a732",
+    "metadata": {
+        "title": "Acquired antibody responses against merozoite surface protein- 1 19 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru",
+        "authors": [
+            {
+                "first": "Kishore",
+                "middle": [],
+                "last": "Punnath",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kuvempu University",
+                    "location": {
+                        "settlement": "Shankaraghatta"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kiran",
+                "middle": [
+                    "K"
+                ],
+                "last": "Dayanand",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kuvempu University",
+                    "location": {
+                        "settlement": "Shankaraghatta"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Vishal",
+                "middle": [],
+                "last": "Midya",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Pennsylvania State University College of Medicine",
+                    "location": {
+                        "addrLine": "500 University Drive",
+                        "settlement": "Hershey",
+                        "region": "PA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Valleesha",
+                "middle": [
+                    "N"
+                ],
+                "last": "Chandrashekar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kuvempu University",
+                    "location": {
+                        "settlement": "Shankaraghatta"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Rajeshwara",
+                "middle": [
+                    "N"
+                ],
+                "last": "Achur",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kuvempu University",
+                    "location": {
+                        "settlement": "Shankaraghatta"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Srinivas",
+                "middle": [
+                    "B"
+                ],
+                "last": "Kakkilaya",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Light House Polyclinic",
+                    "location": {
+                        "addrLine": "Light House Hill Road",
+                        "settlement": "Mangaluru",
+                        "region": "Karnataka",
+                        "country": "India"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Susanta",
+                "middle": [
+                    "K"
+                ],
+                "last": "Ghosh",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "ICMR-National Institute of Malaria Research",
+                    "location": {
+                        "settlement": "Poojanahalli, Bangalore",
+                        "country": "India"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "\u2022",
+                "middle": [],
+                "last": "Suchetha",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "N",
+                "middle": [],
+                "last": "Kumari",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "K.S. Hegde Medical Academy",
+                    "location": {
+                        "settlement": "Mangaluru",
+                        "country": "India"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "\u2022",
+                "middle": [
+                    "D Channe"
+                ],
+                "last": "Gowda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Pennsylvania State University College of Medicine",
+                    "location": {
+                        "addrLine": "500 University Drive",
+                        "settlement": "Hershey",
+                        "region": "PA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Merozoite surface protein-1 (MSP-1",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Malaria still remains as a serious health problem in several tropical regions. An effective malaria vaccine has long been desired to combat malaria. Hence, identification of antigens eliciting protective antibody responses is of great importance as potential vaccine candidates. Antibody responses against various malaria parasite proteins have been extensively studied for vaccine development (Fowkes et al. 2010) . The malarial vaccines can be basically divided into pre-erythrocytic, blood stage and transmission blocking vaccines (Richards and Beeson 2009) . The erythrocytic stages of Plasmodium are responsible for the symptoms and clinical manifestations of malaria, and thus the antigens during these stages are considered as important targets for vaccine development (Ellis et al. 2010) .",
+            "cite_spans": [
+                {
+                    "start": 394,
+                    "end": 414,
+                    "text": "(Fowkes et al. 2010)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 534,
+                    "end": 560,
+                    "text": "(Richards and Beeson 2009)",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 776,
+                    "end": 795,
+                    "text": "(Ellis et al. 2010)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Merozoite surface protein-1 (MSP-1) is one of the most extensively studied blood stage malarial antigens (Cruz-Gallardo et al. 2013; Holder et al. 1992) . MSP-1 is a 190-230 kDa protein expressed on the merozoite surface of Plasmodium species of parasites. MSP-1 is mainly expressed during the trophozoites stage and is proteolytically cleaved into four major fragments, MSP-1 83 , MSP-1 30 , MSP-1 38 and MSP-1 42 at the time of schizogony (Blackman et al. 1991; Holder et al. 1992 ). Subsequently, the MSP-1 42 fragment is cleaved further into MSP-1 33 and MSP-1 19 portions during merozoite invasion of erythrocytes. The MSP-1 33 is released into the circulation, while MSP-1 19 remains on the merozoite surface and is carried into the newly invaded erythrocytes. It has been shown that high plasma levels of anti-MSP-1 antibodies are associated with protective immunity against malarial infections (Egan et al. 1996; John et al. 2004; Okech et al. 2004; Stanisic et al. 2009 ). In vitro studies have shown that anti-MSP-1 19 antibodies can inhibit parasite growth and in turn confer protection from malaria (Blackman et al. 1990; Egan et al. 1999 ). Anti-MSP-1 19 antibodies are also associated with reduced parasitemia and decreased clinical symptoms of P. falciparum (Pf) infections, suggesting that these antibodies have anti-parasitic characteristics (Fernandez-Becerra et al. 2010; Shi et al. 1996) . Even though antibody responses against MSP-1 are associated with protection against clinical malaria and disease severity; these associations are known to vary across different endemic regions (Braga et al. 2002; Branch et al. 1998; Egan et al. 1996; Greenhouse et al. 2011; John et al. 2005; Riley et al. 1992) .",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 132,
+                    "text": "(Cruz-Gallardo et al. 2013;",
+                    "ref_id": null
+                },
+                {
+                    "start": 133,
+                    "end": 152,
+                    "text": "Holder et al. 1992)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 441,
+                    "end": 463,
+                    "text": "(Blackman et al. 1991;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 464,
+                    "end": 482,
+                    "text": "Holder et al. 1992",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 902,
+                    "end": 920,
+                    "text": "(Egan et al. 1996;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 921,
+                    "end": 938,
+                    "text": "John et al. 2004;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 939,
+                    "end": 957,
+                    "text": "Okech et al. 2004;",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 958,
+                    "end": 978,
+                    "text": "Stanisic et al. 2009",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 1111,
+                    "end": 1133,
+                    "text": "(Blackman et al. 1990;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1134,
+                    "end": 1150,
+                    "text": "Egan et al. 1999",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1359,
+                    "end": 1390,
+                    "text": "(Fernandez-Becerra et al. 2010;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1391,
+                    "end": 1407,
+                    "text": "Shi et al. 1996)",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 1603,
+                    "end": 1622,
+                    "text": "(Braga et al. 2002;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1623,
+                    "end": 1642,
+                    "text": "Branch et al. 1998;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1643,
+                    "end": 1660,
+                    "text": "Egan et al. 1996;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1661,
+                    "end": 1684,
+                    "text": "Greenhouse et al. 2011;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1685,
+                    "end": 1702,
+                    "text": "John et al. 2005;",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1703,
+                    "end": 1721,
+                    "text": "Riley et al. 1992)",
+                    "ref_id": "BIBREF61"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Mangaluru is a southwestern coastal city in Dakshina Kannada district of Karnataka state in southern India. Over the past two decades, people in this region have been fighting against malaria and is still considered to be endemic in this region (Punnath et al. 2018) . Malaria in this region is caused by P.vivax (Pv) and P.falciparum infections, with Pv being the major infecting species (Punnath et al. 2019c) . From 1990 onwards, malaria cases in Mangaluru city and its surroundings have exponentially increased and continue to remain at high levels till now (Punnath et al. 2018) . This spurge in malarial cases has been due to rapid economic expansion and urbanization which led to import of large numbers of migrant laborers from other endemic areas of the country. These immigrants are primarily employed as laborers in construction of building and road works. The stagnant water at construction sites serves as ideal breeding ground for vector propagation leading to a high vector density and transmission in the region. These laborers are mostly economically underprivileged people and live within construction sites and crowded residential areas, aiding in the continuous spread of malarial infection (Dayanand et al. 2017) .",
+            "cite_spans": [
+                {
+                    "start": 245,
+                    "end": 266,
+                    "text": "(Punnath et al. 2018)",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 389,
+                    "end": 411,
+                    "text": "(Punnath et al. 2019c)",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 562,
+                    "end": 583,
+                    "text": "(Punnath et al. 2018)",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 1211,
+                    "end": 1233,
+                    "text": "(Dayanand et al. 2017)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "As individuals residing in endemic areas are simultaneously and repeatedly challenged for malarial infections with various multiple antigens, an important step in evaluating a vaccine is to study and understand the naturally acquired antimalarial immune responses and its possible associations with clinical protection in this endemic region. In this study, we assessed the prevalence of naturally acquired antibody responses (and subclasses) against the MSP-1 19 antigens of Pf-MSP-1 19 and Pv-MSP-1 19 . Further, we aimed to determine the possible relationship between these antibody responses in patients with the most commonly observed morbidity parameters such as malarial anemia and thrombocytopenia.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "India. This city is the administrative headquarters of Dakshina Kannada district in Karnataka state with a population of 5,00,000 (2011 census). The tropical climate with temperatures ranging between 17\u00b0C during nights to 38\u00b0C during day times and high rainfalls in monsoon season provides favorable climatic conditions for high vector density resulting in increased transmission in Mangaluru and its surroundings. Malaria in Mangaluru is known to be prevalent throughout the year with its peak transmissions during monsoon season (June-September). In 2017, among the 11,312 malarial cases reported in Karnataka state, Mangaluru alone contributed to 8075 (71.4%) cases. Two major species of Plasmodium, namely Pv (6452, 79.9%) and Pf (1623, 20.1%) infections are prevalent in this city and its surrounding regions (Kakkilaya 2017) .",
+            "cite_spans": [
+                {
+                    "start": 814,
+                    "end": 830,
+                    "text": "(Kakkilaya 2017)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In this study, adult patients (C 16 years of age), who visited the District Wenlock hospital, for malaria diagnosis and treatment during November 2013 to October 2015, were recruited. Age and gender matched native individuals attending blood bank for blood donations were enrolled into the study as healthy endemic controls (HEC). Wenlock hospital is the major government hospital in this region which provides free diagnosis and treatment. Considering a population of 5,00,000 and a prevalence rate of 20%, the sample size was calculated as per the standard practice, and a total of 318 study participants (comprising of 267 infected patients and 51 HEC) were recruited (Kwenti et al. 2017 ). The study participants were orally explained about the study objectives and were included in the study after obtaining a signed informed consent from the participants or their accompanying relatives. They were interviewed by attending physicians and trained staff using a structured questionnaire to collect information regarding age, sociodemographic profile, economic status, educational level, occupation, and history of previous infections. The exclusion criteria of this study were children (\\ 16 years of age), pregnant women, use of any antipyretics prior to diagnosis and individuals testing positive for dengue, typhoid, human immunodeficiency virus (HIV), hepatitis B and C infections.",
+            "cite_spans": [
+                {
+                    "start": 671,
+                    "end": 690,
+                    "text": "(Kwenti et al. 2017",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The malarial diagnosis was by conventional microscopic examination of Giemsa stained peripheral blood smears. Two thick and thin slides were prepared from each study participant and stained with 4% Giemsa. The slides were read independently by two experienced microscopists to ascertain infection, identify Plasmodium species and estimate the parasitemia levels. Upon ascertaining malarial infection, the patients were treated as per the NVBDCP recommendations by the attending physicians. After malarial diagnosis, and prior to giving any antimalarial medication, about 1-2 ml of venous blood samples were drawn into heparin-coated vacutainers for plasma and clot activator tubes for serum preparation and stored at 4\u00b0C for 1 h. As soon as the blood samples were collected, it was analyzed for the levels of hematological parameters, including, red blood cells (RBCs), hemoglobin (Hb), platelet counts, and mean platelet volume (MPV), by automated hematology analyzer (Mind Ray-Biomedical, Shenzhen, China). The serum and plasma were prepared by centrifugation at 1200 9 g at room temperature for 3 min, labeled, aliquoted and stored at -70\u00b0C until further use. The plasma or serum samples were used to screen for comorbid infections such as dengue, typhoid, human immunodeficiency virus (HIV), hepatitis B and C infections (J. Mitra & Co, New Delhi).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Malarial diagnosis and sample collection"
+        },
+        {
+            "text": "Based on hemoglobin levels, the study subjects were classified into (1) non-anemic (NA) i.e., Hb levels C 11 g/ dL, (2) mild to moderate anemia (MMdA) i.e., Hb levels between 10.9 and 5 g/dL and (3) severe anemic (SA) Hb levels of \\ 5 g/dL (Punnath et al. 2019a; Punnath et al. 2019d) . As per platelet levels, the study subjects were classified into (1)Non-thrombocytopenic (NT)-platelet levels [ 1.5 9 10 3 /ll, (2) Mild to moderate thrombocytopenia (MMdT)-platelet levels ranged 1.5-0.5 9 10 3 /ll, and (3) Severe thrombocytopenia (ST)-platelet levels \\ 0.5 9 10 3 /ll (Punnath et al. 2019a (Punnath et al. , 2019b .",
+            "cite_spans": [
+                {
+                    "start": 240,
+                    "end": 262,
+                    "text": "(Punnath et al. 2019a;",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 263,
+                    "end": 284,
+                    "text": "Punnath et al. 2019d)",
+                    "ref_id": null
+                },
+                {
+                    "start": 572,
+                    "end": 593,
+                    "text": "(Punnath et al. 2019a",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 594,
+                    "end": 617,
+                    "text": "(Punnath et al. , 2019b",
+                    "ref_id": "BIBREF56"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Classification of study participants"
+        },
+        {
+            "text": "The serum IgG (and subclass) levels against Pf and Pv-MSP-1 19 proteins were determined by ELISA. Briefly, 96 well micro-titer plates (Nunc Maxisorp) were coated with 50 ll of respective antigen (MR4, Manassas, VA) diluted to a final concentration of 1 lg/ml in 0.05 M carbonate-bicarbonate buffer (pH-9.6) and incubated overnight at 4\u00b0C. The plates were later washed with PBS-Tween (0.05% Tween-20 in 1X PBS) (Sigma Aldrich) for 5 times at room temperature (RT). To reduce non-specific binding, the plates were blocked with 1% bovine serum albumin (BSA) in PBS-Tween (0.05% Tween-20) for 3 h at RT, washed. The diluted serum (1:100 in blocking buffer) samples/negative control were added in duplicates, and incubated overnight at 4\u00b0C. Only patients infected with either Pf or Pv were considered as positive samples in this study. The serum samples of 6 unexposed Europeans who were na\u00efve for malarial infections were used as negative control and blank wells without serum (as background) were used. Following additional wash, the total IgG were detected by incubating at RT for 2 h with a HRP-conjugated mouse anti-human IgG antibody (cat # 9040-05, Southern Biotech, AL) at 1:10,000 dilution, and the subclasses were determined with mouse anti-human IgG subclass antibodies IgG1 (9052-05, Southern Biotech, AL) at 1:2000, IgG2 (9060-05, Southern Biotech, AL) at 1:6000, IgG3 (9210-05, Southern Biotech, AL) at 1:50,000 and IgG4 (9200-05, Southern Biotech, AL) at 1:20,000 dilution. Following incubation, the subclass samples were detected by using goat anti-mouse IgG-HRP (1036-05) at 1:8000 dilutions (Southern Biotech, Birmingham, AL) and incubated at RT for 2 h and washed. The plates were developed by incubating for 15 min at RT with the addition of TMB substrate (Southern Biotech, Birmingham, AL) and the reactions were later stopped by the addition of 25 ll of 2 N H 2 SO 4 . The absorbance was read at 450 nm in an iMark Microplate Reader, Bio-Rad, California, USA. The samples were considered to be seropositive when the absorbance value was higher than the average absorbance values plus 5 standard deviations of pooled negative controls. The percentage of seroprevalence was calculated as per the standard procedure (total number of positive samples/total number of samples) 9 100.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Seroprevalence of anti-MSP1 19 antibodies and its subclasses by ELISA"
+        },
+        {
+            "text": "The data was analyzed by using Microsoft excel and GraphPad prism version-6 (GraphPad prism software, Inc., San Diego California, USA). Data was compared and analyzed with respect to age, ethnicity, type of infection, number of previous malarial infections and duration since last infection. Proportion analysis was done using Chi square (v 2 ) test. The antibody levels between more than two groups were compared using Kruskal Wallis test and differences between the two groups were compared using Mann-Whitney U test with 95% confidence intervals. Pvalue of \\ 0.05 was considered to be significant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "A total of 318 study participants were recruited into the study. Of these, 267 were found to be infected, which comprised of 144 (53.9%) patients with Pv and 123 (46.1%) patients with Pf infections. The mean age of study participants was 36 years ranging from 16-65 years. A majority of the infected individuals were males 172 (64.4%) whereas 95 (35.6%) were females (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 367,
+                    "end": 376,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Among the 267 infected people 58 (21.7%) were natives (long-time residents) of this area and 209 (78.3%) were nonnative immigrants. The educational status among the infected individuals was very low as 166 (62.2%) patients had no formal education and the remaining 101 (37.8%) had primary to college level education. The malarial infections were seen primarily among individuals in construction of buildings or roads and among security guards (160, 59.9%). The remaining 12 (4.5%) were working in hotels, 62 (23.2%) were housewives, 15 were students (5.6%) and 18 (6.7%) were into other forms of occupations such as salesmen, businessmen etc. Among the 267 study participants, 244 (91.4%) patients with a mean of 2 (1-6) times reported to have prior malarial infections. Among the infected, 23 (8.6%) were experiencing malarial infections for the first time, 62 (23.2%) experienced malaria at least once, while 109 (40.8%) had 2-3 malarial infections and 73 (27.4%) had more than or equal to 4 times infections. Among the 244 patients with prior malarial infections, 144 (59%) patients were reported to have suffered malarial infections within last 6 months, whereas 100 (41%) had experienced a prior infection more than 6 months before the current infections. Majorly, 87% of the study participants received antimalarial treatment and claimed to have completed the course for their last malarial episode (Table 2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1405,
+                    "end": 1414,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The mean parasitemia (%) in patients with P. falciparum (1.0 \u00b1 1.3) was higher than P. vivax (0.5 \u00b1 0.6) infections, indicating a higher parasitic burden during Pf infections. In comparison to HEC (5.2 9 10 3 /ll), the RBC counts were found to be significantly decreased,especially during Pf infections (4.2 9 10 3 /ll), (p = 0.0012). In comparison to HEC, the hemoglobin levels (12.8 g/dL) were found to be decreased, particularly in patients with Pf (9.4 g/dL) infections (p = 0.0032) ( Table 3 ). An inverse correlation between increased parasitemia and decreased hemoglobin levels was observed across all patients regardless of infected parasite species; Pv (r = -0.412, p = \\ 0.00001) and Pf (r = -0.154, p = \\ 0.0001) infections. The platelet levels, in comparison to HEC group (2.0 9 10 4 /ll), were found to be significantly decreased in infected groups, especially in patients with Pf infections (0.8 9 10 4 /ll) (p = 0.008) ( Table 3) . A negative correlation between decreased platelet levels and increased parasitic burden was observed during Pv (r = -0.187, p = 0.0001) and Pf (r = -0.141, p = 0.0032) infections. However, no significant association (p [ 0.05) was observed between the status of malarial infection and cut off values of RBC counts (4-6.0 9 10 3 /ll), hemoglobin (males [ 18 and females, [ 16 g/dl), and platelets (1-4.0 9 10 3 /ll). There was no statistically significant influence of parasitemia, age and gender on the hematological parameters analyzed (p [ 0.05).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 489,
+                    "end": 496,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 936,
+                    "end": 944,
+                    "text": "Table 3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Hematological changes"
+        },
+        {
+            "text": "In this study, in comparison to HEC, the Pv and Pf infected patients were found to possess significantly higher levels of circulating antibodies against their respective recombinant MSP-1 19 (i.e., Pv-MSP-1 19 and Pf-MSP-1 19 ) antigens (p = \\ 0.001). The seroprevalence of antibodies against Pv-MSP-1 19 was 3.9%, 85.4%, 4.1% in HEC and in patients with Pv and Pf infections, respectively (Fig. 1a) . Similarly, the prevalence of antibodies against Pf-MSP-1 19 was 1.9%, 3.5%, 87.9% in HEC and in patients during Pv and Pf infections (Fig. 1c) . As expected, the Pv patients had significantly higher antibody levels against recombinant Pv-MSP-1 19 than Pf infections and vice versa (p = \\ 0.001) (Fig. 1b, d) . In this study, only 5 (9.8%) of HEC experienced prior malarial infections, and only negligible proportion of patients had (2/51) had very low detectable antibody levels against anti-Pv-MSP-1 19 and (1/ 51) had Pf-MSP-1 19 antibodies (p = 0.254). Even though, the presence of cross reactive antibodies against the recombinant MSP-1 19 antigens was detected, there was no significant difference in proportion of cross reactive antibodies in Pv patients against Pf-MSP-1 19 and Pf patients against Pv-MSP-1 19 [(5/144) 3.5% vs (5/123) 4.1%, p = 0.7980] (Fig. 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 390,
+                    "end": 399,
+                    "text": "(Fig. 1a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 535,
+                    "end": 544,
+                    "text": "(Fig. 1c)",
+                    "ref_id": null
+                },
+                {
+                    "start": 697,
+                    "end": 709,
+                    "text": "(Fig. 1b, d)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1262,
+                    "end": 1270,
+                    "text": "(Fig. 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Seroprevalence of anti-MSP-1 19 antibodies in the study subjects"
+        },
+        {
+            "text": "The IgG subclass profile against Pv-MSP-1 19 and Pf-MSP-1 19 were determined and analyzed. In seropositive samples for total IgG, Pv infected patients had significantly higher levels of IgG1 (72.2%) followed by IgG3 (58.3%), IgG4 (53.5%) and IgG2 (45.8%). A similar trend of subclasses of antibodies against Pf-MSP-1 19 was found in Pf infected patients i.e., IgG1 (75.6%), IgG3 (71.2%), IgG4 (67.5%) and IgG2 (45.5%). (Table 4, Fig. 2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 419,
+                    "end": 436,
+                    "text": "(Table 4, Fig. 2)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Seroprevalence of anti-MSP-1 19 specific IgG subclasses"
+        },
+        {
+            "text": "Protective immunity gradually develops with number of previous exposures and the duration since previous infection. In this study, 244 (91.4%) recruited participants with a mean of 2 (ranged 1-6) times had experienced previous malaria infections. A significant increase in anti-Pv-MSP-1 19 and anti-Pf-MSP-1 19 antibody levels was observed with increase in number of previous malarial episodes in Pv and Pf patients (Fig. 3a, b) . The patients with previous exposures were classified into 2 groups; patients with previous exposure of B 6 months and [ 6 months. The serum antibody levels against their respective antigens were significantly increased in both Pv and Pf patients with previous malarial infection of less than 6 months, in comparison to the patients with more than 6 months of previous infection (p = \\ 0.0001) (Fig. 3c, d) . This suggests that antibody responses observed against the respective malarial antigens, though increased with increase in number of previous infections, but were found to be only short-lived.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 416,
+                    "end": 428,
+                    "text": "(Fig. 3a, b)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 824,
+                    "end": 836,
+                    "text": "(Fig. 3c, d)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Influence of number of previous infections and duration since last infection on anti-MSP-1 19 antibody levels"
+        },
+        {
+            "text": "Anemia and thrombocytopenia are the two most common complications observed during malaria. To determine the possible association with morbidity parameters, the levels of anti-MSP-1 19 antibodies were assessed in patients with malarial anemia and thrombocytopenia. The levels of anti-MSP-1 19 antibodies were found to significantly increased with an increase in anemic severity during Pv and Pf infections. In our study, 78 (54.2%) patients with Pv were non-anemia (NA), 49 (34%) had a mild to moderate were found to be further significantly increased in patients with SA (4.22 \u00b1 0.8, p = 0.0038) (Fig. 4a) . A similar trend was observed in anti-Pf-MSP-1 19 antibody levels of P.falciparum infected patients in NA group (2.24 \u00b1 1.8) which was significantly higher in MMdA (3.37 \u00b1 2.5, p = 0.0218) and were further increased in SA (4.90 \u00b1 1.8, p = 0.0216) patients (Fig. 4b) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 596,
+                    "end": 605,
+                    "text": "(Fig. 4a)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 863,
+                    "end": 872,
+                    "text": "(Fig. 4b)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Relationship between IgG responses on morbidity parameters"
+        },
+        {
+            "text": "Thrombocytopenia is most frequently observed during malarial infections. Among the 267 infected, a total of 26 (18.1%) patients with Pv infections were non-thrombocytopenia (NT), 81 (56.3%) had a mild to moderate degree of thrombocytopenia (MMdT) and 37 (25.7%) suffered from severe thrombocytopenia (ST). In patients with Pf infections, 19 (15.4%) were NT, 74 (60.2%) had MMdT and 30 and Pf-MSP-1 19 antibody levels were found with an increase in thrombocytopenic intensity in patients with Pv and Pf infections. Upon comparison in Pv patients with NT (2.59 \u00b1 1.9) groups, the antibody levels did not increase significantly in MMdT (2.92 \u00b1 1.8, p = 0.7907) but were found to be significantly higher in patients with ST (4.19 \u00b1 1.3, p = 0.0074) (Fig. 4c) . A similar trend was observed in Pf patients with NT (2.11 \u00b1 2.1) and MMdT (3.37 \u00b1 2.6, p = 0.0521) had significantly higher antibody levels in ST (5.03 \u00b1 2.2, p = 0.0002) patients (Fig. 4d ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 745,
+                    "end": 754,
+                    "text": "(Fig. 4c)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 937,
+                    "end": 945,
+                    "text": "(Fig. 4d",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Relationship between IgG responses on morbidity parameters"
+        },
+        {
+            "text": "Acquired immune responses against malarial antigens are known to play an important role in protection against malaria. Among the various antigens studied so far, merozoite surface protein (MSP-1 19 ) is one of the highly immunogenic malarial antigen and a promising malaria vaccine candidate. Several studies in diverse endemic regions have demonstrated high prevalence of antibodies against Pv-MSP-1 and Pf-MSP-1 antigens (Ak et al. 1998; Egan et al. 1995; Olotu et al. 2012; Park et al. 2001; Soares et al. 1999b Soares et al. , 1999c Torres et al. 2008; Valderrama-Aguirre et al. 2005; Wilson et al. 2011) . In this study, we aimed to investigate the seroprevalence of antibodies against the recombinant Pv-MSP-1 19 and Pf-MSP-1 19 during Pv and Pf infections in the endemic setting of Mangaluru. We also tried to understand whether these antibodies confer a protective role in patients with common morbidity parameters such as malarial anemia and thrombocytopenia (Gupta et al. 2013; Quintero et al. 2011 ). Our data is in agreement with reports stating that Pv-MSP-1 19 and Pf-MSP-1 19 are highly immunogenic and elicit a rapid humoral response especially during acute infections (Park et al. 2001; Yeom et al. 2008; Zeyrek et al. 2008) . In this study, we observed over 80% patients to be seropositive against recombinant Pv-MSP-1 19 (85.4%) and Pf-MSP-1 19 (87.9%) antigens which is in agreement with earlier studies (Soe et al. 2004; Wang et al. 2016) . Such a strong induction of antibody responses could be due to priming the existing antigen specific memory B-cells from previous malaria exposures. Studies suggest that even in areas of low transmission and in the absence of reinfection, the memory B-cell responses to malarial antigens is maintained over long time, resulting in long lasting circulatory antibodies (Akpogheneta et al. 2010; Min et al. 2017; Ndungu et al. 2013; Wipasa et al. 2010) . In this study, we found that even though levels of anti-MSP-1 19 antibodies were found to be increased with increase in number of prior exposures, the antibody responses were found to decrease in individuals with over 6 months of previous exposure and hence the antibody responses against these MSP-1 19 antigens in this endemic setting seems to be only short lived.",
+            "cite_spans": [
+                {
+                    "start": 423,
+                    "end": 439,
+                    "text": "(Ak et al. 1998;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 440,
+                    "end": 457,
+                    "text": "Egan et al. 1995;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 458,
+                    "end": 476,
+                    "text": "Olotu et al. 2012;",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 477,
+                    "end": 494,
+                    "text": "Park et al. 2001;",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 495,
+                    "end": 514,
+                    "text": "Soares et al. 1999b",
+                    "ref_id": null
+                },
+                {
+                    "start": 515,
+                    "end": 536,
+                    "text": "Soares et al. , 1999c",
+                    "ref_id": null
+                },
+                {
+                    "start": 537,
+                    "end": 556,
+                    "text": "Torres et al. 2008;",
+                    "ref_id": "BIBREF77"
+                },
+                {
+                    "start": 557,
+                    "end": 588,
+                    "text": "Valderrama-Aguirre et al. 2005;",
+                    "ref_id": "BIBREF78"
+                },
+                {
+                    "start": 589,
+                    "end": 608,
+                    "text": "Wilson et al. 2011)",
+                    "ref_id": "BIBREF80"
+                },
+                {
+                    "start": 968,
+                    "end": 987,
+                    "text": "(Gupta et al. 2013;",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 988,
+                    "end": 1008,
+                    "text": "Quintero et al. 2011",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 1185,
+                    "end": 1203,
+                    "text": "(Park et al. 2001;",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 1204,
+                    "end": 1221,
+                    "text": "Yeom et al. 2008;",
+                    "ref_id": "BIBREF83"
+                },
+                {
+                    "start": 1222,
+                    "end": 1241,
+                    "text": "Zeyrek et al. 2008)",
+                    "ref_id": "BIBREF84"
+                },
+                {
+                    "start": 1424,
+                    "end": 1441,
+                    "text": "(Soe et al. 2004;",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 1442,
+                    "end": 1459,
+                    "text": "Wang et al. 2016)",
+                    "ref_id": "BIBREF79"
+                },
+                {
+                    "start": 1828,
+                    "end": 1853,
+                    "text": "(Akpogheneta et al. 2010;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1854,
+                    "end": 1870,
+                    "text": "Min et al. 2017;",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 1871,
+                    "end": 1890,
+                    "text": "Ndungu et al. 2013;",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 1891,
+                    "end": 1910,
+                    "text": "Wipasa et al. 2010)",
+                    "ref_id": "BIBREF81"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In Mangaluru, both Pf and Pv infections coexist, with Pv (* 80%) being the most prevalent infecting species (Dayanand et al. 2017; Punnath et al. 2019c ). We observed that 3.5% of Pv patients had cross reactive antibodies against Pf-MSP1 19 and 4.1% of Pf patients had antibodies against Pv-MSP-1 19 . This cross reactivity of antibodies could be attributed to * 50% amino acid homology of MSP-1 19 antigen fragments between the two Plasmodium species (Chuangchaiya et al. 2010; Nagao et al. 2008; Woodberry et al. 2008) . This sequence homology of the two antigens leading to B cells with common B cell epitopes results in production of cross reactive antibodies. The presence of different Plasmodium variants may also lead to variant specific antibody (Lourembam and Baruah 2012; Putaporntip et al. 2002; Shi et al. 1996; Soares et al. 1999a) . ",
+            "cite_spans": [
+                {
+                    "start": 108,
+                    "end": 130,
+                    "text": "(Dayanand et al. 2017;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 131,
+                    "end": 151,
+                    "text": "Punnath et al. 2019c",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 452,
+                    "end": 478,
+                    "text": "(Chuangchaiya et al. 2010;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 479,
+                    "end": 497,
+                    "text": "Nagao et al. 2008;",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 498,
+                    "end": 520,
+                    "text": "Woodberry et al. 2008)",
+                    "ref_id": "BIBREF82"
+                },
+                {
+                    "start": 754,
+                    "end": 781,
+                    "text": "(Lourembam and Baruah 2012;",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 782,
+                    "end": 806,
+                    "text": "Putaporntip et al. 2002;",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 807,
+                    "end": 823,
+                    "text": "Shi et al. 1996;",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 824,
+                    "end": 844,
+                    "text": "Soares et al. 1999a)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Red Blood cells 4.0-6.0 X 10 3 /ll 5.2 \u00b1 0.5 4.6 \u00b1 1.1 4.2 \u00b1 1.0 0.0012 Hemoglobin Males, 14-18; Females, 12-16 g/ dL 12.8 \u00b1 1.5 10.8 \u00b1 3.5 9.4 \u00b1 3.2 0.032",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Platelets 1-4 9 10 3 /ll 2.0 \u00b1 0.5 1.1 \u00b1 0.6 0.8 \u00b1 0.5 0.008 MPV 6.5-12.0 fL 9.4 \u00b1 0.8 10.1 \u00b1 2.1 9.6 \u00b1 1.4 0.412",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Data expressed as mean \u00b1 standard deviation and were analyzed using Kruskal-Wallis test with 95% confidence intervals a P value of \\ 0.05 was considered to be significant J Parasit Dis",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The antibody subclasses against malaria antigens mediate different immune effector functions (Nimmerjahn and Ravetch 2008; Stanisic et al. 2009 ). The prevalence of antibody subclass also varies in different endemic settings. The IgG class switching is not only influenced by the antigenic structure but also due to previous exposures and host factors (Ak et al. 1998; Branch et al. 2000; Mehrizi et al. 2011; Metzger et al. 2003; Taylor et al. 1998 ). In agreement with previous studies in various endemic regions, we also observed a significant induction of IgG1 and IgG3 antibodies, with a similar trend of subclass prevalence against recombinant Pv-MSP-1 19 and Pf-MSP-1 19 antigens (Egan et al. 1996; Mehrizi et al. 2011; Morais et al. 2005; Stanisic et al. 2009; Tongren et al. 2006 ). Most IgG responders had antibodies belonging to subclass IgG1 and IgG3 followed by IgG4 and IgG2. Being the major type of antibodies produced against the merozoite antigens, IgG1 and IgG3 (cytophilic subclasses) are expected to contribute significantly in opsonization and complementmediated lysis of merozoites (Nebie et al. 2008; Polley Fig. 1 Antibody levels against the recombinant Pv-MSP-1 19 and Pf-MSP-1 19 : The percent seropositivity in healthy endemic controls (HEC) and among P. vivax, P. falciparum patients was measured against a Pv-MSP-1 19 and c Pf-MSP-1 19 . The serum IgG antibody levels against b Pv-MSP-1 19 and d Pf-MSP-1 19 was measured in HEC and in patients with P. vivax, P. falciparum infections by ELISA. Data is shown as median \u00b1 interquartile range and were analyzed by Kruskal Wallis test for multiple comparisons. ns indicates nonsignificant data,***,**** indicate significance of p B 0.001 and p B 0.0001, respectively J Parasit Dis et al. 2006; Rzepczyk et al. 1997; Tongren et al. 2006 ). On the contrary, IgG2 and IgG4 (non-cytophilic subclasses), may compete with cytophilic antibodies for antigen recognition (Groux and Gysin 1990; Roussilhon et al. 2007; Stanisic et al. 2009 ). The high prevalence of IgG4 ([ 50%) subclass antibodies in this study, likely competes with cytophilic antibodies for antigen recognition and may therefore block cytotoxicity mediated by antibody-activated effector cells, and in turn with increased susceptibility to malaria (Aalberse et al. 2009; Aucan et al. 2000) .",
+            "cite_spans": [
+                {
+                    "start": 93,
+                    "end": 122,
+                    "text": "(Nimmerjahn and Ravetch 2008;",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 123,
+                    "end": 143,
+                    "text": "Stanisic et al. 2009",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 352,
+                    "end": 368,
+                    "text": "(Ak et al. 1998;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 369,
+                    "end": 388,
+                    "text": "Branch et al. 2000;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 389,
+                    "end": 409,
+                    "text": "Mehrizi et al. 2011;",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 410,
+                    "end": 430,
+                    "text": "Metzger et al. 2003;",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 431,
+                    "end": 449,
+                    "text": "Taylor et al. 1998",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 687,
+                    "end": 705,
+                    "text": "(Egan et al. 1996;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 706,
+                    "end": 726,
+                    "text": "Mehrizi et al. 2011;",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 727,
+                    "end": 746,
+                    "text": "Morais et al. 2005;",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 747,
+                    "end": 768,
+                    "text": "Stanisic et al. 2009;",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 769,
+                    "end": 788,
+                    "text": "Tongren et al. 2006",
+                    "ref_id": "BIBREF75"
+                },
+                {
+                    "start": 1104,
+                    "end": 1123,
+                    "text": "(Nebie et al. 2008;",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1124,
+                    "end": 1137,
+                    "text": "Polley Fig. 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1742,
+                    "end": 1768,
+                    "text": "J Parasit Dis et al. 2006;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1769,
+                    "end": 1790,
+                    "text": "Rzepczyk et al. 1997;",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 1791,
+                    "end": 1810,
+                    "text": "Tongren et al. 2006",
+                    "ref_id": "BIBREF75"
+                },
+                {
+                    "start": 1937,
+                    "end": 1959,
+                    "text": "(Groux and Gysin 1990;",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1960,
+                    "end": 1983,
+                    "text": "Roussilhon et al. 2007;",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 1984,
+                    "end": 2004,
+                    "text": "Stanisic et al. 2009",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 2283,
+                    "end": 2305,
+                    "text": "(Aalberse et al. 2009;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 2306,
+                    "end": 2324,
+                    "text": "Aucan et al. 2000)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Antibodies produced in response to malaria are expected to confer protection from progression of mild malaria into (Menendez et al. 2000; Punnath et al. 2019d) . Milder forms of anemia can result in considerable shown as median \u00b1 interquartile range were analyzed by one-way nonparametric Mann-Whitney test for comparison between two groups and Kruskal-Wallis test for multiple comparisons. * and **** indicate significance at p B 0.05 and p B 0.0001, respectively morbidity especially in younger children and pregnant women, whereas SA is of main concern due to its high mortality rates, mostly in children below 2 years of age (Fernandes et al. 2008; Muhangi et al. 2007; Punnath et al. 2019d ). In spite of decades of research studies, the mechanism of anemia is not completely understood and is not only credited to hemoglobin digestion and red blood cell destruction, but also due to increased splenic clearance, oxidative stress, bone marrow changes and sequestration in various organs (Castro-Gomes et al. 2014; Punnath et al. 2019d) . It was observed that the administration of purified IgG from immune adults to malaria patients confers protection against severe malaria by reducing parasitemia (Sabchareon et al. 1991) . Studies in children with SA revealed that immune complex (IC) may contribute an important role in erythrocyte destruction leading to development of malarial anemia (Mibei et al. 2005) . Also, experiments with Pf showed that tagging the surface of uninfected RBCs and erythroid precursor cells in bone marrow by parasite proteins may elicit a specific antibody response, triggering phagocytosis and complement activation and inducing the clearance of these cells, eventually leading to anemia (Awah et al. 2011 (Awah et al. , 2009 Layez et al. 2005; Sterkers et al. 2007) . It is clearly evident from the results of this study, that the circulatory levels of anti-MSP-1 19 antibodies were higher in patients with increased anemic severity during Pv and Pf infections. We predict that these anti-MSP-1 19 antibodies and other non-specific antibodies can have affinity to the MSP-1 19 antigens leading to formation of IC's on RBC's surface (both infected RBC's and uninfected RBC's). Such changes on the surface of RBCs can lead to activation of complement system leading to increased phagocytosis by monocytes and macrophages leading to increased RBC destruction and an aggravated anemic severity (Awah et al. 2011 (Awah et al. , 2009 Facer et al. 1979; Sterkers et al. 2007 ). Thrombocytopenia is one of the most frequent hematological complications observed during malaria infections. Though commonly found, the mechanisms leading to this complication and its subsequent effects on disease progression are poorly defined (Lacerda et al. 2011; Punnath et al. 2019b) . Thrombocytopenia seems to occur mostly by peripheral destruction, bone marrow alterations, excessive removal of platelets by splenic pooling, platelet consumption by the process of disseminated intravascular coagulopathy (DIC), pseudo thrombocytopenia due to clumping of P. falciparum infected erythrocytes, oxidative stress and antibody mediated platelet destruction (Punnath et al. 2019b) . Observations in animal studies with experimental model of Plasmodium berghei, indicate a potential role of platelet associated IgG and CD4-T cells in platelet destruction (Grau et al. 1988 ). Among various mechanisms, thrombocytopenia is also likely to be associated with binding of parasitic antigens on platelet surface. This leads to binding of circulatory antibodies to the malarial antigens resulting in the formation of immune complexes (Kelton et al. 1983; Lacerda et al. 2011) . The increased immune complexes can lead to activation of complement system and increased phagocytic clearance by monocytes and macrophages (Grynberg et al. 2007; Lacerda et al. 2011; S 2009) . As observed in this study, both anti-Pv-MSP-1 19 and anti-Pf-MSP-1 19 antibody levels were found to be higher in patients with increase in severity of thrombocytopenia. We speculate that the binding of host anti-MSP-1 19 circulatory antibodies to the antigens on the platelet surfaces results in increased platelet destruction and eventually thrombocytopenia. Based on the observations in this study, further in vitro biological assays are required, to gain a better understanding of the immunological aspects, and therefore eventually aid in design and development of future interventions especially in patients with severe malarial complications.",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 137,
+                    "text": "(Menendez et al. 2000;",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 138,
+                    "end": 159,
+                    "text": "Punnath et al. 2019d)",
+                    "ref_id": null
+                },
+                {
+                    "start": 629,
+                    "end": 652,
+                    "text": "(Fernandes et al. 2008;",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 653,
+                    "end": 673,
+                    "text": "Muhangi et al. 2007;",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 674,
+                    "end": 694,
+                    "text": "Punnath et al. 2019d",
+                    "ref_id": null
+                },
+                {
+                    "start": 992,
+                    "end": 1018,
+                    "text": "(Castro-Gomes et al. 2014;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1019,
+                    "end": 1040,
+                    "text": "Punnath et al. 2019d)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1204,
+                    "end": 1228,
+                    "text": "(Sabchareon et al. 1991)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1395,
+                    "end": 1414,
+                    "text": "(Mibei et al. 2005)",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 1723,
+                    "end": 1740,
+                    "text": "(Awah et al. 2011",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1741,
+                    "end": 1760,
+                    "text": "(Awah et al. , 2009",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1761,
+                    "end": 1779,
+                    "text": "Layez et al. 2005;",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1780,
+                    "end": 1801,
+                    "text": "Sterkers et al. 2007)",
+                    "ref_id": "BIBREF73"
+                },
+                {
+                    "start": 2426,
+                    "end": 2443,
+                    "text": "(Awah et al. 2011",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2444,
+                    "end": 2463,
+                    "text": "(Awah et al. , 2009",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 2464,
+                    "end": 2482,
+                    "text": "Facer et al. 1979;",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 2483,
+                    "end": 2503,
+                    "text": "Sterkers et al. 2007",
+                    "ref_id": "BIBREF73"
+                },
+                {
+                    "start": 2752,
+                    "end": 2773,
+                    "text": "(Lacerda et al. 2011;",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 2774,
+                    "end": 2795,
+                    "text": "Punnath et al. 2019b)",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 3166,
+                    "end": 3188,
+                    "text": "(Punnath et al. 2019b)",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 3362,
+                    "end": 3379,
+                    "text": "(Grau et al. 1988",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 3634,
+                    "end": 3654,
+                    "text": "(Kelton et al. 1983;",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 3655,
+                    "end": 3675,
+                    "text": "Lacerda et al. 2011)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 3817,
+                    "end": 3839,
+                    "text": "(Grynberg et al. 2007;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 3840,
+                    "end": 3860,
+                    "text": "Lacerda et al. 2011;",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 3861,
+                    "end": 3868,
+                    "text": "S 2009)",
+                    "ref_id": "BIBREF64"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Although, the study is extensive, there are some limitations such as: (1) only adults were recruited into the study excluding children and pregnant women (2) The malarial diagnosis was performed by microscopic examination of Giemsa-stained blood smears and no molecular methods such as PCR were used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "In this study, we observed that people with ongoing malarial infections had significantly higher antibody levels against MSP-1 19 antigens. The IgG levels also increased with number of repeated infections. However, the persistence of circulatory levels of antibodies was only short lived. Among the 4 IgG subclasses, cryophilic antibodies IgG1 and IgG3 were predominant; the induction of IgG4 antibodies indicates that the overall antibody responses may not play a protective role. The increased levels of antibodies in severe anemic and thrombocytopenic patients suggest that anti-MSP-1 19 antibodies may play a potential role in pathogenesis of malarial anemia and thrombocytopenia. In general, this study also suggests that the seroprevalence analysis can be used as a tool to understand the changing epidemiology patterns across various malaria hotspots and in particular Mangaluru and its surroundings.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Immunoglobulin G4: an odd antibody",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Aalberse",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Stapel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schuurman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Rispens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Clin exp allergy J Br Soc Allergy Clin Immunol",
+            "volume": "39",
+            "issn": "",
+            "pages": "469--477",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-2222.2009.03207.x"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Humoral immune responses against Plasmodium vivax MSP1 in humans living in a malaria endemic area in Flores Indonesia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Southeast Asian J Trop Med Public Health",
+            "volume": "29",
+            "issn": "",
+            "pages": "685--691",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Boosting antibody responses to Plasmodium falciparum merozoite antigens in children with highly seasonal exposure to infection",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Akpogheneta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dunyo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pinder",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Conway",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Parasite Immunol",
+            "volume": "32",
+            "issn": "",
+            "pages": "296--304",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-3024.2009.01193.x"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "High immunoglobulin G2 (IgG2) and low IgG4 levels are associated with human resistance to Plasmodium falciparum malaria",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Aucan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Traore",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tall",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Nacro",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Traore-Leroux",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Fumoux",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rihet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Infect Immun",
+            "volume": "68",
+            "issn": "",
+            "pages": "1252--1258",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Antibodies to the Plasmodium falciparum rhoptry protein RAP-2/RSP-2 in relation to anaemia in Cameroonian children",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Awah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Parasite Immunol",
+            "volume": "33",
+            "issn": "",
+            "pages": "104--115",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Mechanisms of malarial anaemia: potential involvement of the Plasmodium falciparum low molecular weight rhoptry-associated proteins",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Awah",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Troye-Blomberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Berzins",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gysin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Acta Trop",
+            "volume": "112",
+            "issn": "",
+            "pages": "295--302",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "A single fragment of a malaria merozoite surface protein remains on the parasite during red cell invasion and is the target of invasion-inhibiting antibodies",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Blackman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Heidrich",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Donachie",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Mcbride",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Holder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J Exp Med",
+            "volume": "172",
+            "issn": "",
+            "pages": "379--382",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Proteolytic processing of the Plasmodium falciparum merozoite surface protein-1 produces a membrane-bound fragment containing two epidermal growth factor-like domains",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Blackman",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Nicholls",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Holder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Mol biochem parasitol",
+            "volume": "49",
+            "issn": "",
+            "pages": "29--33",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Association of the IgG response to Plasmodium falciparum merozoite protein (C-terminal 19 kD) with clinical immunity to malaria in the Brazilian Amazon region",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Braga",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Barros",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Reis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fontes",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Morais",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Martins",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Krettli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Am J Trop Med hyg",
+            "volume": "66",
+            "issn": "",
+            "pages": "461--466",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Antimerozoite surface protein-1 19-kDa IgG in mother-infant pairs naturally exposed to Plasmodium falciparum: subclass analysis with age, exposure to asexual parasitemia, and protection against malaria. V. Asembo Bay Cohort Proj",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Branch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Oloo",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nahlen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kaslow",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Infect dis",
+            "volume": "181",
+            "issn": "",
+            "pages": "1746--1752",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/315424"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "A longitudinal investigation of IgG and IgM antibody responses to the merozoite surface protein-1 19-kiloDalton domain of Plasmodium falciparum in pregnant women and infants: associations with febrile illness, parasitemia, and anemia",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Branch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "58",
+            "issn": "",
+            "pages": "211--219",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Potential immune mechanisms associated with anemia in Plasmodium vivax malaria: a puzzling question",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Castro-Gomes",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Mourao",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Melo",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Monteiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Lacerda",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Braga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Infect Immun",
+            "volume": "82",
+            "issn": "",
+            "pages": "3990--4000",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/iai.01972-14"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Antimalarial activity of cupredoxins: the interaction of Plasmodium merozoite surface protein 119 (MSP119) and rusticyanin",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chuangchaiya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Clin Exp Immunol",
+            "volume": "160",
+            "issn": "",
+            "pages": "20896--20907",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M113.460162"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Malaria prevalence in Mangaluru city area in the southwestern coastal region of India",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Dayanand",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Malar j",
+            "volume": "16",
+            "issn": "",
+            "pages": "492--492",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12936-017-2141-0"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Human antibodies to the 19kDa C-terminal fragment of Plasmodium falciparum merozoite surface protein 1 inhibit parasite growth in vitro",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Egan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Burghaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Druilhe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Holder",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Riley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Parasite immunol",
+            "volume": "21",
+            "issn": "",
+            "pages": "133--139",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Serum antibodies from malaria-exposed people recognize conserved epitopes formed by the two epidermal growth factor motifs of MSP1(19), the carboxy-terminal fragment of the major merozoite surface protein of Plasmodium falciparum",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Egan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Infect immun",
+            "volume": "63",
+            "issn": "",
+            "pages": "456--466",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Clinical immunity to Plasmodium falciparum malaria is associated with serum antibodies to the 19-kDa C-terminal fragment of the merozoite surface antigen, PfMSP-1",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Egan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J infect dis",
+            "volume": "173",
+            "issn": "",
+            "pages": "765--769",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Blood stage vaccines for Plasmodium falciparum: current status and the way forward",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Ellis",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Sagara",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Doumbo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Hum Vaccin",
+            "volume": "6",
+            "issn": "",
+            "pages": "627--634",
+            "other_ids": {
+                "DOI": [
+                    "10.4161/hv.6.8.11446"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Direct Coombs antiglobulin reactions in Gambian children with Plasmodium falciparum malaria. I. Incidence and class specificity",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Facer",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bray",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "Clin Exp Immunol",
+            "volume": "35",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Similar cytokine responses and degrees of anemia in patients with Plasmodium falciparum and Plasmodium vivax infections in the Brazilian Amazon region",
+            "authors": [
+                {
+                    "first": "Aam",
+                    "middle": [],
+                    "last": "Fernandes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Clin Vaccine Immunol",
+            "volume": "15",
+            "issn": "",
+            "pages": "650--658",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Naturally-acquired humoral immune responses against the N-and C-termini of the Plasmodium vivax MSP1 protein in endemic regions of Brazil and Papua New Guinea using a multiplex assay",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fernandez-Becerra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Malar J",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1475-2875-9-29"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The relationship between anti-merozoite antibodies and incidence of Plasmodium falciparum malaria: a systematic review and metaanalysis",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fowkes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Richards",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Simpson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Beeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS med",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.1000218"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Immunopathology of thrombocytopenia in experimental malaria",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Grau",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Piguet",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gretener",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Vesin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lambert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Immunology",
+            "volume": "65",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Antibodies to Plasmodium falciparum antigens predict a higher risk of malaria but protection from symptoms once parasitemic",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Greenhouse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Infect Dis",
+            "volume": "204",
+            "issn": "",
+            "pages": "19--26",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jir223"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Opsonization as an effector mechanism in human protection against asexual blood stages of Plasmodium falciparum: functional role of IgG subclasses",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Groux",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gysin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Res Immunol",
+            "volume": "141",
+            "issn": "",
+            "pages": "529--542",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Association between particular polymorphic residues on apical membrane antigen 1 (AMA-1) and platelet levels in patients with vivax malaria",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Grynberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Fontes",
+                    "suffix": ""
+                },
+                {
+                    "first": "\u00c9",
+                    "middle": [],
+                    "last": "Braga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Clin Microbiol Infect",
+            "volume": "13",
+            "issn": "",
+            "pages": "1089--1094",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Study of thrombocytopenia in patients of malaria",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Gupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Bansal",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sahare",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Trop Parasitol",
+            "volume": "3",
+            "issn": "",
+            "pages": "58--61",
+            "other_ids": {
+                "DOI": [
+                    "10.4103/2229-5070.113914"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "A malaria merozoite surface protein (MSP1)-structure, processing and function",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Holder",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Blackman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Burghaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Chappel",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mccallum-Deighton",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Mem Inst Oswaldo Cruz",
+            "volume": "87",
+            "issn": "",
+            "pages": "37--42",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Correlation of high levels of antibodies to multiple pre-erythrocytic Plasmodium falciparum antigens and protection from infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "John",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "73",
+            "issn": "",
+            "pages": "222--228",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Evidence that invasion-inhibitory antibodies specific for the 19-kDa fragment of merozoite surface protein-1 (MSP-1 19) can play a protective role against blood-stage Plasmodium falciparum infection in individuals in a malaria endemic area of Africa",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "John",
+                    "suffix": ""
+                }
+            ],
+            "year": 1950,
+            "venue": "J immunol",
+            "volume": "173",
+            "issn": "",
+            "pages": "666--672",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Immune-mediated thrombocytopenia of malaria",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kelton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "J Clin Investig",
+            "volume": "71",
+            "issn": "",
+            "pages": "832--836",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Epidemiological and clinical profile of paediatric malaria: a cross sectional study performed on febrile children in five epidemiological strata of malaria in Cameroon",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kwenti",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tdb",
+                    "middle": [],
+                    "last": "Kwenti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Latz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Njunda",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nkuo-Akenji",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMC Infect Dis",
+            "volume": "17",
+            "issn": "",
+            "pages": "499--499",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12879-017-2587-2"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Thrombocytopenia in malaria: who cares?",
+            "authors": [
+                {
+                    "first": "Mvg",
+                    "middle": [],
+                    "last": "Lacerda",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mpg",
+                    "middle": [],
+                    "last": "Mour\u00e3o",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hcc",
+                    "middle": [],
+                    "last": "Coelho",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Santos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Mem Inst Oswaldo Cruz",
+            "volume": "106",
+            "issn": "",
+            "pages": "52--63",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Plasmodium falciparum rhoptry protein RSP2 triggers destruction of the erythroid lineage",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Layez",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nogueira",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Combes",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ftm",
+                    "middle": [],
+                    "last": "Costa",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Juhan-Vague",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lhp",
+                    "middle": [],
+                    "last": "Da Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gysin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Blood",
+            "volume": "106",
+            "issn": "",
+            "pages": "3632--3638",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood-2005-04-1574"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Antibody response to allelic variants of 19kDa fragment of MSP-1: recognition of a variant and protection associated with ethnicity in Assam. India Vaccine",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lourembam",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Baruah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "30",
+            "issn": "",
+            "pages": "767--773",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2011.11.069"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "IgG subclass antibodies to three variants of Plasmodium falciparum merozoite surface protein-1 (PfMSP-1(19)) in an area with unstable malaria transmission in Iran",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mehrizi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Asgharpour",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Salmanian",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Djadid",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zakeri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Acta Trop",
+            "volume": "119",
+            "issn": "",
+            "pages": "84--90",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.actatropica.2011.04.012"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Malaria-related anaemia Parasitology today",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Menendez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Fleming",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Alonso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "",
+            "volume": "16",
+            "issn": "",
+            "pages": "1774--1783",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Serum IgG3 to the Plasmodium falciparum merozoite surface protein 2 is strongly associated with a reduced prospective risk of malaria",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Metzger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Parasite immunol",
+            "volume": "25",
+            "issn": "",
+            "pages": "307--312",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Immune complex levels in children with severe Plasmodium falciparum malaria",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Mibei",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Orago",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stoute",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "72",
+            "issn": "",
+            "pages": "593--599",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Immunogenicity of the Plasmodium vivax merozoite surface protein 1 paralog in the induction of naturally acquired antibody and memory B cell responses",
+            "authors": [
+                {
+                    "first": "Hmk",
+                    "middle": [],
+                    "last": "Min",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Malar J",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12936-017-2000-z"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "IgG isotype to C-terminal 19 kDa of Plasmodium vivax merozoite surface protein 1 among subjects with different levels of exposure to malaria in Brazil",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Morais",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Soares",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Carvalho",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fontes",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Krettli",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Braga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Parasitol Res",
+            "volume": "95",
+            "issn": "",
+            "pages": "420--426",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00436-005-1314-x"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Associations between mild-to-moderate anaemia in pregnancy and helminth, malaria and HIV infection in Entebbe Uganda",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Muhangi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Trans R Soc Trop Med Hyg",
+            "volume": "101",
+            "issn": "",
+            "pages": "899--907",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Suppression of Plasmodium falciparum by serum collected from a case of Plasmodium vivax infection",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Nagao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Malar J",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1475-2875-7-113"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Long-lived Plasmodium falciparum specific memory B cells in naturally exposed Swedish travelers",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ndungu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lundblom",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rono",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Illingworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Eriksson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Farnert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Eur J Immunol",
+            "volume": "43",
+            "issn": "",
+            "pages": "2919--2929",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/eji.201343630"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Humoral responses to Plasmodium falciparum blood-stage antigens and association with incidence of clinical malaria in children living in an area of seasonal malaria transmission in Burkina Faso West Africa",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Nebie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Infect Immun",
+            "volume": "76",
+            "issn": "",
+            "pages": "759--766",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/iai.01147-07"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Fcc receptors as regulators of immune responses",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Nimmerjahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Ravetch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nat Rev Immunol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Fine specificity of serum antibodies to Plasmodium falciparum merozoite surface protein, PfMSP-1(19), predicts protection from malaria infection and highdensity parasitemia",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Okech",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Infect Immun",
+            "volume": "72",
+            "issn": "",
+            "pages": "1557--1567",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Estimating individual exposure to malaria using local prevalence of malaria infection in the field",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Olotu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS ONE",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0032929"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Naturally acquired antibody responses to the C-terminal region of merozoite surface protein 1 of Plasmodium vivax in Korea",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Clin Diagn Lab Immunol",
+            "volume": "8",
+            "issn": "",
+            "pages": "14--20",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/cdli.8.1.14-20.2001"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "High levels of serum antibodies to merozoite surface protein 2 of Plasmodium falciparum are associated with reduced risk of clinical malaria in coastal Kenya",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Polley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Vaccine",
+            "volume": "24",
+            "issn": "",
+            "pages": "4233--4246",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2005.06.030"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Differential oxidative stress and antioxidant responses in mild and severe malaria",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Punnath",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Chandrashekar",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dayanand",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Achur",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kakkilaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Int J Sci Res Rev",
+            "volume": "8",
+            "issn": "",
+            "pages": "1835--1855",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "C-reactive protein levels as a potential diagnostic marker during malarial infections",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Punnath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Eur J Pharm Med Res",
+            "volume": "5",
+            "issn": "",
+            "pages": "361--367",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Association between inflammatory cytokine levels and thrombocytopenia during Plasmodium falciparum and P. vivax infections in south-western coastal region of India",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Punnath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Clinical features and haematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Punnath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Parasitol Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00436-00019-06540-0043210.1007/s00436-019-06540-2"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Association between inflammatory cytokine levels and anemia during Plasmodium falciparum and Plasmodium vivax infections in Mangaluru: a southwestern coastal region of India",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Punnath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Trop Parasitol",
+            "volume": "9",
+            "issn": "",
+            "pages": "98--107",
+            "other_ids": {
+                "DOI": [
+                    "10.4103/tp.TP_66_18"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Mosaic organization and heterogeneity in frequency of allelic recombination of the Plasmodium vivax merozoite surface protein-1 locus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Putaporntip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc National Acad Sci United States Am",
+            "volume": "99",
+            "issn": "",
+            "pages": "16348--16353",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.252348999"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Malaria-related anaemia: a Latin American perspective",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Quintero",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Mem Inst Oswaldo Cruz",
+            "volume": "106",
+            "issn": "",
+            "pages": "91--104",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "The future for blood-stage vaccines against malaria",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Richards",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Beeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Immunol Cell Biol",
+            "volume": "87",
+            "issn": "",
+            "pages": "377--390",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Naturally acquired cellular and humoral immune responses to the major merozoite surface antigen (PfMSP1) of Plasmodium falciparum are associated with reduced malaria morbidity",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Riley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Parasite immunol",
+            "volume": "14",
+            "issn": "",
+            "pages": "321--337",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Long-term clinical protection from falciparum malaria is strongly associated with IgG3 antibodies to merozoite surface protein 3",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Roussilhon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Med",
+            "volume": "4",
+            "issn": "320",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.0040320"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Humoral immune responses of Solomon Islanders to the merozoite surface antigen 2 of Plasmodium falciparum show pronounced skewing towards antibodies of the immunoglobulin G3 subclass",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rzepczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hale",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Woodroffe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bobogare",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Csurhes",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ishii",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ferrante",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Infect Immun",
+            "volume": "65",
+            "issn": "",
+            "pages": "1098--1100",
+            "other_ids": {}
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Avaliacao da frequ\u00eancia e dos fatores associados \u00e0 plaquetopenia causada pelo Plasmodium vivax",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "Universidade Federal do Mato Grosso Sabchareon A et al (1991) Parasitologic and clinical human response to immunoglobulin administration in falciparum malaria",
+            "authors": [
+                {
+                    "first": "Mato",
+                    "middle": [],
+                    "last": "Grosso",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Brazil",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "45",
+            "issn": "",
+            "pages": "297--308",
+            "other_ids": {
+                "DOI": [
+                    "10.4269/ajtmh.1991.45.297"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Natural immune response to the C-terminal 19-kilodalton domain of Plasmodium falciparum merozoite surface protein 1",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Infect Immun",
+            "volume": "64",
+            "issn": "",
+            "pages": "2716--2723",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "A Plasmodium vivax vaccine candidate displays limited allele polymorphism, which does not restrict recognition by antibodies",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Soares",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Barnwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Ferreira",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gomes",
+                    "middle": [],
+                    "last": "Da Cunha",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Laurino",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Castilho",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rodrigues",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Mol Med",
+            "volume": "5",
+            "issn": "",
+            "pages": "459--470",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Longevity of naturally acquired antibody responses to the N-and C-terminal regions of Plasmodium vivax merozoite surface protein 1",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Soares",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Da Cunha",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Souza",
+                    "suffix": ""
+                },
+                {
+                    "first": "Del",
+                    "middle": [],
+                    "last": "Portillo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rodrigues",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "60",
+            "issn": "",
+            "pages": "357--363",
+            "other_ids": {}
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "Antibody response to the N and C-terminal regions of the Plasmodium vivax merozoite surface protein 1 in individuals living in an area of exclusive transmission of P. vivax malaria in the north of Brazil",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Soares",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Oliveira",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Souza",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rodrigues",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Acta Trop",
+            "volume": "72",
+            "issn": "",
+            "pages": "13--24",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Association between protection against clinical malaria and antibodies to merozoite surface antigens in an area of hyperendemicity in Myanmar: complementarity between responses to merozoite surface protein 3 and the 220-kilodalton glutamaterich protein",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Soe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Theisen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Roussilhon",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Aye",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Druilhe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Infect Immun",
+            "volume": "72",
+            "issn": "",
+            "pages": "247--252",
+            "other_ids": {}
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Immunoglobulin G subclass-specific responses against Plasmodium falciparum merozoite antigens are associated with control of parasitemia and protection from symptomatic illness",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Stanisic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Infect Immun",
+            "volume": "77",
+            "issn": "",
+            "pages": "1165--1174",
+            "other_ids": {}
+        },
+        "BIBREF73": {
+            "ref_id": "b73",
+            "title": "Members of the low-molecular-mass rhoptry protein complex of Plasmodium falciparum bind to the surface of normal erythrocytes",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sterkers",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Scheidig",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Da Rocha",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lepolard",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gysin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Scherf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Infect Dis",
+            "volume": "196",
+            "issn": "",
+            "pages": "617--621",
+            "other_ids": {}
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "IgG3 antibodies to Plasmodium falciparum merozoite surface protein 2 (MSP2): increasing prevalence with age and association with clinical immunity to malaria",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Greenwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Riley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "58",
+            "issn": "",
+            "pages": "406--413",
+            "other_ids": {}
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "Target antigen, age, and duration of antigen exposure independently regulate immunoglobulin G subclass switching in malaria",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Tongren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Infect Immun",
+            "volume": "74",
+            "issn": "",
+            "pages": "257--264",
+            "other_ids": {}
+        },
+        "BIBREF77": {
+            "ref_id": "b77",
+            "title": "Antibody response dynamics to the Plasmodium falciparum conserved vaccine candidate antigen, merozoite surface protein-1 C-terminal 19kD (MSP1-19kD), in Peruvians exposed to hypoendemic malaria transmission",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Torres",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Hernandez",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Soto-Cornejo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gamboa",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Branch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Malar J",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1475-2875-7-173"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "ref_id": "b78",
+            "title": "Antigenicity, immunogenicity, and protective efficacy of Plasmodium vivax MSP1 PV200l: a potential malaria vaccine subunit",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Valderrama-Aguirre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "73",
+            "issn": "",
+            "pages": "16--24",
+            "other_ids": {}
+        },
+        "BIBREF79": {
+            "ref_id": "b79",
+            "title": "Naturally acquired antibody responses to Plasmodium vivax and Plasmodium falciparum merozoite surface protein 1 (MSP1) C-terminal 19 kDa domains in an area of unstable malaria transmission in southeast Asia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PLoS ONE",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0151900"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "ref_id": "b80",
+            "title": "Quantifying the importance of MSP1-19 as a target of growth-inhibitory and protective antibodies against Plasmodium falciparum in humans",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS ONE",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0027705"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "ref_id": "b81",
+            "title": "Long-lived antibody and B Cell memory responses to the human malaria parasites Plasmodium falciparum and Plasmodium vivax",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wipasa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Pathog",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000770"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "ref_id": "b82",
+            "title": "Antibodies to Plasmodium falciparum and Plasmodium vivax merozoite surface protein 5 in Indonesia: species-specific and cross-reactive responses",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Woodberry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Infect Dis",
+            "volume": "198",
+            "issn": "",
+            "pages": "134--142",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/588711"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "ref_id": "b83",
+            "title": "Naturally acquired IgM antibody response to the C-terminal region of the merozoite surface protein 1 of Plasmodium vivax in Korea: use for serodiagnosis of vivax malaria",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Yeom",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Parasitol",
+            "volume": "94",
+            "issn": "",
+            "pages": "1410--1414",
+            "other_ids": {
+                "DOI": [
+                    "10.1645/ge-1484.1"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "ref_id": "b84",
+            "title": "Analysis of naturally acquired antibody responses to the 19-kd C-terminal region of merozoite surface protein-1 of Plasmodium vivax from individuals in Sanliurfa Turkey",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zeyrek",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Babaoglu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Demirel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Erdogan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ak",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Korkmaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Coban",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "78",
+            "issn": "",
+            "pages": "729--732",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Influence of number of previous infections and duration since last infection on levels of anti-MSP-1 19 antibody: IgG levels were measured across number of times of previous exposure, 1 prior infection (open white box), 2-3 times infected (grey closed box), C 4 times infection (closed black box) against Pv-MSP-1 19 in patients with P. vivax (a) and Pf-MSP-1 19 in patients with P. falciparum (b) infections. Antibody levels are indicated in patients with previous exposure of \\ 6 months (open box) and [ 6 months (closed grey box) against Pv-MSP-1 19 in patients with P. vivax (c) and Pf-MSP-1 19 in patients with P. falciparum (d) infections. Data",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "IgG levels in patients with anemia and thrombocytopenia during malarial infections: The levels of anti-MSP-1 19 antibodies in anemic patients [non anemic-NA (open boxes), Mild to moderate anemia-MMdA (closed grey box), and severe anemic-SA (closed black box)] in P. vivax (a) and P. falciparum (b); IgG levels in thrombocytopenia patients [non thrombocytopenia-NT (open boxes), Mild to moderate thrombocytopenia-MMdT (closed grey box), and severe thrombocytopenia-ST (closed black box)] in P. vivax (c) and P. falciparum (d) infections are indicated. Data shown as median \u00b1 interquartile range were analyzed by one-way nonparametric Mann-Whitney test for comparison between two groups and Kruskal-Wallis test for multiple comparisons. ns indicates nonsignificant data, p C 0.05, *, ** and *** indicate significance at p B 0.05, p B 0.01 and p B 0.001, respectively",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Study population characteristics",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Socio-demographics of the study population",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Changes in hematological parameters during with P. vivax and P. falciparum infections",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Percentage of seropositivity and antibody levels against recombinant Pv-MSP-1 19 and Pf-MSP-1 19 antigens in patients with P. vivax and P. falciparum infections",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Acknowledgements The authors thank the study participants for their consent to participate in the study. We thank MR4 for providing us the recombinant antigens used in ELISA; MRA 53-Plasmodium falciparum yP30P2 PfMSP- Funding This work was supported by the Grant D43 TW008268 from the Fogarty International Center of the National Institutes of Health, USA, to DCG under the Global Infectious Diseases Program. The funders had no role in study design, data collection, and analysis, decision to publish, or preparation of the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "The data used in this study is archived in corresponding authors university and available from the corresponding author upon reasonable request.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Availability"
+        }
+    ]
+}

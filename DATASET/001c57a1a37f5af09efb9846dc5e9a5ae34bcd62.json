@@ -1,0 +1,3806 @@
+{
+    "paper_id": "001c57a1a37f5af09efb9846dc5e9a5ae34bcd62",
+    "metadata": {
+        "title": "Social Prescribing-An Effort to Apply a Common Knowledge: Impelling Forces and Challenges",
+        "authors": [
+            {
+                "first": "Jonathan",
+                "middle": [],
+                "last": "Ling",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Penrose",
+                "middle": [],
+                "last": "Jackson",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Narayan",
+                "middle": [],
+                "last": "Gopalkrishnan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [
+                    "Mofizul"
+                ],
+                "last": "Islam",
+                "suffix": "",
+                "affiliation": {},
+                "email": "mofi.islam@latrobe.edu.au"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "In recent times, social prescribing has been introduced in some countries, and substantially in the U.K. The objective of this scheme is to offer non-medical care mainly to primary care patients. Although the idea of this scheme is not new, its formalization is. Using a narrative synthesis of peer-reviewed and gray literature, this article discusses the social prescribing scheme, some of its compelling aspects and challenges in offering non-medical care, particularly regarding referrals being made from primary care settings. The social prescribing scheme has several impelling forces that include its potential to turn primary care to primary healthcare, tackle social determinants of health and social needs, improve wellbeing and physical health, offer person-centered care, strengthen preventive care, and bridge healthcare organizations with the third sector. This scheme also faces several challenges including service standards and boundaries, sustainability, availability of appropriate services, low engagement of clients and insufficient evidence. While this scheme lacks validated evidence, it is theoretically compelling. Given that the demand for non-medical care is growing in most societies and that the usefulness of non-medical care is gaining prominence, social prescribing is likely to continue to proliferate.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In many places, a substantial proportion of primary care patients consult general practitioners (GPs) for problems that are primarily non-medical (1, 2) . Supporting people whose health problems are exacerbated by non-medical issues is a challenge for the healthcare system. However, the willingness and ability of healthcare professionals to take patients' daily lives and concerns into account are seen as key element of good quality medical care (3) . Indeed, primary care patients may not be able to differentiate between medical and non-medical problems, since these are often intricately connected (4) , while primary care workers may not be equipped to handle such problems (also termed as social problems) (5) . As a result, patients may assess overall care as being inadequate and feel dissatisfied. Growing demand for holistic support, including non-medical care, has recently prompted the emergence of social prescribing initiatives in diverse national contexts.",
+            "cite_spans": [
+                {
+                    "start": 146,
+                    "end": 149,
+                    "text": "(1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 150,
+                    "end": 152,
+                    "text": "2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 449,
+                    "end": 452,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 604,
+                    "end": 607,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 714,
+                    "end": 717,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Social prescribing is a generalized term that originated in the U.K. It is also known as social/community referral (6) . The Social Prescribing Network defines social prescribing as \"enabling healthcare professionals to refer patients to a link-worker, to co-design a nonclinical social prescription to improve their health and wellbeing\" (7). The King's Fund (8) defines it as a mechanism for enabling primary care professionals to refer people to nonclinical services in their local areas. The CentreForum Mental Health Commission broadens the definition to include the mechanism of linking patients to social services regardless of the sources of the referrals (9) . Therefore, social prescribing is a non-medical referral option for GPs, for other medical and some non-medical professionals and also for self-referral to the sources of support.",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 118,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 360,
+                    "end": 363,
+                    "text": "(8)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 664,
+                    "end": 667,
+                    "text": "(9)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The referral mechanisms, target groups, services offered through social prescribing vary across settings (6, 10, 11) . However, the process usually involves screening for nonmedical needs and referrals to support services that are typically offered by community-based organizations. In the U.K., patients are generally referred to \"link-workers, \" who work with them and mediate between the referrer and the service provider. Services may include support and advice on physical activity, loneliness, social networking, job hunting, housing, financial hardship, debt, learning new skills, legal issues, opportunities to participate in arts and other creative activities, volunteering, mutual aid and parenting (6, 10, 11) . Approaches to social prescribing vary from \"small-scale\" to \"comprehensive\" (11) .",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 108,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 109,
+                    "end": 112,
+                    "text": "10,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 113,
+                    "end": 116,
+                    "text": "11)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 709,
+                    "end": 712,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 713,
+                    "end": 716,
+                    "text": "10,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 717,
+                    "end": 720,
+                    "text": "11)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 799,
+                    "end": 803,
+                    "text": "(11)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The literature on social prescribing is sparse and based mainly on operational elements. However, as a concept and model, social prescribing, despite its many challenges, has proliferated without a concomitant evidence base (12) , primarily because of its theoretically compelling underpinnings. This article uses available literature to describe and discuss social prescribing, some of its compelling aspects and challenges in offering nonmedical care, particularly regarding referrals from primary care settings.",
+            "cite_spans": [
+                {
+                    "start": 224,
+                    "end": 228,
+                    "text": "(12)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Social prescribing is an effort to apply the common knowledge that people's health is largely determined by socioeconomic factors, and that people who have access to social supports within their communities are healthier (13) . These factors are beyond the service scope of healthcare professionals, but account for more than half of the determinants of health and wellbeing. The social prescribing effort is, in fact, the formalization of the process, as many healthcare professionals have already been undertaking similar activities although informally or somewhat on ad hoc basis. Although people can find and access non-medical services independently, a formal referral (i.e., officially sending or directing patients) brings importance to the referred-services and gives it the credibility afforded to health professionals. Formal referrals underline the \"health value\" of the service and legitimize the problems and their importance (14, 15) . Furthermore, referrals help patients to be \"transferred\" from healthcare settings to appropriate services/resources (16) . Also, without formal structures, patients may not use their referrals (5).",
+            "cite_spans": [
+                {
+                    "start": 221,
+                    "end": 225,
+                    "text": "(13)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 939,
+                    "end": 943,
+                    "text": "(14,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 944,
+                    "end": 947,
+                    "text": "15)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1066,
+                    "end": 1070,
+                    "text": "(16)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SOCIAL PRESCRIBING IN PRIMARY CARE"
+        },
+        {
+            "text": "As described above, there is no agreed definition of social prescribing. Although an agreed definition is not essential for patients, it is for key stakeholders such as clients, clinicians, social service providers, link-workers, funders. Lack of clarity regarding the concept may negatively impact the development of relevant services. For instance, it is still not entirely clear who the prescriber is. Sometimes healthcare professionals and other times link-workers are identified as social prescribers (17) (18) (19) (20) . Ideally, healthcare professionals would make the referrals, with link-workers helping the clients to select the appropriate services. The community organizations are the service providers, not the prescribers. Thus, the term \"social prescribing\" is ambiguous; perhaps, \"community referral\" is better.",
+            "cite_spans": [
+                {
+                    "start": 506,
+                    "end": 510,
+                    "text": "(17)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 511,
+                    "end": 515,
+                    "text": "(18)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 516,
+                    "end": 520,
+                    "text": "(19)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 521,
+                    "end": 525,
+                    "text": "(20)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SOCIAL PRESCRIBING IN PRIMARY CARE"
+        },
+        {
+            "text": "Healthcare professionals have limited time and capacity to help patients with their non-medical needs, so the provision of linkworkers was introduced in the U.K.-based scheme. Also, factors such as short-term, precarious funding can lead to closures, mergers, arrivals and the renaming of services (21) , rendering local directories out of date. Link-workers are expected to possess up-to-date information and connect the organizations working across a neighborhood. Furthermore, for socially isolated patients, only flagging or referral for social services may not be enough. Link-workers provide initial support, for instance; they may accompany the clients in their first visit, facilitate the navigation from healthcare to appropriate social services or work with patients to make plans (19) and with clinicians to generate referrals and provide updates on patients' progress (10) .",
+            "cite_spans": [
+                {
+                    "start": 298,
+                    "end": 302,
+                    "text": "(21)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 791,
+                    "end": 795,
+                    "text": "(19)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 880,
+                    "end": 884,
+                    "text": "(10)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "LINK-WORKER IN SOCIAL PRESCRIBING"
+        },
+        {
+            "text": "This scheme is also attracting interest in Ireland (22) , the United States (23), Canada (24), Australia (25) (26) (27) , the Netherlands (28), and some parts of Scandinavia (29, 30) . Many GPs and allied health professionals in Australia reported that they sometimes or often make referrals for non-health services in the community (31) . Services are sometimes offered to specific groups of clients; for instance, a scheme in Australia tries to link injured workers with non-medical supports within their communities (32) . In some settings, both support services and community referrals are offered from the same primary healthcare facilities, although this is not often described as social prescribing. For example, Australia, Canada, U.K. and USA have low-threshold primary healthcare services for homeless and people who use illicit drugs (33, 34) . These facilities offer advice and referral for social and welfare services, internet/telephone facilities, rest-rooms, washrooms, snacks and coffee, and legal services (34) .",
+            "cite_spans": [
+                {
+                    "start": 51,
+                    "end": 55,
+                    "text": "(22)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 105,
+                    "end": 109,
+                    "text": "(25)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 110,
+                    "end": 114,
+                    "text": "(26)",
+                    "ref_id": null
+                },
+                {
+                    "start": 115,
+                    "end": 119,
+                    "text": "(27)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 174,
+                    "end": 178,
+                    "text": "(29,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 179,
+                    "end": 182,
+                    "text": "30)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 333,
+                    "end": 337,
+                    "text": "(31)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 519,
+                    "end": 523,
+                    "text": "(32)",
+                    "ref_id": null
+                },
+                {
+                    "start": 845,
+                    "end": 849,
+                    "text": "(33,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 850,
+                    "end": 853,
+                    "text": "34)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1024,
+                    "end": 1028,
+                    "text": "(34)",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SOCIAL PRESCRIBING IN NON-U.K. SETTINGS"
+        },
+        {
+            "text": "Little literature exists on social prescribing within developing countries (35), most of which have limited community and voluntary sectors. However, in many developing countries, nongovernment and not-for-profit organizations operate and try to improve the socio-economic and health statuses of the vulnerable people (36). Some of these organizations may well be able to work closely with the primary healthcare sectors to offer social and welfare services.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SOCIAL PRESCRIBING IN NON-U.K. SETTINGS"
+        },
+        {
+            "text": "Progressing From Primary Care to Primary Healthcare A well-designed social prescribing scheme can upgrade primary care to \"primary healthcare\" and can change the family physician type care for individuals to a service provision committed to community health development (37) . Primary care usually involves a single service, intermittent management of specific illnesses for an individual and follows a time-limited appointment (38) . The Alma-Ata declaration states that the primary healthcare relies, at local and referral levels, on medical and non-medical services and auxiliaries and community workers as applicable (39) . It also states that community participation is a key aspect of primary healthcare. This scheme can build community resilience, social capital, and a healthgenerating environment with solutions to suit local needs and aspirations and alleviate health problems (5).",
+            "cite_spans": [
+                {
+                    "start": 270,
+                    "end": 274,
+                    "text": "(37)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 428,
+                    "end": 432,
+                    "text": "(38)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 621,
+                    "end": 625,
+                    "text": "(39)",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SOME IMPELLING FORCES OF SOCIAL PRESCRIBING SCHEME"
+        },
+        {
+            "text": "It is now well-recognized that people's health is determined not so much by what healthcare professionals do for patients, but by arrangements in society (40) . The importance of tackling social determinants of health and health inequalities is paramount. A high prevalence of primary care consultations for nonmedical problems suggests that something needs to be done and highlights the importance of the social model of health (41) . Social prescribing can help patients tackle some of these social determinants with referrals to support services (42) .",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 158,
+                    "text": "(40)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 429,
+                    "end": 433,
+                    "text": "(41)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 549,
+                    "end": 553,
+                    "text": "(42)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Tackle Social Determinants of Health and Social Needs"
+        },
+        {
+            "text": "Health professionals may not see any benefits of screening social determinants of health unless they can do something to help patients tackle them (43) . Access to social services for patients through this scheme can encourage healthcare providers to make the screening of social determinants of health a part of their care process (44) . A business case for social support under healthcare investment is gradually evolving (45) .",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 151,
+                    "text": "(43)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 332,
+                    "end": 336,
+                    "text": "(44)",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 424,
+                    "end": 428,
+                    "text": "(45)",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Tackle Social Determinants of Health and Social Needs"
+        },
+        {
+            "text": "The Marmot Review outlined the importance of social prescribing (46) . The aspirations of this scheme and what \"social determinants of health\" want to tackle are common (47) . However, this scheme is not a magic bullet (48) , the macroeconomic policies and programmes to tackle health inequalities are beyond its scope.",
+            "cite_spans": [
+                {
+                    "start": 64,
+                    "end": 68,
+                    "text": "(46)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 169,
+                    "end": 173,
+                    "text": "(47)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 219,
+                    "end": 223,
+                    "text": "(48)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Tackle Social Determinants of Health and Social Needs"
+        },
+        {
+            "text": "With an aging population, rising multimorbid chronic conditions and social isolation, and as the importance and demand for wellbeing grow (49) there is a strong theoretical and practical ground for social prescribing (50, 51) . This scheme can facilitate social inclusion, physically and socially active life, behavioral change (e.g., smoking cessation, physical activity) and less reliance on medicine -all of which are pivotal for better health and wellbeing (46) . Although the evidence for social prescribing on physical health is insufficient, it is relatively supportive of social and psychological wellbeing (52, 53) . There is evidence that social prescribing reduces social isolation and anxiety; increases social engagement, confidence about health, life in general, and the capability to perform day-to-day activities (54, 55) . Services through social prescribing can improve various components of \"wellbeing\" such as self-esteem, self-confidence, social interactions, day-to-day functioning, inclusion (52, 53, 56, 57) , which, as the Whitehall Studies demonstrate, can then impact on physical health (51).",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 142,
+                    "text": "(49)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 217,
+                    "end": 221,
+                    "text": "(50,",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 222,
+                    "end": 225,
+                    "text": "51)",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 461,
+                    "end": 465,
+                    "text": "(46)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 615,
+                    "end": 619,
+                    "text": "(52,",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 620,
+                    "end": 623,
+                    "text": "53)",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 829,
+                    "end": 833,
+                    "text": "(54,",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 834,
+                    "end": 837,
+                    "text": "55)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 1015,
+                    "end": 1019,
+                    "text": "(52,",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 1020,
+                    "end": 1023,
+                    "text": "53,",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1024,
+                    "end": 1027,
+                    "text": "56,",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 1028,
+                    "end": 1031,
+                    "text": "57)",
+                    "ref_id": "BIBREF53"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Improve Wellbeing and Physical Health"
+        },
+        {
+            "text": "Social prescribing is a preventive approach for patients to be more reliant on a healthy lifestyle, and less on medical care. It recognizes that if the social aspects of health can be tackled proactively, many illnesses could be prevented. Marmot (58) argues that the existing practice of giving advice only is unlikely to work at a population level. Social prescribing adds an option for GPs so that they do not need to be reliant only on medicines. Its advocates find this scheme fundamental to prevention (59) . Indeed, early utilization of some services such as befriending may prevent loneliness and depression (28) , and social networking and exercise can improve the quality of life, thereby helping in tertiary prevention (30) .",
+            "cite_spans": [
+                {
+                    "start": 247,
+                    "end": 251,
+                    "text": "(58)",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 508,
+                    "end": 512,
+                    "text": "(59)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 616,
+                    "end": 620,
+                    "text": "(28)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 730,
+                    "end": 734,
+                    "text": "(30)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "More Toward Preventive Care in a Person-Centered Approach"
+        },
+        {
+            "text": "Social prescribing is \"organic\" in its approach. Functioning alongside medical care, social prescribing provides an individualized approach, with patients supported to identify and achieve personalized goals (7) based on their strengths and resources available in their communities. This scheme recognizes that everyone has different needs -some people benefit from meeting new people, while others enjoy gaining new skills (56) .",
+            "cite_spans": [
+                {
+                    "start": 424,
+                    "end": 428,
+                    "text": "(56)",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "ref_spans": [],
+            "section": "More Toward Preventive Care in a Person-Centered Approach"
+        },
+        {
+            "text": "The social prescribing scheme can facilitate linking health sector with the third sector [voluntary, community and social enterprise (VCSE) organizations]. Despite being a potential resource, voluntary sector support is known to be underused. The weak link between health services and VCSE organizations is a reason for that. Social prescribing gives patients access to social services in their communities. There exists a potential to nurture social capital in localities and catalyze it to make healthcreating communities, wherein community members can take care of themselves and each other (60) . By making social care needs tangible, social prescribing can empower patients to search for solutions to social difficulties that might affect their health (48, 60) .",
+            "cite_spans": [
+                {
+                    "start": 594,
+                    "end": 598,
+                    "text": "(60)",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 757,
+                    "end": 761,
+                    "text": "(48,",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 762,
+                    "end": 765,
+                    "text": "60)",
+                    "ref_id": "BIBREF56"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Bridge Between Healthcare Organizations and Third Sector"
+        },
+        {
+            "text": "The apparent simplicity of the concept of social prescribing can mask its challenges. This list of challenges is long ( Table 1 ) and, understandably, varies across settings. Some challenges, likely to be generic in the current circumstances, are described below.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 120,
+                    "end": 127,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "SOME CHALLENGES AHEAD FOR SOCIAL PRESCRIBING"
+        },
+        {
+            "text": "Currently, the social prescribing setup lacks clear guidance and reflects a \"laissez-faire\" attitude about service standards (48) . There are no clear standards about the skillset of linkworkers. Although a recent document discusses the common attributes of a good scheme and job description of linkworkers, these attributes are yet to be evaluated (61) . There are concerns regarding service standards and confidentiality in the third sector, in comparison with the mainstream health sector (15) . Also, there is lack of clarity in service-boundaries (62) . For instance, it is unclear as to who should manage the link-workers -healthcare professionals or the third sector (10) . Similarly, whether patients' medical history should be transferred to community services, if deemed necessary, or left to patients' discretion is also unclear (63) . An academic set-up with accreditation and continuing professional development may alleviate these unclarities and give professional recognition to those working in social prescribing (7). Having professional standards is also essential for quality assurance. The facilities in the third sector vary substantiallysuch as self-help groups, charitable trusts and community interest companies-and so do their governance structures (19) . The standards that exist in the voluntary sector may not be appropriate for social prescribing, and thus health professionals may not feel confident about the governance and professional standards of link-workers and facilities providing the services and safety of the patients (19) . A clear line of accountability is needed at every stage of the social prescribing process and between the organizations and providers involved.",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 129,
+                    "text": "(48)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 349,
+                    "end": 353,
+                    "text": "(61)",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 492,
+                    "end": 496,
+                    "text": "(15)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 552,
+                    "end": 556,
+                    "text": "(62)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 674,
+                    "end": 678,
+                    "text": "(10)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 840,
+                    "end": 844,
+                    "text": "(63)",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 1274,
+                    "end": 1278,
+                    "text": "(19)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1559,
+                    "end": 1563,
+                    "text": "(19)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Setting Standards and Boundaries"
+        },
+        {
+            "text": "Currently, the VCSE sector is the mainstay of this scheme. Thus, its success is arguably contingent upon the available local services or activities to which people can be referred (64) and upon the relationships between primary care and the VCSE sector. These relationships can be precarious and fragile (65) . Several factors may potentially hinder sustainability. First, services are usually provided free-of-cost. Second, funding for these schemes is often non-recurrent, putting them at risk of ending abruptly. Funding reductions due to austerity measures and COVID-19 may further stretch the sustainability. Third, link-workers in many schemes are volunteers. There is a demand for a paid role with a pathway to career progression (66) , which warrants additional funding. Fourth, to achieve a tangible benefit, clients need to be supported for an appropriate period (5, 16) , which may increase further pressure on this sector. Indeed, some VCSE organizations already have significant commitments and may not have capacity to meet the additional demand created through social prescribing (67) . Therefore, the sustainability is a looming question. However, the third sector is believed to have capacity to accommodate the demand of social prescribing, regardless of its volume (68) . The validity of this claim needs to be evaluated.",
+            "cite_spans": [
+                {
+                    "start": 180,
+                    "end": 184,
+                    "text": "(64)",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 304,
+                    "end": 308,
+                    "text": "(65)",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 737,
+                    "end": 741,
+                    "text": "(66)",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 873,
+                    "end": 876,
+                    "text": "(5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 877,
+                    "end": 880,
+                    "text": "16)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1095,
+                    "end": 1099,
+                    "text": "(67)",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 1284,
+                    "end": 1288,
+                    "text": "(68)",
+                    "ref_id": "BIBREF64"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sustainability"
+        },
+        {
+            "text": "This scheme cannot work if the required services are unavailable. Often VCSEs are developed based on their own agenda and resources. Their service aims may not be aligned with the demand of clients referred through social prescribing. For instance, in some settings, financial matters (e.g., debt, general money-related struggles and managing money for food purchases) and advice on welfare benefits and housing are the most common reasons for referral (69) , although these are not within the service scope of the schemes, and that the staff are not qualified to provide advice on these. Inadequate service has been identified as a barrier (68, 70) . Given that some services need specific skillsets and substantial resources, it is not unlikely that social prescribing will gradually evolve out to offer only a certain type of service.",
+            "cite_spans": [
+                {
+                    "start": 453,
+                    "end": 457,
+                    "text": "(69)",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 641,
+                    "end": 645,
+                    "text": "(68,",
+                    "ref_id": "BIBREF64"
+                },
+                {
+                    "start": 646,
+                    "end": 649,
+                    "text": "70)",
+                    "ref_id": "BIBREF66"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Availability of Appropriate Services"
+        },
+        {
+            "text": "Robust evidence on the effectiveness of this scheme is limited (20, 62) , which is attributable to several factors, including difficulties in evaluation (6); a relatively long time-lag for benefits to emerge; and costs required for evaluation (12) . Usually, these schemes are \"emerged\" rather than being systematically designed with an innate evaluation plan at the outset (62), so not all schemes are evaluable (71) . However, the lack of robust evidence does not mean social prescribing is ineffective. Given the complexities involved in the evaluation, it might be appropriate to evaluate individual components in various service models so that the findings can inform as to when these schemes are effective, by whom, for whom, and at what cost (62) .",
+            "cite_spans": [
+                {
+                    "start": 63,
+                    "end": 67,
+                    "text": "(20,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 68,
+                    "end": 71,
+                    "text": "62)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 243,
+                    "end": 247,
+                    "text": "(12)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 413,
+                    "end": 417,
+                    "text": "(71)",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 749,
+                    "end": 753,
+                    "text": "(62)",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Insufficient Evidence in Support of Social Prescribing"
+        },
+        {
+            "text": "As social conditions may cause poor health, there is a hope that social prescribing would reduce the use of healthcare services and be cost-saving. This hope is attractive for healthcare funding organizations. However, findings to date are not clear-cut, as some found a reduction in GP visits and medical prescriptions (72, 73) and others found insignificant changes (74, 75) . Part of these mixed-results is attributed to the fact that this scheme can also raise users' awareness of personal health status that consequently may increase medical care (6) , and thereby may not be cost-saving from funder's perspective. Indeed, some experts think the current proliferation of this scheme is disproportionate to the evidence (62).",
+            "cite_spans": [
+                {
+                    "start": 320,
+                    "end": 324,
+                    "text": "(72,",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 325,
+                    "end": 328,
+                    "text": "73)",
+                    "ref_id": "BIBREF69"
+                },
+                {
+                    "start": 368,
+                    "end": 372,
+                    "text": "(74,",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 373,
+                    "end": 376,
+                    "text": "75)",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 552,
+                    "end": 555,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Insufficient Evidence in Support of Social Prescribing"
+        },
+        {
+            "text": "Low engagement of patients may be a major barrier. As social prescribing is relatively new, it is not easy for healthcare professionals to explain the process to patients. Pescheny et al. (76) found that entrenchment in medical solutions was a key reason for non-uptake of referrals to social prescribing by some patients. Patients expect healthcare professionals to perform an investigation, refer to a diagnostic center, and or write a prescription for a drug, not make a referral to social prescribing. Also, social prescribing does not prescribe the solution, but provides an atmosphere for patients to work on their plan of action. Moreover, it may take time to produce a tangible benefit. Furthermore, in reality, it is difficult to meet the varied needs of various clients, mainly due to the limited capacity of the facilities (53) . Thus, clients' motivation for participation and engagement may be limited.",
+            "cite_spans": [
+                {
+                    "start": 188,
+                    "end": 192,
+                    "text": "(76)",
+                    "ref_id": "BIBREF72"
+                },
+                {
+                    "start": 834,
+                    "end": 838,
+                    "text": "(53)",
+                    "ref_id": "BIBREF49"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Low Engagement of Clients"
+        },
+        {
+            "text": "This paper outlines the impelling forces in favor of social prescribing and its challenges. Although this is an effort to apply a common knowledge, the recent growth of this scheme has the potential to bring the need for non-medical care into the forefront. The key ingredients that underpin this scheme and the idea of offering non-medical care in conjunction with medical care are sensible, and their benefits are understandable. However, although these sound simple, ensuring delivery of appropriate services for a reasonable duration and from local communities is not that straightforward. The challenge is not only to create services but also to ensure the key partners work together effectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Although having link-workers is a great help, healthcare professionals must still assess their patients in terms of suitability. Otherwise, there may have inappropriate referrals, long waiting periods, reduced referral-uptakes, and suspicion regarding the benefits of this scheme (54) . In their study, White et al. (77) reported such problems with referrals for patients with severe mental health issues. It must be made clear that the scheme is not aimed so much at getting a problem solved as at helping people solve problems themselves (76, 78) .",
+            "cite_spans": [
+                {
+                    "start": 280,
+                    "end": 284,
+                    "text": "(54)",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 316,
+                    "end": 320,
+                    "text": "(77)",
+                    "ref_id": "BIBREF73"
+                },
+                {
+                    "start": 540,
+                    "end": 544,
+                    "text": "(76,",
+                    "ref_id": "BIBREF72"
+                },
+                {
+                    "start": 545,
+                    "end": 548,
+                    "text": "78)",
+                    "ref_id": "BIBREF74"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Although evidence for this scheme on health outcomes and healthcare costs are limited (79) and the findings to date are not very encouraging, some specific programs have shown to lead to improved health and wellbeing (80, 81) . For instance, relatively good evidence exists around the benefits of arts and creative activities (82) , and referrals to commercial providers for weight loss (83) . This suggests that, if clients can be identified and referred properly, the scheme is likely to produce positive outcomes.",
+            "cite_spans": [
+                {
+                    "start": 86,
+                    "end": 90,
+                    "text": "(79)",
+                    "ref_id": "BIBREF75"
+                },
+                {
+                    "start": 217,
+                    "end": 221,
+                    "text": "(80,",
+                    "ref_id": "BIBREF76"
+                },
+                {
+                    "start": 222,
+                    "end": 225,
+                    "text": "81)",
+                    "ref_id": "BIBREF77"
+                },
+                {
+                    "start": 326,
+                    "end": 330,
+                    "text": "(82)",
+                    "ref_id": "BIBREF78"
+                },
+                {
+                    "start": 387,
+                    "end": 391,
+                    "text": "(83)",
+                    "ref_id": "BIBREF79"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "If the potential of social prescribing is to be realized, effective collaboration between the healthcare and the VCSE sector is vital. While primary care may be conservative to social prescribing, having skilled link-workers embedded and physical proximity between primary care and VCSE facilities may promote collaboration, make the \"prescription\" easier, and establish the provision of providing feedback to the healthcare professionals on patients' engagement/improvement that appears to be currently missing. A strong evidence base, up-to-date knowledge of local needs and services on offer (65, 67) , and regular communication can be catalytic (18) . Having a skilled link-worker embedded within the primary care.",
+            "cite_spans": [
+                {
+                    "start": 595,
+                    "end": 599,
+                    "text": "(65,",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 600,
+                    "end": 603,
+                    "text": "67)",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 649,
+                    "end": 653,
+                    "text": "(18)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Although the growing interest among healthcare leaders in addressing patients' non-medical needs indicates that they recognize the social model alongside the medical model (23) , some are still uncomfortable about implementing non-medical care as a part of overall healthcare. Although academic content regarding the social aspects of health and health inequalities in the medical and allied health curriculum can help this scheme take root, and the concept \"social determinants of health\" is now included in the undergraduate medial and allied health curriculum in many settings (84) , it is unclear how well this is delivered. Other endeavors, such as holding academic/professional conferences and allocating specific sessions on social prescribing in health conferences, can help to mainstream the scheme.",
+            "cite_spans": [
+                {
+                    "start": 172,
+                    "end": 176,
+                    "text": "(23)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 580,
+                    "end": 584,
+                    "text": "(84)",
+                    "ref_id": "BIBREF80"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "However, its long-term sustainability is a concern, mainly because of ad hoc nature of funding and the over-reliance on the voluntary sector. This scheme needs to stimulate cultural change; otherwise, as it gains political parlance it runs a risk of becoming a buzz-word with little real substance (85) . Its sustainability also depends on the design of its service modality. Indeed, it might be practical to provide services only to a manageable cohort of patients rather than to everybody. The clients with complex needs may not be suitable under current arrangements. A balance is needed; otherwise, this scheme may fail if the target group is too broad (19) and unable to demonstrate tangible benefits if the target group is too narrow.",
+            "cite_spans": [
+                {
+                    "start": 298,
+                    "end": 302,
+                    "text": "(85)",
+                    "ref_id": "BIBREF81"
+                },
+                {
+                    "start": 657,
+                    "end": 661,
+                    "text": "(19)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The social prescribing narrative is compelling. There are several theoretical and practical factors in favor of this scheme. Indeed, social prescribing is a logical extension of the biopsychosocial model of healthcare. Therefore, the momentum for social prescribing is likely to be sustained, even with the lack of evidence to support its growth. From the primary healthcare perspective, this scheme presents an approach for expanding the avenue of social care for the patients. However, it will only see success when healthcare professionals fully accept it as a useful mechanism for improving the overall health and wellbeing of their patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        },
+        {
+            "text": "The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author/s.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DATA AVAILABILITY STATEMENT"
+        },
+        {
+            "text": "MI conceived this study and wrote the paper.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AUTHOR CONTRIBUTIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The Low Commission. The Role of Advice Services in Health Outcomes: Evidence Review and Mapping Study",
+            "authors": [],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Social problems in primary health care -prevalence, responses, course of action, and the need for support from a general practitioners' point of view",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zimmermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mews",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kloppe",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tetzlaff",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hadwiger",
+                    "suffix": ""
+                },
+                {
+                    "first": "Von",
+                    "middle": [],
+                    "last": "Dem Knesebeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Z Evid Fortbild Qual Gesundhwes",
+            "volume": "",
+            "issn": "",
+            "pages": "81--90",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.zefq.2018.01.008"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Quality in general practice consultations; a qualitative study of the views of patients living in an area of high socio-economic deprivation in Scotland",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mercer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Cawston",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Bikker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "BMC Fam Pract",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2296-8-22"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Social prescribing in very deprived areas",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cawston",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Br J Gen Pract",
+            "volume": "61",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3399/bjgp11X572517"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Social prescribing in general practice: adding meaning to medicine",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Brandling",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "House",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Br J Gen Pract",
+            "volume": "59",
+            "issn": "",
+            "pages": "454--460",
+            "other_ids": {
+                "DOI": [
+                    "10.3399/bjgp09X421085"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Preparing the prescription: a review of the aim and measurement of social referral programmes",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rempel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Durrant",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Barnett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMJ Open",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmjopen-2017-017734"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "The King's Fund. What is Social Prescribing? London: The King's Fund",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The Pursuit of Happiness: A New Ambition for Our Mental Health",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Adbowale",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Farmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rose-Quirie",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Jenkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Greatley",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bailey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Social prescribing",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drinkwater",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wildman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Moffatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "BMJ",
+            "volume": "364",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.l1285"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "What is social prescribing?",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kimberlee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Adv Soc Sci Res J",
+            "volume": "2",
+            "issn": "",
+            "pages": "102--112",
+            "other_ids": {
+                "DOI": [
+                    "10.14738/assrj.21.808"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Social prescribing: where is the evidence?",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Husk",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Elston",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gradinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Callaghan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Asthana",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Br J Gen Pract",
+            "volume": "69",
+            "issn": "",
+            "pages": "6--7",
+            "other_ids": {
+                "DOI": [
+                    "10.3399/bjgp19X700325"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Alliance for Healthier Communities",
+            "authors": [],
+            "year": 2019,
+            "venue": "Community Prescription: Community -Social Prescribing in CHCs. Toronto: Alliance for Healthier Communities",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Social problems, primary care and pathways to help and support: addressing health inequalities at the individual level. Part II: lay perspectives",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Popay",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Kowarzik",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mallinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mackian",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Barker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Epidemiol Commun Health",
+            "volume": "61",
+            "issn": "",
+            "pages": "972--979",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/jech.2007.061945"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Investigation Into the Feasibility of a Social Prescribing Service in Primary Care: A Pilot Project",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Brandling",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "House",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "What approaches to social prescribing work, for whom, and in what circumstances? A protocol for a realist review",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Husk",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Blockley",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lovell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bethel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bloomfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Warber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Syst Rev",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s13643-016-0269-6"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Announces Plans to Recruit 1,000 Social Prescribing Workers. London: Cogora Limited",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Carter",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "England",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Front-line perspectives on 'joined-up' working relationships: a qualitative study of social prescribing in the west of Scotland",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Cornish",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kerr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Health Soc Care Community",
+            "volume": "25",
+            "issn": "",
+            "pages": "194--203",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/hsc.12290"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Making Sense of Social Prescribing",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Polley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fleming",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Anfilogoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Carpenter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "The impact of a social prescribing service on patients in primary care: a mixed methods evaluation",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Carnes",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sohanpal",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Frostick",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hull",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mathur",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Netuveli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMC Health Serv Res",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12913-017-2778-y"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Social problems, primary care and pathways to help and support: addressing health inequalities at the individual level. Part I: the GP perspective",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Popay",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Kowarzik",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mallinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mackian",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Barker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Epidemiol Community Health",
+            "volume": "61",
+            "issn": "",
+            "pages": "966--71",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/jech.2007.061937"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Care Options for Primary Care: The Development of Best Practice Information and Guidance on Social Prescribing for Primary Care Teams",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Keenaghan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sweeney",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mcgowan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Social prescribing in the U.S. and England: emerging interventions to address patients' social needs",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Alderwick",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gottlieb",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Fichtenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Adler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am J Prev Med",
+            "volume": "54",
+            "issn": "",
+            "pages": "715--723",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.amepre.2018.01.039"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Alliance for Healthier Communities",
+            "authors": [],
+            "year": 2019,
+            "venue": "Rx Community: Social Prescribing. Toronto: Alliance for Healthier Communities",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Social Prescribing: Linking Patients With Non-medical Support",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Boydell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Sydney: MJA InSight",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Social Prescribing of Non-Clinical Services Within Australian Primary Care: Is It More Than Just a Good Idea? The Power to Persuade",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bromley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Welzijn op Recept' (Social Prescribing): a helping hand in re-establishing social contacts -an explorative qualitative study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Heijnders",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Meijs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Prim Health Care Res Dev",
+            "volume": "19",
+            "issn": "",
+            "pages": "223--254",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S1463423617000809"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Arts on prescription in Scandinavia: a review of current practice and future possibilities",
+            "authors": [
+                {
+                    "first": "Stickley",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Jensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Torrissen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stigmar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "137",
+            "issn": "",
+            "pages": "268--74",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1757913916676853"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Exercise on prescription: changes in physical activity and health-related quality of life in five Danish programmes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sorensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Sorensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Skovgaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bredahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Puggaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Eur J Public Health",
+            "volume": "21",
+            "issn": "",
+            "pages": "56--62",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/eurpub/ckq003"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The Royal Australian College of General Practitioners, and Consumers Health Forum of Australia. Social Prescribing Roundtable",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Defining a service for people who use drugs as 'low-threshold': what should be the criteria?",
+            "authors": [
+                {
+                    "first": "Mofizul",
+                    "middle": [],
+                    "last": "Islam",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Topp",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Conigrave",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Int J Drug Policy",
+            "volume": "24",
+            "issn": "",
+            "pages": "220--222",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.drugpo.2013.03.005"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "The accessibility, acceptability, health impact and cost implications of primary healthcare outlets that target injecting drug users: a narrative synthesis of literature",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Islam",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Topp",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Conigrave",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lucyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mclaren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Glob Health Promot",
+            "volume": "23",
+            "issn": "",
+            "pages": "69--72",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1757975909356625"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Primary care (PC) and primary health care (PHC)",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Muldoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hogg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Levitt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Can J Public Health",
+            "volume": "97",
+            "issn": "",
+            "pages": "409--420",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF03405354"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Why primary health care offers a more comprehensive approach to tackling health inequities than primary care",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Keleher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Aust J Prim Health",
+            "volume": "7",
+            "issn": "",
+            "pages": "57--61",
+            "other_ids": {
+                "DOI": [
+                    "10.1071/PY01035"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "World Health Organization, and United Nations Children's Fund (UNICEF)",
+            "authors": [],
+            "year": 1978,
+            "venue": "Report of the International Conference on Primary Health Care",
+            "volume": "",
+            "issn": "",
+            "pages": "6--12",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Closing the Gap in a Generation: Health Equity Through Action on the Social Determinants of Health",
+            "authors": [],
+            "year": 2008,
+            "venue": "Final Report of the Commission on Social Determinants of Health. Geneva: World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Taking action on the social determinants of health in clinical practice: a framework for health professionals",
+            "authors": [
+                {
+                    "first": "Collaboration",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Andermann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "CMAJ",
+            "volume": "188",
+            "issn": "",
+            "pages": "474--83",
+            "other_ids": {
+                "DOI": [
+                    "10.1503/cmaj.160177"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Social Prescribing: A Pathway to Work? London: Work Foundation",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Steadman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Donnaloja",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Avoiding the unintended consequences of screening for social determinants of health",
+            "authors": [
+                {
+                    "first": "Boynton-Jarrett",
+                    "middle": [],
+                    "last": "Garg",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dworkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "JAMA",
+            "volume": "316",
+            "issn": "",
+            "pages": "813--817",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2016.9282"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Physician experiences and barriers to addressing the social determinants of health in the Eastern Mediterranean Region: a qualitative research study",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Girgis",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Van Gurp",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zakus",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Andermann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Health Serv Res",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12913-018-3408-z"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Leveraging the social determinants of health: what works?",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Coyle",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ndumele",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Rogan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Canavan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PLoS ONE",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0160217"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Fair Society, Healthy Lives: Strategic Review of Health Inequalities in England Post-2010",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Marmot",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Goldblatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Boyce",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mcneish",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Grady",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "The Marmot Review",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Non-clinical community interventions: a systematised review of social prescribing scheme",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chatterjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Camic",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Lockyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Thomson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Arts Health",
+            "volume": "10",
+            "issn": "",
+            "pages": "97--123",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/17533015.2017.1334002"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Can social prescribing provide the missing link? Prim Health",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "South",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Higgins",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Woodall",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "White",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Care Res Dev",
+            "volume": "9",
+            "issn": "",
+            "pages": "310--318",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S146342360800087X"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Subjective wellbeing, health, and ageing",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Steptoe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Deaton",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stone",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Lancet",
+            "volume": "385",
+            "issn": "",
+            "pages": "640--648",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(13)61489-0"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Review of Social Determinants and the Health Divide in the WHO European Region: Final Report. Copenhagen: WHO Regional Office for",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Marmot",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ucl Institute Of Health",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Equity",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Europe",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Employment grade differences in cause specific mortality. A 25 year follow up of civil servants from the first Whitehall study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Van Rossum",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Shipley",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Van De Mheen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Grobbee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Marmot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Epidemiol Community Health",
+            "volume": "54",
+            "issn": "",
+            "pages": "178--84",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/jech.54.3.178"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Improving wellbeing and selfefficacy by social prescription",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Morton",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Baty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Public Health",
+            "volume": "129",
+            "issn": "",
+            "pages": "286--295",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.puhe.2014.12.011"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "The impact of social prescribing services on service users: a systematic review of the evidence",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Pescheny",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Randhawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pappas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Eur J Public Health",
+            "volume": "30",
+            "issn": "",
+            "pages": "664--73",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/eurpub/ckz078"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "A scoping review to understand the effectiveness of linking schemes from healthcare providers to community resources to improve the health and well-being of people with long-term conditions",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mossabir",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kennedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Blickem",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rogers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Health Soc Care Community",
+            "volume": "23",
+            "issn": "",
+            "pages": "467--84",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/hsc.12176"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "A randomised controlled trial and economic evaluation of a referrals facilitator between primary care and the voluntary sector",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Grant",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Goodenough",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Harvey",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "BMJ",
+            "volume": "320",
+            "issn": "",
+            "pages": "419--442",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.320.7232.419"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Link worker social prescribing to improve health and well-being for people with long-term conditions: qualitative study of service user perceptions",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Moffatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Steer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Penn",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "&apos;brien",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMJ Open",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmjopen-2016-015203"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Social prescription and the role of participatory arts programmes for older people with sensory impairments",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Vogelpoel",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Jarrold",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Integr Care",
+            "volume": "22",
+            "issn": "",
+            "pages": "39--50",
+            "other_ids": {
+                "DOI": [
+                    "10.1108/JICA-01-2014-0002"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "The health gap: doctors and the social determinants of health",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Marmot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Scand J Public Health",
+            "volume": "45",
+            "issn": "",
+            "pages": "686--93",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1403494817717448"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Available online at",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hancock",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Social Prescribing Speech",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Social prescribing could help alleviate pressure on GPs",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Torjesen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMJ",
+            "volume": "352",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.i1436"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Social Prescribing and Community-Based Support: Summary Guide",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Nhs England",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Social prescribing: less rhetoric and more reality. A systematic review of the evidence",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bickerdike",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Booth",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Farley",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMJ Open",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmjopen-2016-013384"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Social prescribing: a new medicine? InnovAiT",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hutt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "10",
+            "issn": "",
+            "pages": "90--95",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1755738016682266"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Social prescribing 'plus': a model of asset-based collaborative innovation? People. Place Policy",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dayson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "11",
+            "issn": "",
+            "pages": "90--104",
+            "other_ids": {
+                "DOI": [
+                    "10.3351/ppp.2017.4839587343"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Factors affecting general practice collaboration with voluntary and community sector organisations",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Southby",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gamsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Health Soc Care Community",
+            "volume": "26",
+            "issn": "",
+            "pages": "360--369",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/hsc.12538"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Link workers' perspectives on factors enabling and preventing client engagement with social prescribing",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wildman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Moffatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Penn",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "O&apos;brien",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Steer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Health Soc Care Community",
+            "volume": "27",
+            "issn": "",
+            "pages": "991--999",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/hsc.12716"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Developing and implementing a social prescribing initiative in primary care: insights into the possibility of normalisation and sustainability from a UK case study. Prim Health Care Res Dev",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Whitelaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Thirlwall",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Morrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Osborne",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tattum",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "18",
+            "issn": "",
+            "pages": "112--133",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S1463423616000219"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "A realist evaluation of social prescribing: an exploration into the context and mechanisms underpinning a pathway linking primary care with the voluntary sector",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bertotti",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Frostick",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hutt",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sohanpal",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Carnes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Prim Health Care Res Dev",
+            "volume": "19",
+            "issn": "",
+            "pages": "232--277",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S1463423617000706"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "Improving health and well-being through community health champions: a thematic evaluation of a programme in Yorkshire and Humber",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Woodall",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "South",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "133",
+            "issn": "",
+            "pages": "96--103",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1757913912453669"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Delivering a primary care-based social prescribing initiative: a qualitative study of the benefits and challenges",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Skivington",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Chng",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mackenzie",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wyke",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mercer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Br J Gen Pract",
+            "volume": "68",
+            "issn": "",
+            "pages": "487--94",
+            "other_ids": {
+                "DOI": [
+                    "10.3399/bjgp18X696617"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "Evaluability assessments as an approach to examining social prescribing",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hamilton-West",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gadsby",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zaremba",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jaswal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Health Soc Care Community",
+            "volume": "27",
+            "issn": "",
+            "pages": "1085--94",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/hsc.12726"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Facilitating access to voluntary and community services for patients with psychosocial problems: a before-after evaluation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Grayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cape",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Orpwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Leibowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Buszewicz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "BMC Fam Pract",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2296-9-27"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "The Social and Economic Impact of the Rotherham Social Prescribing Pilot: Main Evaluation Report",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dayson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bashir",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Primary-care-based social prescribing for mental health: an analysis of financial and environmental sustainability",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Maughan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Parveen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Braithwaite",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lillywhite",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Prim Health Care Res Dev",
+            "volume": "17",
+            "issn": "",
+            "pages": "114--135",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S1463423615000328"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Impact of social prescribing on general practice workload and polypharmacy. Public Health",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Loftus",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mccauley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Mccarron",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "148",
+            "issn": "",
+            "pages": "96--101",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.puhe.2017.03.010"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "Facilitators and barriers of implementing and delivering social prescribing services: a systematic review",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Pescheny",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pappas",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Randhawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Health Services Research",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12913-018-2893-4"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "ref_id": "b73",
+            "title": "An Evaluation of Social Prescribing Health Trainers in South and West Bradford. Leeds Yorkshire and Humber Regional Health Trainer Hub",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kinsella",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "South",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "Community Navigation in Brighton & Hove. Evaluation of a Social Prescribing Pilot. Brighton and Hove Impetus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Farenden",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mitchell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Feast",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Verdenicci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "A systematic review of interventions on patients' social and economic needs",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gottlieb",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wing",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Adler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Am J Prev Med",
+            "volume": "53",
+            "issn": "",
+            "pages": "719--748",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.amepre.2017.05.011"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "ref_id": "b76",
+            "title": "Addressing social determinants of health in a clinic setting: the WellRx pilot in Albuquerque, New Mexico",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Page-Reeves",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Kaufman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bleecker",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Norris",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mccalmont",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Ianakieva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Am Board Fam Med",
+            "volume": "29",
+            "issn": "",
+            "pages": "414--422",
+            "other_ids": {
+                "DOI": [
+                    "10.3122/jabfm.2016.03.150272"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "ref_id": "b77",
+            "title": "Addressing social determinants of health at well child care visits: a cluster RCT",
+            "authors": [
+                {
+                    "first": "Toy",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Garg",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tripodis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Silverstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Freeman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Pediatrics",
+            "volume": "135",
+            "issn": "",
+            "pages": "296--304",
+            "other_ids": {
+                "DOI": [
+                    "10.1542/peds.2014-2888"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "ref_id": "b78",
+            "title": "The use of arts interventions for mental health and wellbeing in health settings",
+            "authors": [
+                {
+                    "first": "Bonde",
+                    "middle": [],
+                    "last": "Jensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Perspect Public Health",
+            "volume": "138",
+            "issn": "",
+            "pages": "209--223",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1757913918772602"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "ref_id": "b79",
+            "title": "Primary care referral to a commercial provider for weight loss treatment versus standard care: a randomised controlled trial",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jebb",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ahern",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Olson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Aston",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Holzapfel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stoll",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Lancet",
+            "volume": "378",
+            "issn": "11",
+            "pages": "61344--61349",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(11)61344-5"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "ref_id": "b80",
+            "title": "Social determinants of health and related inequalities: confusion and implications. Front Public Health",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Islam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fpubh.2019.00011"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "ref_id": "b81",
+            "title": "Social Prescribing at a Glance: A Scoping Report of Activity for the North West",
+            "authors": [],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Some impelling forces and challenges to the social prescribing scheme.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

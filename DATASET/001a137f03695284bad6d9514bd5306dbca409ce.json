@@ -1,0 +1,1330 @@
+{
+    "paper_id": "001a137f03695284bad6d9514bd5306dbca409ce",
+    "metadata": {
+        "title": "Non-Parametric Quickest Detection of a Change in the Mean of an Observation Sequence",
+        "authors": [
+            {
+                "first": "Yuchen",
+                "middle": [],
+                "last": "Liang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "ECE Department and Coordinated Science Lab University of Illinois at Urbana-Champaign",
+                    "institution": "Lab University of Illinois at Urbana-Champaign Urbana",
+                    "location": {
+                        "region": "IL"
+                    }
+                },
+                "email": "yliang35@illinois.edu"
+            },
+            {
+                "first": "Venugopal",
+                "middle": [
+                    "V"
+                ],
+                "last": "Veeravalli",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "ECE Department and Coordinated Science Lab University of Illinois at Urbana-Champaign",
+                    "institution": "Lab University of Illinois at Urbana-Champaign Urbana",
+                    "location": {
+                        "region": "IL"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "We study the problem of quickest detection of a change in the mean of an observation sequence, under the assumption that both the pre-and post-change distributions have bounded support. We first study the case where the pre-change distribution is known, and then study the extension where only the mean and variance of the pre-change distribution are known. In both cases, no knowledge of the post-change distribution is assumed other than that it has bounded support. For the case where the pre-change distribution is known, we derive a test that asymptotically minimizes the worst-case detection delay over all post-change distributions, as the false alarm rate goes to zero. We then study the limiting form of the optimal test as the gap between the pre-and post-change means goes to zero, which we call the Mean-Change Test (MCT). We show that the MCT can be designed with only knowledge of the mean and variance of the pre-change distribution. We validate our analysis through numerical results for detecting a change in the mean of a beta distribution. We also demonstrate the use of the MCT for pandemic monitoring.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Quickest Change Detection (QCD) is a fundamental problem in mathematical statistics. Given a stochastic sequence whose distribution changes at some unknown change-point, the goal is to detect the change after it occurs as quickly as possible, subject to false alarm constraints. The QCD framework has had a wide range of applications, including but not limited to line-outage in power systems [1] , dim-target manoeuvre detection [2] , stochastic process control [3] , structural health monitoring [4] , and, more recently, in the Multi-Armed Bandit (MAB) problem with piece-wise stationary bandits [5] . Two formulations are used in the classical QCD problem: the Bayesian formulation [6] , where the changepoint is assumed to follow some prior distribution, and the minimax formulation [7] , [8] , where the worst-case detection delay is minimized over all possible change-points, subject to false alarm constraints. In both the Bayesian and minimax settings, if the pre-and post-change distributions are known, This work was supported in part by the National Science Foundation under grant ECCS-2033900, and by the Army Research Laboratory under Cooperative Agreement W911NF-17-2-0196, through the University of Illinois at Urbana-Champaign. low-complexity efficient solutions to the QCD problem can be found [9] .",
+            "cite_spans": [
+                {
+                    "start": 393,
+                    "end": 396,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 430,
+                    "end": 433,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 463,
+                    "end": 466,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 498,
+                    "end": 501,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 599,
+                    "end": 602,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 686,
+                    "end": 689,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 788,
+                    "end": 791,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 794,
+                    "end": 797,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1312,
+                    "end": 1315,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "In many practical situations, we may not know the exact distribution in the pre-or post-change regimes. Although it is reasonable to assume that we can obtain a large amount of data in the pre-change regime, this may not be the case for the post-change regime. In applications such as the epidemic detection problem and the MAB problem, a change in a specific statistic (e.g., the mean) of the distribution is of interest. This is different from the original QCD problem where any distributional change needs to be detected. Furthermore, in many applications, the support of the distribution is bounded. For example, the observations representing the fraction of some specific group in the entire population are bounded between 0 and 1. This is the case, for example, in the pandemic monitoring problem that we discuss in detail in Section IV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "There have been a number of lines of work on the QCD problem when the pre-and/or post-change distributions are not completely known. The most prevalent is the Generalized Likelihood Ratio (GLR) approach, in which the maximum of the test statistics corresponding to each possible changepoints is used to construct the test. A GLR approach for a Gaussian mean-change detection problem is proposed in [10] . A GLR test for the case where the pre-and post-change distributions come from one-parameter exponential families is analyzed in [11] . A kernel approach to construct GLR statistics is discussed in [12] . More recently, a GLR meanchange test for sub-Gaussian observations using scan statistics is proposed and analyzed in [13] , and this approach is applied to the MAB problem in [5] . In all of these methods, the complexity of computing the test statistic at each time-step grows at least linearly with the number of samples. In practice, a windowed version of the GLR test statistic is used to keep the complexity small, while suffering some loss in performance. An alternative to the GLR approach was given in [14] , where a histogram is used to estimate the post-change distribution, and a low complexity test with a recursive structure is constructed.",
+            "cite_spans": [
+                {
+                    "start": 398,
+                    "end": 402,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 533,
+                    "end": 537,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 602,
+                    "end": 606,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 726,
+                    "end": 730,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 784,
+                    "end": 787,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1118,
+                    "end": 1122,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "Another line of work is the one based on a minimax robust approach [15] , in which it is assumed that the distributions come from mutually exclusive uncertainty classes. Under certain conditions on the uncertainty classes, e.g., joint stochastic boundedness [9] , a low-complexity saddle-point solution to the minimax robust QCD problem can be found. In this paper, we use an asymptotic version of the minimax robust QCD problem formulation to develop algorithms for the nonparametric detection of a change in mean of an observation sequence. Our contributions are as follows:",
+            "cite_spans": [
+                {
+                    "start": 67,
+                    "end": 71,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 258,
+                    "end": 261,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "1) We study the problem of quickest detection of a change in the mean of an observation sequence under the assumption that no knowledge of the post-change distribution is available other than that it has bounded support. 2) For the case where the pre-change distribution is known, we derive a test that asymptotically minimizes the worstcase detection delay over all possible post-change distributions, as the false alarm rate goes to zero. 3) We study the limiting form of the optimal test as the gap between the pre-and post-change means goes to zero, which we call the Mean-Change Test (MCT). We show that the MCT can be designed with only knowledge of the mean and variance of the pre-change distribution. 4) We validate our analysis through numerical results for detecting a change in the mean of a beta distribution. We also demonstrate the use of the MCT for pandemic monitoring.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "Let X 1 , . . . , X t , \u00b7 \u00b7 \u00b7 \u2208 [0, 1] be independent samples, with X 1 , . . . , X \u03bd \u223c P 0 , and X \u03bd+1 , \u00b7 \u00b7 \u00b7 \u223c P 1 . Let P P0,P1 \u03bd {\u00b7} denote the probability measure on the entire sequence of observations when the pre-and post-change distributions are P 0 and P 1 , respectively, and the change-point is at t = \u03bd, and let E P0,P1 \u03bd [\u00b7] denote the corresponding expectation. We will first consider the case where P 0 is completely known, and then study extensions to the cases where only partial (moment) information about P 0 is available. The change-time \u03bd is unknown but deterministic. The problem is to detect the change quickly while not causing too many false alarms. Let \u03c4 be a stopping time [9] defined on the observation sequence associated with the detection rule, i.e. \u03c4 is the time at which we stop taking observations and declare that the change has occurred. If both the pre-and post-change distributions are known, Lorden [7] proposed solving the following optimization problem to find the best stopping time \u03c4 :",
+            "cite_spans": [
+                {
+                    "start": 701,
+                    "end": 704,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 939,
+                    "end": 942,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "where",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "is a worst-case delay metric and",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "is the feasible set where FAR P0 (\u03c4 ) := E P0,P1",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "is the expectation operator when the change never happens, and (\u00b7) + := max{0, \u00b7}.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "Lorden also showed that Page's Cumulative Sum (CUSUM) algorithm [16] whose test statistic is given by:",
+            "cite_spans": [
+                {
+                    "start": 64,
+                    "end": 68,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "is the likelihood ratio between the densities. The CUSUM stopping rule is given by:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "where b \u03b1 := | ln \u03b1|. It was shown by Moustakides [17] that Page's test is exactly optimal for the problem in (2) . When the pre-change and post-change distributions are unknown but belong to some uncertainty sets, a minimax robust metric can be applied:",
+            "cite_spans": [
+                {
+                    "start": 50,
+                    "end": 54,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 110,
+                    "end": 113,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "where the feasible set becomes",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "A pair of uncertainty sets (P 0 , P 1 ) is said to be jointly stochastically (JS) bounded by (P 0 ,P 1 ) \u2208 P 0 \u00d7 P 1 if, for any (P 0 , P 1 ) \u2208 P 0 \u00d7 P 1 and any t > 0,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "where LP 0 ,P1 is the likelihood ratio betweenP 1 andP 0 as defined previously [9] . The distributionsP 0 andP 1 ) are called least favorable distributions (LFDs) within the classes P 0 and P 1 , respectively. If the pair of pre-and post-change uncertainty sets is JS bounded, the test statistic \u039bP 0,P1 (t) with the stopping rule \u03c4 (\u039bP 0,P1 , b \u03b1 ) solves (6) exactly [18] . A pair of uncertainty sets (P 0 , P 1 ) is said to be weakly stochastically (WS) bounded by (P 0 ,P 1 ) \u2208 P 0 \u00d7 P 1 if",
+            "cite_spans": [
+                {
+                    "start": 79,
+                    "end": 82,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 369,
+                    "end": 373,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "for all P 1 \u2208 P 1 , and",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "for all P 0 \u2208 P 0 [2] , where E P [\u00b7] denotes the expectation operator with respect to distribution P . It is shown in [2] that if a pair of uncertainty sets is JS bounded by (P 0 ,P 1 ), it is also WS bounded by (P 0 ,P 1 ).",
+            "cite_spans": [
+                {
+                    "start": 18,
+                    "end": 21,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 119,
+                    "end": 122,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "and if furthermore, P 1 is convex, and (11) holds for all P 0 \u2208 P 0 , then (P 0 , P 1 ) is WS bounded by (P 0 ,P 1 ), and \u03c4 (\u039bP 0,P1 , b \u03b1 ) solves the problem in (6) asymptotically as \u03b1 \u2192 0. Also, the worst-case delay is",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "In this paper, we consider the problem of quickest change detection for observations with bounded support. The goal is to construct a test to detect when the mean of the observations exceeds some pre-specified threshold, i.e., P 1 \u2208 P 1 such that",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "In this expression, X denotes a generic observation in the sequence, \u03b7 is a pre-designed threshold on the mean, and",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "Also, for i = 0, 1, let the density (w.r.t. the Lebesgue measure) of P i be p i . Define",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "to be the cumulant-generating functiong (cgf) under measure P 0 . We present our main results below.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. PROBLEM STATEMENT"
+        },
+        {
+            "text": "Throughout we will assume that P 1 is as defined in (14) . In this subsection, we study the case where P 0 = {P 0 }.",
+            "cite_spans": [
+                {
+                    "start": 52,
+                    "end": 56,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "Theorem III.1. For P 0 = P 0 , and P 1 given in (14) , define",
+            "cite_spans": [
+                {
+                    "start": 48,
+                    "end": 52,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "where \u03ba 0 (\u03bb) is the cgf under P 0 and \u03bb * satisfies",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "Then, the statistic",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "and the stopping rule \u03c4 (\u039b P0,P * 1 , b \u03b1 ) with threshold b \u03b1 = | ln \u03b1| solves the minimax robust problem in (6) asymptotically as \u03b1 \u2192 0, and",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "Proof. We follow the procedure outlined in [19, Sec. 6.4.1] . We want to minimize D(P 1 ||P 0 ) = E P1 [ln(p 1 (x)/p 0 (x))] subject to E P1 [X] \u2265 \u03b7. We consider the Lagrangian",
+            "cite_spans": [
+                {
+                    "start": 43,
+                    "end": 47,
+                    "text": "[19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 48,
+                    "end": 59,
+                    "text": "Sec. 6.4.1]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "where the Lagrange multiplier \u03bb \u2265 0 corresponds to the constraint that the post-change mean is greater than \u03b7, and \u00b5 corresponds to the constraint that p 1 (x) is a probability measure. For an arbitrary direction z, since p 1 is continuous by assumption, we take the Gateaux derivative with respect to p 1 :",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "where \u00b5 = \u00b5 \u2212 1, and since z is arbitrary, we arrive at",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "By the Generalized Kuhn-Tucker Theorem [20] , if p 0 (x) is bounded, p 1 (x) = p 0 (x)e \u03bbx+\u00b5 is a necessary condition for optimality. Furthermore, since L(p 1 , \u03bb, \u00b5) is convex in p 1 , this is also a global optimum. To satisfy the constraints,",
+            "cite_spans": [
+                {
+                    "start": 39,
+                    "end": 43,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "and \u03bb * satisfies",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "Thus, P * 1 in (17) minimizes the KL divergence when P 0 is known. By Theorem II.1, since (P 0 , P * 1 ) minimizes the KL divergence, P 1 is convex in that the expectation operator is linear, and P 0 is a singleton, the uncertainty classes P 0 \u00d7 P 1 are WS bounded by (P 0 , P * 1 ). Therefore, an asymptotically optimal test is \u039b P0,P * 1 as in (19) . Furthermore, the minimum KL-divergence is",
+            "cite_spans": [
+                {
+                    "start": 346,
+                    "end": 350,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "Hence, the worst-case delay satisfies",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "as \u03b1 \u2192 0.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "Since p 0 is a density on [0, 1], p * is also a density on [0, 1]. Indeed, p * is the exponentially-tilted distribution (or the Esscher transform) of p 0 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. Known Pre-change Distribution"
+        },
+        {
+            "text": "Even though we have an expression for the test statistic when P 0 is known, as given in (19) , the exact solution of \u03bb * is not available in closed-form. Fortunately, if the meanchange gap \u2206 is small, we obtain a low-complexity test in terms of only the pre-change mean and variance that closely approximates the performance of the asymptotically minimax optimal test in the previous section.",
+            "cite_spans": [
+                {
+                    "start": 88,
+                    "end": 92,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "B. Approximation for Small \u2206"
+        },
+        {
+            "text": "As the gap is asymptotically small, the worst-case postchange mean \u03b7 \u2192 \u00b5 0 . Hence, \u03bb * \u2192 0. From the Taylor expansion on \u03ba 0 around 0, we obtain",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Approximation for Small \u2206"
+        },
+        {
+            "text": "In this same regime, by continuity of \u03ba 0 (\u00b7),",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Approximation for Small \u2206"
+        },
+        {
+            "text": "where we have used \u03ba 0 (\u03bb * ) = \u03b7. Hence, the approximate test statistic is",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Approximation for Small \u2206"
+        },
+        {
+            "text": "and the corresponding minimum KL-divergence is approximated as:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Approximation for Small \u2206"
+        },
+        {
+            "text": "Let \u03c3 2 0 be the variance of X under P 0 . Since",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Approximation for Small \u2206"
+        },
+        {
+            "text": "the stopping rule \u03c4 (\u039b P0,P * 1 , b \u03b1 ) can be approximated by the stopping rule \u03c4 (\u039b \u00b50,\u03b7 ,b \u03b1 ), wher\u1ebd",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Approximation for Small \u2206"
+        },
+        {
+            "text": "with\u039b \u00b50,\u03b7 (0) = 0. We call \u03c4 (\u039b \u00b50,\u03b7 ,b \u03b1 ) the Mean-Change Test (MCT), and\u039b \u00b50,\u03b7 the MCT statistic. Noe that the worst-case delay satisfies",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Approximation for Small \u2206"
+        },
+        {
+            "text": "where the approximation becomes more accurate as \u2206 \u2192 0. Therefore, if the gap is small, it is sufficient to know only the mean and variance to construct a good approximation to the asymptotically minimax robust test. Furthermore, only the mean of the pre-change distribution is needed to construct the MCT statistic. From the simulation results in Section IV, the performance of the MCT is very close to that of the asymptotically minimax robust test. Since the mean and variance of a distribution are much easier and more accurately estimated than the entire density, this test can be useful and accurate when only a moderate number of observations in the pre-change regime is available.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Approximation for Small \u2206"
+        },
+        {
+            "text": "We now study the asymptotic performance of the MCT for the case where \u2206 is moderate, as \u03b1 \u2192 0.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "and K \u03b2 (z) is the modified Bessel function of the second kind with order \u03b2.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "where a := (\u03c3 2 0 + M \u2206) \u22121 and C := \u03c3 2 0 b/(\u03c3 2 0 + M \u2206). In the series of inequalities above, (a) is by Bernstein's inequality [21, p. 9] , and (b) is from bounding the sum with an integral. Since K 1 (z) \u223c \u03c0 2z e \u2212z as |z| \u2192 \u221e, the asymptotic result follows.",
+            "cite_spans": [
+                {
+                    "start": 130,
+                    "end": 140,
+                    "text": "[21, p. 9]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "then (7) is satisfied asymptotically as \u03b1 \u2192 0. Furthermore,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "where R 0 is defined in (37).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "Proof. As \u03b1 \u2192 0,b \u03b1 \u2192 \u221e. As a result, for any P 1 \u2208 P 1 , (1)). From [22, Sec. 2.6] , it can be shown that",
+            "cite_spans": [
+                {
+                    "start": 69,
+                    "end": 73,
+                    "text": "[22,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 74,
+                    "end": 83,
+                    "text": "Sec. 2.6]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "Thus, the false alarm constraint is satisfied asymptotically.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "For the second result, it is sufficient to show that",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "Note that the desired ratio (b \u03b1 \u2212b \u03b1 )/b \u03b1 = D/| ln \u03b1|. Plugging into (36), we have",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "Now, we hypothesize that D = D 1 | ln \u03b1| + o(| ln \u03b1|). The first term then vanishes because ln \u03c3 4 0 \u03c0 \u2206 4 (D + | ln \u03b1|) = ln",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "From the second term, we validate our hypothesis that",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "and the second result follows.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "Remark. In practice, the threshold can be set to be \u03c3 2 0 /(2R 2 0 \u2206) using equation (40).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "Theorem III.4. Fix P 0 \u2208 P 0 . The worst-case delay satisfies",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "Proof. For any P 1 \u2208 P 1 , as \u03b1 \u2192 0,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "where the first line is by renewal theory [23] .",
+            "cite_spans": [
+                {
+                    "start": 42,
+                    "end": 46,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "Remark. As \u2206 \u2192 0, R 0 \u2192 1. Thus, the result above becomes (1)) (49) where o(1) goes zero as \u03b1 and \u2206 go to zero, which coincides with the minimax robust worst-case delay in (35).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Performance Analysis of MCT for moderate \u2206"
+        },
+        {
+            "text": "We study the performance of the proposed tests through simulations for the case where the pre-and post-change distributions are beta(4,16) (\u00b5 0 = 0.2) and beta(4.5,16) (\u00b5 1 = 0.2195), respectively. The mean-threshold \u03b7 is set to be 0.21. In particular, we compare the performances for the following three statistics:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IV. NUMERICAL RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "1) The CUSUM statistic that knows both the pre-and postchange distributions, defined in (4). 2) The statistic when only the pre-change distribution is known, defined in (19) .",
+            "cite_spans": [
+                {
+                    "start": 169,
+                    "end": 173,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "IV. NUMERICAL RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "3) The MCT statistic defined in (34). For all three statistics, based on their recursive structure, it is easy to show that the worst-case value of the change-point for computing WADD in (2) is \u03bd = 0. Therefore we can estimate the worst-case delay by simulating the post-change distribution from time 0.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IV. NUMERICAL RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "We see in Fig. 1 that the performance of MCT is very close to the test that uses knowledge of the entire pre-change distribution. Note that the MCT statistic only uses the prechange mean; the variance is needed for setting the threshold to meet a given FAR constraint. In Fig. 2 , we apply the MCT to monitoring the spread of COVID-19 using new case data from various counties in the US [24] . The incremental cases from day to day can be assumed to be roughly independent. . The x-axis is the number days elapsed after January 21, 2020. The pre-change mean and variance are estimated using data from days 120 to 150. The FAR threshold \u03b1 is set to 0.01. For each county, the mean-threshold \u03b7 (in green) is set to be 3.3 times of the estimated pre-change mean (in cyan). The lower subplot shows the evolving of the statistic\u039b in the corresponding county. The \u039b-thresholdb\u03b1 (in red) is calculated using equation (33).",
+            "cite_spans": [
+                {
+                    "start": 387,
+                    "end": 391,
+                    "text": "[24]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 10,
+                    "end": 16,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 272,
+                    "end": 278,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "IV. NUMERICAL RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "The goal is to detect the onset of a new wave of the pandemic based on the incremental cases as a fraction of the county population exceeding some pre-specified level. The pre-change mean and variance are estimated using observations for periods in which the increments remain low and roughly constant. We set the mean-threshold \u03b7 to be a multiple of the prechange mean, with understanding that such a threshold might be indicative of a new wave. With this choice, we observe that the MCT statistic significantly and persistently crosses the testthreshold around late November in all counties, which is strong indication of a new wave of the pandemic. More importantly, unlike the raw observations which are highly varying, the MCT statistic shows a clear dichotomy between the pre-and postchange settings, with the statistic staying near zero before the purported onset of the new wave, and taking off nearly vertically after the onset.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IV. NUMERICAL RESULTS AND DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Quickest line outage detection and identification",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Dominguez-Garcia",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Veeravalli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "IEEE Transactions on Power Systems",
+            "volume": "1",
+            "issn": "31",
+            "pages": "749--758",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Misspecified and asymptotically minimax robust quickest change detection",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Molloy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "IEEE Transactions on Signal Processing",
+            "volume": "65",
+            "issn": "21",
+            "pages": "5730--5742",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "A survey of recent developments in the design of adaptive control charts",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tagaras",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Journal of Quality Technology",
+            "volume": "30",
+            "issn": "3",
+            "pages": "212--231",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Structural health monitoring using statistical process control",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Czarnecki",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Farrar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Journal of Structural Engineering",
+            "volume": "126",
+            "issn": "11",
+            "pages": "1356--1363",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The generalized likelihood ratio test meets KL-UCB: An improved algorithm for piece-wise non-stationary bandits",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Besson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kaufmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "arXiv": [
+                    "arXiv:1902.01575"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "General asymptotic bayesian theory of quickest change detection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tartakovsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Veeravalli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "SIAM Theory of Probability and Its Applications",
+            "volume": "49",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Procedures for reacting to a change in distribution",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lorden",
+                    "suffix": ""
+                }
+            ],
+            "year": 1971,
+            "venue": "The Annals of Mathematical Statistics",
+            "volume": "42",
+            "issn": "6",
+            "pages": "1897--1908",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Average run lengths of an optimal method of detecting a change in distribution",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pollak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "The Annals of Statistics",
+            "volume": "15",
+            "issn": "2",
+            "pages": "749--779",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Statistical Inference for Engineers and Data Scientists",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Moulin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Veeravalli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Using the generalized likelihood ratio statistic for sequential detection of a change-point",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Siegmund",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Venkatraman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "The Annals of Statistics",
+            "volume": "23",
+            "issn": "1",
+            "pages": "255--271",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Sequential change-point detection when the preand post-change parameters are unknown",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xing",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Sequential Analysis",
+            "volume": "29",
+            "issn": "2",
+            "pages": "162--175",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "M-statistic for kernel changepoint detection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Advances in Neural Information Processing Systems",
+            "volume": "28",
+            "issn": "",
+            "pages": "3366--3374",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Sequential change-point detection: Laplace concentration of scan statistics and non-asymptotic delay bounds",
+            "authors": [
+                {
+                    "first": "O.-A",
+                    "middle": [],
+                    "last": "Maillard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Proceedings of the 30th International Conference on Algorithmic Learning Theory, ser. Proceedings of Machine Learning",
+            "volume": "98",
+            "issn": "",
+            "pages": "610--632",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "A binning approach to quickest change detection with unknown post-change distribution",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Tay",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Veeravalli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "IEEE Transactions on Signal Processing",
+            "volume": "67",
+            "issn": "3",
+            "pages": "609--621",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "A robust version of the probability ratio test",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Huber",
+                    "suffix": ""
+                }
+            ],
+            "year": 1965,
+            "venue": "The Annals of Mathematical Statistics",
+            "volume": "36",
+            "issn": "6",
+            "pages": "1753--1758",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Continuous Inspection Schemes",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Page",
+                    "suffix": ""
+                }
+            ],
+            "year": 1954,
+            "venue": "Biometrika",
+            "volume": "41",
+            "issn": "1/2",
+            "pages": "100--115",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Optimal stopping times for detecting changes in distributions",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Moustakides",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Annals of Statistics",
+            "volume": "14",
+            "issn": "4",
+            "pages": "1379--1387",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Minimax robust quickest change detection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Unnikrishnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Veeravalli",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Meyn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "IEEE Transactions on Information Theory",
+            "volume": "57",
+            "issn": "3",
+            "pages": "1604--1614",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Principles of Signal Detection and Parameter Estimation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Levy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Optimization by Vector Space Methods",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Luenberger",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "All of Nonparametric Statistics. 233 Spring Street",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wasserman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Sequential analysis: Tests and confidence intervals",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Siegmund",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Academic press library in signal processing: Array and statistical signal processing",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Veeravalli",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Coronavirus (COVID-19) Data in the United States -The New York Times",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Rearc",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Marketplace",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Gqp0XiRZGO24wcouQ5xRXh389-5cY88mGOynh9goKIh8x9 ogUY$",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Performances of different statistics. The pre-and post-change distribution are Beta(4,16) (\u00b5 0 = 0.2) and Beta(4.5,16) (\u00b5 1 = 0.2195), respectively. The mean-threshold \u03b7 = 0.21. .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "COVID-19 monitoring example. The upper subplot is the three-day moving average of the new cases of COVID-19 as a fraction of the population in Wayne County, MI (left), St. Louis County, MO (middle), and Hamilton County, OH (right)",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

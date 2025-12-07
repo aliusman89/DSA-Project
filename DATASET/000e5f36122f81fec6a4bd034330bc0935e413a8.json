@@ -1,0 +1,4108 @@
+{
+    "paper_id": "000e5f36122f81fec6a4bd034330bc0935e413a8",
+    "metadata": {
+        "title": "Robots do not judge: service robots can alleviate embarrassment in service encounters",
+        "authors": [
+            {
+                "first": "Jana",
+                "middle": [],
+                "last": "Holth\u00f6wer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Groningen",
+                    "location": {
+                        "postBox": "P.O. Box 800",
+                        "postCode": "9700",
+                        "settlement": "Groningen",
+                        "region": "AV",
+                        "country": "the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jenny",
+                "middle": [],
+                "last": "Van Doorn",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Groningen",
+                    "location": {
+                        "postBox": "P.O. Box 800",
+                        "postCode": "9700",
+                        "settlement": "Groningen",
+                        "region": "AV",
+                        "country": "the Netherlands"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Although robots are increasingly used in service provision, research cautions that consumers are reluctant to accept service robots. Five lab, field, and online studies reveal an important boundary condition to earlier work and demonstrate that consumers perceive robots less negatively when human social presence is the source of discomfort. We show that consumers feel less judged by a robot (vs. a human) when having to engage in an embarrassing service encounter, such as when acquiring medication to treat a sexually transmitted disease or being confronted with one's own mistakes by a frontline employee. As a consequence, consumers prefer being served by a robot instead of a human when having to acquire an embarrassing product, and a robot helps consumers to overcome their reluctance to accept the service provider's offering when the situation becomes embarrassing. However, robot anthropomorphism moderates the effect as consumers ascribe a higher automated social presence to a highly human-like robot (vs. machine-like robot), making consumers feel more socially judged.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "That robots will be increasingly employed in frontline service settings is strongly indicated by a 61% rise in sales of robots for professional use from 2017 to 2018 (International Federation for Robotics, 2019). Challenges associated with aging populations and an ever-increasing shortage of personnel have led the healthcare sector to invest heavily in service robots (Broadbent et al., 2010) , and in the hospitality sector \"Pepper\" the robot often greets and serves customers in restaurants, airports, and cruise ships (Blut et al., 2021; Mende et al., 2019) .",
+            "cite_spans": [
+                {
+                    "start": 370,
+                    "end": 394,
+                    "text": "(Broadbent et al., 2010)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 523,
+                    "end": 542,
+                    "text": "(Blut et al., 2021;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 543,
+                    "end": 562,
+                    "text": "Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Following prior research, we define robots as \"information technology in a physical embodiment, providing customized services by performing physical as well as nonphysical tasks with a high degree of autonomy\" (J\u00f6rling et al., 2019, p. 405) .",
+            "cite_spans": [
+                {
+                    "start": 210,
+                    "end": 240,
+                    "text": "(J\u00f6rling et al., 2019, p. 405)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Importantly, this definition does not encompass self-service technology such as ATMs or self-checkout machines owing to their low level of autonomy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Although reliance on service robots is rising, customers do not always readily accept robots, and their use can evoke skepticism and trigger negative feelings (\u010cai\u0107 et al., 2019; Mende et al., 2019) . Hence, theoretical and empirical exploration is imperative to uncover how robots' negative effects can be attenuated or perhaps avoided altogether. We investigate whether consumers are more accepting of service robots in situations where human presence causes social discomfort-particularly service settings that can create feelings of being socially judged by the human service provider. A perception of social judgment can arise owing to the product that needs to be acquired, such as condoms (Dahl et al., 2001) , or through interaction with a frontline employee, as when they are confronted with their own errors or forgetfulness (Grace, 2009 ). In such settings, the presence of others can trigger feelings of embarrassment (Argo et al., 2005; Dahl et al., 2001) owing to a fear that negative judgment will pose a threat to one's social identity (Edelmann, 1987; Higuchi & Fukada, 2002) .",
+            "cite_spans": [
+                {
+                    "start": 159,
+                    "end": 178,
+                    "text": "(\u010cai\u0107 et al., 2019;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 179,
+                    "end": 198,
+                    "text": "Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 696,
+                    "end": 715,
+                    "text": "(Dahl et al., 2001)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 835,
+                    "end": 847,
+                    "text": "(Grace, 2009",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 930,
+                    "end": 949,
+                    "text": "(Argo et al., 2005;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 950,
+                    "end": 968,
+                    "text": "Dahl et al., 2001)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1052,
+                    "end": 1068,
+                    "text": "(Edelmann, 1987;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1069,
+                    "end": 1092,
+                    "text": "Higuchi & Fukada, 2002)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "This concern leads consumers to either avoid such situations by buying products such as medication to treat a sexually transmitted disease (STD) or incontinence drugs online and to",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Stephanie Noble & Martin Mende served as Guest Editors for this article. use self-service checkouts in physical stores (Krishna et al., 2019; Jackson et al., 2014) or to retreat as quickly as possible from an embarrassing situation that occurs unexpectedly (Grace, 2009; Jones et al., 2018; Krishna et al., 2015) . Importantly, embarrassing service encounters can have longterm negative consequences for companies because consumers avoid the service provider in the future (Grace, 2009 ). In the healthcare domain, avoiding embarrassing situations can jeopardize consumers' well-being.",
+            "cite_spans": [
+                {
+                    "start": 119,
+                    "end": 141,
+                    "text": "(Krishna et al., 2019;",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 142,
+                    "end": 163,
+                    "text": "Jackson et al., 2014)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 257,
+                    "end": 270,
+                    "text": "(Grace, 2009;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 271,
+                    "end": 290,
+                    "text": "Jones et al., 2018;",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 291,
+                    "end": 312,
+                    "text": "Krishna et al., 2015)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 473,
+                    "end": 485,
+                    "text": "(Grace, 2009",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We propose that being served by a robot instead of a human can mitigate the fear of being socially judged because automation removes the human social presence that triggers perception of social judgment (Argo et al., 2005; Dahl et al., 2001) . The concept of automated social presence has recently been introduced and is defined as \"the extent to which technology makes customers feel the presence of another social entity\" (van Doorn et al., 2017, p. 43) . Compared to human social presence, automated social presence should lead to lower perception of social judgment. This prediction is in line with a recent study showing that a robot reduces feelings of embarrassment because of its lower perceived agency (i.e., being able to act with intention and form opinions) (Pitardi et al., 2021) . However, whether robotic service translates into a higher likelihood to acquire an embarrassing product or leads to the consumer's greater comfort when facing an embarrassing situation is so far unclear. We expect service robots to make customers feel less judged and more at ease when acquiring an embarrassing product or being disparaged by the service employee, leading to a preference for service robots when the situation becomes embarrassing and to a higher likelihood to accept the service provider's offering.",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 222,
+                    "text": "(Argo et al., 2005;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 223,
+                    "end": 241,
+                    "text": "Dahl et al., 2001)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 424,
+                    "end": 455,
+                    "text": "(van Doorn et al., 2017, p. 43)",
+                    "ref_id": null
+                },
+                {
+                    "start": 770,
+                    "end": 792,
+                    "text": "(Pitardi et al., 2021)",
+                    "ref_id": "BIBREF60"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We also explore the extent to which automated social presence of a robot is affected by anthropomorphism in terms of having human-like features such as a face, arms, and legs. While marketing has found anthropomorphism to increase product and brand liking (Aggarwal & McGill, 2012) , whether anthropomorphizing service robots enhances customer experiences is unclear (Blut et al., 2021) . We hypothesize that robot anthropomorphism can trigger higher perceptions of automated social presence because the robot appears livelier and more engaging (Jung & Lee, 2004; van Doorn et al., 2017) . While this effect may be desirable in many situations, robot anthropomorphism and the related heightened automated social presence may backfire when consumers fear social judgment. In these situations, consumers may perceive a highly anthropomorphic robot as more judgmental than a machinelike robot and therefore may be more reluctant to acquire an embarrassing product and more likely to avoid a service provider after an embarrassing encounter. Previous literature has indeed found patients to be less embarrassed during a medical examination when instructed by a technical box than by a robot with human-like features (Bartneck et al., 2010) . Further, more human-like conversational agents elicit more socially desirable responses, and less honest answers, to sensitive questions (Schuetzler et al., 2018) . We propose that these effects may generalize to embarrassing situations in domains beyond healthcare, such as hospitality services, and to interactions with robots with different levels of human likeness.",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 281,
+                    "text": "(Aggarwal & McGill, 2012)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 367,
+                    "end": 386,
+                    "text": "(Blut et al., 2021)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 545,
+                    "end": 563,
+                    "text": "(Jung & Lee, 2004;",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 564,
+                    "end": 587,
+                    "text": "van Doorn et al., 2017)",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 1212,
+                    "end": 1235,
+                    "text": "(Bartneck et al., 2010)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1375,
+                    "end": 1400,
+                    "text": "(Schuetzler et al., 2018)",
+                    "ref_id": "BIBREF62"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Our investigation makes three contributions to the literature. First, we show a key boundary condition to earlier work cautioning that consumers are reluctant to accept service robots (\u010cai\u0107 et al., 2019; Mende et al., 2019) . Importantly, we find that consumers are more accepting of service robots in situations where they fear human social judgment. We investigate an array of managerially relevant attitudinal and behavioral outcomes, such as the propensity to acquire an embarrassing product and likelihood to accept an alternative offering from the same provider. Second, we show the underlying process driving this effect. Consistent with social identity theory (Edelmann, 1987; Miller & Leary, 1992) , consumers feel less socially judged by a robot than by a human, resulting in a higher likelihood they will accept the service provider's offerings. We link the literature on embarrassment (Dahl et al., 2001; Grace, 2009; Jones et al., 2018) and social identity theory (Edelmann, 1987; Miller & Leary, 1992) to the increasingly important research field of service robots and technology (Huang & Rust, 2017 , 2018 Kumar et al., 2016; van Doorn et al., 2017; Wirtz et al., 2018) . Third, we demonstrate the critical role of a service robot's design in shaping perceptions of automated social presence, in particular the robot's level of anthropomorphism. We show that a more anthropomorphic robot is associated with greater automated social presence, making people feel more judged and hence increasing their tendency to avoid dealing with a company when served by a highly human-like service robot.",
+            "cite_spans": [
+                {
+                    "start": 184,
+                    "end": 203,
+                    "text": "(\u010cai\u0107 et al., 2019;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 204,
+                    "end": 223,
+                    "text": "Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 668,
+                    "end": 684,
+                    "text": "(Edelmann, 1987;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 685,
+                    "end": 706,
+                    "text": "Miller & Leary, 1992)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 897,
+                    "end": 916,
+                    "text": "(Dahl et al., 2001;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 917,
+                    "end": 929,
+                    "text": "Grace, 2009;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 930,
+                    "end": 949,
+                    "text": "Jones et al., 2018)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 977,
+                    "end": 993,
+                    "text": "(Edelmann, 1987;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 994,
+                    "end": 1015,
+                    "text": "Miller & Leary, 1992)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 1094,
+                    "end": 1113,
+                    "text": "(Huang & Rust, 2017",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1114,
+                    "end": 1120,
+                    "text": ", 2018",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1121,
+                    "end": 1140,
+                    "text": "Kumar et al., 2016;",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 1141,
+                    "end": 1164,
+                    "text": "van Doorn et al., 2017;",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 1165,
+                    "end": 1184,
+                    "text": "Wirtz et al., 2018)",
+                    "ref_id": "BIBREF67"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The increasing use of service robots to automate frontline interactions by executing simple, standardized tasks and delivering services in a reliable, fast, and efficient way is reflected in the emerging literature stream on service robots (Huang & Rust, 2018 Wirtz et al., 2018) . While current research on service robots is largely conceptual, we review empirical studies on the role of service robots across a number of service settings. Table 1 gives a non-exhaustive overview of the research into the acceptance and evaluation of service robots and related relevant issues, such as robot anthropomorphism.",
+            "cite_spans": [
+                {
+                    "start": 240,
+                    "end": 259,
+                    "text": "(Huang & Rust, 2018",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 260,
+                    "end": 279,
+                    "text": "Wirtz et al., 2018)",
+                    "ref_id": "BIBREF67"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 441,
+                    "end": 448,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Service robots"
+        },
+        {
+            "text": "Empirical evidence so far is mixed regarding whether consumers accept or resist service by robots. For example, replacing human employees with service robots can result in ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Service robots"
+        },
+        {
+            "text": "Interviews, online experiments",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Service robots"
+        },
+        {
+            "text": "Outcome responsibility + / -A service robot's autonomy decreases perceived behavioral control over it, which decreases perceived responsibility for positive service outcomes but not for negative service outcomes. Customers feel responsible for negative service outcomes if they perceive ownership of the robot. Customer's potential to interrupt the service robot's autonomy increases perceived control and perceived responsibility for positive outcomes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Non-humanoid No"
+        },
+        {
+            "text": "Merkle ( ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Non-humanoid No"
+        },
+        {
+            "text": "Interviews Humanoid Yes Acceptance of robots, assistance preference + / -Older adults preferred robot assistance for performing instrumental (e.g., housekeeping) and enhanced activities (e.g., hobbies) but preferred human assistance in performing activities of daily living (e.g., prepare meals).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Non-humanoid No"
+        },
+        {
+            "text": "Van Doorn et al.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Non-humanoid No"
+        },
+        {
+            "text": "Conceptual paper",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Non-humanoid No"
+        },
+        {
+            "text": "Customer and service outcomes + The concept of automated social presence (ASP) is defined and related to several key service and customer outcomes, mediated by social cognition and perceptions of psychological ownership as well as three customer-related factors that moderate the relationship between ASP and social cognition and psychological ownership (i.e., tendency to anthropomorphize, a customer's relationship orientation, and technology readiness). negative service outcomes. In hospitality services, interacting with a service robot rather than a human employee can trigger feelings of eeriness and human identity threats, leading to consumers' compensatory behaviors such as status consumption and increased food intake (Mende et al., 2019) . The elderly rated a robotic coach lower than a human coach on warmth and competence and as a consequence were less likely to participate in exercise games (\u010cai\u0107 et al., 2019) . However, after a service failure, consumers may evaluate a service robot more favorably than a frontline human service employee (Merkle, 2019) , and robots have been found to reduce embarrassment (Pitardi et al., 2021) . Other research has highlighted that preference for a robot over a human can be task-specific. For instance, older people preferred robotic to human assistance for some instrumental activities such as housekeeping or setting medication reminders but not for other common daily living tasks, such as shaving, walking, or getting dressed (Smarr et al., 2012) . Older people also perceived socially assistive robots as having a positive impact on co-creating service value (e.g., as an extended self, an enabler, and an ally) but also as having codestruction potential (e.g., as a deactivator, a replacement, and an intruder) (\u010cai\u0107 et al., 2018) .",
+            "cite_spans": [
+                {
+                    "start": 730,
+                    "end": 750,
+                    "text": "(Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 908,
+                    "end": 927,
+                    "text": "(\u010cai\u0107 et al., 2019)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1058,
+                    "end": 1072,
+                    "text": "(Merkle, 2019)",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 1126,
+                    "end": 1148,
+                    "text": "(Pitardi et al., 2021)",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 1486,
+                    "end": 1506,
+                    "text": "(Smarr et al., 2012)",
+                    "ref_id": "BIBREF64"
+                },
+                {
+                    "start": 1773,
+                    "end": 1792,
+                    "text": "(\u010cai\u0107 et al., 2018)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Yes"
+        },
+        {
+            "text": "Studies have also investigated the impact of robot design, which often varies to match the service context and the characteristics of the consumer (Lu et al., 2020) . One important element affecting robot acceptance is the degree of anthropomorphism, which is inherently required for a robot's ability to engage in meaningful interactions (Duffy, 2003) . Anthropomorphizing objects means imbuing the objects with \"the real or imagined behavior of nonhuman agents with human-like characteristics, motivations, intentions, or emotions\" (Epley et al., 2007, p. 864) . One perception is that consumers respond positively to robots with human-like behavioral characteristics because they can relate easily to them and bond with them (Broadbent et al., 2013) , and research results have highlighted the favorable impact of anthropomorphizing service robots on customers' trust, intention to use, and enjoyment (van Pinxteren et al., 2019) .",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 164,
+                    "text": "(Lu et al., 2020)",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 339,
+                    "end": 352,
+                    "text": "(Duffy, 2003)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 534,
+                    "end": 562,
+                    "text": "(Epley et al., 2007, p. 864)",
+                    "ref_id": null
+                },
+                {
+                    "start": 728,
+                    "end": 752,
+                    "text": "(Broadbent et al., 2013)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 904,
+                    "end": 932,
+                    "text": "(van Pinxteren et al., 2019)",
+                    "ref_id": "BIBREF66"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Yes"
+        },
+        {
+            "text": "However, another school of thought cautions that robot anthropomorphism can backfire, often building on the uncanny valley theory (Mende et al., 2019; Mori et al., 2012) . This theory proposes that amplifying human-likeness increases affinity for the robot until the robot closely resembles a human. Then, a strong feeling of uncanniness occurs, resulting in a radical shift from positive to negative responses because a robot that looks human often cannot enact the expected human behavior (Mori et al., 2012) . Empirical research shows that, as predicted by the theory, anthropomorphizing a robot increases psychological warmth up to a certain point, where it decreases liking owing to a feeling of uncanniness (Kim et al., 2019) . In some cases, making a robot less anthropomorphic decreases negative consumer responses (Mende et al., 2019) . For example, a technical box that gave instructions during a medical examination elicited less embarrassment than an anthropomorphic robot (Bartneck et al., 2010) . Research into anthropomorphism in human-robot interaction has also examined other robot features, such as autonomy (Kahn et al., 2006) . In one study, perceived autonomy of a service robot led to customers feeling lower levels of control and responsibility for positive outcomes (J\u00f6rling et al., 2019) .",
+            "cite_spans": [
+                {
+                    "start": 130,
+                    "end": 150,
+                    "text": "(Mende et al., 2019;",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 151,
+                    "end": 169,
+                    "text": "Mori et al., 2012)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 491,
+                    "end": 510,
+                    "text": "(Mori et al., 2012)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 713,
+                    "end": 731,
+                    "text": "(Kim et al., 2019)",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 823,
+                    "end": 843,
+                    "text": "(Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 985,
+                    "end": 1008,
+                    "text": "(Bartneck et al., 2010)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1126,
+                    "end": 1145,
+                    "text": "(Kahn et al., 2006)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 1290,
+                    "end": 1312,
+                    "text": "(J\u00f6rling et al., 2019)",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Yes"
+        },
+        {
+            "text": "Overall, previous research has yielded mixed findings regarding the acceptance of service robots and the role of robot anthropomorphism. Therefore, exploration of potential boundary conditions affecting the extent to which consumers accept robots serving them is important. Furthermore, the literature has so far largely linked anthropomorphism to feelings of uncanniness and has not empirically examined whether robot anthropomorphism also affects the automated social presence ascribed to a robot.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Yes"
+        },
+        {
+            "text": "Previous work has investigated different types of embarrassing situations, like being the center of attention or committing a faux pas (Sabini et al., 2001) . Embarrassment can occur in various service settings, such as during purchase of products like body care or sex-related products (Jones et al., 2018; Krishna et al., 2015; Lau-Gesk & Drolet, 2008) or in some use situations, such as when the credit card is denied while paying the bill.",
+            "cite_spans": [
+                {
+                    "start": 135,
+                    "end": 156,
+                    "text": "(Sabini et al., 2001)",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 287,
+                    "end": 307,
+                    "text": "(Jones et al., 2018;",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 308,
+                    "end": 329,
+                    "text": "Krishna et al., 2015;",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 330,
+                    "end": 354,
+                    "text": "Lau-Gesk & Drolet, 2008)",
+                    "ref_id": "BIBREF46"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Embarrassment and social judgment"
+        },
+        {
+            "text": "Ample evidence shows that human social presence plays a central role in determining consumer behaviors and attitudes (Argo et al., 2005; Dahl et al., 2001) . While social presence may enhance service satisfaction when the service experience is positive (He et al., 2012) , scholars have also emphasized potential downsides of social presence (Esmark et al., 2017; Grewal et al., 2020) . One drawback is that the real or imagined social presence of others can result in consumers feeling socially judged in embarrassing situations. This perception leads consumers to avoid purchasing embarrassing products, withdraw as quickly as possible from the embarrassing situation, or avoid the service provider for future transactions (Argo et al., 2005; Dahl et al., 2001; Grace, 2009) . The social evaluation model posits that embarrassment is caused by the feeling of being negatively or undesirably evaluated by others Miller, 1996; . As people have a concern for how they are appraised by others, negative social judgments can evoke a threat to their social identity (Edelmann, 1987; Miller & Leary, 1992) and influence patronage decisions (Grace, 2009 ). This social identity threat corresponds with the premise of social identity theory that an individual strives to achieve a satisfactory image of the self.",
+            "cite_spans": [
+                {
+                    "start": 117,
+                    "end": 136,
+                    "text": "(Argo et al., 2005;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 137,
+                    "end": 155,
+                    "text": "Dahl et al., 2001)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 253,
+                    "end": 270,
+                    "text": "(He et al., 2012)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 342,
+                    "end": 363,
+                    "text": "(Esmark et al., 2017;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 364,
+                    "end": 384,
+                    "text": "Grewal et al., 2020)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 725,
+                    "end": 744,
+                    "text": "(Argo et al., 2005;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 745,
+                    "end": 763,
+                    "text": "Dahl et al., 2001;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 764,
+                    "end": 776,
+                    "text": "Grace, 2009)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 913,
+                    "end": 926,
+                    "text": "Miller, 1996;",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 1062,
+                    "end": 1078,
+                    "text": "(Edelmann, 1987;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1079,
+                    "end": 1100,
+                    "text": "Miller & Leary, 1992)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 1135,
+                    "end": 1147,
+                    "text": "(Grace, 2009",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Embarrassment and social judgment"
+        },
+        {
+            "text": "Previous work has shown that specific frontline employee behaviors, such as criticizing a customer, can pose a threat to a customer's social identity (Habel et al., 2017) . Consumers go to great lengths to avoid social judgment by others and protect their social identity, endangering their health, engaging in risky behavior, and avoiding medical care even when major health problems are present (Helweg-Larsen & Collins, 1994; Kiefe et al., 1998) . Research findings suggest that having to shop for a sensitive product that others may not approve of can be perceived as a threat to social identity, provoking feelings of social judgment when others are present. When making an embarrassing purchase, consumers visit less-crowded stores, avoid asking employees for help, and wait for other customers to leave the aisle (Blair & Roese, 2013) . More recently, consumers have started to shop online for items such as dieting products or plus-size clothing and to opt for using self-service checkout systems when, for example, purchasing condoms (Krishna et al., 2019; Jackson et al., 2014) . However, online purchases and self-service checkouts can pose difficulties through technological complexity or temporal issues (i.e., the product not being immediately accessible via the internet) (Miyazaki & Fernandez, 2001; Young et al., 2017) . In addition, use of self-serving technologies and online retailers may raise legal, ethical, and safety issues, as when buying medications in pharmacies (Fung et al., 2004) . Importantly, these strategies do not work when the source of embarrassment lies in social interaction between a frontline employee and a customer (Miller & Leary, 1992) . While consumers can at least mentally prepare themselves when having to acquire an embarrassing product, interactional situations often occur unexpectedly, such as when a service employee criticizes customers or confronts them with their own errors (Grace, 2007 (Grace, , 2009 .",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 170,
+                    "text": "(Habel et al., 2017)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 397,
+                    "end": 428,
+                    "text": "(Helweg-Larsen & Collins, 1994;",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 429,
+                    "end": 448,
+                    "text": "Kiefe et al., 1998)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 820,
+                    "end": 841,
+                    "text": "(Blair & Roese, 2013)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1043,
+                    "end": 1065,
+                    "text": "(Krishna et al., 2019;",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1066,
+                    "end": 1087,
+                    "text": "Jackson et al., 2014)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1287,
+                    "end": 1315,
+                    "text": "(Miyazaki & Fernandez, 2001;",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 1316,
+                    "end": 1335,
+                    "text": "Young et al., 2017)",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 1491,
+                    "end": 1510,
+                    "text": "(Fung et al., 2004)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1659,
+                    "end": 1681,
+                    "text": "(Miller & Leary, 1992)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 1933,
+                    "end": 1945,
+                    "text": "(Grace, 2007",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1946,
+                    "end": 1960,
+                    "text": "(Grace, , 2009",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Embarrassment and social judgment"
+        },
+        {
+            "text": "Building on literature showing that human social presence in service interactions can elicit negative feelings (Dahl et al., 2001; He et al., 2012) , we expect these discomforting feelings to decrease when social presence is automated through use of a service robot in place of a human service provider. In these situations, the automated service interaction may reduce a consumer's apprehension of social judgment (Higuchi & Fukada, 2002) , a prediction in line with a study showing that a robot reduces feelings of embarrassment (Pitardi et al., 2021) . This reduction should make it easier to face a situation such as acquiring embarrassing products or facing criticism by a frontline employee. As a consequence, consumers prefer robot service providers over human ones in embarrassing situations, and are more likely to accept the service provider's offering instead of retreating as quickly as possible. We propose:",
+            "cite_spans": [
+                {
+                    "start": 111,
+                    "end": 130,
+                    "text": "(Dahl et al., 2001;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 131,
+                    "end": 147,
+                    "text": "He et al., 2012)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 415,
+                    "end": 439,
+                    "text": "(Higuchi & Fukada, 2002)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 531,
+                    "end": 553,
+                    "text": "(Pitardi et al., 2021)",
+                    "ref_id": "BIBREF60"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Embarrassment and social judgment"
+        },
+        {
+            "text": "H1 In a more (vs. less) embarrassing service encounter, consumers are more likely (a) to prefer a robot over a human service provider, and (b) to accept a service provider's offering when served by a robot (vs. a human service provider).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Embarrassment and social judgment"
+        },
+        {
+            "text": "The effect of the robot (vs. human) service provider on consumers' likelihood to accept a service provider's offering is mediated by social judgment such that consumers feel less socially judged by a service robot (vs. a human service provider) in an embarrassing situation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "H2"
+        },
+        {
+            "text": "We test our hypotheses in a series of five experiments ( Table 2) . Study 1, a laboratory study, shows that when having to acquire an embarrassing product through an in-person encounter with a human or an encounter with a robot service provider, consumers prefer the robot over the human service provider. 1 Study 2, a field study, comprises a real advertising campaign on Facebook which shows that users are more likely to click on an ad promoting an embarrassing service when the ad features a robot rather than a human service provider. 2 Studies 3-5 were conducted online through the platform Prolific. 3 Study 3 shows that consumers are more likely to accept an alternative offering from a robot (vs. human) when confronted with their own error. Study 4 sheds light on the underlying process and establishes that consumers feel less socially judged by a robot and therefore are more likely to acquire an embarrassing product in a pharmacy. Study 5 empirically tests a third hypothesis on the role of robot anthropomorphism. We show that consumers feel less judged by a machine-like robot than by a highly human-like robot, owing to differences in perceived automated social presence, affecting the likelihood the consumer will acquire an embarrassing product. Illustrative photos of the service providers used across the studies appear in Fig. 1 . Details of all instructions, manipulations, and measures used in our studies, as well as further 1 Given limited access to the participant pool, we collected responses for Study 1 from all students who signed up to complete this lab session (rather than determining an a priori sample size; Kupor & Laurin, 2020) . A sensitivity power analysis in G*Power (v3.1; Faul et al., 2009) indicated that this sample size provided 80% power to detect a medium-sized effect (w = 0.28) for the difference between conditions. 2 We determined the number of Facebook users on the basis of an estimated test power of 80% (Mookerjee et al., 2021) . 3 A priori power analysis using G*Power (power of 0.80 and an alpha error probability of 0.05) yielded a minimum sample of 351 to detect a small to medium-sized two-way interaction effect (f = 0.15) between service provider and embarrassment. Given that we excluded participants who failed our attention checks (regarding human vs. robot service provider and the situation/ product that was described), we overrecruited by about 15% and requested samples of 405 respondents for Studies 3 and 4, but sometimes received more/ fewer responses because participants started the study simultaneously. Given that the differences between robots with varying levels of anthropomorphism are expected to be smaller than differences between a robot and a human, we seek adequate power to detect a small interaction effect (f = 0.10) in Study 5. While the required sample size was 787, financial constraints allowed us to collect only 709 responses. Intentions to acquire the product The intention to acquire an embarrassing product is higher with a machine-like robot (vs. human) and equally high for the highly anthropomorphic robot and human (highly human-like=5.58, machine-like=6.03, human= 5.75; F(2,1065)=27.85, p<0.001).",
+            "cite_spans": [
+                {
+                    "start": 1644,
+                    "end": 1665,
+                    "text": "Kupor & Laurin, 2020)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 1715,
+                    "end": 1733,
+                    "text": "Faul et al., 2009)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1959,
+                    "end": 1983,
+                    "text": "(Mookerjee et al., 2021)",
+                    "ref_id": "BIBREF57"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 57,
+                    "end": 65,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 1344,
+                    "end": 1350,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Empirical overview"
+        },
+        {
+            "text": "H3 supported NR = not reported; ASP = automated social presence analyses of our data including robustness checks, appear in the Web Appendix.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Empirical overview"
+        },
+        {
+            "text": "Participants were 104 students who took part in a laboratory study for money or course credit. Six participants were excluded from the analysis because they did not read the instructions properly, leaving a final sample of 98 (51 males, M age = 20.94, SD age = 3.64). The study employed a two-cell (embarrassment: high vs. low) between-subjects design.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study 1"
+        },
+        {
+            "text": "We pretested our manipulation with a sample of 200 Dutch students recruited from Prolific (76 males, M age = 21.77, SD age = 2.92) in a scenario-based study with a 2 cell (embarrassment: high vs. low) between-subjects design. We asked respondents to indicate how embarrassed, uncomfortable, ashamed, and awkward they would feel to acquire each of Study 1: Lab study",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pretest of the stimuli"
+        },
+        {
+            "text": "Study 2: Photo stimuli",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Robot Human"
+        },
+        {
+            "text": "Study 3: Photo stimuli",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Robot Human"
+        },
+        {
+            "text": "Study 4: Photo stimuli",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Robot Human"
+        },
+        {
+            "text": "Highly human-like Robot Machine-like Robot Fig. 1 Illustrative photos of the service providers used across the studies either three more embarrassing products (a chlamydia selftest, a sex toy, and hemorrhoid cream) or less embarrassing products (a COVID-19 self-test, a fitness massage ball, and hand cream) (Cronbach's \u03b1 = 0.92-0.97; 1 = \"strongly disagree\" and 7 = \"strongly agree\"; Dahl et al., 2001) . Afterwards, respondents ranked which product would be most embarrassing to buy (high embarrassment condition) or least embarrassing to buy (low embarrassment condition). An analysis of variance (ANOVA) revealed that the highly embarrassing products were indeed perceived as more embarrassing ( ",
+            "cite_spans": [
+                {
+                    "start": 385,
+                    "end": 403,
+                    "text": "Dahl et al., 2001)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 43,
+                    "end": 49,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 698,
+                    "end": 699,
+                    "text": "(",
+                    "ref_id": null
+                }
+            ],
+            "section": "Study 5: Photo stimuli"
+        },
+        {
+            "text": "In our main study, we showed participants either the three highly or the three less embarrassing products and asked them to indicate their level of embarrassment employing the same scale as in the pretest (Cronbach's \u03b1 = 0.89-0.95). Afterwards, respondents were asked to rank the products according to how embarrassed they would be to buy those. They were then instructed to acquire the product they ranked as most embarrassing (high embarrassment condition) or least embarrassing (low embarrassment condition).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "Respondents were told that they could get a free sample of the chosen product at two locations, with either a human service provider or a service robot present. As locations, we used two rooms with a table displaying the products, together with paper bags to wrap the product in. Participants were told that neither service provider would know which product had to be acquired and therefore the participant would need to state it. Once respondents entered the location, the service provider said the following:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "Hello, which is the product you have to acquire? Please take it now from the table. Next to the door you will find paper bags. Take one to carry the product back to your cubicle and continue with the study. Thank you.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "We carefully instructed our student assistant who served as the human condition to use identical wording, speak in a monotone, and maintain a neutral facial expression to ensure comparability with the robot. Control variables (age, gender, education, and COVID-19 concerns) were measured at the end of the survey.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "Manipulation check An ANOVA revealed that participants felt significantly more embarrassed about the product ranked as most embarrassing (M = 5.21) than about the product ranked as least embarrassing (M = 1.32; F(1,96) = 604.55, p < 0.001). In the high embarrassment condition, 37.5% of the participants ranked the hemorrhoid cream as most embarrassing (M = 4.75), 33.3% the sex toy (M = 4.22), and 29.2% the STD self-test (M = 4.53). In the low embarrassment condition, 60% of the participants ranked the hand cream as least embarrassing (M = 1.56), 22% the COVID-19 self-test (M = 2.46), and 18% the fitness massage ball (M = 1.98).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Choice of service provider We performed a binary logistic regression with type of product as independent variable and choice of service provider as dependent variable, controlling for age, gender, and COVID-19 concerns. Results show a significant effect of type of product: participants were more likely to choose the service robot when having to acquire the highly embarrassing product (Choice robot = 75%, Choice human = 25%), whereas they were more likely to choose the human service provider when having to acquire the less embarrassing product (Choice robot = 32%, Choice human = 68%; Wald \u03c7 2 = 15.82, p < 0.001, \u03b7 2 = 0.43).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Study 1 involved actual human-robot interaction and shows that respondents were more likely to choose the service robot when acquiring a highly (vs. less) embarrassing product: a higher proportion of respondents chose to acquire the embarrassing product from the service robot rather than the human service provider, supporting H1a. In contrast, in line with previous findings that people respond more positively to human than to robot service providers (e.g., Mende et al., 2019) , participants were more likely to choose the human service provider when having to acquire a less embarrassing product.",
+            "cite_spans": [
+                {
+                    "start": 461,
+                    "end": 480,
+                    "text": "Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "We randomly exposed 11,815 Facebook users (5220 males, mean age not disclosed) to one of four advertisements (a 2 (service provider: robot vs. human) \u00d7 2 (embarrassment: high vs. low) between-subjects design). The ads were displayed on the Facebook news feed as sponsored posts saying \"Check your fat percentage! Consult our robot advisor to prevent overweight and obesity (high embarrassment condition) / to assess your fitness and nutritional diet (low embarrassment condition). Have a chat online about your health and body composition.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study 2"
+        },
+        {
+            "text": "We pretested our advertisement with a sample of 101 U.K.based respondents recruited from Prolific (27 males, M age = 40.15, SD age = 12.88) in a scenario-based study with a 2 cell (embarrassment: high vs. low) between-subjects design. In the high embarrassment condition, participants were told to imagine that they are struggling with overweight and have recently read about the potential negative consequences of obesity. In the low embarrassment condition, participants were told to imagine that they are trying to live a healthy lifestyle and have recently read about the positive effects of a nutritional diet and regular exercise. Respondents reported their embarrassment on a four-item scale (Cronbach's \u03b1 = 0.96; 1 = \"strongly disagree\" and 7 = \"strongly agree\"; Dahl et al., 2001) . Participants then saw advertisements about checking the fat percentage to prevent overweight and obesity (high embarrassment condition) or to assess fitness and nutritional diet (low embarrassment condition), where they could indicate their preference for a robot versus human counselor. An ANOVA revealed that participants felt significantly more embarrassed to talk with someone about their overweight and obesity (M = 4.54) than about fitness performance issues (M = 3.47; F(1,99) = 9.07, p = 0.003). 4",
+            "cite_spans": [
+                {
+                    "start": 771,
+                    "end": 789,
+                    "text": "Dahl et al., 2001)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pretest of the stimuli"
+        },
+        {
+            "text": "We targeted Facebook users located in the U.K. but did not restrict participants on the basis of any other demographic factors. The ads were shown for four days in total (all ad specifications can be found in the Web Appendix). If users clicked on the ad, they were redirected to a page explaining that the ad was part of an academic research project. We used the click-through rate (CTR) as the dependent variable. CTR is a commonly used digital marketing metric that shows the number of clicks relative to the number of times the ad was displayed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Field study"
+        },
+        {
+            "text": "We computed the CTR for each condition and analyzed the differences in CTR across conditions. The CTR for the embarrassing ad featuring the robot (1.26%) is significantly higher than CTR for the embarrassing ad featuring the human (0.74%; Wald \u03c72 = 4.37, p = 0.037, \u03b72 = 0.03). This range of CTRs is comparable to the rates in other recent research using Facebook advertising field studies (Kupor & Laurin, 2020) . The difference in CTR between robot (0.93%) and human (0.73%) for the less embarrassing ad is not significant (Wald \u03c72 = 0.81, p = 0.37).",
+            "cite_spans": [
+                {
+                    "start": 390,
+                    "end": 412,
+                    "text": "(Kupor & Laurin, 2020)",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Study 2 corroborates the results of Study 1: in a field study setting on social media, consumers may prefer a robot over a human when the topic is embarrassing. Results showed that a robot (vs. human service provider) was more effective at generating clicks with social media advertising for an embarrassing health-related service, supporting H1b. This result has implications for real-world behavior because consumers tend to endanger their health and avoid medical care even when health issues are present (Helweg-Larsen & Collins, 1994; Kiefe et al., 1998) . Robotic advisors may be a viable option for consumers who tend to avoid consulting health practitioners out of embarrassment.",
+            "cite_spans": [
+                {
+                    "start": 508,
+                    "end": 539,
+                    "text": "(Helweg-Larsen & Collins, 1994;",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 540,
+                    "end": 559,
+                    "text": "Kiefe et al., 1998)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Study 3, which was set in a hospitality context, examined a situation where embarrassment arises from an error on the side of the consumer (Grace, 2009) . We recruited 405 participants on Prolific and excluded 25 owing to a failed attention check, leaving a final sample of 380 participants (221 males, M age = 25.54, SD age = 8.22) for a study with a 2 (service provider: robot vs. human) \u00d7 2 (embarrassment: high vs. low) betweensubjects design. Respondents were asked to imagine going out for dinner and encountering a host at the restaurant's entrance who welcomes guests. They are told that they cannot enter, either because they forgot to make a reservation (a highly embarrassing service situation resulting from an error on the side of the consumer) or because the restaurant is full (a less embarrassing service situation). They subsequently reported their embarrassment on a four-item scale (the same as that used in Studies 1 + 2) (Cronbach's \u03b1 = 0.89). Respondents then imagined standing in front of the restaurant, which was shown in the photo. We manipulated service provider type by showing the host as either a human or a humanoid robot (\"Pepper\") (see Fig. 1 ).",
+            "cite_spans": [
+                {
+                    "start": 139,
+                    "end": 152,
+                    "text": "(Grace, 2009)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1169,
+                    "end": 1175,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Study 3"
+        },
+        {
+            "text": "As the dependent variable, we assessed participants' likelihood to accept an alternative offer from the service provider and eat at another restaurant owned by the same owners, measured on a four-item scale (e.g., \"Eating at the other restaurant seems to be a good alternative\"; Cronbach's \u03b1 = 0.83; 1 = \"strongly disagree\" and 7 = \"strongly agree\"). 4 A binary logistic regression with high (vs. low) embarrassment situation as independent variable on the choice between a robot vs. human service provider revealed that participants are more likely to click on the website with a service robot when the service is considered to be highly embarrassing (Choice robot = 64.7%, Choice human = 35.3%), whereas the opposite is true when the service is perceived to be less embarrassing (Choice robot = 44%, Choice human = 56%; Wald \u03c7 2 = 4.30, p = 0.038, \u03b7 2 = 0.21).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study 3"
+        },
+        {
+            "text": "Manipulation check An ANOVA revealed that participants felt significantly more embarrassed when they were not allowed to enter the restaurant because they did not have a reservation (M high = 4.55) than when the restaurant was full (M low = 3.70; F(1,379) = 26.919, p < 0.001).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Likelihood to accept alternative offering An ANOVA revealed that participants would rather eat at the other restaurant of the same owners after they had faced a less (vs. more) embarrassing service encounter (M high = 3.64, M low = 3.82; F(1,376) = 5.38, p = 0.021). The main effect of service provider (robot vs. human) on the likelihood to accept the alternative offering was not significant (p = 0.426). The critical two-way interaction between service provider and type of situation (F(1,379) = 7.14, p = 0.008, \u03b7 p 2 = 0.02) indicated that participants were more likely to accept the alternative offering recommended by the robot (M robot = 3.77) than that of the human when denied entrance because no reservation had been made (M human = 3.50; F(1,376) = 6.24, p = 0.013, \u03b7 p 2 = 0.02). However, results showed no difference between the hosts when participants were not allowed to enter because the restaurant was full (M robot = 3.75, M human = 3.89; p = 0.194). When denied entrance by the human host, participants were less likely to dine at the other restaurant when facing a more (vs. less) embarrassing service encounter (M high = 3.50, M low = 3.89; F(1,376) = 12.12, p = 0.001, \u03b7 p 2 = 0.03). This choice was not the case for the service robot (M high = 3.77, M low = 3.75; p = 0.800).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Study 3 adds to the previous studies by examining another managerially relevant dependent variable, namely the likelihood to accept an alternative offering from the same service provider. We find that if a service robot (vs. a human) denies entrance and reminds consumers of their own forgetfulness, consumers are less likely to show the typical avoidance reaction documented in previous literature (Grace, 2009) and are instead more open to accept alternatives from the same service provider. This finding supports H1b.",
+            "cite_spans": [
+                {
+                    "start": 399,
+                    "end": 412,
+                    "text": "(Grace, 2009)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Study 4 is set in a pharmacy context and examined whether the intention to acquire an embarrassing product differs when consumers encounter a robot (vs. human service provider). It also sheds light on the underlying process and examines the mediating role of social judgment. Using Prolific, we recruited 410 participants and excluded three owing to a failed attention check. The final sample comprised 407 participants (226 males, M age = 27.48, SD age = 9.32) for a study with a 2 (service provider: robot vs. human) \u00d7 2 (product embarrassment: high vs. low) between-subjects design. Respondents were asked to imagine getting a prescription from a doctor to buy antibiotics for either a sexually transmitted disease (highly embarrassing product) or an ear infection (less embarrassing product) and to subsequently report their embarrassment (see Study 1; Cronbach's \u03b1 = 0.95). Respondents then imagined standing in front of the pharmacy, which was shown in the photo. We manipulated service provider type by showing either a humanoid robot (\"Pepper\") or a human in the pharmacy (see Fig. 1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1085,
+                    "end": 1091,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Study 4"
+        },
+        {
+            "text": "As the dependent variable, we assessed participants' intention to acquire the medicine, measured on a four-item scale (e.g., \"How likely are you to get your antibiotics at this pharmacy instead of going to another pharmacy?\"; Cronbach's \u03b1 = 0.83; 1 = \"strongly disagree\" and 7 = \"strongly agree\"). Our measure of social judgment (e.g., \"I was concerned that I was being evaluated in an undesirable way by others\"; Cronbach's \u03b1 = 0.95; 1 = \"strongly disagree\" and 7 = \"strongly agree\") was adapted from previous research using a 6-item Likert scale Miller, 1996; .",
+            "cite_spans": [
+                {
+                    "start": 548,
+                    "end": 561,
+                    "text": "Miller, 1996;",
+                    "ref_id": "BIBREF54"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study 4"
+        },
+        {
+            "text": "Manipulation check An ANOVA revealed that participants felt significantly more embarrassed when acquiring antibiotics against an STD (M high = 4.73) than antibiotics against an ear infection (M low = 1.90; F(1,406) = 460.59, p < 0.001).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Intention to acquire the medicine An ANOVA revealed a significant main effect: participants' intention to acquire the medicine was higher when they sought to acquire the less embarrassing product (M high = 5.31, M low = 5.59; F(1,401) = 7.93, p = 0.005). The main effect of service provider was marginally significant, p = 0.062). The critical two-way interaction between service provider and product type was also significant (F(1,405) = 26.89, p < 0.001, \u03b7 p 2 = 0.06).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Simple effects show that participants had stronger intentions to acquire a less embarrassing product at the pharmacy when a human service provider was present rather than a robot (M robot = 5.24, M human = 5.94; F(1,401) = 25.46, p < 0.001, \u03b7 p 2 = 0.06). However, the effect flipped for acquisition of a highly embarrassing product: participants encountering a robot in the pharmacy had greater intentions to acquire the embarrassing product than participants encountering a human (M robot = 5.48, M human = 5.15; F(1,401) = 5.38, p = 0.021, \u03b7 p 2 = 0.01). When confronted with a human service provider in a pharmacy, participants were less likely to buy the embarrassing product (M high = 5.15) than the less embarrassing product (M low = 5.94; F(1,401) = 32.26, p < 0.001, \u03b7 p 2 = 0.07). This was not the case for the service robot (M high = 5.48, M low = 5.24; F(1,401) = 2.79, p = 0.096).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Mediation by social judgment An ANOVA revealed that participants felt more judged by the human than by the robot (M robot = 2.49, M human = 3.10; F(1,403) = 21.56, p < 0.001) and when acquiring the embarrassing product (M high = 3.44, M low = 2.16; F(1,403) = 93.64, p < 0.001). We also find the critical two-way interaction between service provider and product type to be significant (F(1,406) = 29.37, p < 0.001, \u03b7 p 2 = 0.07). Contrasts showed that those acquiring the embarrassing product felt significantly less socially judged when they encountered a robot (M robot = 2.77) instead of a human service provider (M human = 4.10; F(1,403) = 49.52, p < 0.001, \u03b7 p 2 = 0.11), whereas no difference occurred for the less embarrassing product (M robot = 2.21, M human = 2.10; F(1,403) = 0.31, p = 0.579).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The moderated mediation analysis (Model 7; Hayes, 2015) revealed a conditional indirect effect of service provider on intentions to buy the medicine through social judgment when acquiring the embarrassing product (95% CI [0.21, 0.49]), but not when acquiring the less embarrassing product (95% CI [\u22120.13, 0.05]). Thus, as expected, consumers felt less socially judged by a robot than a human, which drove their intentions to buy the embarrassing product.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Study 4 not only corroborates our finding that consumers are more likely to acquire an embarrassing product from a robot than from a human service provider (supporting H1b), but also sheds light on the underlying process and reveals that consumers feel less judged by a robot than by a human when having to acquire an embarrassing product, supporting H2. In line with previous literature, we find that consumers prefer human service providers to robotic providers in a less embarrassing situation (\u010cai\u0107 et al., 2019; Mende et al., 2019) .",
+            "cite_spans": [
+                {
+                    "start": 497,
+                    "end": 516,
+                    "text": "(\u010cai\u0107 et al., 2019;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 517,
+                    "end": 536,
+                    "text": "Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Previous literature has shown that robot anthropomorphismdesigning a robot to look like a human-can be a doubleedged sword. While anthropomorphic robots are more trusted and are more enjoyable to interact with than their less anthropomorphic counterparts, they can elicit feelings of threat and uncanniness (Blut et al., 2021; Kim et al., 2019; Mende et al., 2019; van Pinxteren et al., 2019) . Unclear is whether anthropomorphism also alters the automated social presence that is ascribed to a robot. Since a robot's automated social presence reflects the extent to which it is perceived as a social entity (van Doorn et al., 2017) , automated social presence is also likely to affect consumers' perceptions of a robot's capacity to socially judge. However, to the best of our knowledge, studies so far have not connected a robot's anthropomorphic appearance to its social presence.",
+            "cite_spans": [
+                {
+                    "start": 307,
+                    "end": 326,
+                    "text": "(Blut et al., 2021;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 327,
+                    "end": 344,
+                    "text": "Kim et al., 2019;",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 345,
+                    "end": 364,
+                    "text": "Mende et al., 2019;",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 365,
+                    "end": 392,
+                    "text": "van Pinxteren et al., 2019)",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 608,
+                    "end": 632,
+                    "text": "(van Doorn et al., 2017)",
+                    "ref_id": "BIBREF65"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The role of robot anthropomorphism"
+        },
+        {
+            "text": "We expect that consumers ascribe greater automated social presence to more anthropomorphic robots. First, research has shown that a robot with more human-like social abilities is perceived as having greater social presence than a robot that behaves less like a human (Heerink et al., 2008) . Second, related research on robot (dis)embodiment has shown that people react differently to embodied robots than to their nonembodied counterparts. In particular, physical embodiment (interacting with the actual social robot vs. the virtual robot shown in a video) yields higher social presence and a more positive evaluation of the robot (Jung & Lee, 2004) . Similarly, participants put more effort into a negotiation game when they interacted with a physically embodied robotic character than with a disembodied screen character (Bartneck, 2003) . Other research found that participants felt a greater physical presence with the robot present in the experiment room rather than being projected onto a screen (Kiesler et al., 2008) . Taken together, these studies show that a robot's appearance likely shapes perceptions of automated social presence.",
+            "cite_spans": [
+                {
+                    "start": 267,
+                    "end": 289,
+                    "text": "(Heerink et al., 2008)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 632,
+                    "end": 650,
+                    "text": "(Jung & Lee, 2004)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 824,
+                    "end": 840,
+                    "text": "(Bartneck, 2003)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1003,
+                    "end": 1025,
+                    "text": "(Kiesler et al., 2008)",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The role of robot anthropomorphism"
+        },
+        {
+            "text": "While increased perceived automated social presence of the robot may be desirable in many situations, such as for encouraging customers to develop trust in the service employee (Wirtz et al., 2018) , we argue that an automated presence may backfire in embarrassing service situations, particularly when consumers fear social judgment (Dahl et al., 2001; Miller & Leary, 1992) . While perception of social judgment is lower with robots, we expect the extent to which consumers may feel socially judged by a robot to be malleable and subject to robot anthropomorphism. In particular, we expect service robots to be perceived as more judgmental when their automated social presence takes a more anthropomorphic form.",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 197,
+                    "text": "(Wirtz et al., 2018)",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 334,
+                    "end": 353,
+                    "text": "(Dahl et al., 2001;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 354,
+                    "end": 375,
+                    "text": "Miller & Leary, 1992)",
+                    "ref_id": "BIBREF55"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The role of robot anthropomorphism"
+        },
+        {
+            "text": "H3 In a more (vs. less) embarrassing service encounter, consumers are more likely to accept an offering from a machine-like service robot than from a highly humanlike service robot owing to perceived lower automated social presence and lower social judgment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The role of robot anthropomorphism"
+        },
+        {
+            "text": "Study 5 aims to establish the moderating role of robot anthropomorphism through automated social presence. Through Prolific, we recruited 709 participants and subsequently excluded six participants who failed the attention check (398 males, M age = 27.05, SD age = 8.99). The study employed a 2 (service robot: highly human-like robot vs. machine-like robot) \u00d7 2 (product embarrassment: high vs. low) betweensubjects design. We used the lifelike robot \"Jia Jia\" (highly human-like condition) and a mechanized robot with no humanoid characteristics (machine-like condition; see Fig. 1 ). The scenario and variables measured are the same as in Study 4 (intention to acquire the medicine: Cronbach's \u03b1 = 0.80, social judgment: Cronbach's \u03b1 = 0.94, embarrassment manipulation check: Cronbach's \u03b1 = 0.97). The highly embarrassing product is again an STD medication and the less embarrassing product is an ear infection medication. We assessed the extent to which the service provider seemed robotic on a five-item, 7-point semantic differential scale (e.g., \"artificial-lifelike\"; Cronbach's \u03b1 = 0.88; Bartneck et al., 2009 ) and automated social presence with a four-item scale (e.g., \"I can imagine the service provider to be a living creature\"; Cronbach's \u03b1 = 0.92; 1 = \"strongly disagree\" and 7 = \"strongly agree\"; \u010cai\u0107 et al., 2019).",
+            "cite_spans": [
+                {
+                    "start": 1097,
+                    "end": 1118,
+                    "text": "Bartneck et al., 2009",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 577,
+                    "end": 583,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Study 5"
+        },
+        {
+            "text": "Manipulation checks An ANOVA revealed that participants perceived the highly human-like service robot as more human-like than the machine-like robot (M highlyhuman-like = 2.52, M machine-like = 2.34; F(1,701) = 4.07, p = 0.044). In addition, participants felt significantly more embarrassed when acquiring STD antibiotics than when acquiring ear infection antibiotics (M high = 4.81, M low = 1.86; F(1,701) = 855.71, p < 0.001).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Automated social presence An ANOVA revealed a main effect of type of service robot on automated social presence such that participants perceived significantly higher automated social presence for the anthropomorphic robot than for the machine-like robot (M highlyhuman-like = 2.94, M machine-like = 2.35; F(1,699) = 36.19, p < 0.001). The main effect of product type is not significant (p = 0.559). Interestingly, our analyses reveal a significant two-way interaction between service provider and product type (F(1,702) = 4.34, p = 0.038, \u03b7 p 2 = 0.01). Contrasts show that respondents encountering a highly human-like robot perceived marginally greater automated social presence when acquiring the embarrassing product than when acquiring the less embarrassing product (M high = 3.07, M low = 2.81; F(1,699) = 3.57, p = 0.059). However, perceived automated social presence was not significantly different when participants encountered the machine-like robot (M high = 2.27, M low = 2.42; p = 0.290).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Social judgment An ANOVA revealed that respondents felt more socially judged by the anthropomorphic service than by the machine-like service robot (M highlyhuman-like = 2.54, M machine-like = 2.23; F(1,699) = 10.37, p = 0.001) and also when having to acquire the more embarrassing product (M high = 2.61, M low = 2.17; F(1,699) = 20.06, p < 0.001). The interaction between service provider and product type was significant (F(1,702) = 4.98, p = 0.026, \u03b7 p 2 = 0.01).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Contrasts show that participants felt more socially judged when acquiring the more embarrassing product from a highly human-like service robot than from a machine-like service robot (M highlyhuman-like = 2.87, M machine-like = 2.34; F(1,699) = 14.75, p < 0.001, \u03b7 p 2 = 0.02). This was not the case when acquiring the less embarrassing product (M highlyhuman-like = 2.22, M machine-like = 2.12; p = 0.483).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Intention to acquire the medicine An ANOVA revealed that respondents had stronger intentions to acquire the product from a machine-like service robot than from an anthropomorphic robot (M highlyhuman-like = 4.92, M machine-like = 5.19; F(1,699) = 9.34, p = 0.002), and stronger intentions to acquire the embarrassing product in general (M high = 5.36, M low = 4.75; F(1,699) = 48.08, p < 0.001). The service provider-product type interaction was marginally significant (F(1,702) = 2.74, p = 0.098). Contrasts show that intentions to acquire the embarrassing product were greater with a machine-like service robot than with a highly human-like service robot (M highlyhuman-like = 5.15, M machine-like = 5.56; F(1,699) = 11.03, p = 0.001, \u03b7 p 2 = 0.02). This was not the case when acquiring the less embarrassing product (M highlyhuman-like = 4.69, M machine-like = 4.82; p = 0.321).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Moderated serial mediation To further test whether robot anthropomorphism and greater automated social presence may backfire when consumers fear social judgment, we conducted a moderated serial mediation analysis, in which the service robot served as the independent variable (machine-like robot = 0, highly human-like robot = 1), intention to acquire the medicine as the dependent variable, automated social presence as the stage-one mediator, social judgment as the stage-two mediator, and product embarrassment (low = 0, high = 1) as the moderator (Model 85; Hayes, 2018) .",
+            "cite_spans": [
+                {
+                    "start": 562,
+                    "end": 574,
+                    "text": "Hayes, 2018)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The results show that consumers are more likely to acquire an embarrassing product from a machine-like service robot than from a highly human-like service robot owing to perceived lower automated social presence and less social judgment by the robot. The analysis reveals a significant indirect effect through automated social presence and social judgment as serial mediators for both the embarrassing product (indirect effect = \u22120.09, SE b = 0.02, 95% CI [\u22120.14, \u22120.05]) and the less embarrassing product (indirect effect = \u22120.04, SE b = 0.02, 95% CI [\u22120.08, \u22120.01]). Importantly, the difference between the conditional indirect effects is significant (index of moderated mediation = \u22120.05, SE b = 0.02, 95% CI [\u22120.10, \u22120.001]), showing that differences in robot appearance have stronger effects on automated social presence and social judgment when the product is embarrassing. In particular, we find that a highly human-like robot is perceived as having a higher level of automated social presence, which is strengthened when the consumer is acquiring an embarrassing product (b = 0.80, p < 0.001) compared to a less embarrassing product (b = 0.39, p = 0.006). This perceived automated social presence led to stronger feelings of being socially judged (b = 0.53, p < 0.001), which in turn negatively influenced the intention to acquire the embarrassing product from an anthropomorphic service robot instead of a machine-like service robot (b = \u22120.29, p < 0.001).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Study 5 extended the previous studies in two ways. First, robot anthropomorphism is associated with higher automated social presence, which makes people feel more judged. A less anthropomorphic robot therefore facilitates consumers' acquisition of an embarrassing product. Second, results provided evidence that automated social presence plays a mediating role in this relationship and predicts feelings of social judgment, which in turn decreased the intention to acquire the medicine. Study 5 finds support for H3 and additionally reveals that the greater perceptions of automated social presence triggered by a highly anthropomorphic robot are strengthened if an embarrassing product is being acquired. Interestingly, we find a main effect of product type-intentions were higher to acquire the highly embarrassing (vs. less embarrassing) product, possibly owing to the potentially higher importance of buying STD antibiotics, whereas an ear infection may be treated with a home remedy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In recent years, the use of service robots in organizational frontlines has accelerated (International Federation for Robotics, 2019; Wirtz et al., 2018) , and robot receptionists, robot delivery, and robot assistants are expected to continue to replace human frontline services. Given that robotization is in full swing globally, we deliver insights on what is needed to help consumers accept being served by a robot.",
+            "cite_spans": [
+                {
+                    "start": 134,
+                    "end": 153,
+                    "text": "Wirtz et al., 2018)",
+                    "ref_id": "BIBREF67"
+                }
+            ],
+            "ref_spans": [],
+            "section": "General discussion"
+        },
+        {
+            "text": "Prior work predominantly shows that consumers prefer human service providers over service robots because robots can trigger negative feelings such as eeriness and being threatened (\u010cai\u0107 et al., 2019; Mende et al., 2019) . We provide an important boundary condition to these findings and show that consumers react more positively to robotic service providers if human presence is the source of potential negative feelings. We focus on service encounters where human social presence causes perception of social judgment, such as when consumers need to acquire embarrassing products, are faced with criticism, or are confronted with their own mistakes (Grace, 2009; Higuchi & Fukada, 2002; Miller, 1996; Miller & Leary, 1992) .",
+            "cite_spans": [
+                {
+                    "start": 180,
+                    "end": 199,
+                    "text": "(\u010cai\u0107 et al., 2019;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 200,
+                    "end": 219,
+                    "text": "Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 649,
+                    "end": 662,
+                    "text": "(Grace, 2009;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 663,
+                    "end": 686,
+                    "text": "Higuchi & Fukada, 2002;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 687,
+                    "end": 700,
+                    "text": "Miller, 1996;",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 701,
+                    "end": 722,
+                    "text": "Miller & Leary, 1992)",
+                    "ref_id": "BIBREF55"
+                }
+            ],
+            "ref_spans": [],
+            "section": "General discussion"
+        },
+        {
+            "text": "Building on social identity theory (Edelmann, 1987; Miller & Leary, 1992) , we expected that in such embarrassing situations, human social presence would make people concerned for how they are appraised by others and fear social judgment by others, leading to less favorable attitudes toward the service provider and avoidance reactions such as not acquiring the embarrassing product or not accepting an alternative offer from the same service provider. In five studies, including a lab study with actual human-robot interactions and a field study in a real advertising context, we show that when social presence is automated by a service robot, anxiety about social judgment decreases, helping consumers to overcome reluctance to engage in embarrassing situations. Our findings are in line with a recent study showing that robots reduce feelings of embarrassment (Pitardi et al., 2021 ), yet importantly extends that study's results to an array of managerially relevant outcomes, such as the propensity to acquire an embarrassing product or accept an alternative offering from the same service provider. While embarrassing products may be purchased online or via self-checkouts (Krishna et al., 2019; Jackson et al., 2014) , embarrassing social service interactions as featured in our studies can arise unexpectedly, such as when the service provider confronts a customer with her own mistakes (Grace, 2009) .",
+            "cite_spans": [
+                {
+                    "start": 35,
+                    "end": 51,
+                    "text": "(Edelmann, 1987;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 52,
+                    "end": 73,
+                    "text": "Miller & Leary, 1992)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 864,
+                    "end": 885,
+                    "text": "(Pitardi et al., 2021",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 1179,
+                    "end": 1201,
+                    "text": "(Krishna et al., 2019;",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1202,
+                    "end": 1223,
+                    "text": "Jackson et al., 2014)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1395,
+                    "end": 1408,
+                    "text": "(Grace, 2009)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "General discussion"
+        },
+        {
+            "text": "Given that literature on service robots emphasizes the crucial role of anthropomorphism in how people respond to robots (Mende et al., 2019) , we also explore whether differences in robot anthropomorphism affect the extent to which consumers experience a robot as a social entity able to judge them. Although an anthropomorphic robot is perceived as more enjoyable to interact with and more trustworthy than a purely mechanized robot (Broadbent et al., 2013; van Pinxteren et al., 2019) , consumers can respond more favorably to a service robot that is less human-like (e.g., Mende et al., 2019) . In an embarrassing situation, encountering a highly human-like (vs. a machine-like) robot results in greater consumer awareness of the social presence of another entity, which increases the perception of social judgment-making consumers as reluctant to acquire the product as with a human service provider.",
+            "cite_spans": [
+                {
+                    "start": 120,
+                    "end": 140,
+                    "text": "(Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 434,
+                    "end": 458,
+                    "text": "(Broadbent et al., 2013;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 459,
+                    "end": 486,
+                    "text": "van Pinxteren et al., 2019)",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 576,
+                    "end": 595,
+                    "text": "Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "General discussion"
+        },
+        {
+            "text": "In sum, although customers' acceptance of robots depends on social-emotional elements such as perceived social presence (Heerink et al., 2008; van Doorn et al., 2017; Wirtz et al., 2018) , our results indicate that service robots can be perceived as more judgmental when their anthropomorphism and therewith their automated social presence increase. Importantly, our findings are in line with and extend work from the medical domain that a human-like robot evoked stronger feelings of embarrassment than a technical box during a medical examination (Bartneck et al., 2010) and that patients share more potentially embarrassing information with a machine-like robot (Kiesler et al., 2008; Z\u0142otowski et al., 2015) .",
+            "cite_spans": [
+                {
+                    "start": 120,
+                    "end": 142,
+                    "text": "(Heerink et al., 2008;",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 143,
+                    "end": 166,
+                    "text": "van Doorn et al., 2017;",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 167,
+                    "end": 186,
+                    "text": "Wirtz et al., 2018)",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 549,
+                    "end": 572,
+                    "text": "(Bartneck et al., 2010)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 665,
+                    "end": 687,
+                    "text": "(Kiesler et al., 2008;",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 688,
+                    "end": 711,
+                    "text": "Z\u0142otowski et al., 2015)",
+                    "ref_id": "BIBREF69"
+                }
+            ],
+            "ref_spans": [],
+            "section": "General discussion"
+        },
+        {
+            "text": "Although a large body of research has examined the design and functionality of robots, studies of how users perceive frontline service robots in real service environments are limited and further work is much needed (J\u00f6rling et al., 2019) . Importantly, we show a key boundary condition to earlier work, which cautions that consumers are reluctant to engage with service robots (\u010cai\u0107 et al., 2019; Mende et al., 2019) . Specifically, we find that consumers are more accepting of service robots in situations where human presence is the source of negative emotions and triggers embarrassment. Embarrassment is a powerful emotion that can influence consumers in various meaningful ways (Krishna et al., 2015) . Since consumers are inclined to avoid awkward service experiences or embarrassing products (Blair & Roese, 2013; Grace, 2007) , service robots are a viable alternative that can reduce feelings of social judgment. We bring together two heretofore distinct literature streams-that on embarrassment and social judgment (Dahl et al., 2001; Grace, 2009 ) and that on service robots and technology (Huang & Rust, 2017 , 2018 van Doorn et al., 2017) -and show how social identity theory affects people's reactions to robots.",
+            "cite_spans": [
+                {
+                    "start": 215,
+                    "end": 237,
+                    "text": "(J\u00f6rling et al., 2019)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 377,
+                    "end": 396,
+                    "text": "(\u010cai\u0107 et al., 2019;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 397,
+                    "end": 416,
+                    "text": "Mende et al., 2019)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 683,
+                    "end": 705,
+                    "text": "(Krishna et al., 2015)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 799,
+                    "end": 820,
+                    "text": "(Blair & Roese, 2013;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 821,
+                    "end": 833,
+                    "text": "Grace, 2007)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1024,
+                    "end": 1043,
+                    "text": "(Dahl et al., 2001;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1044,
+                    "end": 1055,
+                    "text": "Grace, 2009",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1100,
+                    "end": 1119,
+                    "text": "(Huang & Rust, 2017",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1120,
+                    "end": 1126,
+                    "text": ", 2018",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1127,
+                    "end": 1150,
+                    "text": "van Doorn et al., 2017)",
+                    "ref_id": "BIBREF65"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Theoretical contribution"
+        },
+        {
+            "text": "Extending prior work on robot anthropomorphism (Bartneck et al., 2010; Kim et al., 2019; Mende et al., 2019; van Pinxteren et al., 2019) , we demonstrate the important role of a service robot's anthropomorphic appearance in shaping perceptions of automated social presence (van Doorn et al., 2017) . In addition, we add to the scarce knowledge on connecting the construct of automated social presence to downstream service outcomes (\u010cai\u0107 et al., 2019) . While automated social presence of the robot may be beneficial in many situations, such as when developing trust (Wirtz et al., 2018) , we caution that it backfires when consumers fear social judgment (Dahl et al., 2001; Miller & Leary, 1992 ).",
+            "cite_spans": [
+                {
+                    "start": 47,
+                    "end": 70,
+                    "text": "(Bartneck et al., 2010;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 71,
+                    "end": 88,
+                    "text": "Kim et al., 2019;",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 89,
+                    "end": 108,
+                    "text": "Mende et al., 2019;",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 109,
+                    "end": 136,
+                    "text": "van Pinxteren et al., 2019)",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 273,
+                    "end": 297,
+                    "text": "(van Doorn et al., 2017)",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 432,
+                    "end": 451,
+                    "text": "(\u010cai\u0107 et al., 2019)",
+                    "ref_id": null
+                },
+                {
+                    "start": 567,
+                    "end": 587,
+                    "text": "(Wirtz et al., 2018)",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 655,
+                    "end": 674,
+                    "text": "(Dahl et al., 2001;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 675,
+                    "end": 695,
+                    "text": "Miller & Leary, 1992",
+                    "ref_id": "BIBREF55"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Theoretical contribution"
+        },
+        {
+            "text": "As the prevalence of robots in service settings increases, organizations that want to employ service robots need to understand consumers' attitudes and behaviors toward them. Successful incorporation of robots into customer service is a significant challenge for most organizations. Firms need actionable guidance on how, when, and to what extent service robots should be adopted and how to use AI to engage customers in a more systematic and strategic way (Huang & Rust, 2020) . Our findings have several practical managerial implications.",
+            "cite_spans": [
+                {
+                    "start": 457,
+                    "end": 477,
+                    "text": "(Huang & Rust, 2020)",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Managerial and practical implications"
+        },
+        {
+            "text": "First, although studies have shown that disclosing AI before the machine-customer interaction significantly reduces the likelihood of purchase (Luo et al., 2019) , managers worried about potential negative effects of service robots should be aware that in embarrassing situations, consumers can prefer robots to human employees. Accordingly, firms should not hesitate to use robots in service settings that consumers may experience as awkward and uncomfortable, thereby exploiting the advantages service robots may offer in customer interactions (Davenport et al., 2020) .",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 161,
+                    "text": "(Luo et al., 2019)",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 546,
+                    "end": 570,
+                    "text": "(Davenport et al., 2020)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Managerial and practical implications"
+        },
+        {
+            "text": "Second, organizations need to pay attention to the anthropomorphic design of the robot, which may magnify feelings of negative social judgment. On the basis of our findings, we advise managers to make sure that service robots do not have an overly human-like resemblance. Very lifelike robots typically evoke eeriness and negative feelings (Mori et al., 2012) and are experienced as more judgmental because consumers perceive a greater automated social presence. Accordingly, a more technical-looking robot or a robot with only a few human characteristics, such as the robot \"Pepper,\" will be a more prudent option because the overall service experience will be more positive and will likely increase customer satisfaction.",
+            "cite_spans": [
+                {
+                    "start": 340,
+                    "end": 359,
+                    "text": "(Mori et al., 2012)",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Managerial and practical implications"
+        },
+        {
+            "text": "Third, the implications of our work are broad and can extend to other situations where people may fear human social judgment. For example, consumers who seek healthcare may avoid discussing potentially embarrassing issues with their service providers, a behavior that has important economic, social, and health consequences at both the individual and the societal level (McCambridge & Consedine, 2014) . Employing robots in elder care can mitigate feelings of shame and dependency, such as feeling burdensome to others (Grootegoed et al., 2013) . In addition, service robots may be effective in financial services when dealing with sensitive personal information (Miao et al., 2021) .",
+            "cite_spans": [
+                {
+                    "start": 370,
+                    "end": 401,
+                    "text": "(McCambridge & Consedine, 2014)",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 519,
+                    "end": 544,
+                    "text": "(Grootegoed et al., 2013)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 663,
+                    "end": 682,
+                    "text": "(Miao et al., 2021)",
+                    "ref_id": "BIBREF53"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Managerial and practical implications"
+        },
+        {
+            "text": "This study has some limitations that offer opportunities for future research. First, in our Facebook advertising study we considered only click-through rates. It would be interesting to look at actual purchasing behavior and thus a more outcomedriven marketing metric such as cost per acquisition (CPA), which indicates the costs to get a customer to complete a specific action (e.g., a sale). Second, the generalizability of our results is limited to service encounters with no social entities present other than the service provider. Although as a means of behavioral coping with public embarrassment customers try to be alone or around others who would ignore them (Dahl et al., 2001; Lau-Gesk & Drolet, 2008) , future work could address the effect of the physical environment in which a social entity is present but not involved with the customer in any way, especially as previous literature has indicated that noninteractive social situations can affect the service experience and service satisfaction (Argo et al., 2005; He et al., 2012) .",
+            "cite_spans": [
+                {
+                    "start": 668,
+                    "end": 687,
+                    "text": "(Dahl et al., 2001;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 688,
+                    "end": 712,
+                    "text": "Lau-Gesk & Drolet, 2008)",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1008,
+                    "end": 1027,
+                    "text": "(Argo et al., 2005;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1028,
+                    "end": 1044,
+                    "text": "He et al., 2012)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Limitations and future research"
+        },
+        {
+            "text": "A potentially interesting future research direction would be to examine whether our effects persist over multiple service encounters with a frontline service robot, given that we study first-time customer-robot service encounters. As embarrassment makes people feel uncomfortable, nervous, and flustered (Miller & Leary, 1992) , the thought of the imminent embarrassing service encounter may already induce stress and evoke negative feelings. If consumers know in advance that they will encounter a service robot in a store, they are free from anticipating or experiencing embarrassment.",
+            "cite_spans": [
+                {
+                    "start": 304,
+                    "end": 326,
+                    "text": "(Miller & Leary, 1992)",
+                    "ref_id": "BIBREF55"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Limitations and future research"
+        },
+        {
+            "text": "The online version contains supplementary material available at https://doi.org/10.1007/s11747-022-00862-x.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Information"
+        },
+        {
+            "text": "Conflict of interest The authors declare that they have no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declarations"
+        },
+        {
+            "text": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declarations"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "When brands seem human, do humans act like brands? Automatic behavioral priming effects of brand anthropomorphism",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Aggarwal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mcgill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Journal of Consumer Research",
+            "volume": "39",
+            "issn": "2",
+            "pages": "307--323",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The influence of a mere social presence in a retail context",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Argo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Dahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Manchanda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Journal of Consumer Research",
+            "volume": "32",
+            "issn": "2",
+            "pages": "207--212",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Interacting with an embodied emotional character",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bartneck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "proceedings of the 2003 international conference on designing pleasurable products and interfaces",
+            "volume": "",
+            "issn": "",
+            "pages": "55--60",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The influence of robot anthropomorphism on the feelings of embarrassment when interacting with robots. Paladyn",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bartneck",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bleeker",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bun",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Fens",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Riet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Journal of Behavioral Robotics",
+            "volume": "1",
+            "issn": "2",
+            "pages": "109--115",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Measurement instruments for the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety of robots",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bartneck",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Croft",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kulic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "International Journal of Social Robotics",
+            "volume": "1",
+            "issn": "1",
+            "pages": "71--81",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Balancing the basket: The role of shopping basket composition in embarrassment",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Blair",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Roese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Journal of Consumer Research",
+            "volume": "40",
+            "issn": "4",
+            "pages": "676--691",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Understanding anthropomorphism in service provision: A metaanalysis of physical robots, chatbots, and other AI",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Blut",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "W\u00fcnderlich",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Brock",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Journal of the Academy of Marketing Science",
+            "volume": "49",
+            "issn": "4",
+            "pages": "632--658",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Robots with display screens: A robot with a more humanlike face display is perceived to have more mind and a better personality",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Broadbent",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sollers",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Stafford",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Macdonald",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wegner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS One",
+            "volume": "8",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Attitudes and reactions to a healthcare robot",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Broadbent",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rabindran",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kerse",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Stafford",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Macdonald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Telemedicine and e-Health",
+            "volume": "16",
+            "issn": "5",
+            "pages": "608--613",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Robotic versus human coaches for active aging: An automated social presence perspective",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "\u010cai\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Avelino",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mahr",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Odekerken-Schr\u00f6der",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernardino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "International Journal of Social Robotics",
+            "volume": "12",
+            "issn": "4",
+            "pages": "867--882",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Service robots: Value co-creation and co-destruction in elderly care networks",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "\u010cai\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Odekerken-Schr\u00f6der",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mahr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Service Management",
+            "volume": "29",
+            "issn": "2",
+            "pages": "178--205",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Embarrassment in consumer purchase: The roles of social presence and purchase familiarity",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Dahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Manchanda",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Argo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Journal of Consumer Research",
+            "volume": "28",
+            "issn": "3",
+            "pages": "473--481",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "How artificial intelligence will change the future of marketing",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Davenport",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Guha",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grewal",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bressgott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of the Academy of Marketing Science",
+            "volume": "48",
+            "issn": "2",
+            "pages": "24--42",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Anthropomorphism and the social robot",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Duffy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Robotics and Autonomous Systems",
+            "volume": "42",
+            "issn": "3-4",
+            "pages": "177--190",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "The psychology of embarrassment",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Edelmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "On seeing human: A three-factor theory of anthropomorphism",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Epley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Waytz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Cacioppo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Psychological Review",
+            "volume": "114",
+            "issn": "4",
+            "pages": "864--886",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "I'll be watching you: Shoppers' reactions to perceptions of being watched by employees",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Esmark",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Noble",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Breazeale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Retailing",
+            "volume": "93",
+            "issn": "",
+            "pages": "336--349",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Statistical power analyses using G* power 3.1: Tests for correlation and regression analyses",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Faul",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Erdfelder",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Buchner",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Lang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Behavior Research Methods",
+            "volume": "41",
+            "issn": "4",
+            "pages": "1149--1160",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Controversies and legal issues of prescribing and dispensing medications using the internet",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fung",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Asch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "",
+            "volume": "79",
+            "issn": "",
+            "pages": "188--194",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "How embarrassing! An exploratory study of critical incidents including affective reactions",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grace",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Journal of Service Research",
+            "volume": "9",
+            "issn": "3",
+            "pages": "271--284",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "An examination of consumer embarrassment and repatronage intentions in the context of emotional service encounters",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grace",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Journal of Retailing and Consumer Services",
+            "volume": "16",
+            "issn": "1",
+            "pages": "1--9",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The future of in-store technology",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grewal",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Noble",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Roggeveen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nordfalt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of the Academy of Marketing Science",
+            "volume": "48",
+            "issn": "1",
+            "pages": "96--113",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Too ashamed to complain: Cuts to publicly financed care and clients' waiving of their right to appeal",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Grootegoed",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Br\u00f6er",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Duyvendak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Social Policy and Society",
+            "volume": "12",
+            "issn": "3",
+            "pages": "475--486",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "When serving customers includes correcting them: Understanding the ambivalent effects of enforcing service rules",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Habel",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alavi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Pick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "International Journal of Research in Marketing",
+            "volume": "34",
+            "issn": "4",
+            "pages": "919--941",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "An index and test of linear moderated mediation",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hayes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Multivariate Behavioral Research",
+            "volume": "50",
+            "issn": "1",
+            "pages": "1--22",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Partial, conditional, and moderated moderated mediation: Quantification, inference, and interpretation",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hayes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Communication Monographs",
+            "volume": "85",
+            "issn": "1",
+            "pages": "4--40",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Consumption in the public eye: The influence of social presence on service experience",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Alden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Journal of Business Research",
+            "volume": "65",
+            "issn": "3",
+            "pages": "302--310",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "The influence of social presence on acceptance of a companion robot by older people",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Heerink",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kr\u00f6se",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Evers",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wielinga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of Physical Agents",
+            "volume": "2",
+            "issn": "2",
+            "pages": "33--40",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "The UCLA multidimensional condom attitudes scale: Documenting the complex determinants of condom use in college students",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Helweg-Larsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Collins",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Journal of the Academy of Marketing Science",
+            "volume": "13",
+            "issn": "3",
+            "pages": "224--237",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "A comparison of four causal factors of embarrassment in public and private situations",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Higuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fukada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "The Journal of Psychology",
+            "volume": "136",
+            "issn": "4",
+            "pages": "399--406",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Technology-driven service strategy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rust",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of the Academy of Marketing Science",
+            "volume": "45",
+            "issn": "6",
+            "pages": "906--924",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Artificial intelligence in service",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Rust",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Service Research",
+            "volume": "21",
+            "issn": "2",
+            "pages": "155--172",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "A strategic framework for artificial intelligence in marketing",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Rust",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of the Academy of Marketing Science",
+            "volume": "49",
+            "issn": "1",
+            "pages": "30--50",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Executive Summary World Robotics 2019 Service Robots",
+            "authors": [],
+            "year": 2019,
+            "venue": "International Federation for Robotics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "The effects of consumer personality types on the attitudes and usage of self-checkout Technology in the Retail Sector among 18-22 years old",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Parboteeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Metcalfe-Poulton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "International Journal of Marketing Studies",
+            "volume": "6",
+            "issn": "2",
+            "pages": "15--30",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Appreciating anonymity: An exploration of embarrassing products and the power of blending in",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L E"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Barney",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Farmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Retailing",
+            "volume": "94",
+            "issn": "2",
+            "pages": "186--202",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Service robots: Drivers of perceived responsibility for service outcomes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "J\u00f6rling",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "B\u00f6hm",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Paluch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of Service Research",
+            "volume": "22",
+            "issn": "4",
+            "pages": "404--420",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Effects of physical embodiment on social presence of social robots",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proceedings of PRESENCE",
+            "volume": "",
+            "issn": "",
+            "pages": "80--87",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "What is a human? Toward psychological benchmarks in the field of humanrobot interaction",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ishiguro",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Friedman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kanda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "the 15th IEEE international symposium on robot and human interactive communication",
+            "volume": "",
+            "issn": "",
+            "pages": "364--371",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Chronic disease as a barrier to breast and cervical cancer screening",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Kiefe",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Funkhouser",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Fouad",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Journal of General Internal Medicine",
+            "volume": "13",
+            "issn": "6",
+            "pages": "357--365",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Anthropomorphic interactions with a robot and robot-like agent",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kiesler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Powers",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Fussell",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Torrey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Social Cognition",
+            "volume": "26",
+            "issn": "2",
+            "pages": "169--181",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Eliza in the uncanny valley: Anthropomorphizing consumer robots increases their perceived warmth but decreases liking. Marketing Letters",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Schmitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Thalmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "30",
+            "issn": "",
+            "pages": "1--12",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Wetting the bed at twenty-one: Embarrassment as a private emotion",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Krishna",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Herd",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Ayd\u0131no\u011flu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Journal of Consumer Psychology",
+            "volume": "25",
+            "issn": "3",
+            "pages": "473--486",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "A review of consumer embarrassment as a public and private emotion",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Krishna",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Herd",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Ayd\u0131no\u011flu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of Consumer Psychology",
+            "volume": "29",
+            "issn": "3",
+            "pages": "492--516",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Research framework, strategies, and applications of intelligent agent technologies (IATs) in marketing",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dixit",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R G"
+                    ],
+                    "last": "Javalgi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dass",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Journal of the Academy of Marketing Science",
+            "volume": "44",
+            "issn": "1",
+            "pages": "24--45",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Probable cause: The influence of prior probabilities on forecasts and perceptions of magnitude",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kupor",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Laurin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Consumer Research",
+            "volume": "46",
+            "issn": "5",
+            "pages": "833--852",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "The publicly self-conscious consumer: Prepared to be embarrassed",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lau-Gesk",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Drolet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of Consumer Psychology",
+            "volume": "18",
+            "issn": "",
+            "pages": "127--136",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Service robots, customers and service employees: What can we learn from the academic literature and where are the gaps",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wirtz",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kunz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Paluch",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gruber",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Martins",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Patterson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Service Theory and Practice",
+            "volume": "30",
+            "issn": "3",
+            "pages": "361--391",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Frontiers: Machines vs. humans: The impact of artificial intelligence chatbot disclosure on customer purchases",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Marketing Science",
+            "volume": "38",
+            "issn": "6",
+            "pages": "937--947",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Social transgression, social perspectives and social emotionality",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "S R"
+                    ],
+                    "last": "Manstead",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Semin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Motivation and Emotion",
+            "volume": "5",
+            "issn": "",
+            "pages": "249--261",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "For whom the bell tolls: Experimentally-manipulated disgust and embarrassment may cause anticipated sexual healthcare avoidance among some people",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mccambridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Consedine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emotion",
+            "volume": "14",
+            "issn": "2",
+            "pages": "407--415",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Service robots rising: How humanoid robots influence service experiences and elicit compensatory consumer responses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mende",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Van Doorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grewal",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Shanks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of Marketing Research",
+            "volume": "56",
+            "issn": "4",
+            "pages": "535--556",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Customer responses to service robots-comparing human-robot interaction with human-human interaction",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Merkle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "proceedings of the 52nd Hawaii international conference on system sciences",
+            "volume": "",
+            "issn": "",
+            "pages": "8--11",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "An emerging theory of avatar marketing",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Miao",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Kozlenkova",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Palmatier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Journal of Marketing",
+            "volume": "86",
+            "issn": "1",
+            "pages": "67--90",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Embarrassment: Poise and peril in everyday life",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Social sources and interactive functions of emotion: The case of embarrassment",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Leary",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "review of personality and social psychology, 14. Emotion and social behavior",
+            "volume": "",
+            "issn": "",
+            "pages": "202--221",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Consumer perceptions of privacy and security risks for online shopping",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Miyazaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fernandez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Journal of Consumer Affairs",
+            "volume": "35",
+            "issn": "1",
+            "pages": "27--44",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "From waste to taste: How \"ugly\" labels can increase purchase of unattractive produce",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mookerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cornil",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hoegg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Journal of Marketing",
+            "volume": "85",
+            "issn": "3",
+            "pages": "62--77",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "The uncanny valley",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mori",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Macdorman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kageki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Service robots, agency and embarrassing service encounters",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Pitardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wirtz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Paluch",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kunz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Journal of Service Management",
+            "volume": "33",
+            "issn": "2",
+            "pages": "389--414",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Shame and embarrassment revisited",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sabini",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Garvey",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Personality and Social Psychology Bulletin",
+            "volume": "27",
+            "issn": "1",
+            "pages": "104--117",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "The influence of conversational agent embodiment and conversational relevance on socially desirable responding",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Schuetzler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Giboney",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Grimes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Nunamaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Decision Support Systems",
+            "volume": "114",
+            "issn": "",
+            "pages": "94--102",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "The beholder beheld: A study of social emotionality",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Semin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Manstead",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "European Journal of Social Psychology",
+            "volume": "11",
+            "issn": "3",
+            "pages": "253--265",
+            "other_ids": {}
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Older adults' preferences for and acceptance of robot assistance for everyday living tasks",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Smarr",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Prakash",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Beer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mitzner",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kemp",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rogers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+            "volume": "56",
+            "issn": "",
+            "pages": "153--157",
+            "other_ids": {}
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "Domo arigato Mr. Roboto: Emergence of automated social presence in organizational frontlines and customers' service experiences",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Van Doorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mende",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Noble",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hulland",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ostrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grewal",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Petersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Service Research",
+            "volume": "20",
+            "issn": "1",
+            "pages": "43--58",
+            "other_ids": {}
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Trust in humanoid robots: Implications for services marketing",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M E"
+                    ],
+                    "last": "Van Pinxteren",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W H"
+                    ],
+                    "last": "Wetzels",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "R\u00fcger",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pluymaekers",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wetzels",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of Services Marketing",
+            "volume": "33",
+            "issn": "4",
+            "pages": "507--518",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "Brave new world: Service robots in the frontline",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wirtz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Patterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kunz",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gruber",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Paluch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Martins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Service Management",
+            "volume": "29",
+            "issn": "5",
+            "pages": "907--931",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Situational influences on condom purchasing",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Marks",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zaikman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Zeiber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sexuality & Culture",
+            "volume": "21",
+            "issn": "4",
+            "pages": "925--941",
+            "other_ids": {}
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "Anthropomorphism: Opportunities and challenges in human-robot interaction",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Z\u0142otowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Proudfoot",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yogeeswaran",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bartneck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "International Journal of Social Robotics",
+            "volume": "7",
+            "issn": "3",
+            "pages": "347--360",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "M STD self-test = 4.25, M hemorrhoid cream = 4.26, M sex toy = 4.90) than the less embarrassing products (M COVID-19 self-test = 2.53, M hand cream = 1.91, M fitness massage ball = 2.27; F(1,198) = 170.38, p < 0.001). Furthermore, participants felt significantly more embarrassed about the product they ranked as most embarrassing (M = 5.42) than about the product ranked as least embarrassing (M = 1.23; F(1,198) = 876.30, p < 0.001).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Research on the acceptance of service robots",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Overview of studies Actual behavior Choice of taking (vs. not taking) a product Participants were more likely to choose the embarrassing (vs. less embarrassing) product with a robot (vs.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

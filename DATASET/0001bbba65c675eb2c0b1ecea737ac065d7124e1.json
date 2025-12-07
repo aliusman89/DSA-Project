@@ -1,0 +1,1614 @@
+{
+    "paper_id": "0001bbba65c675eb2c0b1ecea737ac065d7124e1",
+    "metadata": {
+        "title": "PALLIATIVE CARE NEEDS OF PATIENTS WITH COVID-19",
+        "authors": [
+            {
+                "first": "J",
+                "middle": [
+                    "A"
+                ],
+                "last": "Daisy",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Janssen",
+                "suffix": "",
+                "affiliation": {},
+                "email": "daisyjanssen@ciro-horn.nl"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "OPINION Palliative care in Daisy J.A. Janssen a,b",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Purpose of review The purpose of this paper is (1) to provide insight in the palliative care needs of patients with COVID-19;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "(2) to highlight the challenges of COVID-19 for palliative care; and (3) to highlight developments in COVID-19 palliative care.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Patients with serious COVID-19 have palliative care needs in all domains: physical, psychological, social and spiritual. COVID-19 palliative care is confronted with many challenges, including: the uncertain prognosis, resource limitations, challenges regarding advance care planning, lack of guidance, limited multidisciplinary collaboration, need for remote communication, restrictions in family visits, and burden for clinicians. Palliative care responded with many developments: development of services; integration of palliative care with other services; tools to support advance care planning, (remote) communication with patients and families, or spiritual care; and care for team members.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Palliative care has an important role in this pandemic. Palliative care rapidly developed services and opportunities were found to support patients, families and clinicians. Further developments are warranted to face future demands of a pandemic, including integrated palliative care and education in palliative care skills across all specialties. Intervention studies are needed to enable evidence-based recommendations for palliative care in COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Since the start of the COVID-19 pandemic, millions of people worldwide have died because of COVID-19 and despite all efforts and milliards of vaccine doses administered, this number still rises every day [1] . The need for palliative care is already increasing worldwide due to the ageing population and increases in the prevalence of noncommunicable diseases. Progress has been made, especially in high-income countries, to meet the palliative care needs of patients with cancer and other (chronic) noncommunicable and life-limiting diseases [2] . However, the recent COVID-19 pandemic resulted in many people with an acute infectious illness being in need for palliative care. Mortality is highest among male patients, people of old age and people with chronic or malignant diseases [3, 4] . Most people die because of respiratory failure, myocardial damage or failure [5] . In a German study, 19% of all hospitalized patients with COVID-19 died [4] , however many patients die at home, in long-term care facilities or in hospices [6 & ]. Dr Tedros Adhanom Ghebreyesus, Director General of the World Health Organization stated that: 'The COVID-19 pandemic has highlighted the importance of palliative care in all healthcare systems. The need for relief from severe suffering, the difficult decision making, and complicated grief brought on by the pandemic are exactly the types of problems that palliative care was designed to help address.' [2] Therefore, the aims of the present review are: (1) to provide insight in the palliative care needs of patients with COVID-19; (2) Patients with serious COVID-19 and their families have needs in all domains of palliative care: physical, psychological, social and spiritual (Fig. 1) . Indeed, multiple symptoms are present in hospitalized patients dying from COVID-19. Breathlessness is one of the most prevalent symptoms, but other frequently seen symptoms include cough, fever, drowsiness, pain and delirium [7 && ]. We still have to learn about palliative treatment of symptoms in patients with COVID-19, but current data suggest that regular used palliative drugs such as opioids and midazolam are in most patients effective for soothing symptoms [7 && ]. Frequently present psychological symptoms include anxiety and agitation [5,7 && ,8,9 & ]. Families are often confronted with significant burden, which they have to face in times of social isolation, sometimes being ill themselves or having more than one ill or even deceased family member. They may suffer from feelings of guilt over the possible transmission of COVID-19 [9 & ]. Spiritual needs are present, both among patients and their loved ones. In fact, the COVID-19 pandemic has resulted in fundamental uncertainty in communities, patients, and families, including existential views of life and death [10] . Previous authors have stated that: 'spiritual care is not a luxury, it is a necessity for any system that claims to care for people' [11 & ]. The often uncertain prognosis requires timely advance care planning, including discussing goals of care, willingness to undergo life-sustaining treatments and end-of-life wishes [9 & ]. Indeed, the 'COVID-19: guidance on palliative care from a European Respiratory Society (ERS) international task force' recommended that advance care planning should be routinely done or reviewed by clinicians with patients and their loved ones at diagnosis of serious COVID-19, but also at the discharge of recovered patients. They acknowledged that lifesustaining treatment preferences might have changed after such a life event as a hospital admission because of COVID-19. Moreover, preferences regarding life-sustaining treatments in case of COVID-19 might be different than preferences in other circumstances [12 & ]. ",
+            "cite_spans": [
+                {
+                    "start": 204,
+                    "end": 207,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 543,
+                    "end": 546,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 785,
+                    "end": 788,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 789,
+                    "end": 791,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 871,
+                    "end": 874,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 948,
+                    "end": 951,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1033,
+                    "end": 1037,
+                    "text": "[6 &",
+                    "ref_id": null
+                },
+                {
+                    "start": 1444,
+                    "end": 1447,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1495,
+                    "end": 1498,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1574,
+                    "end": 1577,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1956,
+                    "end": 1961,
+                    "text": "[7 &&",
+                    "ref_id": null
+                },
+                {
+                    "start": 2197,
+                    "end": 2202,
+                    "text": "[7 &&",
+                    "ref_id": null
+                },
+                {
+                    "start": 2278,
+                    "end": 2292,
+                    "text": "[5,7 && ,8,9 &",
+                    "ref_id": null
+                },
+                {
+                    "start": 2578,
+                    "end": 2582,
+                    "text": "[9 &",
+                    "ref_id": null
+                },
+                {
+                    "start": 2814,
+                    "end": 2818,
+                    "text": "[10]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 2954,
+                    "end": 2959,
+                    "text": "[11 &",
+                    "ref_id": null
+                },
+                {
+                    "start": 3141,
+                    "end": 3145,
+                    "text": "[9 &",
+                    "ref_id": null
+                },
+                {
+                    "start": 3762,
+                    "end": 3767,
+                    "text": "[12 &",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1720,
+                    "end": 1728,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Family members of deceased patients with COVID-19 are at risk for complicated grief and even posttraumatic stress disorder, for example, because of being unable to prepare for the often unexpected death, multiple losses in one family, insufficient social support because of social isolation and being able to follow traditional grieving rituals [13 && ,14] . Supporting families before and after the death of a patient can positively influence bereavement outcomes [14] .",
+            "cite_spans": [
+                {
+                    "start": 345,
+                    "end": 356,
+                    "text": "[13 && ,14]",
+                    "ref_id": null
+                },
+                {
+                    "start": 465,
+                    "end": 469,
+                    "text": "[14]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory problems"
+        },
+        {
+            "text": "So, the need for palliative care addressing physical, psychological, social and existential needs in people with serious COVID-19 is paramount. The above mentioned ERS taskforce, therefore, recommended that healthcare professionals trained in palliative care should be available to all patients with 'serious COVID-19' (defined as COVID-19 that carries a high risk of mortality, negatively impacts quality of life and daily function, and/or is burdensome in symptom, treatment or caregiver stress) with persistent symptoms and concerns despite optimal disease treatment, irrespective of whether people remain in the hospital or at home [12 & ].",
+            "cite_spans": [
+                {
+                    "start": 636,
+                    "end": 641,
+                    "text": "[12 &",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory problems"
+        },
+        {
+            "text": "The crisis situation around COVID-19 resulted in many challenges for palliative care (Fig. 1) , several of which are discussed below. First, patients with COVID-19 may deteriorate quickly, which makes it difficult to introduce palliative care in a timely way. Clinicians working in community care often saw patients die within days of becoming ill, especially frail elderly [6 & ]. Other patients, even with comorbidities, were living much longer than expected [15] . Triage tools are only able to predict adverse outcomes for individuals with COVID-19 to a limited extent [16] .",
+            "cite_spans": [
+                {
+                    "start": 461,
+                    "end": 465,
+                    "text": "[15]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 573,
+                    "end": 577,
+                    "text": "[16]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 85,
+                    "end": 93,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "PALLIATIVE CARE CHALLENGES"
+        },
+        {
+            "text": "Second, clinicians are facing resource limitations, including the limited availability of palliative care specialists. Indeed, healthcare resources are under pressure in trying to cope with many acutely ill people. Naturally, the first efforts in this pandemic were focused on critical care. Nevertheless, the need for involving palliative care quickly became clear [17] , resulting in high demands on palliative care providers. Indeed, palliative care clinicians reported both stress as well as exhaustion [18] . Home care services were struggling with shortages of resources and supplies, including access to medication and medical equipment [19] . Sometimes discharge options for COVID-19 patients were limited, preventing patients from dying in their preferred place [20] . Although the media mainly paid attention to critical care for patients with COVID-19 [21] , the provision of end-of-life care in the community also significantly increased, particularly for older people [6 & ]. Community nurses provision of advance care planning, anticipatory prescribing of medication, symptom management, bereavement support, death verification and support to family and carers increased [6 & ]. Third, advance care planning and decision-making were further challenged by both the lack of knowledge, and the huge amount of uncertainty, regarding the clinical course and prognosis of COVID-19 as well as time constraints. Because of these time constraints, clinicians found they had to rush their advance care planning conversations [20] . Healthcare providers observed that media coverage increased fear among patients and families that clinical decisions were made in the context of limited resources [20] .",
+            "cite_spans": [
+                {
+                    "start": 366,
+                    "end": 370,
+                    "text": "[17]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 507,
+                    "end": 511,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 644,
+                    "end": 648,
+                    "text": "[19]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 771,
+                    "end": 775,
+                    "text": "[20]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 863,
+                    "end": 867,
+                    "text": "[21]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1185,
+                    "end": 1189,
+                    "text": "[6 &",
+                    "ref_id": null
+                },
+                {
+                    "start": 1529,
+                    "end": 1533,
+                    "text": "[20]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1699,
+                    "end": 1703,
+                    "text": "[20]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PALLIATIVE CARE CHALLENGES"
+        },
+        {
+            "text": "Fourth, healthcare professionals reported a lack of guidance in palliative care for patients with COVID-19 [22] . Although first consensus-based recommendations for palliative care have been published, evidence-based recommendations are now needed [12 & ,23]. Fifth, multidisciplinary collaboration is a cornerstone of palliative care, but was defied during this pandemic as well. For example, community nursing staff in the UK felt abandoned and vulnerable and found that, whereas their visits to patients had increased, family physicians and specialist palliative care services decreased their home visits [6 & ]. Also, bereaved family members sometimes reported the lack of visits by family physicians, whereas other family members greatly appreciated their family physician [24] . Other community clinicians valued working together with specialist palliative care services [6 & ]. Sixth, communication with patients and their loved ones is an essential part of palliative care. Indeed, compassionate communication is vital for multidimensional needs assessment and to elicit expectations, goals and values. In COVID-19, because of isolation and social distancing, often remote communication with family members is needed [25] . The lack of in-person communication led to uncertainty about levels of care and distress among family members. Communication was not always clear enough concerning the imminent death: families experienced less time to say goodbye to their loved ones and lacked emotional support for themselves [24] . Remote communication is more challenging for people with low literacy or limited digital literacy skills, and for people with visual or hearing impairment [26] . Some family members even experienced the death of their loved ones as traumatic [24] . In-person communication usually required personal protection equipment, which also challenges interaction [25] . Clinicians felt that they lacked the usual tools for communication, such as being able to read nonverbal cues, use nonverbal communication skills to show empathy and build a trusted relationship before having these difficult conversations [20] . Remote consultations with patients also increased in community end-of-life care and healthcare professionals were frustrated by the limitations they experienced. Some professionals experienced remote consultations as a source of confusion and distress for patients and even reported that these consultations could cause huge emotional trauma to families [6 & ]. Seventh, family visits are restricted with some families being advised not to touch or even to be in the same room as their loved one [27] . Bereaved family members reported distress, anxiety, guilt and sadness because of these restrictions [24] . In a qualitative study, palliative care physicians explained that family was allowed to be with an actively dying patient but, as predicting death is so challenging in COVID-19, in several instances family were unable to attend as the patient died before staff had expected [18] . Data from the national Swedish Register of Palliative Care showed that someone was present in 59% of the expected deaths from COVID-19 in hospital or nursing homes, but in only 17% of the patients a relative had been present during dying [28] .",
+            "cite_spans": [
+                {
+                    "start": 107,
+                    "end": 111,
+                    "text": "[22]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 248,
+                    "end": 253,
+                    "text": "[12 &",
+                    "ref_id": null
+                },
+                {
+                    "start": 778,
+                    "end": 782,
+                    "text": "[24]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1225,
+                    "end": 1229,
+                    "text": "[25]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1526,
+                    "end": 1530,
+                    "text": "[24]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1688,
+                    "end": 1692,
+                    "text": "[26]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1775,
+                    "end": 1779,
+                    "text": "[24]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1888,
+                    "end": 1892,
+                    "text": "[25]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 2134,
+                    "end": 2138,
+                    "text": "[20]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 2637,
+                    "end": 2641,
+                    "text": "[27]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2744,
+                    "end": 2748,
+                    "text": "[24]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 3025,
+                    "end": 3029,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 3270,
+                    "end": 3274,
+                    "text": "[28]",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PALLIATIVE CARE CHALLENGES"
+        },
+        {
+            "text": "Finally, COVID-19 resulted in considerable burden for many healthcare professionals, including in palliative care. Clinicians found witnessing the suffering of families and patients dying alone as one of the hardest things [18] . Also seeing so many patients dying and managing anxiety around infection control negatively influenced the well-being of healthcare professionals. Healthcare professionals became ill themselves or felt being accused of bringing the virus to others [6 & ]. Some healthcare professionals chose to isolate themselves from their social support systems to limit the risk of exposure their families or friends to the virus [13 && ]. Public ignorance of preventive measures was another source of distress [29] .",
+            "cite_spans": [
+                {
+                    "start": 223,
+                    "end": 227,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 647,
+                    "end": 653,
+                    "text": "[13 &&",
+                    "ref_id": null
+                },
+                {
+                    "start": 728,
+                    "end": 732,
+                    "text": "[29]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PALLIATIVE CARE CHALLENGES"
+        },
+        {
+            "text": "Although facing these challenges, palliative care services worldwide rapidly developed their services and sought opportunities to support patients, their families and healthcare providers (Fig. 1) . In Boston, for example, a hospital-based palliative care unit was rapidly developed to support interdisciplinary endof-life care and support family, whereas allowing other staff members to focus on patients in need of life-sustaining treatments [15] . The paramount need of palliative care also facilitated the integration of palliative care with intensive care and emergency care, and appreciation for palliative care services [18] .",
+            "cite_spans": [
+                {
+                    "start": 444,
+                    "end": 448,
+                    "text": "[15]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 627,
+                    "end": 631,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 188,
+                    "end": 196,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "DEVELOPMENTS IN COVID-19 PALLIATIVE CARE"
+        },
+        {
+            "text": "The pandemic also facilitated advance care planning [21] . Suddenly, awareness about the need for advance care planning increased within both healthcare and society, facilitating these conversations [18, 21] . Palliative care services increased their provision of advance care planning as well as providing advice to others on how to conduct advance care planning [20] . Advance care planning was made part of regular clinical care at referral to palliative care services as well as a standard topic during multidisciplinary meetings. Technology was used to facilitate recording of COVID-19 specific advance care planning discussions [20] . This also showed the need for training clinicians across all specialties in primary palliative care skills, such as communication and advance care planning [18] . For example, family physicians and practice nurses further developed their role in advance care planning. They encouraged their patients to think about advance care planning, provided information that became easier as knowledge concerning COVID-19 increased, and provided advice concerning advance care planning, including in patients they would have not identified before as being in need of advance care planning [21] . Tools are now available to support clinicians with limited experience in palliative care in performing advance care planning conversations, such as the GOOD framework which consists of four steps: Goals (determine goals and values); Options (determine and describe options); Opinions (elicit patient preferences regarding options, communicate clinician perspective and arrive at shared decision); and Documentation (document outcome of decision-making and reasoning behind decisions) [30 & ]. Collaboration between teams and services further facilitated advance care planning.",
+            "cite_spans": [
+                {
+                    "start": 52,
+                    "end": 56,
+                    "text": "[21]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 199,
+                    "end": 203,
+                    "text": "[18,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 204,
+                    "end": 207,
+                    "text": "21]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 364,
+                    "end": 368,
+                    "text": "[20]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 634,
+                    "end": 638,
+                    "text": "[20]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 797,
+                    "end": 801,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1219,
+                    "end": 1223,
+                    "text": "[21]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1710,
+                    "end": 1715,
+                    "text": "[30 &",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DEVELOPMENTS IN COVID-19 PALLIATIVE CARE"
+        },
+        {
+            "text": "Tools were developed for healthcare professionals to improve communication whilst wearing personal protection equipment, such as flashcards [31] . Teams also found ways to communicate with families in the absence of in person visits, like daily updates after rounds, support calls by social workers or chaplains, and video visits to update family and help the family see the patient [15] . Key elements of remote communication skills have been published and include appropriate set-up and conduct of the meeting (for example, a quiet environment, maintaining eye contact), preparing the participants for this way of communication, avoiding prolonged silence as well as overtalking, responding to emotions and closing the visit [32] . A guide for compassionate phone communication with loved ones was developed to facilitate daily phone updates [33 && ].",
+            "cite_spans": [
+                {
+                    "start": 140,
+                    "end": 144,
+                    "text": "[31]",
+                    "ref_id": null
+                },
+                {
+                    "start": 383,
+                    "end": 387,
+                    "text": "[15]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 727,
+                    "end": 731,
+                    "text": "[32]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 844,
+                    "end": 850,
+                    "text": "[33 &&",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DEVELOPMENTS IN COVID-19 PALLIATIVE CARE"
+        },
+        {
+            "text": "Bereaved family reported how helpful these regular proactive phone calls are [24] . Moreover, they reported that despite all challenges their loved one received compassionate care and died in the right place [24] . Later on, teams developed a protocol to allow safe visits of family members, whereas at the same time providing support to these family members [15] . Teams were creative in offering education in palliative care, such as educational videos, individual education, and bedside mentoring [15] . Guidance has also been offered to clinicians to offer spiritual care. To facilitate clinicians to become a 'spiritual care generalist', COVID-19 related questions were added to the FICA tool. The FICA tool consists of four model components (Faith, Importance or Influence, Community, Address), each with related assessment questions to facilitate talking about spiritual needs. It can be used in any setting [11 & ]. Finally, recommendations were provided to enhance self-care for healthcare providers, such as: being able to take breaks and disconnect from COVID-19; prepare and inform; adequate supervision and peer support [13 && ]. Teams were organizing taking care of their team members. They for example arranged scheduling time to reflect and debrief, virtual meditation sessions, or virtual group reflections led by a psychologist [15] .",
+            "cite_spans": [
+                {
+                    "start": 77,
+                    "end": 81,
+                    "text": "[24]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 208,
+                    "end": 212,
+                    "text": "[24]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 359,
+                    "end": 363,
+                    "text": "[15]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 500,
+                    "end": 504,
+                    "text": "[15]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 915,
+                    "end": 920,
+                    "text": "[11 &",
+                    "ref_id": null
+                },
+                {
+                    "start": 1133,
+                    "end": 1139,
+                    "text": "[13 &&",
+                    "ref_id": null
+                },
+                {
+                    "start": 1346,
+                    "end": 1350,
+                    "text": "[15]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DEVELOPMENTS IN COVID-19 PALLIATIVE CARE"
+        },
+        {
+            "text": "Palliative care has an important role in this pandemic and is facing great demands. Palliative care services worldwide have rapidly developed their services in response and found opportunities to support patients, their families and healthcare providers, for example by integration of palliative care with other departments or services, and the developments of tools and education for nonpalliative care clinicians. Increased multidisciplinary collaboration, integrated palliative care and education across all specialties in primary palliative care skills are needed to be able to face future demands of such a pandemic [18] . Finally, intervention studies are needed to enable evidence-based recommendations for providing optimal palliative care in COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 621,
+                    "end": 625,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "COVID-19 dashboard by the Center for Systems Science and Engineering",
+            "authors": [],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Worldwide Hospice Palliative Care Alliance (WHPCA) Global Atlas of Palliative Care",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Predictors of mortality of COVID-19 in the general population and nursing homes",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Espana",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bilbao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Garcia-Gutierrez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Intern Emerg Med",
+            "volume": "16",
+            "issn": "",
+            "pages": "1487--1496",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Clinical outcome, risk assessment, and seasonal variation in hospitalized COVID-19 patientsresults from the CORONA Germany study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gessler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gunawardene",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wohlmuth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "PLoS One",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Symptom burden and clinical profile of COVID-19 deaths: a rapid systematic review and evidence summary",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Keeley",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Buchanan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Carolan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ Support Palliat Care",
+            "volume": "10",
+            "issn": "",
+            "pages": "381--384",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Community end-of-life care during COVID-19: findings of a UK primary care survey",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mitchell",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Oliver",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gardiner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "BJGP Open",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "This article provides insight in the challengens and opportunities of community palliative care in COVID-19",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Characteristics, symptom management, and outcomes of 101 patients with COVID-19 referred for hospital palliative care",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "&amp;&amp; Lovell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Maddocks",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Etkind",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Pain Symptom Manag",
+            "volume": "60",
+            "issn": "",
+            "pages": "77--81",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "This article provides an overview of characteristics of 101 patients with COVID-19 referred to palliative care",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Characteristics and palliative care needs of COVID-19 patients receiving comfort-directed care",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Am Geriatr Soc",
+            "volume": "68",
+            "issn": "",
+            "pages": "1162--1164",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "This review provides an excellent overview of how to manage supportive care needs of patients",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bajwah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilcock",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Towers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur Respir J",
+            "volume": "55",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The role and response of palliative care and hospice services in epidemics and pandemics: a rapid review to inform practice during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Etkind",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bone",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Lovell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Pain Symptom Manag",
+            "volume": "60",
+            "issn": "",
+            "pages": "31--40",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The urgency of spiritual care: COVID-19 and the critical need for whole-person palliation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Ferrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Handzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Picchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Pain Symptom Manag",
+            "volume": "60",
+            "issn": "",
+            "pages": "7--11",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "This article shows the needs and opportunities for spiritual care in COVID-19",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "COVID-19: guidance on palliative care from a European Respiratory Society international task force",
+            "authors": [
+                {
+                    "first": "Dja",
+                    "middle": [],
+                    "last": "Janssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ekstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Currow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur Respir J",
+            "volume": "56",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "This article provides international consensus recommendation for palliative care in COVID-19",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Grief during the COVID-19 pandemic: considerations for palliative care providers",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "&amp;&amp; Wallace",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Wladkowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gibson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Pain Symptom Manag",
+            "volume": "60",
+            "issn": "",
+            "pages": "70--76",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "This article provides an important overview of grief related to COVID-19",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Caring for bereaved family members during the COVID-19 pandemic: before and after the death of a patient",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moment",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Pain Symptom Manag",
+            "volume": "60",
+            "issn": "",
+            "pages": "70--74",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Innovation in a crisis: lessons learned from the rapid development of an end-of-life palliative care unit during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Drutchas",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kavanaugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Cina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "J Palliat Med",
+            "volume": "24",
+            "issn": "",
+            "pages": "1280--1283",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Prognostic accuracy of emergency department triage tools for adults with suspected COVID-19: the PRIEST observational cohort study",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goodacre",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Emerg Med J",
+            "volume": "38",
+            "issn": "",
+            "pages": "587--593",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The key role of palliative care in response to the COVID-19 tsunami of suffering",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Radbruch",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Knaul",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "De Lima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "1467--1469",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Palliative Care Practice During the COVID-19 Pandemic: A Descriptive Qualitative Study of Palliative Care Clinicians",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Rowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Potts",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mcghie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "J Pain Symptom Manag",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jpainsym-man.2021.06.013"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "COVID Challenges and Adaptations Among Home-Based Primary Care Practices: Lessons for an Ongoing Pandemic from a National Survey",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ritchie",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gallopyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sheehan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "J Am Med Dir Assoc",
+            "volume": "22",
+            "issn": "",
+            "pages": "1338--1344",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Understanding and addressing challenges for advance care planning in the COVID-19 pandemic: an analysis of the UK CovPall survey data from specialist palliative care services",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bradshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dunleavy",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Walshe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Palliat Med",
+            "volume": "35",
+            "issn": "",
+            "pages": "1225--1237",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The COVID-19 pandemic: a tipping point for advance care planning? Experiences of general practitioners",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dujardin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schuurmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Westerduin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Palliat Med",
+            "volume": "35",
+            "issn": "",
+            "pages": "1238--1248",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Response and role of palliative care during the COVID-19 pandemic: a national telephone survey of hospices in Italy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Costantini",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Sleeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Peruselli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Palliat Med",
+            "volume": "34",
+            "issn": "",
+            "pages": "889--895",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Recommendations for the support of suffering, severely ill, dying or grieving persons in the corona pandemic from a palliative care perspective: Recommendations of the German Society for Palliative Medicine (DGP), the German Interdisciplinary Association for Intensive and Emergency Medicine (DIVI), the Federal Association for Grief Counseling (BVT), the Working Group for Psycho-oncology in the German Cancer Society, the German Association for Social Work in the Healthcare System (DVSG) and the German Association for Systemic Therapy, Counseling and Family Therapy (DGSF)",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Munch",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Deffner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Schmerz",
+            "volume": "34",
+            "issn": "",
+            "pages": "303--313",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Are public health measures and individualised care compatible in the face of a pandemic? A national observational study of bereaved relatives' experiences during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mayland",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Palliat Med",
+            "volume": "35",
+            "issn": "",
+            "pages": "1480--1491",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Integration of palliative care into COVID-19 pandemic planning",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Fadul",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Elsayem",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bruera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "BMJ Support Palliat Care",
+            "volume": "11",
+            "issn": "",
+            "pages": "40--44",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Can video consultations replace face-toface interviews? Palliative medicine and the Covid-19 pandemic: rapid review",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Sutherland",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stickland",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ Support Palliat Care",
+            "volume": "10",
+            "issn": "",
+            "pages": "271--275",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "The Lancet. Palliative care and the COVID-19 pandemic",
+            "authors": [],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Dying from COVID-19: loneliness, end-of-life discussions, and support for patients and their families in nursing homes and hospitals. A National Register Study",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Strang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bergstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Martinsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Pain Symptom Manage",
+            "volume": "60",
+            "issn": "",
+            "pages": "2--13",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Exploring nurses' experiences of psychological distress during care of patients with COVID-19: a qualitative study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Galehdar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kamran",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Toulabi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMC Psychiatry",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Goals of care and COVID-19: a good framework for dealing with uncertainty",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Petriceks",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Palliat Support Care",
+            "volume": "18",
+            "issn": "",
+            "pages": "379--381",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "This article shows the possibility of the GOOD framework in facilitating advance care planning in COVID-19",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Webside manner during the COVID-19 pandemic: maintaining human connection during virtual visits",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Chua",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kamdar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Palliat Med",
+            "volume": "23",
+            "issn": "",
+            "pages": "1507--1509",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Talking to relatives. A guide to compassionate phone communication during COVID-19",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "&amp;&amp; Field-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Robinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "COVID-19 palliative care needs, challenges and developments.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "to highlight the challenges of COVID-19 for palliative care; (3) to highlight developments in COVID-19 palliative care. For the current review, Pubmed was searched in June 2021 for all studies regarding palliative care in COVID-19. Department of Research & Development, CIRO, Horn and b Department of Health Services Research, Care and Public Health Research Institute, Faculty of Health Medicine and Life Sciences, Maastricht University, Maastricht, The Netherlands",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Financial support and sponsorship None.Conflicts of interest D.J.A.J. has received lecture fees from Novartis, Boehringer Ingelheim and Chiesi in the previous 3 years.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "None."
+        },
+        {
+            "text": "Papers of particular interest, published within the annual period of review, have been highlighted as: & of special interest && of outstanding interest",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        }
+    ]
+}

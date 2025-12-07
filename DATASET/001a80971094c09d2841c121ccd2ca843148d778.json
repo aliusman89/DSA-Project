@@ -1,0 +1,3087 @@
+{
+    "paper_id": "001a80971094c09d2841c121ccd2ca843148d778",
+    "metadata": {
+        "title": "Axelle Pintiaux Ay\u015feg\u00fcl \u00d6zel Igor Samardjiski Slagjana Simeonova \u015eerife \u00d6zlem Gen\u00e7",
+        "authors": [
+            {
+                "first": "Francesco",
+                "middle": [],
+                "last": "D&apos;antonio",
+                "suffix": "",
+                "affiliation": {},
+                "email": "francesco.dantonio@unich.it"
+            },
+            {
+                "first": "Cihat",
+                "middle": [],
+                "last": "Sen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Daniele",
+                "middle": [],
+                "last": "Di Mascio",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alberto",
+                "middle": [],
+                "last": "Galindo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Cecilia",
+                "middle": [],
+                "last": "Villalain",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ignacio",
+                "middle": [],
+                "last": "Herraiz",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Resul",
+                "middle": [],
+                "last": "Ar\u0131soy",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ali",
+                "middle": [],
+                "last": "Ovayolu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hasan",
+                "middle": [],
+                "last": "Eroglu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Manuel",
+                "middle": [],
+                "last": "Guerra Canales",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Subhashini",
+                "middle": [],
+                "last": "Ladella",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Liviu",
+                "middle": [],
+                "last": "Cojocaru",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ozhan",
+                "middle": [],
+                "last": "Turan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sifa",
+                "middle": [],
+                "last": "Turan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Eran",
+                "middle": [],
+                "last": "Hadar",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Noa",
+                "middle": [
+                    "A"
+                ],
+                "last": "Brzezinski-Sinai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Petya Angelova Radulova University hospital of Obstetrics and Gynecology",
+                    "institution": "Lyell McEwin Hospital",
+                    "location": {
+                        "settlement": "Istanbul, Adelaide, Sofia",
+                        "country": "Turkey, Australia, Bulgaria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sarah",
+                "middle": [],
+                "last": "Dollinger",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ozlem",
+                "middle": [],
+                "last": "Uyaniklar",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sakine",
+                "middle": [
+                    "Rahimli"
+                ],
+                "last": "Ocakouglu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zeliha",
+                "middle": [],
+                "last": "Atak",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tanja",
+                "middle": [],
+                "last": "Premru-Srsen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Petya Angelova Radulova University hospital of Obstetrics and Gynecology",
+                    "institution": "Lyell McEwin Hospital",
+                    "location": {
+                        "settlement": "Istanbul, Adelaide, Sofia",
+                        "country": "Turkey, Australia, Bulgaria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lilijana",
+                "middle": [],
+                "last": "Kornhauser-Cerar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Petya Angelova Radulova University hospital of Obstetrics and Gynecology",
+                    "institution": "Lyell McEwin Hospital",
+                    "location": {
+                        "settlement": "Istanbul, Adelaide, Sofia",
+                        "country": "Turkey, Australia, Bulgaria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mirjam",
+                "middle": [],
+                "last": "Dru\u0161kovi\u010d",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Liana",
+                "middle": [],
+                "last": "Ples",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Reyhan",
+                "middle": [],
+                "last": "G\u00fcnd\u00fcz",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elif",
+                "middle": [],
+                "last": "Aga\u00e7ayak",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Javier",
+                "middle": [
+                    "Alfonso"
+                ],
+                "last": "Schvartzman",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mercedes",
+                "middle": [
+                    "Negri"
+                ],
+                "last": "Malbran",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Marco",
+                "middle": [],
+                "last": "Liberati",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Francesca",
+                "middle": [
+                    "Di"
+                ],
+                "last": "Sebastiano",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ludovica",
+                "middle": [],
+                "last": "Oronzi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Chiara",
+                "middle": [],
+                "last": "Cerra",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Danilo",
+                "middle": [],
+                "last": "Buca",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Angelo",
+                "middle": [],
+                "last": "Cagnacci",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Arianna",
+                "middle": [],
+                "last": "Ramone",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fabio",
+                "middle": [],
+                "last": "Barra",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Andrea",
+                "middle": [],
+                "last": "Carosso",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Chiara",
+                "middle": [],
+                "last": "Benedetto",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Stefano",
+                "middle": [],
+                "last": "Cosma",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Axelle",
+                "middle": [],
+                "last": "Pintiaux",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Caroline",
+                "middle": [],
+                "last": "Daelemans",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elena",
+                "middle": [],
+                "last": "Costa",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Murat",
+                "middle": [],
+                "last": "Muh\u00e7u",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jes\u00fas",
+                "middle": [
+                    "S"
+                ],
+                "last": "Jimenez Lopez",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Clara",
+                "middle": [],
+                "last": "Alvarado",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Anna",
+                "middle": [
+                    "Luengo"
+                ],
+                "last": "Piqueras",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Dolores",
+                "middle": [
+                    "Esteban"
+                ],
+                "last": "Oliva",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Giovanni",
+                "middle": [],
+                "last": "Battista",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Luca",
+                "middle": [],
+                "last": "Schera",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nicola",
+                "middle": [],
+                "last": "Volpe",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tiziana",
+                "middle": [],
+                "last": "Frusca",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Igor",
+                "middle": [],
+                "last": "Samardjiski",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Slagjana",
+                "middle": [],
+                "last": "Simeonova",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Irena",
+                "middle": [
+                    "Aleksioska"
+                ],
+                "last": "Papestiev",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Javier",
+                "middle": [],
+                "last": "Hojman",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ilgin",
+                "middle": [],
+                "last": "Turkcuoglu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Antonella",
+                "middle": [],
+                "last": "Cromi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Antonio",
+                "middle": [
+                    "Simone"
+                ],
+                "last": "Lagan\u00e0",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fabio",
+                "middle": [],
+                "last": "Ghezzi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Angelo",
+                "middle": [],
+                "last": "Sirico",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alessandra",
+                "middle": [],
+                "last": "Familiari",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Giovanni",
+                "middle": [],
+                "last": "Scambia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zulfiya",
+                "middle": [],
+                "last": "Khodjaeva",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Gennady",
+                "middle": [
+                    "T"
+                ],
+                "last": "Sukhikh",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ksenia",
+                "middle": [
+                    "A"
+                ],
+                "last": "Gorina",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Renato",
+                "middle": [
+                    "Augusto"
+                ],
+                "last": "Moreira De Sa",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mariana",
+                "middle": [],
+                "last": "Vaz",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Otto",
+                "middle": [],
+                "last": "Henrique",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "May",
+                "middle": [],
+                "last": "Feuerschuette",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Anna",
+                "middle": [],
+                "last": "Nunzia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Della",
+                "middle": [],
+                "last": "Gatta",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Aly",
+                "middle": [],
+                "last": "Youssef",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Gaetana",
+                "middle": [
+                    "Di"
+                ],
+                "last": "Donna",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alicia",
+                "middle": [],
+                "last": "Martinez-Varea",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Petya Angelova Radulova University hospital of Obstetrics and Gynecology",
+                    "institution": "Lyell McEwin Hospital",
+                    "location": {
+                        "settlement": "Istanbul, Adelaide, Sofia",
+                        "country": "Turkey, Australia, Bulgaria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gabriela",
+                "middle": [],
+                "last": "Loscalzo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jos\u00e9",
+                "middle": [
+                    "Morales"
+                ],
+                "last": "Rosell\u00f3",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Vedran",
+                "middle": [],
+                "last": "Stefanovic",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Irmeli",
+                "middle": [],
+                "last": "Nupponen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kaisa",
+                "middle": [],
+                "last": "Nelskyl\u00e4",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rodrigo",
+                "middle": [],
+                "last": "Ayala",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rebeca",
+                "middle": [
+                    "Garrote"
+                ],
+                "last": "Molpeceres",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Asunci\u00f3n",
+                "middle": [],
+                "last": "Pino V\u00e1zquez",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fabrizio",
+                "middle": [],
+                "last": "Sandri",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ilaria",
+                "middle": [],
+                "last": "Cataneo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Marinella",
+                "middle": [],
+                "last": "Lenzi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tustas",
+                "middle": [],
+                "last": "Haberal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Erasmo",
+                "middle": [],
+                "last": "Huertas",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Amadeo",
+                "middle": [],
+                "last": "Sanchez",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Pedro",
+                "middle": [],
+                "last": "Arango",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Amanda",
+                "middle": [],
+                "last": "Bermejo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Monica",
+                "middle": [
+                    "Gonzalez"
+                ],
+                "last": "Alcantara",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "G\u00f6khan",
+                "middle": [],
+                "last": "G\u00f6yn\u00fcmer",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Erhan",
+                "middle": [],
+                "last": "Okuyan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ciuhodaru",
+                "middle": [],
+                "last": "Madalina",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ana",
+                "middle": [
+                    "Concheiro"
+                ],
+                "last": "Guisan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alejandra",
+                "middle": [
+                    "Mart\u00ednez"
+                ],
+                "last": "Schulte",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Valentina",
+                "middle": [],
+                "last": "Esposito",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Valentina",
+                "middle": [],
+                "last": "De Robertis",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Snezana",
+                "middle": [],
+                "last": "Zdjelar",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Milan",
+                "middle": [],
+                "last": "Lackovic",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sladjana",
+                "middle": [],
+                "last": "Mihajlovic",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nelly",
+                "middle": [],
+                "last": "Jekova",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Gabriele",
+                "middle": [],
+                "last": "Saccone",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Musa",
+                "middle": [],
+                "last": "Aslan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [],
+                "last": "Carmela",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Di",
+                "middle": [],
+                "last": "Dedda",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maisuri",
+                "middle": [],
+                "last": "Chalid",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jose",
+                "middle": [],
+                "last": "Enrique",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Moros",
+                "middle": [],
+                "last": "Canache",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "George",
+                "middle": [],
+                "last": "Daskalakis",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Panos",
+                "middle": [],
+                "last": "Antsaklis",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Enrique",
+                "middle": [],
+                "last": "Criado Vega",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elisa",
+                "middle": [],
+                "last": "Cueto",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Chiara",
+                "middle": [],
+                "last": "Taccaliti",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alicia",
+                "middle": [
+                    "Yeliz"
+                ],
+                "last": "Aykanat",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "\u015e",
+                "middle": [],
+                "last": "Erife\u00f6zlem Gen\u00e7",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Bernd",
+                "middle": [],
+                "last": "Froessler",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Angelova",
+                "middle": [],
+                "last": "Radulova",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Danila",
+                "middle": [],
+                "last": "Morano",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Beatrice",
+                "middle": [],
+                "last": "Bianchi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [],
+                "last": "Giulia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lombana",
+                "middle": [],
+                "last": "Marino",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Gabriella",
+                "middle": [],
+                "last": "Meccariello",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Bindu",
+                "middle": [],
+                "last": "Rohatgi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Antonio",
+                "middle": [],
+                "last": "Schiattarella",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maddalena",
+                "middle": [],
+                "last": "Morlando",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nicola",
+                "middle": [],
+                "last": "Colacurci",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Andrea",
+                "middle": [],
+                "last": "Villasco",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nicoletta",
+                "middle": [],
+                "last": "Biglia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ana",
+                "middle": [],
+                "last": "Luiza",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Santos",
+                "middle": [],
+                "last": "Marques",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alessandra",
+                "middle": [],
+                "last": "Gatti",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Daniela",
+                "middle": [],
+                "last": "Luvero",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Roberto",
+                "middle": [],
+                "last": "Angioli",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alejandro",
+                "middle": [],
+                "last": "Pittaro",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Albert",
+                "middle": [],
+                "last": "Lila",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Blanka",
+                "middle": [],
+                "last": "Zlatohl\u00e1vkov\u00e1",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Francesco",
+                "middle": [
+                    "D &apos;"
+                ],
+                "last": "Antonio",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Daniele",
+                "middle": [],
+                "last": "Di",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mascio",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hasan",
+                "middle": [],
+                "last": "Ero\u011flu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Manuel",
+                "middle": [],
+                "last": "Guerra",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Canales",
+                "middle": [],
+                "last": "Hospital",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Clinico",
+                "middle": [],
+                "last": "San",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jose",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Chile",
+                "middle": [],
+                "last": "Santiago",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "/",
+                "middle": [],
+                "last": "Chile",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Davila",
+                "middle": [],
+                "last": "Bucharest",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Romania",
+                "middle": [],
+                "last": "Reyhan G\u00fcnd\u00fcz",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elif",
+                "middle": [],
+                "last": "A\u011fa\u00e7ayak",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mercedes",
+                "middle": [],
+                "last": "Negri Malbran",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Francesca",
+                "middle": [],
+                "last": "Di",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sebastiano",
+                "middle": [
+                    "Ludovica"
+                ],
+                "last": "Oronzi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Anna",
+                "middle": [],
+                "last": "Luengo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Piqueras",
+                "middle": [],
+                "last": "Dolores",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Esteban",
+                "middle": [],
+                "last": "Oliva",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Anna",
+                "middle": [
+                    "Nunzia"
+                ],
+                "last": "Della",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Gatta",
+                "middle": [],
+                "last": "Aly",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Youssef",
+                "middle": [],
+                "last": "Gaetana",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Di",
+                "middle": [],
+                "last": "Donna",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jos\u00e9",
+                "middle": [],
+                "last": "Morales",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rosell\u00f3",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rebeca",
+                "middle": [],
+                "last": "Garrote",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Molpeceres",
+                "middle": [],
+                "last": "Asunci\u00f3n",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Pino",
+                "middle": [],
+                "last": "V\u00e1zquez",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Esra",
+                "middle": [
+                    "Tustas"
+                ],
+                "last": "Haberal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Monica",
+                "middle": [],
+                "last": "Mar\u00eda",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alcantara",
+                "middle": [],
+                "last": "Gonzalez",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Juan",
+                "middle": [
+                    "A"
+                ],
+                "last": "Hospital",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Argentina",
+                "middle": [
+                    "G\u00f6khan"
+                ],
+                "last": "Fernandez",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "G\u00f6yn\u00fcmer",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Batman",
+                "middle": [],
+                "last": "Maternity",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Child",
+                "middle": [],
+                "last": "Health Hospital",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kbc",
+                "middle": [],
+                "last": "Dr",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Dragisa",
+                "middle": [],
+                "last": "Misovic",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Dedinje",
+                "middle": [],
+                "last": "Belgrade",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Serbia",
+                "middle": [
+                    "Nelly"
+                ],
+                "last": "Jekova",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mehmet",
+                "middle": [],
+                "last": "Musa",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Aslan",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elisa",
+                "middle": [
+                    "Cueto"
+                ],
+                "last": "Hospital",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Virgen",
+                "middle": [],
+                "last": "De",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "La",
+                "middle": [],
+                "last": "Luz",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Spain",
+                "middle": [],
+                "last": "Cuenca",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Taccaliti",
+                "middle": [],
+                "last": "Chiara",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Generale",
+                "middle": [],
+                "last": "Ospedale",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "&quot;",
+                "middle": [
+                    "F"
+                ],
+                "last": "Regionale",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Acquaviva",
+                "middle": [],
+                "last": "Miulli",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Italy",
+                "middle": [],
+                "last": "Delle Fonti",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yeliz",
+                "middle": [],
+                "last": "Alicia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Aykanat",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Karaman",
+                "middle": [],
+                "last": "Public Hospital",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Karaman",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Bernd",
+                "middle": [],
+                "last": "Turkey",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Froessler",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Luigi",
+                "middle": [],
+                "last": "Vanvitelli",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alejandro",
+                "middle": [
+                    "Pittaro"
+                ],
+                "last": "Hospital",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Raul",
+                "middle": [
+                    "F"
+                ],
+                "last": "Larcade",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Buenos",
+                "middle": [],
+                "last": "Aires",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Argentina",
+                "middle": [
+                    "Albert"
+                ],
+                "last": "Lila",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Objectives: To evaluate maternal and perinatal outcomes in high compared to low-risk pregnancies complicated by SARS-COV-2 infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Methods: This was a multinational retrospective cohort study including women with laboratory-confirmed SARS-COV-2 from 76 centers from 25 different countries in Europe, United States, South America, Asia and Australia from 04 April 2020 till 28 October 2020. The primary outcome was a composite measure of maternal mortality and morbidity including admission to intensive care unit (ICU), use of mechanical ventilation, or death. Secondary outcome was a composite measure of adverse perinatal outcome, including miscarriage, fetal loss, neonatal (NND) and perinatal (PND) death, and admission to neonatal intensive care unit. All these outcomes were assessed in high-risk compared to low-risk pregnancies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Pregnancies were considered as high risk in case of either pre-existing chronic medical conditions preexisting pregnancy or obstetric disorders occurring in pregnancy. Fisher-test and logistic regression analysis were used to analyze the data.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Results: 887 singleton pregnancies tested positive to SARS-COV-2 at RT-PCR nasal and pharyngeal swab were included in the study. The risk of composite adverse maternal outcome was higher in high compared to low risk-pregnancies with an OR of 1.52 (95% CU 1.03-2.24; p= 0.035). Likewise, women carrying a high risk-pregnancies were also at higher risk of hospital admission (OR: 1.48, 95% CI 1.07-2.04; p= 0.002), presence of severe respiratory symptoms (OR: 2.13, 95% CI .41-3.21; p= 0.001), admission to ICU (OR: 2.63, 95% CI 1.42-4.88) and invasive mechanical ventilation (OR: 2.65, 95% CI 1.19-5.94; p= .002). When exploring perinatal outcomes, high-risk pregnancies were also at high risk of adverse perinatal outcome with an OR 0f 1.78 (95% CI .15-2.72; p= 0.009). However, such association was mainly due to the higher incidence of miscarriage in high risk compared to low risk pregnancies (5.3% vs 1.6%, p= 0.008), while there was no difference as regard as the other explored outcomes between the two study groups. At logistic regression analysis, maternal age (OR: 1.12, 95% CI 1.02-1.22, p= 0.023) and the presence of a high-risk pregnancies (OR: 4.21, 95% CI 3.90-5.11, p<0.001) were independently associated with adverse maternal outcome.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "High-risk pregnancies complicated by SARS-COV-2 infection are at higher risk of adverse maternal outcome compared to low-risk gestations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-COV-2) infection spread towards the end of 2019 and nowadays is still a major issue of Public Health, with new cases of infection, hospitalization, admission to Intensive Care Unit (ICU) and even deaths increasing on a daily basis worldwide. 1 From the beginning of pandemic, pregnancy has been claimed to be potentially associated with a higher burden of maternal mortality and morbidity compared to the general population. [3] [4] [5] [6] [7] [8] [9] The severity of SARS-COV-2 infection in the general population has been reported to be significantly influenced by the presence of different risk factors. Among these, age and comorbidities were found to be the strongest predictors of hospital admission, critical illness and mortality. 10 Despite the multitude of reports published on SARS-COV-2 infection during pregnancy, only few studies were designed to ascertain whether the presence of either pre-existing or pregnancy-related conditions (i.e. those usually considered as high risk pregnancies) might increase the risk of both maternal and fetal adverse outcome.",
+            "cite_spans": [
+                {
+                    "start": 296,
+                    "end": 297,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 479,
+                    "end": 482,
+                    "text": "[3]",
+                    "ref_id": null
+                },
+                {
+                    "start": 483,
+                    "end": 486,
+                    "text": "[4]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 487,
+                    "end": 490,
+                    "text": "[5]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 491,
+                    "end": 494,
+                    "text": "[6]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 495,
+                    "end": 498,
+                    "text": "[7]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 499,
+                    "end": 502,
+                    "text": "[8]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 503,
+                    "end": 506,
+                    "text": "[9]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 794,
+                    "end": 796,
+                    "text": "10",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Thus, the aim of this secondary analysis was to elucidate whether high risk pregnancies were at higher risk of adverse maternal and perinatal outcomes in a multinational cohort of pregnant women tested positive with SARS-COV-2 infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "This was a multinational, prospective cohort study involving all pregnant women with a laboratoryconfirmed SARS-COV-2 infection, diagnosed from 04 April 2020 till 28 October 2020. This study was designed as an open and web-based database study in 76 centers from 25 different countries (Argentina, Australia, Belgium, Brazil, Colombia, Czech Republic, Finland, Germany, Greece, Israel, Italy, North Macedonia, Peru, Portugal, Republic of Kosovo, Romania, Russia, Serbia, Slovenia, Spain, Turkey, and United States) by the WAPM Covid-19 Study Group. The study was endorsed by the World Association of Perinatal Medicine. The first phase of the study has already been published which comprises the data from 04 April 2020 till 01 June 2020. 4 After that, some additional information for the study was added into the database and reevaluated by the contributors accordingly for the new database as WAPM Covid-19 Study Phase-2. Only confirmed cases with PCR test are included in the evaluation. SARS-COV-2 was diagnosed on the basis of The World Health Organization (WHO) interim guidance. 11 A confirmed case of SARS-COV-2 was defined as a positive result on real-time reverse-transcriptasepolymerase-chain-reaction (RT-PCR) assay of nasal and pharyngeal swab specimens. [12] [13] Inclusion criteria were women tested positive for SARS-CoV-2 at RT-PCR assay of nasal and pharyngeal swab due to symptoms or exposure with infected individuals. Neonates from mother positive to SARS-COV-2 were usually tested within 24 hours after delivery with RT-PCR assay of nasal and pharyngeal swab.",
+            "cite_spans": [
+                {
+                    "start": 739,
+                    "end": 740,
+                    "text": "4",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1086,
+                    "end": 1088,
+                    "text": "11",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1268,
+                    "end": 1272,
+                    "text": "[12]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1273,
+                    "end": 1277,
+                    "text": "[13]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study design and participants"
+        },
+        {
+            "text": "Data on recent exposure history, clinical symptoms or signs, laboratory findings, maternal and perinatal outcomes were collected. All medical records were anonymized and sent to the coordinator center at University of Naples Federico II (Naples, Italy) through The World Association of Perinatal Medicine (WAPM) data platform or via an encrypted Research Electronic Data Capture (REDCap) data management platform. Data were entered into a computerized database and cross-checked. In case of missing data, requests for clarification were sent to the coordinator of each participating center.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study design and participants"
+        },
+        {
+            "text": "The primary outcome of the study was to compare the incidence of a composite measure of maternal mortality and morbidity including at least one of the following: admission to intensive care unit (ICU), use of mechanical ventilation (defined as intubation, need for continuous positive airway pressure, extra-corporeal membrane oxygenation), severe respiratory symptoms (including dyspnea and shortness of breath) or death in high vs low risk pregnancies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "Secondary outcomes were a composite score of adverse perinatal outcome, including miscarriage, intrauterine death, neonatal death, admission to neonatal intensive care unit and the individual components of both primary and secondary outcomes. Miscarriage was defined as pregnancy loss before 22 weeks of gestation, fetal loss at or after 22 weeks of gestation, while neonatal death as death of a live-born infant within the first 28 days of life. Perinatal death was defined as fetal loss and NND.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "Further details on criteria for maternal admission to ICU and neonatal admission to NICU are more extensively described elsewhere. 9 All these outcomes were assessed in high-risk compared to low-risk pregnancies. Pregnancies were considered as high risk in case of either pre-existing chronic medical conditions pre-existing pregnancy (pregestational diabetes, chronic hypertension or autoimmune disease) or obstetric disorders occurring in pregnancy (pre-eclampsia, gestational hypertension or gestational diabetes mellitus). Regarding the specific medical complications affecting or pre-existing pregnancy, chronic hypertension was defined as hypertension that precedes pregnancy or was present on at least two occasions before the 20th week of gestation. Pre-eclampsia was defined as the new onset of hypertension and proteinuria or the new onset of hypertension and significant end-organ dysfunction with or without proteinuria after 20 weeks of gestation or postpartum in a previously normotensive woman, while gestational hypertension as a blood pressure \u2265140/90 mmHg on two occasions (at least 4 hours apart) during pregnancy after 20 weeks' gestation in a previously normotensive patient, without the presence of proteinuria or other clinical features suggestive of preeclampsia. Finally, gestational diabetes was defined as any degree of glucose intolerance with onset or first recognition during pregnancy after a 75 gr or 100 gr of oral glucose tolerance test (OGTT9 according each country specific guideline.",
+            "cite_spans": [
+                {
+                    "start": 131,
+                    "end": 132,
+                    "text": "9",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "In order to elucidate the rate of vertical transmission, all newborn form the present cohort were tested at birth.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "Statistical analysis was performed using Statistical Package for Social Sciences (SPSS) v. 19 .0 (IBM Inc., Armonk, NY, USA) and using Stata, version 13.1 (Stata Corp., College Station, TX, 2014). Continuous variables were reported as means \u00b1 standard deviation (SD), while categorical as numbers (percentage).",
+            "cite_spans": [
+                {
+                    "start": 91,
+                    "end": 93,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "Univariate comparisons of dichotomous data were performed with the use of the chi-square test with continuity correction. Comparisons between groups were performed with the use of the T-test to test group means by assuming equal within-group variances for parametric data, and with the use of Wilcoxon and Mann-Whitney tests for nonparametric data. Multivariate analysis was performed to evaluate potential predictors of the primary outcome. Logistic regression was reported as adjusted odd ratio (aOR) with 95% confidence interval (CI). P value <0.05 was considered statistically significant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "During the study period, 887 women with singleton viable high-risk (122 with chronic pre-existing and 86 with medical complication occurring during gestation) pregnancies at the time of assessment, positive to SARS-COV-2 at RT-PCR nasal and pharyngeal swab, in 72 centers from 22 different countries were included in the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "General characteristics of the included women"
+        },
+        {
+            "text": "General characteristic of the study population is reported in Table 1 . Maternal age was high in high risk compared to low risk pregnancies (34.16\uf0b16.8 vs 31.39\uf0b15.5, p<0.001), while there was no difference in the mean gestational age at diagnosis of infection (p= 0.425), nulliparity (p= 0.313) and smoking status (p= 0.140) ( Table 1) . Regarding the obstetrics outcomes, women with high-risk pregnancies had a higher incidence of preterm delivery < 37 weeks of gestation compared to non-high-risk pregnancies (15.9% vs 9.0%, p= 0.007), while there was no difference between the two groups as regard the occurrence of preterm delivery < 34 weeks of gestation. Furthermore, high-risk pregnancies were more likely delivered by cesarean section compared to controls (30.3% vs 22.4%, p= 0.026). There were three cases of maternal deaths. The first maternal death occurred in a high-risk pregnancy with type II diabetes mellitus. She presented at 33 weeks of gestation with stillbirth. She was febrile and unconscious. Chest radiography showed pulmonary infiltrates and atelectasis with elevated left hemidiaphragm. The woman was admitted to ICU and intubated but died with acute kidney injury and cardiac arrest. The second and third death occurred in two non-high risk-pregnant women age 25 and 27 years old respectively presenting to the emergency department with severe respiratory symptoms requiring admission to ICU. Details of these three maternal deaths are reported in a previous study from our group. 4 The risk of composite adverse maternal outcome was higher in high compared to low risk-pregnancies with an OR of 1.52 (95% CU 1.03-2.24; p= 0.035) ( When exploring perinatal outcomes, high-risk pregnancies were also at high risk of adverse perinatal outcome with an aOR 0f 1.78 (95% CI .15-2.72; p= 0.009). However, such association was mainly due to the higher incidence of miscarriage in high risk compared to low-risk pregnancies (5.3% vs 1.6%, p= 0.008), while there was no difference in the occurrence of either fetal loss (p= 0.334), NND (p= 1.000), PND (p= 0.516) and admission to NICU (p= 0.772) between high-and low-risk pregnancies complicated by Covid-19",
+            "cite_spans": [
+                {
+                    "start": 1506,
+                    "end": 1507,
+                    "text": "4",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 62,
+                    "end": 69,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 326,
+                    "end": 334,
+                    "text": "Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "General characteristics of the included women"
+        },
+        {
+            "text": "infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "General characteristics of the included women"
+        },
+        {
+            "text": "At logistic regression analysis, maternal age (aOR: 1.12, 95% CI 1.02-1.22 per 10 year increase, p= 0.023) and the presence of a high risk pregnancies (aOR: 4.21, 95% CI 3.90-5.11, p<0.001) were independently associated with adverse maternal outcome, while maternal age (aOR: 1.33, 95% CI 1.19-1.47 per 10 year increase, p= 0.019) was the only factor associated with adverse perinatal outcome.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "General characteristics of the included women"
+        },
+        {
+            "text": "This secondary analysis of the WAPM study -a multinational cohort study including 388 pregnant women with confirmed SARS-COV-2 from 72 different centers -showed that in high risk pregnancies the rates composite adverse maternal outcome, severe respiratory symptoms and invasive ventilation are significantly higher, compared with low risk pregnancies. Conversely, no difference was found when assessing fetal outcomes in high compared with low risk pregnancies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Main findings"
+        },
+        {
+            "text": "Strength and limitation of this analysis are essentially those inherent in the primary analysis. 4 The enrollment of only of women with laboratory-confirmed SARS-COV-2, the large sample, the inclusion of both University Hospitals and Community Hospitals from different countries, and multitude of outcomes explored, represented the major strengths of the study. The major limitation was that the study population came mostly from women referred for suspected SARS-CoV-2 infection, due to symptoms or exposure, and consequently tested with RT-PCR nasal and pharyngeal swab, thus leading to an intuitively lower percentage of asymptomatic women in the study cohort. More importantly, inclusion of women mainly presenting with symptoms or being tested positive for close contact with infected people represents an inclusion bias and it may be entirely possible that the rate of adverse outcomes reported in women with high-risk pregnancy from the present series may represent an overestimation of the actual occurrence of these outcomes in the overall general population of pregnant women with SARS-CoV-2 infection. Another major limitation was represented by the fact that we could not stratified the analysis according to the specific pregnancy or pre-pregnancy comorbidity because the small number of cases per each sub-group category would have affected the robustness of the results. Furthermore, different income level of countries and healthcare systems, and the heterogeneity in the management of both the mother and the fetus might have independently affected perinatal outcomes. Finally, the contribution of each center in providing the data was not homogenous as well the definitions of the different pregnancy complications (i.e. gestational diabetes mellitus). In this scenario it may be entirely possible that the present population includes the most severe spectrum of SARS-CoV-2 infection in pregnancy.",
+            "cite_spans": [
+                {
+                    "start": 97,
+                    "end": 98,
+                    "text": "4",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Strengths and limitations"
+        },
+        {
+            "text": "Since the beginning of the pandemic outbreak, pregnancy has been extensively evaluated as a potential high risk condition, due to physiological changes that might predispose pregnant women to a more severe clinical course of COVID-19, compared with non-pregnant population. [4] [5] One of the largest systematic review recently published on this topic showed that pregnant and recently pregnant women affected by COVID-19 were significantly more likely to need admission to ICU and invasive ventilation, compared with non-pregnant women of reproductive age, and that increased maternal age, higher BMI, chronic hypertension and pre-existing diabetes were all significantly associated with a more severe course of COVID-19 in pregnancy. Moreover, pre-existing maternal comorbidities represented also a risk factor for admission to ICU and for invasive ventilation. 9 The presence of higher risk of adverse outcomes in patients affected by COVID-19 is a well-known issue also in general population and has been reported early in the beginning of the pandemic: cardiovascular diseases, diabetes mellitus, hypertension, obesity has been all shown to be strong predictors of mortality and severe morbidity in people with SARS-COV-2 infection, particularly with increasing age, [14] [15] [16] [17] although the strength of this association persists also when considering only young adults. 18 The findings from this study confirm what previously shown both in general population and pregnant women, as the presence of either pre-existing or obstetrical conditions was associated with a significantly higher risk of composite adverse maternal outcome, severe respiratory morbidity and need for invasive ventilation. Conversely, the association between SARS-COV-2 infection and high-risk pregnancy did not significantly influence perinatal outcomes.",
+            "cite_spans": [
+                {
+                    "start": 274,
+                    "end": 277,
+                    "text": "[4]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 278,
+                    "end": 281,
+                    "text": "[5]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 864,
+                    "end": 865,
+                    "text": "9",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1272,
+                    "end": 1276,
+                    "text": "[14]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1277,
+                    "end": 1281,
+                    "text": "[15]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1282,
+                    "end": 1286,
+                    "text": "[16]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1287,
+                    "end": 1291,
+                    "text": "[17]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1384,
+                    "end": 1386,
+                    "text": "18",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Implications for clinical practice and research"
+        },
+        {
+            "text": "High risk pregnancies, complicated by SARS-COV-2 infection are at higher risk of adverse outcome, mostly respiratory, compared to low-risk gestations. Accurate risk stratification of women presenting with suspected SASR-COV-2 infection in pregnancy is warranted in order to identify a sub-set of women who may benefit of a tailored management, in order to improve maternal outcome. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Another Decade, Another Coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "760--776",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Outcome of Coronavirus spectrum infections (SARS, MERS, COVID-19) during pregnancy: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "Di",
+                    "middle": [],
+                    "last": "Mascio",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Khalil",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saccone",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rizzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Buca",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Liberati",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vecchiet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nappi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Scambia",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Berghella",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "D&apos;",
+                    "middle": [],
+                    "last": "Antonio",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Am J Obstet Gynecol MFM",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ajogmf.2020.100107"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The World Association of Perinatal Medicine) working group on COVID-19. Maternal and Perinatal Outcomes of Pregnant Women with SARS-COV-2 infection",
+            "authors": [
+                {
+                    "first": "Di",
+                    "middle": [],
+                    "last": "Mascio",
+                    "suffix": ""
+                },
+                {
+                    "first": "D;",
+                    "middle": [],
+                    "last": "Wapm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Ultrasound Obstet Gynecol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/uog.23107"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Risk factors associated with adverse fetal outcomes in pregnancies affected by Coronavirus disease 2019 (COVID-19): a secondary analysis of the WAPM study on COVID-19",
+            "authors": [
+                {
+                    "first": "Di",
+                    "middle": [],
+                    "last": "Mascio",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Saccone",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Galindo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gr\u00fcnebaum",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yoshimatsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stanojevic",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kurjak",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chervenak",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Perinat Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Rates of maternal and perinatal mortality and vertical transmission in pregnancies complicated by severe acute respiratory syndrome coronavirus 2 (SARS-Co-V-2) infection: a systematic review",
+            "authors": [
+                {
+                    "first": "Bjf",
+                    "middle": [],
+                    "last": "Huntley",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Huntley",
+                    "suffix": ""
+                },
+                {
+                    "first": "Di",
+                    "middle": [],
+                    "last": "Mascio",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Berghella",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Chauhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Obstet Gynecol",
+            "volume": "136",
+            "issn": "",
+            "pages": "303--312",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/AOG.0000000000004010"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Maternal and neonatal characteristics and outcomes among COVID-19 infected women: an updated systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dubey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Reddy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Manuel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Dwivedi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur J Obstet Gynecol Reprod Biol",
+            "volume": "252",
+            "issn": "",
+            "pages": "490--501",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ejogrb.2020.07.034"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Effect of coronavirus disease 2019 (COVID-19) on maternal, perinatal and neonatal outcome: systematic review",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Juan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gil",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Rong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Ultrasound Obstet Gynecol",
+            "volume": "56",
+            "issn": "",
+            "pages": "15--27",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/uog.2208"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Clinical manifestations, risk factors, and maternal and perinatal outcomes of coronavirus disease 2019 in pregnancy: living systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Allotey",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Stallings",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bonet",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Petrilli",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "369",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.m1966"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Clinical management of severe acute respiratory infection when novel coronavirus (2019-nCoV) is suspected: interim guidance",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dsc",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "1708--1720",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jin",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Comorbidities associated with mortality in 31,461 adults with COVID-19 in the United States: A federated electronic medical record analysis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Harrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fazio-Eynullayeva",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lane",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Underhill",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gyh",
+                    "middle": [],
+                    "last": "Lip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "PLoS Med",
+            "volume": "17",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Petrilli",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "369",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 -United States",
+            "authors": [],
+            "year": 2020,
+            "venue": "CDC COVID-19 Response Team",
+            "volume": "69",
+            "issn": "",
+            "pages": "382--386",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Clinical Outcomes in Young US Adults Hospitalized With COVID-19",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Cunningham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vaduganathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Claggett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA Intern Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": ". Likewise, women carrying a high risk-pregnancies were also at higher risk of hospital admission (OR: 1.48, 95% CI 1.07-2.04; p= 0.002), presence of severe 88) and invasive mechanical ventilation (OR: 2.65, 95% CI 1.19-5.94; p= .002).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Comparison of different characteristics in high vs low risk pregnancies complicated by SARS-COV-2 infectionMaternal and pregnancy characteristicsData are presented as number (percentage) or as mean \u00b1 standard deviation (SD) CT, computerized tomography; LMWH, Low molecular weight heparin; LDH, lactate dehydrogenase; Boldface data, statistically significant Comparison of the different maternal and fetal outcomes in high vs low risk pregnancies complicated by SARS-COV-2 infection",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}
